@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-24",
+  "generated": "2026-07-25",
   "mode": "full",
-  "count": 41,
+  "count": 38,
   "companies": [
     {
       "name": "PermitFlow",
@@ -64,6 +64,21 @@
       "location": "Santa Monica, CA"
     },
     {
+      "name": "Paper",
+      "domain": "paper.design",
+      "desc": "The main product is a digital canvas that facilitates the integration of design tools, enabling seamless interaction between design and code through the import of code components. It employs web standards and AI support ",
+      "stage": "SERIES_A",
+      "last_amount": 34000000.0,
+      "total": 38200000.0,
+      "investors": [
+        "Designer Fund",
+        "OpenAI",
+        "basecase capital",
+        "ICONIQ"
+      ],
+      "location": "Palo Alto, CA, United States"
+    },
+    {
       "name": "GlossGenius",
       "domain": "glossgenius.com",
       "desc": "GlossGenius offers a management platform designed for appointment-based businesses, particularly in the salon and spa sector, which includes automated appointment scheduling, payment processing, and client management. Th",
@@ -124,21 +139,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Paper",
-      "domain": "paper.design",
-      "desc": "The main product is a digital canvas that facilitates the integration of design tools, enabling seamless interaction between design and code through the import of code components. It employs web standards and AI support ",
-      "stage": "SERIES_A",
-      "last_amount": 34000000.0,
-      "total": 38200000.0,
-      "investors": [
-        "Designer Fund",
-        "OpenAI",
-        "basecase capital",
-        "ICONIQ"
-      ],
-      "location": "Palo Alto, CA, United States"
-    },
-    {
       "name": "Pelico",
       "domain": "pelico.ai",
       "desc": "Pelico offers a manufacturing orchestration platform that utilizes AI-driven agents to manage production disruptions and recommend recovery strategies across complex multi-level BOMs and multi-plant networks. The platfor",
@@ -167,21 +167,6 @@
         "Mitsubishi UFJ Capital Co.,Ltd."
       ],
       "location": "San Francisco, California"
-    },
-    {
-      "name": "Inspectorio",
-      "domain": "inspectorio.com",
-      "desc": "The company offers a cloud-based supply chain management platform that utilizes AI and machine learning to enhance transparency, collaboration, and decision-making across various processes, including quality management, ",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 64819981.0,
-      "investors": [
-        "Insight Partners",
-        "Techstars",
-        "Target",
-        "Apax Digital"
-      ],
-      "location": "Minneapolis, Minnesota"
     },
     {
       "name": "Uniti AI",
@@ -229,21 +214,6 @@
       "location": "2108 North Street, Suite N, Sacramento, CA 95816, United States"
     },
     {
-      "name": "Runta",
-      "domain": "runta.com",
-      "desc": "Runta is the missing execution layer for agentic software. So agents can run systems, not just write code.",
-      "stage": "SEED",
-      "last_amount": 20000000.0,
-      "total": 20000000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Ram Shriram",
-        "Thomas Wolf",
-        "Jeff Dean"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
       "name": "PhnyX Lab",
       "domain": "cheiron.bio",
       "desc": "The primary offering is an AI-based solution tailored for the biopharma industry, which automates processes like literature reviews, document creation, and data analysis to enhance operational efficiency. It utilizes sop",
@@ -257,6 +227,21 @@
         "Illia Polosukhin"
       ],
       "location": "575 High Street, Suite 320, Palo Alto, CA 94301, United States"
+    },
+    {
+      "name": "Coverwatch",
+      "domain": "coverwatch.com",
+      "desc": "The company provides insurance brokerage services that leverage advanced technologies, including AI, to analyze risk profiles and optimize coverage for complex business risks. This technology enables the quick generation",
+      "stage": "PRE_SEED",
+      "last_amount": 4500000.0,
+      "total": 4500000.0,
+      "investors": [
+        "Kfund",
+        "CoFound",
+        "Restive Ventures",
+        "Liquid 2 Ventures"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "Jusfy",
@@ -274,21 +259,6 @@
       "location": "Brasil"
     },
     {
-      "name": "Innerlogic",
-      "domain": "innerlogic.com",
-      "desc": "The main product is an AI-driven platform that centralizes employee feedback and survey data, utilizing advanced algorithms and predictive models to generate actionable insights for improving engagement and organizationa",
-      "stage": "SEED",
-      "last_amount": 11500000.0,
-      "total": 12569286.0,
-      "investors": [
-        "PTX Capital",
-        "Bison Ventures",
-        "Techstars",
-        "Tidal Venture Partners"
-      ],
-      "location": "Halifax, Nova Scotia"
-    },
-    {
       "name": "Cashboard (YC S22)",
       "domain": "cashboard.finance",
       "desc": "Cashboard is an analytics platform that automates financial planning and analysis by integrating data from over 400 sources, allowing for the creation of real-time reports and customizable dashboards. It utilizes AI for ",
@@ -304,19 +274,34 @@
       "location": "New York, New York"
     },
     {
-      "name": "SiftMed",
-      "domain": "siftmed.ca",
-      "desc": "SiftMed offers an AI-powered software solution designed to automate the organization, categorization, and analysis of medical records, significantly improving the medical file review process. The platform employs natural",
+      "name": "Innerlogic",
+      "domain": "innerlogic.com",
+      "desc": "The main product is an AI-driven platform that centralizes employee feedback and survey data, utilizing advanced algorithms and predictive models to generate actionable insights for improving engagement and organizationa",
       "stage": "SEED",
-      "last_amount": 0,
-      "total": 5649627.0,
+      "last_amount": 11500000.0,
+      "total": 12569286.0,
       "investors": [
-        "Staircase Ventures",
-        "East Valley Ventures",
-        "Pelorus VC",
-        "Government of Newfoundland and Labrador"
+        "PTX Capital",
+        "Bison Ventures",
+        "Techstars",
+        "Tidal Venture Partners"
       ],
-      "location": "St John’s, Newfoundland and Labrador"
+      "location": "Halifax, Nova Scotia"
+    },
+    {
+      "name": "Scape",
+      "domain": "scape.app",
+      "desc": "The product is an AI-native CRM that automates the capture and organization of customer interactions, including emails and meeting notes, to improve task management and information accessibility. It utilizes technologies",
+      "stage": "SEED",
+      "last_amount": 3200000.0,
+      "total": 3700000.0,
+      "investors": [
+        "Y Combinator",
+        "FundersClub",
+        "General Catalyst",
+        "Pioneer Fund"
+      ],
+      "location": "San Francisco, CA, United States"
     },
     {
       "name": "CRMNEXT",
@@ -362,36 +347,6 @@
       "location": "San Francisco, California, US"
     },
     {
-      "name": "Coverwatch",
-      "domain": "coverwatch.com",
-      "desc": "The company provides insurance brokerage services that leverage advanced technologies, including AI, to analyze risk profiles and optimize coverage for complex business risks. This technology enables the quick generation",
-      "stage": "PRE_SEED",
-      "last_amount": 4500000.0,
-      "total": 4500000.0,
-      "investors": [
-        "Kfund",
-        "CoFound",
-        "Restive Ventures",
-        "Liquid 2 Ventures"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "RevComm Inc.",
-      "domain": "revcomm.com",
-      "desc": "RevComm offers a cloud-based IP phone system that utilizes AI and deep learning technologies to analyze and improve customer interactions, enhancing communication clarity. Additionally, the company provides online meetin",
-      "stage": "SERIES_B",
-      "last_amount": 20700000.0,
-      "total": 46261670.0,
-      "investors": [
-        "Plug and Play",
-        "DNX Ventures - US",
-        "Mitsubishi UFJ Capital Co.,Ltd.",
-        "Google for Startups"
-      ],
-      "location": "Chiyoda-ku, Tokyo"
-    },
-    {
       "name": "Talentware",
       "domain": "talentware.ai",
       "desc": "Talentware offers an AI-native talent management platform that consolidates data from various HR systems to create a dynamic skill map, facilitating real-time skill mapping and personalized career planning. This technolo",
@@ -405,6 +360,21 @@
         "CDP Venture Capital SGR"
       ],
       "location": "Milan"
+    },
+    {
+      "name": "Arrakis",
+      "domain": "arrakis.ai",
+      "desc": "Arrakis offers a web application powered by AI to automate prospecting research, creating custom sales databases, and tailoring outreach strategies across various industries, leveraging advanced technologies to search, f",
+      "stage": "SERIES_A",
+      "last_amount": 30000000.0,
+      "total": 30000000.0,
+      "investors": [
+        "CoFound",
+        "Blossom Capital",
+        "Accel",
+        "Olivier Pomel"
+      ],
+      "location": "San Francisco"
     },
     {
       "name": "FactorLab, Inc.",
@@ -465,6 +435,36 @@
       "location": "Newcastle Upon Tyne"
     },
     {
+      "name": "Pagemind.ai",
+      "domain": "pagemind.ai",
+      "desc": "PageMind.ai makes websites conversational with AI. Our platform helps visitors find what they need, discover more, and feel understood — without heavy technical work or big budgets. With PageMind, businesses can instantl",
+      "stage": "PRE_SEED",
+      "last_amount": 1365250.0,
+      "total": 1365250.0,
+      "investors": [
+        "4Founders Capital",
+        "Javier Perez-Tenessa",
+        "David Martín",
+        "David Martin"
+      ],
+      "location": "Barcelona, Catalonia, Spain"
+    },
+    {
+      "name": "Zazu",
+      "domain": "get-zazu.com",
+      "desc": "Zazu offers a comprehensive banking solution designed for African entrepreneurs and small to medium-sized enterprises, featuring an all-in-one business account that includes payment cards, real-time transfers, invoicing,",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 1000000.0,
+      "investors": [
+        "Plug and Play",
+        "Launch Africa Ventures",
+        "Fiat Republic",
+        "Axel Peyriere"
+      ],
+      "location": "Innovation City Cape Town, ZA"
+    },
+    {
       "name": "Kaleidos",
       "domain": "kaleidos.net",
       "desc": "Kaleidos develops an open-source design platform that enables collaboration between design and development teams, facilitating scalable workflows. The technologies employed focus on open-source methodologies to improve p",
@@ -478,36 +478,6 @@
         "Dave Crossland"
       ],
       "location": "Madrid, Community of Madrid"
-    },
-    {
-      "name": "Zazu",
-      "domain": "get-zazu.com",
-      "desc": "Zazu offers a comprehensive banking solution designed for African entrepreneurs and small to medium-sized enterprises, featuring an all-in-one business account that includes payment cards, real-time transfers, invoicing,",
-      "stage": "PRE_SEED",
-      "last_amount": 0,
-      "total": 1000000.0,
-      "investors": [
-        "Plug and Play",
-        "Launch Africa Ventures",
-        "Fiat Republic",
-        "Axel Peyriere"
-      ],
-      "location": "Innovation City Cape Town, ZA"
-    },
-    {
-      "name": "logcat.ai",
-      "domain": "logcat.ai",
-      "desc": "AI-powered analysis of logcat, dmesg, and bugreports for deep Android OS and Linux kernel observability.",
-      "stage": "PRE_SEED",
-      "last_amount": 2550000.0,
-      "total": 2550000.0,
-      "investors": [
-        "Founders Co-op",
-        "Alumni Ventures",
-        "Act One Ventures",
-        "Shorewind Capital"
-      ],
-      "location": "Seattle"
     },
     {
       "name": "瑞莱智慧 RealAI",
@@ -535,20 +505,6 @@
         "Launch Africa Ventures"
       ],
       "location": "San Francisco, California"
-    },
-    {
-      "name": "Pagemind.ai",
-      "domain": "pagemind.ai",
-      "desc": "PageMind.ai makes websites conversational with AI. Our platform helps visitors find what they need, discover more, and feel understood — without heavy technical work or big budgets. With PageMind, businesses can instantl",
-      "stage": "PRE_SEED",
-      "last_amount": 1364349.0,
-      "total": 1364349.0,
-      "investors": [
-        "4Founders Capital",
-        "Javier Perez-Tenessa",
-        "David Martin"
-      ],
-      "location": "Barcelona, Catalonia, Spain"
     },
     {
       "name": "Masunga (formerly Solaris Offgrid)",

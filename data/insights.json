@@ -1,24 +1,42 @@
 {
-  "generated": "2026-07-24",
+  "generated": "2026-07-25",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 77,
-    "total_cap_m": 13931,
-    "early_cap_m": 2553,
+    "early_raises": 78,
+    "total_cap_m": 14026,
+    "early_cap_m": 2566,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 30,
-      "Series A": 44,
-      "Series B": 26,
+      "Series A": 45,
+      "Series B": 25,
       "Series C": 9,
       "Series D": 5,
-      "Venture": 75
+      "Venture": 77
     }
   },
   "raises": [
+    {
+      "company": "Arrakis",
+      "amount_m": 30,
+      "date": "2026-07-25",
+      "link": "https://arrakis.ai",
+      "investors": [],
+      "theme": "Sales & GTM AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Scape",
+      "amount_m": 3,
+      "date": "2026-07-25",
+      "link": "https://scape.app",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
     {
       "company": "GlossGenius",
       "amount_m": 44,
@@ -143,7 +161,7 @@
       "link": "https://get-zazu.com",
       "investors": [],
       "theme": "Fintech & payments",
-      "stage": "Pre Seed"
+      "stage": "Seed"
     },
     {
       "company": "Candid Health",
@@ -227,15 +245,6 @@
       "stage": "Series B"
     },
     {
-      "company": "Runta",
-      "amount_m": 20,
-      "date": "2026-07-22",
-      "link": "https://runta.com",
-      "investors": [],
-      "theme": "Agent-native infra",
-      "stage": "Seed"
-    },
-    {
       "company": "mydecisive.ai",
       "amount_m": 12,
       "date": "2026-07-22",
@@ -261,15 +270,6 @@
       "investors": [],
       "theme": "Vertical SaaS",
       "stage": "Seed"
-    },
-    {
-      "company": "logcat.ai",
-      "amount_m": 3,
-      "date": "2026-07-22",
-      "link": "https://logcat.ai",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Pre Seed"
     },
     {
       "company": "Kaleidos",
@@ -306,24 +306,6 @@
       "investors": [],
       "theme": "Applied AI agents",
       "stage": "Series A"
-    },
-    {
-      "company": "Inspectorio",
-      "amount_m": null,
-      "date": "2026-07-22",
-      "link": "https://inspectorio.com",
-      "investors": [],
-      "theme": "Logistics & supply chain",
-      "stage": "Series B"
-    },
-    {
-      "company": "SiftMed",
-      "amount_m": null,
-      "date": "2026-07-22",
-      "link": "https://siftmed.ca",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Seed"
     },
     {
       "company": "瑞莱智慧 RealAI",
@@ -2220,19 +2202,42 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
+    },
+    {
+      "company": "Reactor",
+      "amount_m": 59,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0d2YThTc0tmTE1rYmJadmFNamZKaGNaQzZUQkJCbmhjU2NBRTdnYWRCNTU3TW92UDJpdnlqTWtxajlpR2ljR3RJUkR1NVFCN0s4U1gwMnFlZ1Zlc3hpRHZiZVJ6Wm45LXVrNmJ4OTFEelpOVnBERXFqRVVFcEVpdHZOUm9CSTZ3bVB3Mk9tNHB3VzB3VGJsbGtvYkJPV0pSc3lXQl93?oc=5",
+      "investors": [
+        "Jeffrey Katzenberg",
+        "Lightspeed"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Venture"
+    },
+    {
+      "company": "Countable Labs",
+      "amount_m": 26,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObzdMbFNNdWpjbWFCc1FfeHFlYTBvOGE5dFVXSFpfSWJzZER5TGxIcFRxQm5CdTNscGhJcl9RektMZFFJM2pxOGV0bHZDOUxDV3RlVHlrZ21tbm1UTk5CbjBxa05VRWM5SmI3YVBYa0h0VnBlek96U2dPa3ZwaXhwVWVCTzJOMHpTZUZsQ3dXYjdyLUtjVW9iRTY5d0poVk9IOVhtVHhpRVd4Wld6eVhKOXZwVjdhZ1ZQUWRyM01GZkxyc2ktckJ3VGxidExMMkxRb05YR3lQYllncnhrYzZuUXZ3TWRNV1RWdDFmanZ0blA1WGszakIya1M3TVdFbVlpeDFOTXBORzl6ajlHb0E?oc=5",
+      "investors": [
+        "ARCH Venture Partners"
+      ],
+      "theme": "Healthcare & bio AI",
+      "stage": "Venture"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 111,
+      "count": 113,
       "examples": [
+        "Scape",
         "GlossGenius",
         "CRMNEXT",
         "Paper",
         "LemonSlice",
-        "PhnyX Lab",
-        "Pagemind.ai"
+        "PhnyX Lab"
       ]
     },
     {
@@ -2241,10 +2246,10 @@
       "examples": [
         "Assured",
         "Candid Health",
-        "SiftMed",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ]
     },
     {
@@ -2331,16 +2336,6 @@
       ]
     },
     {
-      "theme": "Data infrastructure",
-      "count": 4,
-      "examples": [
-        "Cashboard (YC S22)",
-        "PolyBox.app",
-        "mydecisive.ai",
-        "logcat.ai"
-      ]
-    },
-    {
       "theme": "Legal AI",
       "count": 4,
       "examples": [
@@ -2351,12 +2346,20 @@
       ]
     },
     {
-      "theme": "Agent-native infra",
+      "theme": "Data infrastructure",
       "count": 3,
       "examples": [
-        "Runta",
-        "Straiker",
-        "Trase"
+        "Cashboard (YC S22)",
+        "PolyBox.app",
+        "mydecisive.ai"
+      ]
+    },
+    {
+      "theme": "Sales & GTM AI",
+      "count": 2,
+      "examples": [
+        "Arrakis",
+        "Greenhouse OS"
       ]
     },
     {
@@ -2384,56 +2387,50 @@
       ]
     },
     {
+      "theme": "Agent-native infra",
+      "count": 2,
+      "examples": [
+        "Straiker",
+        "Trase"
+      ]
+    },
+    {
       "theme": "Defense & national security",
       "count": 2,
       "examples": [
         "STARK",
         "Picogrid"
       ]
-    },
-    {
-      "theme": "Sales & GTM AI",
-      "count": 1,
-      "examples": [
-        "Greenhouse OS"
-      ]
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 1,
-      "examples": [
-        "Inspectorio"
-      ]
     }
   ],
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 111,
-      "cap_m": 8200,
+      "count": 113,
+      "cap_m": 8262,
       "examples": [
+        "Scape",
         "GlossGenius",
         "CRMNEXT",
         "Paper",
         "LemonSlice",
-        "PhnyX Lab",
-        "Pagemind.ai"
+        "PhnyX Lab"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
       "count": 18,
-      "cap_m": 1235,
+      "cap_m": 1261,
       "examples": [
         "Assured",
         "Candid Health",
-        "SiftMed",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Venture"
     },
     {
       "theme": "Energy & climate",
@@ -2489,7 +2486,7 @@
         "Crypto trading app Fomo",
         "SyntheticFi"
       ],
-      "top_stage": "Pre Seed"
+      "top_stage": "Venture"
     },
     {
       "theme": "Vertical SaaS",
@@ -2533,18 +2530,6 @@
       "top_stage": "Series B"
     },
     {
-      "theme": "Data infrastructure",
-      "count": 4,
-      "cap_m": 20,
-      "examples": [
-        "Cashboard (YC S22)",
-        "PolyBox.app",
-        "mydecisive.ai",
-        "logcat.ai"
-      ],
-      "top_stage": "Seed"
-    },
-    {
       "theme": "Legal AI",
       "count": 4,
       "cap_m": 172,
@@ -2557,15 +2542,25 @@
       "top_stage": "Series A"
     },
     {
-      "theme": "Agent-native infra",
+      "theme": "Data infrastructure",
       "count": 3,
-      "cap_m": 191,
+      "cap_m": 17,
       "examples": [
-        "Runta",
-        "Straiker",
-        "Trase"
+        "Cashboard (YC S22)",
+        "PolyBox.app",
+        "mydecisive.ai"
       ],
       "top_stage": "Seed"
+    },
+    {
+      "theme": "Sales & GTM AI",
+      "count": 2,
+      "cap_m": 31,
+      "examples": [
+        "Arrakis",
+        "Greenhouse OS"
+      ],
+      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3537,13 +3532,8 @@
     "tw": [
       {
         "name": "Applied / horizontal AI",
-        "delta": 3,
-        "now": 111
-      },
-      {
-        "name": "Data infrastructure",
-        "delta": 3,
-        "now": 4
+        "delta": 5,
+        "now": 113
       },
       {
         "name": "Legal AI",
@@ -3554,6 +3544,11 @@
         "name": "Physical AI & robotics",
         "delta": 2,
         "now": 8
+      },
+      {
+        "name": "Data infrastructure",
+        "delta": 2,
+        "now": 3
       },
       {
         "name": "Healthcare & bio AI",
@@ -3586,11 +3581,6 @@
         "now": 10
       },
       {
-        "name": "Agent-native infra",
-        "delta": 0,
-        "now": 3
-      },
-      {
         "name": "HR & workforce",
         "delta": 0,
         "now": 2
@@ -3601,7 +3591,17 @@
         "now": 6
       },
       {
+        "name": "Sales & GTM AI",
+        "delta": -1,
+        "now": 2
+      },
+      {
         "name": "AI compute & models",
+        "delta": -1,
+        "now": 2
+      },
+      {
+        "name": "Agent-native infra",
         "delta": -1,
         "now": 2
       },
@@ -3611,19 +3611,9 @@
         "now": 9
       },
       {
-        "name": "Sales & GTM AI",
-        "delta": -2,
-        "now": 1
-      },
-      {
         "name": "Applied AI agents",
         "delta": -3,
         "now": 6
-      },
-      {
-        "name": "Logistics & supply chain",
-        "delta": -3,
-        "now": 1
       }
     ]
   }

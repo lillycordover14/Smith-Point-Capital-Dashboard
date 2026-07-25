@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24",
+  "generated": "2026-07-25",
   "window_days": 45,
   "counts": {
-    "actionable": 11,
-    "watchlist": 26,
+    "actionable": 9,
+    "watchlist": 21,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -35,23 +35,6 @@
       "date": "2026-07-22",
       "link": "https://permitflow.com",
       "domain": "permitflow.com",
-      "tier": "actionable",
-      "fit_reason": "Series B — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Inspectorio",
-      "desc": "Logistics & supply chain",
-      "theme": "Precision Applications",
-      "vertical": "Supply Chain",
-      "stage": "Series B",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://inspectorio.com",
-      "domain": "inspectorio.com",
       "tier": "actionable",
       "fit_reason": "Series B — growth-stage sweet spot",
       "source": "funds",
@@ -215,30 +198,6 @@
         }
       ],
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
-    },
-    {
-      "company": "Sandstone",
-      "desc": "Legal AI",
-      "theme": "Precision Applications",
-      "vertical": "Legal",
-      "stage": "Series A",
-      "amount_m": 30,
-      "investors": [
-        "Lightspeed"
-      ],
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlBqSnJIR1ZZeWZ5VWQwMnc5bUQyVnpGb2o1UmxPQkJvUEJHelUtWDVRYUl2MHZhSWVieTdaNE9BRmdKaUczS09jeWJrWjF3cE1fR3gtTVdJeUpvYS1Wc1o1MjZUWkdFcFZqNUQwd2ttLW5JSVZiRXQ4WUEyV05mdG51SHpiQ2FSdlI0VTFlNDBlTVp6MGc?oc=5",
-      "domain": "sandstone.com",
-      "tier": "actionable",
-      "fit_reason": "Series A ($30M) — sizable A, likely at/near the ARR floor",
-      "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Lightspeed — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
     }
   ],
   "watchlist": [
@@ -379,23 +338,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "logcat.ai",
-      "desc": "Data infrastructure",
-      "theme": "Data Management",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 3,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://logcat.ai",
-      "domain": "logcatai.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "Fazeshift",
       "desc": "Applied AI agents",
       "theme": "Applied AI",
@@ -408,23 +350,6 @@
       "domain": "fazeshift.com",
       "tier": "watchlist",
       "fit_reason": "Series A — track for the next round",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "SiftMed",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Seed",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://siftmed.ca",
-      "domain": "sift.co",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -443,57 +368,6 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "NYC Startup",
-      "desc": "NYC Startup Raise $8 . 88B in Q2 2026 – Best Capital Quarter Since 2021 – as AI and Fintech Megadeals Reshape the Market",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://www.alleywatch.com/2026/07/nyc-startup-funding-q2-2026-best-capital-quarter-since-2021/",
-      "domain": "nycstartupday.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Bunkerhill",
-      "desc": "Bunkerhill raises $55M for hospital - built clinical AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": 55,
-      "investors": [],
-      "date": "2026-07-17",
-      "link": "https://thenextweb.com/news/bunkerhill-health-agentic-ai-carebricks-series-b",
-      "domain": "bhcc.edu",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Bunkerhill Health",
-      "desc": "Bunkerhill Health raises $55M for healthcare AI agents",
-      "theme": "Applied AI",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 55,
-      "investors": [],
-      "date": "2026-07-16",
-      "link": "https://thenextweb.com/news/bunkerhill-health-55m-healthcare-ai-agents",
-      "domain": "bunkerhillhealth.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
