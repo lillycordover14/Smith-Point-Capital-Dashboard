@@ -1,24 +1,42 @@
 {
-  "generated": "2026-07-25",
+  "generated": "2026-07-26",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 78,
-    "total_cap_m": 14026,
+    "early_raises": 79,
+    "total_cap_m": 13956,
     "early_cap_m": 2566,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 30,
-      "Series A": 45,
+      "Series A": 46,
       "Series B": 25,
-      "Series C": 9,
+      "Series C": 10,
       "Series D": 5,
-      "Venture": 77
+      "Venture": 75
     }
   },
   "raises": [
+    {
+      "company": "Supreium Technology",
+      "amount_m": 15,
+      "date": "2026-07-26",
+      "link": "https://supreium.com",
+      "investors": [],
+      "theme": "AI compute & models",
+      "stage": "Series B"
+    },
+    {
+      "company": "Tripo AI",
+      "amount_m": null,
+      "date": "2026-07-26",
+      "link": "https://tripo3d.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
     {
       "company": "Arrakis",
       "amount_m": 30,
@@ -53,7 +71,7 @@
       "link": "https://crmnext.us",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Series B"
+      "stage": "Series C"
     },
     {
       "company": "Paper",
@@ -2202,29 +2220,6 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Reactor",
-      "amount_m": 59,
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0d2YThTc0tmTE1rYmJadmFNamZKaGNaQzZUQkJCbmhjU2NBRTdnYWRCNTU3TW92UDJpdnlqTWtxajlpR2ljR3RJUkR1NVFCN0s4U1gwMnFlZ1Zlc3hpRHZiZVJ6Wm45LXVrNmJ4OTFEelpOVnBERXFqRVVFcEVpdHZOUm9CSTZ3bVB3Mk9tNHB3VzB3VGJsbGtvYkJPV0pSc3lXQl93?oc=5",
-      "investors": [
-        "Jeffrey Katzenberg",
-        "Lightspeed"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "Countable Labs",
-      "amount_m": 26,
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObzdMbFNNdWpjbWFCc1FfeHFlYTBvOGE5dFVXSFpfSWJzZER5TGxIcFRxQm5CdTNscGhJcl9RektMZFFJM2pxOGV0bHZDOUxDV3RlVHlrZ21tbm1UTk5CbjBxa05VRWM5SmI3YVBYa0h0VnBlek96U2dPa3ZwaXhwVWVCTzJOMHpTZUZsQ3dXYjdyLUtjVW9iRTY5d0poVk9IOVhtVHhpRVd4Wld6eVhKOXZwVjdhZ1ZQUWRyM01GZkxyc2ktckJ3VGxidExMMkxRb05YR3lQYllncnhrYzZuUXZ3TWRNV1RWdDFmanZ0blA1WGszakIya1M3TVdFbVlpeDFOTXBORzl6ajlHb0E?oc=5",
-      "investors": [
-        "ARCH Venture Partners"
-      ],
-      "theme": "Healthcare & bio AI",
-      "stage": "Venture"
     }
   ],
   "themes": [
@@ -2232,17 +2227,17 @@
       "theme": "Applied / horizontal AI",
       "count": 113,
       "examples": [
+        "Tripo AI",
         "Scape",
         "GlossGenius",
         "CRMNEXT",
         "Paper",
-        "LemonSlice",
-        "PhnyX Lab"
+        "LemonSlice"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 18,
+      "count": 17,
       "examples": [
         "Assured",
         "Candid Health",
@@ -2346,6 +2341,15 @@
       ]
     },
     {
+      "theme": "AI compute & models",
+      "count": 3,
+      "examples": [
+        "Supreium Technology",
+        "Oratomic",
+        "Prime Intellect"
+      ]
+    },
+    {
       "theme": "Data infrastructure",
       "count": 3,
       "examples": [
@@ -2379,14 +2383,6 @@
       ]
     },
     {
-      "theme": "AI compute & models",
-      "count": 2,
-      "examples": [
-        "Oratomic",
-        "Prime Intellect"
-      ]
-    },
-    {
       "theme": "Agent-native infra",
       "count": 2,
       "examples": [
@@ -2407,21 +2403,21 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 113,
-      "cap_m": 8262,
+      "cap_m": 8203,
       "examples": [
+        "Tripo AI",
         "Scape",
         "GlossGenius",
         "CRMNEXT",
         "Paper",
-        "LemonSlice",
-        "PhnyX Lab"
+        "LemonSlice"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 18,
-      "cap_m": 1261,
+      "count": 17,
+      "cap_m": 1235,
       "examples": [
         "Assured",
         "Candid Health",
@@ -2430,7 +2426,7 @@
         "Healome Therapeutics",
         "Hera"
       ],
-      "top_stage": "Venture"
+      "top_stage": "Series A"
     },
     {
       "theme": "Energy & climate",
@@ -2542,6 +2538,17 @@
       "top_stage": "Series A"
     },
     {
+      "theme": "AI compute & models",
+      "count": 3,
+      "cap_m": 445,
+      "examples": [
+        "Supreium Technology",
+        "Oratomic",
+        "Prime Intellect"
+      ],
+      "top_stage": "Series A"
+    },
+    {
       "theme": "Data infrastructure",
       "count": 3,
       "cap_m": 17,
@@ -2551,16 +2558,6 @@
         "mydecisive.ai"
       ],
       "top_stage": "Seed"
-    },
-    {
-      "theme": "Sales & GTM AI",
-      "count": 2,
-      "cap_m": 31,
-      "examples": [
-        "Arrakis",
-        "Greenhouse OS"
-      ],
-      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3551,11 +3548,6 @@
         "now": 3
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 1,
-        "now": 18
-      },
-      {
         "name": "Vertical SaaS",
         "delta": 1,
         "now": 6
@@ -3576,9 +3568,19 @@
         "now": 2
       },
       {
+        "name": "Healthcare & bio AI",
+        "delta": 0,
+        "now": 17
+      },
+      {
         "name": "Energy & climate",
         "delta": 0,
         "now": 10
+      },
+      {
+        "name": "AI compute & models",
+        "delta": 0,
+        "now": 3
       },
       {
         "name": "HR & workforce",
@@ -3592,11 +3594,6 @@
       },
       {
         "name": "Sales & GTM AI",
-        "delta": -1,
-        "now": 2
-      },
-      {
-        "name": "AI compute & models",
         "delta": -1,
         "now": 2
       },

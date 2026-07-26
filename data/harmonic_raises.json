@@ -1,8 +1,23 @@
 {
-  "generated": "2026-07-25",
+  "generated": "2026-07-26",
   "mode": "full",
-  "count": 38,
+  "count": 41,
   "companies": [
+    {
+      "name": "Trunk Tools",
+      "domain": "trunktools.com",
+      "desc": "Trunk Tools offers an AI-driven platform designed for construction project management, which converts unstructured construction data into actionable insights through intelligent agents, thereby improving efficiency and s",
+      "stage": "SERIES_B",
+      "last_amount": 40000000.0,
+      "total": 109900000.0,
+      "investors": [
+        "Insight Partners",
+        "STO Building Group",
+        "Alumni Ventures",
+        "Foundation Capital"
+      ],
+      "location": "New York, New York 10011, US"
+    },
     {
       "name": "PermitFlow",
       "domain": "permitflow.com",
@@ -17,21 +32,6 @@
         "Felicis"
       ],
       "location": "New York, New York"
-    },
-    {
-      "name": "Trunk Tools",
-      "domain": "trunktools.com",
-      "desc": "Trunk Tools provides an AI-driven platform for construction project management that transforms unstructured construction data into actionable insights through intelligent agents, enhancing efficiency and safety on job si",
-      "stage": "SERIES_B",
-      "last_amount": 40000000.0,
-      "total": 109900000.0,
-      "investors": [
-        "Insight Partners",
-        "STO Building Group",
-        "Alumni Ventures",
-        "Foundation Capital"
-      ],
-      "location": "New York, New York 10011, US"
     },
     {
       "name": "Candid Health",
@@ -81,7 +81,7 @@
     {
       "name": "GlossGenius",
       "domain": "glossgenius.com",
-      "desc": "GlossGenius offers a management platform designed for appointment-based businesses, particularly in the salon and spa sector, which includes automated appointment scheduling, payment processing, and client management. Th",
+      "desc": "GlossGenius provides a management platform tailored for appointment-based businesses, particularly in the salon and spa industry, featuring automated appointment scheduling, payment processing, and client management. The",
       "stage": "SERIES_D",
       "last_amount": 44000000.0,
       "total": 116340000.0,
@@ -244,6 +244,21 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Tripo AI",
+      "domain": "tripo3d.ai",
+      "desc": "The main product is an AI-powered platform that generates high-quality 3D models from text, images, or sketches, featuring automatic rigging and intelligent segmentation for improved model organization. It employs advanc",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 200000000.0,
+      "investors": [
+        "Hengxu Capital",
+        "Geely Capital",
+        "Baidu Venture",
+        "INCE Capital"
+      ],
+      "location": "San Francisco"
+    },
+    {
       "name": "Jusfy",
       "domain": "jusfy.com.br",
       "desc": "The main product is a comprehensive legal platform that integrates automated financial calculation tools, document management, and access to extensive legal databases to enhance the efficiency of legal professionals. It ",
@@ -307,7 +322,7 @@
       "name": "CRMNEXT",
       "domain": "crmnext.us",
       "desc": "The main product is a customer relationship management system specifically designed for banks and credit unions, which focuses on data orchestration and seamless integration with existing systems. It utilizes AI and mach",
-      "stage": "SERIES_B",
+      "stage": "SERIES_C",
       "last_amount": 40000000.0,
       "total": 103003500.0,
       "investors": [
@@ -336,7 +351,7 @@
     {
       "name": "mydecisive.ai",
       "domain": "mydecisive.ai",
-      "desc": "The main product is an autonomous telemetry hub that enables real-time observability and management of telemetry data through intelligent log streaming, stateful alerting, and automated trace sampling. It utilizes machin",
+      "desc": "The main product is an autonomous telemetry hub that facilitates real-time observability and management of telemetry data through intelligent log streaming, stateful alerting, and automated trace sampling. It employs mac",
       "stage": "SEED",
       "last_amount": 12000000.0,
       "total": 12000000.0,
@@ -347,19 +362,19 @@
       "location": "San Francisco, California, US"
     },
     {
-      "name": "Talentware",
-      "domain": "talentware.ai",
-      "desc": "Talentware offers an AI-native talent management platform that consolidates data from various HR systems to create a dynamic skill map, facilitating real-time skill mapping and personalized career planning. This technolo",
-      "stage": "SEED",
-      "last_amount": 3762656.0,
-      "total": 6506063.0,
+      "name": "RevComm Inc.",
+      "domain": "revcomm.com",
+      "desc": "RevComm offers a cloud-based IP phone system that utilizes AI and deep learning technologies to analyze and improve customer interactions, enhancing communication clarity. Additionally, the company provides online meetin",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 46170870.0,
       "investors": [
-        "Cenciarini & Co.",
-        "360 Capital",
-        "035 Investimenti",
-        "CDP Venture Capital SGR"
+        "Plug and Play",
+        "DNX Ventures - US",
+        "Mitsubishi UFJ Capital Co.,Ltd.",
+        "Google for Startups"
       ],
-      "location": "Milan"
+      "location": "Chiyoda-ku, Tokyo"
     },
     {
       "name": "Arrakis",
@@ -375,6 +390,21 @@
         "Olivier Pomel"
       ],
       "location": "San Francisco"
+    },
+    {
+      "name": "Talentware",
+      "domain": "talentware.ai",
+      "desc": "Talentware offers an AI-native talent management platform that consolidates data from various HR systems to create a dynamic skill map, facilitating real-time skill mapping and personalized career planning. This technolo",
+      "stage": "SEED",
+      "last_amount": 3762656.0,
+      "total": 6506063.0,
+      "investors": [
+        "Cenciarini & Co.",
+        "360 Capital",
+        "035 Investimenti",
+        "CDP Venture Capital SGR"
+      ],
+      "location": "Milan"
     },
     {
       "name": "FactorLab, Inc.",
@@ -520,6 +550,21 @@
         "YES!Delft"
       ],
       "location": "London"
+    },
+    {
+      "name": "Supreium Technology",
+      "domain": "supreium.com",
+      "desc": "The main product is a Computer-Aided Engineering (CAE) platform that utilizes advanced algorithms to tackle challenges related to force, heat, light, sound, and electromagnetic fields, enhancing industrial design and man",
+      "stage": "SERIES_B",
+      "last_amount": 14700000.0,
+      "total": 29656178.0,
+      "investors": [
+        "方信资本",
+        "IDG Capital",
+        "Asia America MultiTechnology Association (AAMA)",
+        "HSG"
+      ],
+      "location": "Beijing, Beijing"
     },
     {
       "name": "Voxshell",

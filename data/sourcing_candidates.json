@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-25",
+  "generated": "2026-07-26",
   "window_days": 45,
   "counts": {
     "actionable": 9,
-    "watchlist": 21,
+    "watchlist": 22,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -321,6 +321,23 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
+      "company": "Kalanick Atoms",
+      "desc": "Kalanick Atoms Raises $1 . 7 billion for Industrial Robotics",
+      "theme": "Precision Applications",
+      "vertical": "Robotics",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-07-23",
+      "link": "https://ventureburn.com/atoms-raises-1-7-billion-robotics-automation/",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
       "company": "mydecisive.ai",
       "desc": "Data infrastructure",
       "theme": "Data Management",
@@ -368,6 +385,23 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Hadrius",
+      "desc": "Hadrius raises USD $27 million to boost AI compliance",
+      "theme": "Precision Applications",
+      "vertical": "Compliance",
+      "stage": "Venture",
+      "amount_m": 27,
+      "investors": [],
+      "date": "2026-07-20",
+      "link": "https://itbrief.co.nz/story/hadrius-raises-usd-27-million-to-boost-ai-compliance",
+      "domain": "hadrius.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
@@ -578,25 +612,6 @@
       "date": "2026-06-12",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVh4bGVxN3k2T19vWWVXeDRWcGtWaXJtRERqTTlBbE1TMzlBV3Bma3Q1OFJXUXROdS1fZmpKOGV5S1VVYWlmVGloYWt3YXZZbHA0NEIyR1BLTkNsaEVjRWRIVUt6WmpGSlNFR2w2c2F3VEF1aHVrVHl1TlZUcER4UWxoNzIxOE1iTWxmeW03QVVlbm1zM2JYUE95LU84NkUwZW5OcENVeHQxVnVtZEVoejJPTXlVSDc2cEdOeA?oc=5",
       "domain": "sonothera.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "SyntheticFi",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": 13,
-      "investors": [
-        "Social Leverage"
-      ],
-      "date": "2026-06-10",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1Z1WHJ3Mms3VGlXNkNfbzBIUTBoVzMxN0VObkZCS1BSY2Q3bTh4Z2pMOHp1VDh4VFRtcEZPTFFPTGRiTDdTUlZIT0MxMGJlbHdXTnlXdV9VQnBCUlo3YkZBdGJ0NklHLUZOaDRrSUczS0RHWDRPME5leVJGb3FMODI4LUoxdTA?oc=5",
-      "domain": "syntheticfi.com",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
       "source": "funds",
