@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26",
+  "generated": "2026-07-27",
   "companies": [
     {
       "name": "Salient",
@@ -11,15 +11,14 @@
       "linkedin": "https://www.linkedin.com/company/salientai",
       "linkedin_posts": [
         {
-          "date": "2026-07-20",
           "title": "Hosting Salient's first Fireside Chat with a16z on Aug 11 — 'How Lean Teams Drive Outsized Revenue', on growing to $15M ARR with 10 people while automating financial-lending back office",
-          "link": "https://www.linkedin.com/company/salientai/posts/"
+          "link": "https://www.linkedin.com/company/salientai/posts/",
+          "date": "2026-07-20"
         }
       ],
       "x": "",
       "substack": "",
-      "url": "https://trysalient.com",
-      "linkedin_posts_updated": "2026-07-27"
+      "url": "https://trysalient.com"
     },
     {
       "name": "Taktile",
@@ -60,20 +59,19 @@
       "linkedin": "https://www.linkedin.com/company/taktile1",
       "linkedin_posts": [
         {
-          "date": "2026-07-24",
           "title": "New engineering blog (Chiara Fischer) on giving AI agents durable memory — answering from memory is 86% faster and 61% cheaper than re-researching every prompt",
-          "link": "https://www.linkedin.com/company/taktile1/posts/"
+          "link": "https://www.linkedin.com/company/taktile1/posts/",
+          "date": "2026-07-24"
         },
         {
-          "date": "2026-07-22",
           "title": "Case study: how Brex's Head of Onboarding cut single-case review from over an hour to under 10 minutes using Taktile AI agents",
-          "link": "https://www.linkedin.com/company/taktile1/posts/"
+          "link": "https://www.linkedin.com/company/taktile1/posts/",
+          "date": "2026-07-22"
         }
       ],
       "x": "https://x.com/taktile_org",
       "substack": "",
-      "url": "https://taktile.com",
-      "linkedin_posts_updated": "2026-07-27"
+      "url": "https://taktile.com"
     },
     {
       "name": "NetBox Labs",
@@ -128,27 +126,6 @@
           "title": "Meet Natalia Kepets, the Engineer Reshaping QA at NetBox Labs",
           "link": "https://netboxlabs.com/blog/meet-natalia-kepets-the-engineer-reshaping-qa-at-netbox-labs/",
           "source": "Blog"
-        },
-        {
-          "date": "2026-06-11",
-          "category": "Blog",
-          "title": "Introducing the NetBox Data Exchange",
-          "link": "https://netboxlabs.com/blog/netbox-data-exchange-curated-infrastructure-dataset/",
-          "source": "Blog"
-        },
-        {
-          "date": "2026-06-11",
-          "category": "Blog",
-          "title": "Public Preview: NetBox Validation Brings Continuous Compliance and Pre-Change Safety to the System of Record",
-          "link": "https://netboxlabs.com/blog/netbox-validation-compliance-public-preview/",
-          "source": "Blog"
-        },
-        {
-          "date": "2026-06-11",
-          "category": "Blog",
-          "title": "Your Infrastructure Is Now Agent-Native",
-          "link": "https://netboxlabs.com/blog/your-infrastructure-is-now-agent-native/",
-          "source": "Blog"
         }
       ],
       "conferences": [
@@ -185,20 +162,19 @@
       "linkedin": "https://www.linkedin.com/company/netboxlabs",
       "linkedin_posts": [
         {
-          "date": "2026-07-25",
           "title": "Employee spotlight — AE Natalie Pastrof on closing mid-market and enterprise deals adopting NetBox as the system of record for network infrastructure",
-          "link": "https://www.linkedin.com/company/netboxlabs/posts/"
+          "link": "https://www.linkedin.com/company/netboxlabs/posts/",
+          "date": "2026-07-25"
         },
         {
-          "date": "2026-07-24",
           "title": "Seven new ecosystem integrations: Infoblox NIOS, Cisco ACI, Microsoft DNS/DHCP, Proxmox VE now GA; Arista CloudVision and AWS VPC IPAM in public preview",
-          "link": "https://www.linkedin.com/company/netboxlabs/posts/"
+          "link": "https://www.linkedin.com/company/netboxlabs/posts/",
+          "date": "2026-07-24"
         }
       ],
       "x": "",
       "substack": "",
-      "url": "https://netboxlabs.com",
-      "linkedin_posts_updated": "2026-07-27"
+      "url": "https://netboxlabs.com"
     },
     {
       "name": "Bretton",
@@ -232,20 +208,19 @@
       "linkedin": "https://www.linkedin.com/company/bretton-ai",
       "linkedin_posts": [
         {
-          "date": "2026-07-26",
           "title": "Pulse 2.0 interview with CEO Will Lawrence on Bretton's path from financial-crime investigations to AI-native back-office ops spanning compliance, risk, and fraud",
-          "link": "https://www.linkedin.com/company/bretton-ai/posts/"
+          "link": "https://www.linkedin.com/company/bretton-ai/posts/",
+          "date": "2026-07-26"
         },
         {
-          "date": "2026-07-23",
           "title": "Launch celebration in NYC on Aug 12 marking Bretton's new direction (relaunched June 30)",
-          "link": "https://www.linkedin.com/company/bretton-ai/posts/"
+          "link": "https://www.linkedin.com/company/bretton-ai/posts/",
+          "date": "2026-07-23"
         }
       ],
       "x": "https://x.com/brettonai",
       "substack": "",
-      "url": "https://bretton.com",
-      "linkedin_posts_updated": "2026-07-27"
+      "url": "https://bretton.com"
     }
   ]
 }

@@ -1,24 +1,42 @@
 {
-  "generated": "2026-07-26",
+  "generated": "2026-07-27",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 79,
-    "total_cap_m": 13956,
-    "early_cap_m": 2566,
+    "early_raises": 78,
+    "total_cap_m": 13943,
+    "early_cap_m": 2449,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 30,
-      "Series A": 46,
+      "Series A": 45,
       "Series B": 25,
-      "Series C": 10,
+      "Series C": 11,
       "Series D": 5,
       "Venture": 75
     }
   },
   "raises": [
+    {
+      "company": "Siigo",
+      "amount_m": 104,
+      "date": "2026-07-27",
+      "link": "https://siigo.com",
+      "investors": [],
+      "theme": "HR & workforce",
+      "stage": "Series C"
+    },
+    {
+      "company": "Wify Technologies",
+      "amount_m": 3,
+      "date": "2026-07-27",
+      "link": "https://home.wify.co.in",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
     {
       "company": "Supreium Technology",
       "amount_m": 15,
@@ -35,15 +53,6 @@
       "link": "https://tripo3d.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Arrakis",
-      "amount_m": 30,
-      "date": "2026-07-25",
-      "link": "https://arrakis.ai",
-      "investors": [],
-      "theme": "Sales & GTM AI",
       "stage": "Series A"
     },
     {
@@ -2207,19 +2216,6 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Observable Space",
-      "amount_m": 90,
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFBTN19LSmJLc3E4bTFKOXhQYWE3YzZsTTEzbW9sZGt4aTZwTU9Bd0JHRnRNTnhQc3JyWmt0cTUyMEdaendOQ2l5UFhVUWhxRFRuTUlqUHJDYUFHODZOb1FpQ0JlX0FseWJNRl9rUVBYRUJOanlBbFpua1JHTnFHclF6NVZNd3NSSmFOY1VLTFc0MG0wWGJXM0Z5MlZ6TnB2Qm5vekpDWkdGWE0?oc=5",
-      "investors": [
-        "Company Ventures",
-        "Lux Capital",
-        "Upfront Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     }
   ],
   "themes": [
@@ -2227,12 +2223,12 @@
       "theme": "Applied / horizontal AI",
       "count": 113,
       "examples": [
+        "Wify Technologies",
         "Tripo AI",
         "Scape",
         "GlossGenius",
         "CRMNEXT",
-        "Paper",
-        "LemonSlice"
+        "Paper"
       ]
     },
     {
@@ -2341,6 +2337,15 @@
       ]
     },
     {
+      "theme": "HR & workforce",
+      "count": 3,
+      "examples": [
+        "Siigo",
+        "Talentware",
+        "Factorial"
+      ]
+    },
+    {
       "theme": "AI compute & models",
       "count": 3,
       "examples": [
@@ -2356,22 +2361,6 @@
         "Cashboard (YC S22)",
         "PolyBox.app",
         "mydecisive.ai"
-      ]
-    },
-    {
-      "theme": "Sales & GTM AI",
-      "count": 2,
-      "examples": [
-        "Arrakis",
-        "Greenhouse OS"
-      ]
-    },
-    {
-      "theme": "HR & workforce",
-      "count": 2,
-      "examples": [
-        "Talentware",
-        "Factorial"
       ]
     },
     {
@@ -2397,20 +2386,27 @@
         "STARK",
         "Picogrid"
       ]
+    },
+    {
+      "theme": "Sales & GTM AI",
+      "count": 1,
+      "examples": [
+        "Greenhouse OS"
+      ]
     }
   ],
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
       "count": 113,
-      "cap_m": 8203,
+      "cap_m": 8116,
       "examples": [
+        "Wify Technologies",
         "Tripo AI",
         "Scape",
         "GlossGenius",
         "CRMNEXT",
-        "Paper",
-        "LemonSlice"
+        "Paper"
       ],
       "top_stage": "Venture"
     },
@@ -2538,6 +2534,17 @@
       "top_stage": "Series A"
     },
     {
+      "theme": "HR & workforce",
+      "count": 3,
+      "cap_m": 258,
+      "examples": [
+        "Siigo",
+        "Talentware",
+        "Factorial"
+      ],
+      "top_stage": "Series C"
+    },
+    {
       "theme": "AI compute & models",
       "count": 3,
       "cap_m": 445,
@@ -2547,17 +2554,6 @@
         "Prime Intellect"
       ],
       "top_stage": "Series A"
-    },
-    {
-      "theme": "Data infrastructure",
-      "count": 3,
-      "cap_m": 17,
-      "examples": [
-        "Cashboard (YC S22)",
-        "PolyBox.app",
-        "mydecisive.ai"
-      ],
-      "top_stage": "Seed"
     }
   ],
   "investor_signal": [
@@ -2750,14 +2746,6 @@
           "amount_m": 13,
           "date": "2026-06-01",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUnFGZ25KWDMxdnh4SkxCWmJKU3JfN0cxT3QtNmFkbWZPa0lSa1dYR3lBMUZSMjJHVWtNcV9pa1plc2wtbV9NdS15WW1ZV3lzNXd1cmdCYUQ1WEc4Z3VTamtaMFAxNUMxYWc?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "design tool Flora",
-          "stage": "Venture",
-          "amount_m": 42,
-          "date": "2026-01-27",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOREhiLXBTLWR3U0l3VnBTMDcxU2JmMTdwVGZmM09td3d6WlpDQUhIanFQd2x1LVVMWkdlS1hFSDlsR2xfZEMyeWJLYk1Za0ZuQjdpTERVLW5XX1NlaEhhSkJVMkVkRDRwYWlVNFhKNkduNUIzNzZPUkltZ0hsclZGY3psazNxYmVRM3l6SnVfbmlCbDl0aTFwa0dxd1VZUQ?oc=5",
           "theme": "Applied / horizontal AI"
         }
       ],
@@ -3187,23 +3175,23 @@
           "theme": "Defense & national security"
         },
         {
-          "company": "Paraglide",
-          "stage": "Seed",
-          "amount_m": 5,
-          "date": "2026-01-27",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcHFuV084Y3dMczA4aUFQMnctRnRPeDAzRzlZMU1NbWs5YmVZU2dXSGR4SnRaRDRxenZ3OGZ6dXE4MzlZMXNBS0ExT2psS3ZEWE80R1EyUGZuakdwOFR3bUpzdHBoZFZyYlhtenRRVVlOcUhfZS1fX3h1ckpHMUVDZmR0emUwbW5KSkQxaGZwT2dMM29RbWJ6RkJwSzFERDBmdlBCLXZoZGlNbkRPV3Z2LS1yYlppSi1tbTVnOQ?oc=5",
-          "theme": "Applied AI agents"
-        },
-        {
           "company": "AllHome",
           "stage": "Series B",
           "amount_m": null,
           "date": "2026-06-30",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU19mZVhXZjVpYzZZcjA2NkQtYnZXUjhVQmhjdzFQMldfN2NFd2JtaDZIeWU3ajgwQWxvbE01b1VlRnB1dG9NcGJfUjBmenRIb2JaYW45MkR6bkpBMnc1MXN6cnhrMnZwNlFYZWlmVllmcDdQR3ByUEtYSHV5cTJRNkx2R2U3WEdQNi1qS3N4WS1GbzlEQ0xxYnVVbG4xcnpUb1JOcUpkZ2tjbzh3cGlmTWotSG5jeEFYSTRMN3dPQ2RHM3YtMUR1UElydzFmbkdVTjNuUDI3Y3g0U0tfTlZoSFJjRQ?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "Mitigata",
+          "stage": "Venture",
+          "amount_m": 15,
+          "date": "2026-06-23",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam1ZWTE2TGF6aDlvV0tlLVlPN09jR1NCY2JmM25XM0ZaandGdmVWTTlhWmxCNnJ4Y3ctSVBTSElqdkhEU19XOVpnRkRTLTBUUGpoV2dvczBwellGaWlpa0dkZ0lQRjZObnBtOWZvZGc2OTJJd2FRNk15dzU0cXRCa2dOTjFXek9ROXBlR1ZCeDBROXpqaGc1bFNQcEU1RXJoTVF3Y0pqa0dxUdIBrwFBVV95cUxQSDBFWGNNSG13aFViNkc4bUg2YkFRV1dnb1JmRGc3TmNWZ1lTdHM5T2laSW82eDFYLThqdmZRclIxQ2NURnFWOE5IcGtQSURDSF9qemRRTXg1NDdveElWRmFyV25xam9ENDViaXZkc19aX01uUjVfRkNUdVVxMmwtQkpuZHY1RVc2eDlidGVMREpWd21FeENsTHpCbnlkY2FRU3AzaUpkTXBmZkR1X3pn?oc=5",
+          "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 9
+      "early": 8
     },
     {
       "fund": "Battery",
@@ -3558,6 +3546,11 @@
         "now": 5
       },
       {
+        "name": "HR & workforce",
+        "delta": 1,
+        "now": 3
+      },
+      {
         "name": "AI dev tooling",
         "delta": 1,
         "now": 2
@@ -3583,19 +3576,9 @@
         "now": 3
       },
       {
-        "name": "HR & workforce",
-        "delta": 0,
-        "now": 2
-      },
-      {
         "name": "Fintech & payments",
         "delta": -1,
         "now": 6
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": -1,
-        "now": 2
       },
       {
         "name": "Agent-native infra",
@@ -3606,6 +3589,11 @@
         "name": "Crypto & digital assets",
         "delta": -2,
         "now": 9
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": -2,
+        "now": 1
       },
       {
         "name": "Applied AI agents",
