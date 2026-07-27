@@ -124,7 +124,7 @@
     "name": "Anurag Agarwal",
     "title": "Co-Founder & CEO",
     "email": "",
-    "source": "pitchbook"
+    "source": "pitchbook (no company-domain email available)"
   },
   "sandstone": {
     "name": "",
@@ -136,7 +136,7 @@
     "name": "",
     "title": "",
     "email": "",
-    "source": "unresolved (ambiguous Harmonic/PB match)"
+    "source": "unresolved (name collision — Harmonic/PB best match is an unrelated company)"
   },
   "whale": {
     "name": "",
@@ -149,5 +149,17 @@
     "title": "",
     "email": "",
     "source": "unresolved (ambiguous match)"
+  },
+  "buildops": {
+    "name": "Alok Chanani",
+    "title": "Co-Founder & CEO",
+    "email": "alok@buildops.com",
+    "source": "harmonic"
+  },
+  "permitflow": {
+    "name": "Francis Thumpasery",
+    "title": "Co-Founder & CEO",
+    "email": "francis@permitflow.com",
+    "source": "harmonic"
   }
 }
