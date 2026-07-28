@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "window_days": 45,
   "counts": {
     "actionable": 9,
-    "watchlist": 20,
+    "watchlist": 17,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -338,40 +338,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Fazeshift",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Series A",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://fazeshift.com",
-      "domain": "fazeshift.com",
-      "tier": "watchlist",
-      "fit_reason": "Series A — track for the next round",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Growwr AI",
-      "desc": "Legal AI",
-      "theme": "Precision Applications",
-      "vertical": "Legal",
-      "stage": "Seed",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://growwr.co",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "Corner Health",
       "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
@@ -564,25 +530,6 @@
         }
       ],
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
-    },
-    {
-      "company": "SonoThera",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 125,
-      "investors": [
-        "Vivo Capital"
-      ],
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVh4bGVxN3k2T19vWWVXeDRWcGtWaXJtRERqTTlBbE1TMzlBV3Bma3Q1OFJXUXROdS1fZmpKOGV5S1VVYWlmVGloYWt3YXZZbHA0NEIyR1BLTkNsaEVjRWRIVUt6WmpGSlNFR2w2c2F3VEF1aHVrVHl1TlZUcER4UWxoNzIxOE1iTWxmeW03QVVlbm1zM2JYUE95LU84NkUwZW5OcENVeHQxVnVtZEVoejJPTXlVSDc2cEdOeA?oc=5",
-      "domain": "sonothera.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
     }
   ],
   "enriched": false,

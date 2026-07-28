@@ -1,24 +1,33 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 78,
-    "total_cap_m": 13943,
-    "early_cap_m": 2449,
+    "early_raises": 79,
+    "total_cap_m": 14130,
+    "early_cap_m": 2554,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 30,
+      "Seed": 31,
       "Series A": 45,
-      "Series B": 25,
-      "Series C": 11,
+      "Series B": 24,
+      "Series C": 10,
       "Series D": 5,
-      "Venture": 75
+      "Venture": 78
     }
   },
   "raises": [
+    {
+      "company": "Essence App",
+      "amount_m": null,
+      "date": "2026-07-28",
+      "link": "https://theessence.app",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
     {
       "company": "Siigo",
       "amount_m": 104,
@@ -26,7 +35,7 @@
       "link": "https://siigo.com",
       "investors": [],
       "theme": "HR & workforce",
-      "stage": "Series C"
+      "stage": "Venture"
     },
     {
       "company": "Wify Technologies",
@@ -143,7 +152,7 @@
       "link": "https://pagemind.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
+      "stage": "Seed"
     },
     {
       "company": "Greenhouse OS",
@@ -299,24 +308,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Kaleidos",
-      "amount_m": 2,
-      "date": "2026-07-22",
-      "link": "https://kaleidos.net",
-      "investors": [],
-      "theme": "AI dev tooling",
-      "stage": "Series B"
-    },
-    {
-      "company": "Voxshell",
-      "amount_m": 1,
-      "date": "2026-07-22",
-      "link": "https://voxshell.com",
-      "investors": [],
-      "theme": "Physical AI & robotics",
-      "stage": "Seed"
-    },
-    {
       "company": "PermitFlow",
       "amount_m": null,
       "date": "2026-07-22",
@@ -326,15 +317,6 @@
       "stage": "Series B"
     },
     {
-      "company": "Fazeshift",
-      "amount_m": null,
-      "date": "2026-07-22",
-      "link": "https://fazeshift.com",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Series A"
-    },
-    {
       "company": "瑞莱智慧 RealAI",
       "amount_m": null,
       "date": "2026-07-22",
@@ -342,24 +324,6 @@
       "investors": [],
       "theme": "Cybersecurity",
       "stage": "Series B"
-    },
-    {
-      "company": "Growwr AI",
-      "amount_m": null,
-      "date": "2026-07-22",
-      "link": "https://growwr.co",
-      "investors": [],
-      "theme": "Legal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Masunga (formerly Solaris Offgrid)",
-      "amount_m": null,
-      "date": "2026-07-22",
-      "link": "https://masunga.tech",
-      "investors": [],
-      "theme": "Energy & climate",
-      "stage": "Pre Seed"
     },
     {
       "company": "Flex",
@@ -2216,24 +2180,72 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
+    },
+    {
+      "company": "Observable Space",
+      "amount_m": 90,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFBTN19LSmJLc3E4bTFKOXhQYWE3YzZsTTEzbW9sZGt4aTZwTU9Bd0JHRnRNTnhQc3JyWmt0cTUyMEdaendOQ2l5UFhVUWhxRFRuTUlqUHJDYUFHODZOb1FpQ0JlX0FseWJNRl9rUVBYRUJOanlBbFpua1JHTnFHclF6NVZNd3NSSmFOY1VLTFc0MG0wWGJXM0Z5MlZ6TnB2Qm5vekpDWkdGWE0?oc=5",
+      "investors": [
+        "Company Ventures",
+        "Lux Capital",
+        "Upfront Ventures"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Reactor",
+      "amount_m": 59,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0d2YThTc0tmTE1rYmJadmFNamZKaGNaQzZUQkJCbmhjU2NBRTdnYWRCNTU3TW92UDJpdnlqTWtxajlpR2ljR3RJUkR1NVFCN0s4U1gwMnFlZ1Zlc3hpRHZiZVJ6Wm45LXVrNmJ4OTFEelpOVnBERXFqRVVFcEVpdHZOUm9CSTZ3bVB3Mk9tNHB3VzB3VGJsbGtvYkJPV0pSc3lXQl93?oc=5",
+      "investors": [
+        "Jeffrey Katzenberg",
+        "Lightspeed"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Venture"
+    },
+    {
+      "company": "Countable Labs",
+      "amount_m": 26,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObzdMbFNNdWpjbWFCc1FfeHFlYTBvOGE5dFVXSFpfSWJzZER5TGxIcFRxQm5CdTNscGhJcl9RektMZFFJM2pxOGV0bHZDOUxDV3RlVHlrZ21tbm1UTk5CbjBxa05VRWM5SmI3YVBYa0h0VnBlek96U2dPa3ZwaXhwVWVCTzJOMHpTZUZsQ3dXYjdyLUtjVW9iRTY5d0poVk9IOVhtVHhpRVd4Wld6eVhKOXZwVjdhZ1ZQUWRyM01GZkxyc2ktckJ3VGxidExMMkxRb05YR3lQYllncnhrYzZuUXZ3TWRNV1RWdDFmanZ0blA1WGszakIya1M3TVdFbVlpeDFOTXBORzl6ajlHb0E?oc=5",
+      "investors": [
+        "ARCH Venture Partners"
+      ],
+      "theme": "Healthcare & bio AI",
+      "stage": "Venture"
+    },
+    {
+      "company": "Trajectory",
+      "amount_m": 15,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HN3BrQjJjcF9WZERqQzZSUS0zcmRFQjBrMnl0eVlwSEs4OS1tX3dFYTJMVG45RFRDR1NNMG13ZDQ1d3JCaXdmSzRtSmxISTdrVUlBWktKYmhYRWNqMkUtb0pid3l1aEdJX0xTWFlKT2UxTVkzRGJmME84aTgtd2s?oc=5",
+      "investors": [
+        "BoxGroup",
+        "Radical Ventures"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
+      "count": 117,
       "examples": [
+        "Essence App",
         "Wify Technologies",
         "Tripo AI",
         "Scape",
         "GlossGenius",
-        "CRMNEXT",
-        "Paper"
+        "CRMNEXT"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 17,
+      "count": 18,
       "examples": [
         "Assured",
         "Candid Health",
@@ -2241,18 +2253,6 @@
         "xCures",
         "Healome Therapeutics",
         "Hera"
-      ]
-    },
-    {
-      "theme": "Energy & climate",
-      "count": 10,
-      "examples": [
-        "Masunga (formerly Solaris Offgrid)",
-        "Axle Energy",
-        "Vergennes battery project",
-        "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
       ]
     },
     {
@@ -2268,15 +2268,27 @@
       ]
     },
     {
+      "theme": "Energy & climate",
+      "count": 9,
+      "examples": [
+        "Axle Energy",
+        "Vergennes battery project",
+        "SolarSquare",
+        "Endurance Energy",
+        "Solidion Technology",
+        "US Energy Company"
+      ]
+    },
+    {
       "theme": "Physical AI & robotics",
-      "count": 8,
+      "count": 7,
       "examples": [
         "Pelico",
-        "Voxshell",
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse",
-        "Humble Robotics"
+        "Humble Robotics",
+        "Queue"
       ]
     },
     {
@@ -2304,18 +2316,6 @@
       ]
     },
     {
-      "theme": "Applied AI agents",
-      "count": 6,
-      "examples": [
-        "PermitFlow",
-        "Fazeshift",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ]
-    },
-    {
       "theme": "Cybersecurity",
       "count": 5,
       "examples": [
@@ -2327,13 +2327,14 @@
       ]
     },
     {
-      "theme": "Legal AI",
-      "count": 4,
+      "theme": "Applied AI agents",
+      "count": 5,
       "examples": [
-        "Jusfy",
-        "BuildOps",
-        "Growwr AI",
-        "Sandstone"
+        "PermitFlow",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
       ]
     },
     {
@@ -2364,11 +2365,12 @@
       ]
     },
     {
-      "theme": "AI dev tooling",
-      "count": 2,
+      "theme": "Legal AI",
+      "count": 3,
       "examples": [
-        "Kaleidos",
-        "Fusion Developer Helion"
+        "Jusfy",
+        "BuildOps",
+        "Sandstone"
       ]
     },
     {
@@ -2393,27 +2395,34 @@
       "examples": [
         "Greenhouse OS"
       ]
+    },
+    {
+      "theme": "AI dev tooling",
+      "count": 1,
+      "examples": [
+        "Fusion Developer Helion"
+      ]
     }
   ],
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
-      "cap_m": 8116,
+      "count": 117,
+      "cap_m": 8280,
       "examples": [
+        "Essence App",
         "Wify Technologies",
         "Tripo AI",
         "Scape",
         "GlossGenius",
-        "CRMNEXT",
-        "Paper"
+        "CRMNEXT"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 17,
-      "cap_m": 1235,
+      "count": 18,
+      "cap_m": 1261,
       "examples": [
         "Assured",
         "Candid Health",
@@ -2421,20 +2430,6 @@
         "xCures",
         "Healome Therapeutics",
         "Hera"
-      ],
-      "top_stage": "Series A"
-    },
-    {
-      "theme": "Energy & climate",
-      "count": 10,
-      "cap_m": 1141,
-      "examples": [
-        "Masunga (formerly Solaris Offgrid)",
-        "Axle Energy",
-        "Vergennes battery project",
-        "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
       ],
       "top_stage": "Venture"
     },
@@ -2453,16 +2448,30 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Energy & climate",
+      "count": 9,
+      "cap_m": 1141,
+      "examples": [
+        "Axle Energy",
+        "Vergennes battery project",
+        "SolarSquare",
+        "Endurance Energy",
+        "Solidion Technology",
+        "US Energy Company"
+      ],
+      "top_stage": "Venture"
+    },
+    {
       "theme": "Physical AI & robotics",
-      "count": 8,
-      "cap_m": 145,
+      "count": 7,
+      "cap_m": 144,
       "examples": [
         "Pelico",
-        "Voxshell",
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse",
-        "Humble Robotics"
+        "Humble Robotics",
+        "Queue"
       ],
       "top_stage": "Venture"
     },
@@ -2495,20 +2504,6 @@
       "top_stage": "Series A"
     },
     {
-      "theme": "Applied AI agents",
-      "count": 6,
-      "cap_m": 121,
-      "examples": [
-        "PermitFlow",
-        "Fazeshift",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ],
-      "top_stage": "Series B"
-    },
-    {
       "theme": "Cybersecurity",
       "count": 5,
       "cap_m": 164,
@@ -2522,16 +2517,17 @@
       "top_stage": "Series B"
     },
     {
-      "theme": "Legal AI",
-      "count": 4,
-      "cap_m": 172,
+      "theme": "Applied AI agents",
+      "count": 5,
+      "cap_m": 121,
       "examples": [
-        "Jusfy",
-        "BuildOps",
-        "Growwr AI",
-        "Sandstone"
+        "PermitFlow",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Series B"
     },
     {
       "theme": "HR & workforce",
@@ -2542,7 +2538,7 @@
         "Talentware",
         "Factorial"
       ],
-      "top_stage": "Series C"
+      "top_stage": "Venture"
     },
     {
       "theme": "AI compute & models",
@@ -2554,6 +2550,17 @@
         "Prime Intellect"
       ],
       "top_stage": "Series A"
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 3,
+      "cap_m": 17,
+      "examples": [
+        "Cashboard (YC S22)",
+        "PolyBox.app",
+        "mydecisive.ai"
+      ],
+      "top_stage": "Seed"
     }
   ],
   "investor_signal": [
@@ -3345,14 +3352,6 @@
           "theme": "Applied / horizontal AI"
         },
         {
-          "company": "Slice",
-          "stage": "Series A",
-          "amount_m": 25,
-          "date": "2026-01-28",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90U0ZZUjNjTlM2YlQyejZXdXlITDVwWW9nS2N4aHV4dDViazRIeEI2NTJQUWtkZy0tSURWVGFUTFpTOXBldHU2S3BDd2I3VmFnY1ZzSVAteU0yYXhUUWt3cDQ0ZFgtbmFB?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Gradial",
           "stage": "Series C",
           "amount_m": 65,
@@ -3391,9 +3390,17 @@
           "date": "2026-04-17",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFdweFA1WkV1VnVob21faXVFU0hsbXNIQ1hVRm1aOUwzWTlyRl9YX0M4NkJzSVFPQ2Fsa0JSQW1oNVZzbmtfOGhkMHg0MDdkcFdoNWVrYk43a3ZWTHlpQ0I1ZXZ2S1p1THF5c1dlalAzV3RpUTF5VV9GdXJYb1lOQ3FBMnZzRUxaZHRQLUZ3ZEVzRU5obGln?oc=5",
           "theme": "Physical AI & robotics"
+        },
+        {
+          "company": "Insight Health",
+          "stage": "Venture",
+          "amount_m": 11,
+          "date": "2026-04-03",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeE5ra2U5OXhOOXpjck9rY1VvdTA0RmhubUhvbEpoMmRBVWRMM1EzNVp0dG5ISm9Jcmp1YjJWSWJlQ3d5dmxfa2x6SFR4NUJtc2E4M3I2RnR3X082UGhBSmVQOV9Pdm5CcTRTd2JNdFhEU0pNZWJpWHhnN3RWd2QtcmtRWlhSdXotZnFnZjhuWQ?oc=5",
+          "theme": "Healthcare & bio AI"
         }
       ],
-      "early": 5
+      "early": 4
     },
     {
       "fund": "Pear",
@@ -3517,23 +3524,28 @@
     "tw": [
       {
         "name": "Applied / horizontal AI",
-        "delta": 5,
-        "now": 113
-      },
-      {
-        "name": "Legal AI",
-        "delta": 3,
-        "now": 4
-      },
-      {
-        "name": "Physical AI & robotics",
-        "delta": 2,
-        "now": 8
+        "delta": 9,
+        "now": 117
       },
       {
         "name": "Data infrastructure",
         "delta": 2,
         "now": 3
+      },
+      {
+        "name": "Legal AI",
+        "delta": 2,
+        "now": 3
+      },
+      {
+        "name": "Healthcare & bio AI",
+        "delta": 1,
+        "now": 18
+      },
+      {
+        "name": "Physical AI & robotics",
+        "delta": 1,
+        "now": 7
       },
       {
         "name": "Vertical SaaS",
@@ -3551,29 +3563,24 @@
         "now": 3
       },
       {
-        "name": "AI dev tooling",
-        "delta": 1,
-        "now": 2
-      },
-      {
         "name": "Defense & national security",
         "delta": 1,
         "now": 2
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 0,
-        "now": 17
-      },
-      {
-        "name": "Energy & climate",
-        "delta": 0,
-        "now": 10
-      },
-      {
         "name": "AI compute & models",
         "delta": 0,
         "now": 3
+      },
+      {
+        "name": "AI dev tooling",
+        "delta": 0,
+        "now": 1
+      },
+      {
+        "name": "Energy & climate",
+        "delta": -1,
+        "now": 9
       },
       {
         "name": "Fintech & payments",
@@ -3597,8 +3604,8 @@
       },
       {
         "name": "Applied AI agents",
-        "delta": -3,
-        "now": 6
+        "delta": -4,
+        "now": 5
       }
     ]
   }

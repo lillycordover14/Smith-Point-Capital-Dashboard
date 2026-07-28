@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "mode": "full",
-  "count": 42,
+  "count": 38,
   "companies": [
     {
       "name": "PermitFlow",
@@ -49,6 +49,21 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Paper",
+      "domain": "paper.design",
+      "desc": "The main product is a digital canvas that facilitates the integration of design tools, enabling seamless interaction between design and code through the import of code components. It employs web standards and AI support ",
+      "stage": "SERIES_A",
+      "last_amount": 34000000.0,
+      "total": 38200000.0,
+      "investors": [
+        "Designer Fund",
+        "OpenAI",
+        "basecase capital",
+        "ICONIQ"
+      ],
+      "location": "Palo Alto, CA, United States"
+    },
+    {
       "name": "GlossGenius",
       "domain": "glossgenius.com",
       "desc": "GlossGenius provides a management platform tailored for appointment-based businesses, particularly in the salon and spa industry, featuring automated appointment scheduling, payment processing, and client management. The",
@@ -79,21 +94,6 @@
       "location": "Santa Monica, CA"
     },
     {
-      "name": "Paper",
-      "domain": "paper.design",
-      "desc": "The main product is a digital canvas that facilitates the integration of design tools, enabling seamless interaction between design and code through the import of code components. It employs web standards and AI support ",
-      "stage": "SERIES_A",
-      "last_amount": 34000000.0,
-      "total": 38200000.0,
-      "investors": [
-        "Designer Fund",
-        "OpenAI",
-        "basecase capital",
-        "ICONIQ"
-      ],
-      "location": "Palo Alto, CA, United States"
-    },
-    {
       "name": "Cascade",
       "domain": "usecascade.ai",
       "desc": "The company provides an AI-driven platform tailored for the architecture, engineering, and construction (AEC) sector, which automates the discovery and qualification of government RFPs by integrating with existing ERP sy",
@@ -107,21 +107,6 @@
         "Blitzscaling Ventures"
       ],
       "location": "New York City"
-    },
-    {
-      "name": "Fazeshift",
-      "domain": "fazeshift.com",
-      "desc": "Fazeshift offers an AI-driven platform that automates accounts receivable processes, including cash application, invoicing, and collections, utilizing enterprise-grade AI agents to manage complex payment scenarios and en",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 21500000.0,
-      "investors": [
-        "Pioneer Fund",
-        "2048 Ventures",
-        "Y Combinator",
-        "Ritual Capital"
-      ],
-      "location": "San Francisco, CA"
     },
     {
       "name": "Assured",
@@ -154,36 +139,6 @@
       "location": "Miami, Florida"
     },
     {
-      "name": "Rescale",
-      "domain": "rescale.com",
-      "desc": "The company offers a cloud-based high-performance computing (HPC) platform designed to enhance engineering and research applications through automated workflows and secure data management. It integrates AI technologies t",
-      "stage": "SERIES_D",
-      "last_amount": 0,
-      "total": 272400000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "伊藤忠テクノロジーベンチャーズ（株）",
-        "Jump Capital",
-        "Mitsubishi UFJ Capital Co.,Ltd."
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Uniti AI",
-      "domain": "getuniti.com",
-      "desc": "Uniti AI provides an intelligent platform for the real estate sector, utilizing AI-driven agents to automate lead engagement and qualification across multiple communication channels, including email, SMS, WhatsApp, and w",
-      "stage": "SERIES_A",
-      "last_amount": 12000000.0,
-      "total": 16160000.0,
-      "investors": [
-        "Alate Partners",
-        "FLEX Capital",
-        "RE Angels",
-        "Prudence"
-      ],
-      "location": "New York, NY"
-    },
-    {
       "name": "StrongestLayer",
       "domain": "strongestlayer.com",
       "desc": "The company provides an AI-native email security platform that detects and mitigates sophisticated phishing attacks and financial fraud by analyzing email content, metadata, and user behavior. It utilizes advanced reason",
@@ -199,19 +154,49 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "LemonSlice",
-      "domain": "lemonslice.com",
-      "desc": "The main product is a video model that generates interactive avatars capable of real-time speech and animation, utilizing a 20B parameter causal model optimized for low latency and seamless video playback. It employs var",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 31000000.0,
+      "name": "Rescale",
+      "domain": "rescale.com",
+      "desc": "The company offers a cloud-based high-performance computing (HPC) platform designed to enhance engineering and research applications through automated workflows and secure data management. It integrates AI technologies t",
+      "stage": "SERIES_D",
+      "last_amount": 0,
+      "total": 272400000.0,
       "investors": [
-        "OpenAI",
-        "Y Combinator",
-        "The Chainsmokers Headquarters",
-        "3cubed LLC"
+        "Andreessen Horowitz",
+        "伊藤忠テクノロジーベンチャーズ（株）",
+        "Jump Capital",
+        "Mitsubishi UFJ Capital Co.,Ltd."
       ],
-      "location": "2108 North Street, Suite N, Sacramento, CA 95816, United States"
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "GrubMarket Inc.",
+      "domain": "grubmarket.com",
+      "desc": "GrubMarket provides a digital platform that transforms the food supply chain through B2B eCommerce and AI-powered software solutions, focusing on inventory management, warehouse operations, and eCommerce functionalities.",
+      "stage": "SERIES_H",
+      "last_amount": 0,
+      "total": 602735369.0,
+      "investors": [
+        "Investwide Capital LLC",
+        "DG Ventures",
+        "Portfolia",
+        "WI Harper Group"
+      ],
+      "location": "San Francisco"
+    },
+    {
+      "name": "Uniti AI",
+      "domain": "getuniti.com",
+      "desc": "Uniti AI provides an intelligent platform for the real estate sector, utilizing AI-driven agents to automate lead engagement and qualification across multiple communication channels, including email, SMS, WhatsApp, and w",
+      "stage": "SERIES_A",
+      "last_amount": 12000000.0,
+      "total": 16160000.0,
+      "investors": [
+        "Alate Partners",
+        "FLEX Capital",
+        "RE Angels",
+        "Prudence"
+      ],
+      "location": "New York, NY"
     },
     {
       "name": "PhnyX Lab",
@@ -242,6 +227,21 @@
         "Pioneer Fund"
       ],
       "location": "San Francisco, CA, United States"
+    },
+    {
+      "name": "LemonSlice",
+      "domain": "lemonslice.com",
+      "desc": "The main product is a video model that generates interactive avatars capable of real-time speech and animation, utilizing a 20B parameter causal model optimized for low latency and seamless video playback. It employs var",
+      "stage": "SEED",
+      "last_amount": 15000000.0,
+      "total": 31000000.0,
+      "investors": [
+        "OpenAI",
+        "Y Combinator",
+        "The Chainsmokers Headquarters",
+        "3cubed LLC"
+      ],
+      "location": "2108 North Street, Suite N, Sacramento, CA 95816, United States"
     },
     {
       "name": "Coverwatch",
@@ -304,21 +304,6 @@
       "location": "New York, New York"
     },
     {
-      "name": "Innerlogic",
-      "domain": "innerlogic.com",
-      "desc": "The main product is an AI-driven platform that centralizes employee feedback and survey data, utilizing advanced algorithms and predictive models to generate actionable insights for improving engagement and organizationa",
-      "stage": "SEED",
-      "last_amount": 11500000.0,
-      "total": 12569286.0,
-      "investors": [
-        "PTX Capital",
-        "Bison Ventures",
-        "Techstars",
-        "Tidal Venture Partners"
-      ],
-      "location": "Halifax, Nova Scotia"
-    },
-    {
       "name": "CRMNEXT",
       "domain": "crmnext.us",
       "desc": "The main product is a customer relationship management system specifically designed for banks and credit unions, which focuses on data orchestration and seamless integration with existing systems. It utilizes AI and mach",
@@ -332,6 +317,21 @@
         "Ascent Capital"
       ],
       "location": "Candor Tech Space, Ground Floor, Tower 1, 12th Floor, Tower 5, Sector 62, Noida, Uttar Pradesh 201309, India"
+    },
+    {
+      "name": "Innerlogic",
+      "domain": "innerlogic.com",
+      "desc": "The main product is an AI-driven platform that centralizes employee feedback and survey data, utilizing advanced algorithms and predictive models to generate actionable insights for improving engagement and organizationa",
+      "stage": "SEED",
+      "last_amount": 11500000.0,
+      "total": 12569286.0,
+      "investors": [
+        "PTX Capital",
+        "Bison Ventures",
+        "Techstars",
+        "Tidal Venture Partners"
+      ],
+      "location": "Halifax, Nova Scotia"
     },
     {
       "name": "mydecisive.ai",
@@ -362,19 +362,19 @@
       "location": "Minato-Ku, Tokyo"
     },
     {
-      "name": "RevComm Inc.",
-      "domain": "revcomm.com",
-      "desc": "RevComm offers a cloud-based IP phone system that utilizes AI and deep learning technologies to analyze and improve customer interactions, enhancing communication clarity. Additionally, the company provides online meetin",
-      "stage": "SERIES_B",
+      "name": "Essence App",
+      "domain": "theessence.app",
+      "desc": "The Essence App is a digital productivity tool designed to help users enhance their well-being by synchronizing their activities with their menstrual cycle, featuring period tracking and tailored recommendations. It empl",
+      "stage": "SEED",
       "last_amount": 0,
-      "total": 46170870.0,
+      "total": 800000.0,
       "investors": [
-        "Plug and Play",
-        "DNX Ventures - US",
-        "Mitsubishi UFJ Capital Co.,Ltd.",
-        "Google for Startups"
+        "Berkeley SkyDeck",
+        "DVC",
+        "Growing Well Partners",
+        "Berkeley SkyDeck Fund"
       ],
-      "location": "Chiyoda-ku, Tokyo"
+      "location": "Lewes, Delaware"
     },
     {
       "name": "Talentware",
@@ -420,6 +420,36 @@
       "location": "Leipzig"
     },
     {
+      "name": "PolyBox.app",
+      "domain": "polybox.app",
+      "desc": "PolyBox is a platform that automates marketing analytics, allowing users to generate reports and insights from over 700 data sources, including social media and web analytics. It employs AI and machine learning to facili",
+      "stage": "PRE_SEED",
+      "last_amount": 401257.0,
+      "total": 1171036.0,
+      "investors": [
+        "Innovate UK",
+        "Creative UK",
+        "The North East Fund Ltd.",
+        "Northstar Ventures"
+      ],
+      "location": "Newcastle Upon Tyne"
+    },
+    {
+      "name": "Pagemind.ai",
+      "domain": "pagemind.ai",
+      "desc": "PageMind.ai makes websites conversational with AI. Our platform helps visitors find what they need, discover more, and feel understood — without heavy technical work or big budgets. With PageMind, businesses can instantl",
+      "stage": "SEED",
+      "last_amount": 1365250.0,
+      "total": 1365250.0,
+      "investors": [
+        "4Founders Capital",
+        "Javier Perez-Tenessa",
+        "David Martín",
+        "David Martin"
+      ],
+      "location": "Barcelona, Catalonia, Spain"
+    },
+    {
       "name": "FlareLane",
       "domain": "flarelane.com",
       "desc": "FlareLane offers a customer engagement platform that enables personalized messaging through various channels such as mobile push, web push, SMS, and in-app notifications. The platform features event-based automation, A/B",
@@ -435,34 +465,19 @@
       "location": "Middletown, Delaware"
     },
     {
-      "name": "PolyBox.app",
-      "domain": "polybox.app",
-      "desc": "PolyBox is a platform that automates marketing analytics, allowing users to generate reports and insights from over 700 data sources, including social media and web analytics. It employs AI and machine learning to facili",
-      "stage": "PRE_SEED",
-      "last_amount": 200628.0,
-      "total": 1171036.0,
+      "name": "Wify Technologies",
+      "domain": "home.wify.co.in",
+      "desc": "Wiffy provides a technology-driven platform designed for scheduling and monitoring product installations, allowing users to manage their services online. The platform features real-time tracking and a customer feedback m",
+      "stage": "SERIES_A",
+      "last_amount": 3000000.0,
+      "total": 9200120.0,
       "investors": [
-        "Innovate UK",
-        "Creative UK",
-        "The North East Fund Ltd.",
-        "Northstar Ventures"
+        "PERSOL Holdings Co., Ltd.",
+        "Blume Founders Fund",
+        "Goodwater Capital",
+        "Unitus Ventures"
       ],
-      "location": "Newcastle Upon Tyne"
-    },
-    {
-      "name": "Pagemind.ai",
-      "domain": "pagemind.ai",
-      "desc": "PageMind.ai makes websites conversational with AI. Our platform helps visitors find what they need, discover more, and feel understood — without heavy technical work or big budgets. With PageMind, businesses can instantl",
-      "stage": "PRE_SEED",
-      "last_amount": 1365250.0,
-      "total": 1365250.0,
-      "investors": [
-        "4Founders Capital",
-        "Javier Perez-Tenessa",
-        "David Martín",
-        "David Martin"
-      ],
-      "location": "Barcelona, Catalonia, Spain"
+      "location": "D-704, Remi Bizcourt, Off Veera Desai Road, Mumbai, Maharashtra 400053, India"
     },
     {
       "name": "Zazu",
@@ -480,33 +495,6 @@
       "location": "Innovation City Cape Town, ZA"
     },
     {
-      "name": "Kaleidos",
-      "domain": "kaleidos.net",
-      "desc": "Kaleidos develops an open-source design platform that enables collaboration between design and development teams, facilitating scalable workflows. The technologies employed focus on open-source methodologies to improve p",
-      "stage": "SERIES_B",
-      "last_amount": 2192025.0,
-      "total": 22591873.0,
-      "investors": [
-        "Decibel Partners",
-        "CDTI Innovación - Centro para el Desarrollo Tecnológico y la Innovación",
-        "Athos Capital",
-        "Dave Crossland"
-      ],
-      "location": "Madrid, Community of Madrid"
-    },
-    {
-      "name": "Siigo",
-      "domain": "siigo.com",
-      "desc": "The company offers a cloud-based administrative and accounting system designed for small and medium-sized enterprises, featuring capabilities such as electronic invoicing, payroll management, inventory tracking, and poin",
-      "stage": "SERIES_C",
-      "last_amount": 103500000.0,
-      "total": 103500000.0,
-      "investors": [
-        "Banco de Occidente"
-      ],
-      "location": "Bogotá D.C. , Cundinamarca"
-    },
-    {
       "name": "瑞莱智慧 RealAI",
       "domain": "realai.ai",
       "desc": "RealAI provides artificial intelligence solutions that include platforms for AI collaboration, privacy protection computing, AI security systems, and deepfake content detection, utilizing third-generation AI technology. ",
@@ -522,31 +510,16 @@
       "location": "北京市, 北京市"
     },
     {
-      "name": "Growwr AI",
-      "domain": "growwr.co",
-      "desc": "The platform facilitates connections between businesses and vetted professionals across various fields, including marketing, design, and software development, allowing for freelance, contract, and full-time hiring. It ut",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 200000.0,
+      "name": "Siigo",
+      "domain": "siigo.com",
+      "desc": "The company offers a cloud-based administrative and accounting system designed for small and medium-sized enterprises, featuring capabilities such as electronic invoicing, payroll management, inventory tracking, and poin",
+      "stage": "",
+      "last_amount": 103500000.0,
+      "total": 103500000.0,
       "investors": [
-        "Launch Africa Ventures"
+        "Banco de Occidente"
       ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Wify Technologies",
-      "domain": "home.wify.co.in",
-      "desc": "Wiffy provides a technology-driven platform designed for scheduling and monitoring product installations, allowing users to manage their services online. The platform features real-time tracking and a customer feedback m",
-      "stage": "SERIES_A",
-      "last_amount": 3000000.0,
-      "total": 9200120.0,
-      "investors": [
-        "Blume Founders Fund",
-        "Goodwater Capital",
-        "Unitus Ventures",
-        "Hepo NL"
-      ],
-      "location": "D-704, Remi Bizcourt, Off Veera Desai Road, Mumbai, Maharashtra 400053, India"
+      "location": "Bogotá D.C. , Cundinamarca"
     },
     {
       "name": "Greenhouse OS",
@@ -574,34 +547,6 @@
         "Shenzhen Capital Group Co., Ltd"
       ],
       "location": "Beijing, Beijing"
-    },
-    {
-      "name": "Masunga (formerly Solaris Offgrid)",
-      "domain": "masunga.tech",
-      "desc": "The main product is a cloud-based IT infrastructure designed to manage Paygo assets and operations, facilitating the delivery of essential services in developing markets. Additionally, it offers engineering services to s",
-      "stage": "PRE_SEED",
-      "last_amount": 0,
-      "total": 1111025.0,
-      "investors": [
-        "emaze",
-        "Launch Africa Ventures",
-        "Gaia Impact",
-        "YES!Delft"
-      ],
-      "location": "London"
-    },
-    {
-      "name": "Voxshell",
-      "domain": "voxshell.com",
-      "desc": "Voxshell’s mission is to accelerate productivity in hardware development. We build advanced meshing and geometry processing software that enables scalable, high-fidelity engineering simulation. By automating simulation-r",
-      "stage": "SEED",
-      "last_amount": 1074496.0,
-      "total": 1074496.0,
-      "investors": [
-        "Innovate UK",
-        "DSW Ventures"
-      ],
-      "location": "Cranfield, England"
     },
     {
       "name": "Infinity, Inc.",

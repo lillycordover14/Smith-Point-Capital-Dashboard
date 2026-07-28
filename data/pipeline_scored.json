@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "companies": [
     {
       "name": "Salient",
@@ -17,7 +17,7 @@
       "strong_signals": 0,
       "supporting_signals": 0,
       "finance_leadership_open": false,
-      "open_roles": 8,
+      "open_roles": 9,
       "signals": [
         "12 mo since last round (Series A) · typical Series A cadence ~12 mo · approaching typical raise window",
         "Last round: 2025-07-28 (Harmonic (by domain))",
@@ -42,7 +42,7 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 13,
+      "open_roles": 12,
       "signals": [
         "12 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
         "Last round: 2025-07-14 (Harmonic (by domain))",
@@ -58,7 +58,7 @@
       "name": "Bretton",
       "domain": "bretton.com",
       "stage": "Series B",
-      "months_since": 5,
+      "months_since": 6,
       "last_raise_date": "2026-02-10",
       "last_raise_source": "Harmonic (by domain)",
       "funding_total": 95300000.0,
@@ -72,7 +72,7 @@
       "finance_leadership_open": false,
       "open_roles": 12,
       "signals": [
-        "5 mo since last round (Series B) · typical Series B cadence ~15 mo · just raised",
+        "6 mo since last round (Series B) · typical Series B cadence ~15 mo · just raised",
         "Last round: 2026-02-10 (Harmonic (by domain))",
         "Conference/roadshow presence: :before { content: counter(activity-count) ' way to connect'; } .ev",
         "Basis: cadence only (no live signals yet)"
@@ -98,7 +98,7 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 44,
+      "open_roles": 46,
       "signals": [
         "1 mo since last round (Series C) · typical Series C cadence ~19 mo · just raised",
         "Last round: 2026-06-22 (provided)",
