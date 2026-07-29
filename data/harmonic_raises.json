@@ -1,53 +1,8 @@
 {
-  "generated": "2026-07-28",
+  "generated": "2026-07-29",
   "mode": "full",
-  "count": 38,
+  "count": 36,
   "companies": [
-    {
-      "name": "PermitFlow",
-      "domain": "permitflow.com",
-      "desc": "The main product is a construction permitting software that utilizes AI agents to automate the entire permitting lifecycle, including project initiation, requirement research, form submission, coordination with authoriti",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 91049999.0,
-      "investors": [
-        "Mighty Buildings",
-        "75 & Sunny",
-        "DVC",
-        "Felicis"
-      ],
-      "location": "New York, New York"
-    },
-    {
-      "name": "Trunk Tools",
-      "domain": "trunktools.com",
-      "desc": "Trunk Tools provides an AI-driven platform for construction project management that transforms unstructured construction data into actionable insights through intelligent agents, enhancing efficiency and safety on job si",
-      "stage": "SERIES_B",
-      "last_amount": 40000000.0,
-      "total": 109900000.0,
-      "investors": [
-        "Insight Partners",
-        "STO Building Group",
-        "Alumni Ventures",
-        "Foundation Capital"
-      ],
-      "location": "New York, New York 10011, US"
-    },
-    {
-      "name": "Candid Health",
-      "domain": "joincandidhealth.com",
-      "desc": "Candid Health offers a revenue cycle management automation platform that aims to streamline billing processes for healthcare providers by reducing the need for human intervention. The platform utilizes automation, artifi",
-      "stage": "SERIES_D",
-      "last_amount": 120000000.0,
-      "total": 219650000.0,
-      "investors": [
-        "Snowpoint Ventures",
-        "Oak HC/FT",
-        "First Round Capital",
-        "Y Combinator"
-      ],
-      "location": "San Francisco, California"
-    },
     {
       "name": "Paper",
       "domain": "paper.design",
@@ -64,49 +19,19 @@
       "location": "Palo Alto, CA, United States"
     },
     {
-      "name": "GlossGenius",
-      "domain": "glossgenius.com",
-      "desc": "GlossGenius provides a management platform tailored for appointment-based businesses, particularly in the salon and spa industry, featuring automated appointment scheduling, payment processing, and client management. The",
+      "name": "Candid Health",
+      "domain": "joincandidhealth.com",
+      "desc": "Candid Health offers a revenue cycle management automation platform that aims to streamline billing processes for healthcare providers by reducing the need for human intervention. The platform utilizes automation, artifi",
       "stage": "SERIES_D",
-      "last_amount": 44000000.0,
-      "total": 116340000.0,
+      "last_amount": 120000000.0,
+      "total": 219650000.0,
       "investors": [
-        "Imaginary",
-        "Wormhole Capital",
-        "Techstars",
-        "2048 Ventures"
+        "Snowpoint Ventures",
+        "Oak HC/FT",
+        "First Round Capital",
+        "Y Combinator"
       ],
-      "location": "New York, NY"
-    },
-    {
-      "name": "BuildOps",
-      "domain": "buildops.com",
-      "desc": "BuildOps offers a cloud-based software platform designed for commercial contractors, integrating functionalities such as project management, scheduling, dispatching, invoicing, and asset management. The platform utilizes",
-      "stage": "SERIES_C",
-      "last_amount": 127000000.0,
-      "total": 400990000.0,
-      "investors": [
-        "SE Ventures",
-        "TenOneTen Ventures",
-        "Global Founders Capital",
-        "Schneider Electric"
-      ],
-      "location": "Santa Monica, CA"
-    },
-    {
-      "name": "Cascade",
-      "domain": "usecascade.ai",
-      "desc": "The company provides an AI-driven platform tailored for the architecture, engineering, and construction (AEC) sector, which automates the discovery and qualification of government RFPs by integrating with existing ERP sy",
-      "stage": "SEED",
-      "last_amount": 3500000.0,
-      "total": 4000000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Ada Ventures",
-        "Índico Capital Partners",
-        "Blitzscaling Ventures"
-      ],
-      "location": "New York City"
+      "location": "San Francisco, California"
     },
     {
       "name": "Assured",
@@ -169,34 +94,19 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "GrubMarket Inc.",
-      "domain": "grubmarket.com",
-      "desc": "GrubMarket provides a digital platform that transforms the food supply chain through B2B eCommerce and AI-powered software solutions, focusing on inventory management, warehouse operations, and eCommerce functionalities.",
-      "stage": "SERIES_H",
-      "last_amount": 0,
-      "total": 602735369.0,
+      "name": "Scape",
+      "domain": "scape.app",
+      "desc": "The product is an AI-native CRM that automates the capture and organization of customer interactions, including emails and meeting notes, to improve task management and information accessibility. It utilizes technologies",
+      "stage": "SEED",
+      "last_amount": 3200000.0,
+      "total": 3700000.0,
       "investors": [
-        "Investwide Capital LLC",
-        "DG Ventures",
-        "Portfolia",
-        "WI Harper Group"
+        "Y Combinator",
+        "FundersClub",
+        "General Catalyst",
+        "Pioneer Fund"
       ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "Uniti AI",
-      "domain": "getuniti.com",
-      "desc": "Uniti AI provides an intelligent platform for the real estate sector, utilizing AI-driven agents to automate lead engagement and qualification across multiple communication channels, including email, SMS, WhatsApp, and w",
-      "stage": "SERIES_A",
-      "last_amount": 12000000.0,
-      "total": 16160000.0,
-      "investors": [
-        "Alate Partners",
-        "FLEX Capital",
-        "RE Angels",
-        "Prudence"
-      ],
-      "location": "New York, NY"
+      "location": "San Francisco, CA, United States"
     },
     {
       "name": "PhnyX Lab",
@@ -214,36 +124,6 @@
       "location": "575 High Street, Suite 320, Palo Alto, CA 94301, United States"
     },
     {
-      "name": "Scape",
-      "domain": "scape.app",
-      "desc": "The product is an AI-native CRM that automates the capture and organization of customer interactions, including emails and meeting notes, to improve task management and information accessibility. It utilizes technologies",
-      "stage": "SEED",
-      "last_amount": 3200000.0,
-      "total": 3700000.0,
-      "investors": [
-        "Y Combinator",
-        "FundersClub",
-        "General Catalyst",
-        "Pioneer Fund"
-      ],
-      "location": "San Francisco, CA, United States"
-    },
-    {
-      "name": "LemonSlice",
-      "domain": "lemonslice.com",
-      "desc": "The main product is a video model that generates interactive avatars capable of real-time speech and animation, utilizing a 20B parameter causal model optimized for low latency and seamless video playback. It employs var",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 31000000.0,
-      "investors": [
-        "OpenAI",
-        "Y Combinator",
-        "The Chainsmokers Headquarters",
-        "3cubed LLC"
-      ],
-      "location": "2108 North Street, Suite N, Sacramento, CA 95816, United States"
-    },
-    {
       "name": "Coverwatch",
       "domain": "coverwatch.com",
       "desc": "The company provides insurance brokerage services that leverage advanced technologies, including AI, to analyze risk profiles and optimize coverage for complex business risks. This technology enables the quick generation",
@@ -255,6 +135,51 @@
         "CoFound",
         "Restive Ventures",
         "Liquid 2 Ventures"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Conversica",
+      "domain": "conversica.com",
+      "desc": "Conversica offers an AI-powered conversational platform that utilizes large language models and natural language processing to enable personalized, real-time interactions with customers. The platform's AI agents are desi",
+      "stage": "SERIES_D",
+      "last_amount": 0,
+      "total": 148000000.0,
+      "investors": [
+        "Recruit Strategic Partners",
+        "Providence Equity Partners",
+        "Savant Growth",
+        "Savano Capital Partners"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Healia Health (YC W24)",
+      "domain": "healiahealth.com",
+      "desc": "Healia offers a health reimbursement arrangement (HRA) that allows employers to reimburse out-of-pocket medical expenses and premiums for employees' family members enrolled in a spouse's health plan, potentially covering",
+      "stage": "SERIES_A",
+      "last_amount": 14000000.0,
+      "total": 18045000.0,
+      "investors": [
+        "Pioneer Fund",
+        "North Coast Ventures",
+        "111° West Capital",
+        "First Round Capital"
+      ],
+      "location": "Columbus, Ohio"
+    },
+    {
+      "name": "COR",
+      "domain": "projectcor.com",
+      "desc": "The company offers management software tailored for agencies, leveraging AI to automate time tracking and provide real-time project visibility. Key features include workload optimization and detailed operational insights",
+      "stage": "SERIES_A",
+      "last_amount": 30000000.0,
+      "total": 36039671.0,
+      "investors": [
+        "500 Global",
+        "Global Founders Capital",
+        "ScOp Venture Capital",
+        "FTV Capital"
       ],
       "location": "San Francisco, California"
     },
@@ -289,19 +214,16 @@
       "location": "Brasil"
     },
     {
-      "name": "Cashboard (YC S22)",
-      "domain": "cashboard.finance",
-      "desc": "Cashboard is an analytics platform that automates financial planning and analysis by integrating data from over 400 sources, allowing for the creation of real-time reports and customizable dashboards. It utilizes AI for ",
-      "stage": "SEED",
-      "last_amount": 5000000.0,
-      "total": 6500000.0,
+      "name": "Mbanq",
+      "domain": "mbanq.com",
+      "desc": "Mbanq provides a comprehensive digital banking platform that integrates cloud-based core banking technology with modular architecture and open banking APIs, enabling the seamless incorporation of various financial servic",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 159900000.0,
       "investors": [
-        "TTV Capital",
-        "Y Combinator",
-        "Gaingels",
-        "FINTOP"
+        "Temenos"
       ],
-      "location": "New York, New York"
+      "location": "Naples, Florida"
     },
     {
       "name": "CRMNEXT",
@@ -319,6 +241,36 @@
       "location": "Candor Tech Space, Ground Floor, Tower 1, 12th Floor, Tower 5, Sector 62, Noida, Uttar Pradesh 201309, India"
     },
     {
+      "name": "Cashboard (YC S22)",
+      "domain": "cashboard.finance",
+      "desc": "Cashboard is an analytics platform that automates financial planning and analysis by integrating data from over 400 sources, allowing for the creation of real-time reports and customizable dashboards. It utilizes AI for ",
+      "stage": "SEED",
+      "last_amount": 5000000.0,
+      "total": 6500000.0,
+      "investors": [
+        "TTV Capital",
+        "Y Combinator",
+        "Gaingels",
+        "FINTOP"
+      ],
+      "location": "New York, New York"
+    },
+    {
+      "name": "Procode AI",
+      "domain": "tryprocode.com",
+      "desc": "The main product is an AI-driven coding copilot designed for medical billers, which automates the charge submission process by integrating with EHR systems to manage record retrieval, coding, and charge scrubbing. This t",
+      "stage": "SERIES_A",
+      "last_amount": 10000000.0,
+      "total": 14000000.0,
+      "investors": [
+        "Health Velocity Capital",
+        "Progression",
+        "Story Ventures",
+        "Four Acres Capital"
+      ],
+      "location": "C/O PROCODE INC, 1398 Miller Drive, Los Angeles, CA 90069, United States"
+    },
+    {
       "name": "Innerlogic",
       "domain": "innerlogic.com",
       "desc": "The main product is an AI-driven platform that centralizes employee feedback and survey data, utilizing advanced algorithms and predictive models to generate actionable insights for improving engagement and organizationa",
@@ -334,17 +286,49 @@
       "location": "Halifax, Nova Scotia"
     },
     {
-      "name": "mydecisive.ai",
-      "domain": "mydecisive.ai",
-      "desc": "The main product is an autonomous telemetry hub that facilitates real-time observability and management of telemetry data through intelligent log streaming, stateful alerting, and automated trace sampling. It employs mac",
-      "stage": "SEED",
-      "last_amount": 12000000.0,
-      "total": 12000000.0,
+      "name": "Weave",
+      "domain": "weaveos.com",
+      "desc": "",
+      "stage": "SERIES_A",
+      "last_amount": 13500000.0,
+      "total": 18200000.0,
       "investors": [
-        "invisionAZ",
-        "Copper Sky Capital"
+        "Y Combinator",
+        "Burst Capital",
+        "Irregular Expressions",
+        "Pioneer Fund"
       ],
-      "location": "San Francisco, California, US"
+      "location": ""
+    },
+    {
+      "name": "RealWear",
+      "domain": "realwear.com",
+      "desc": "RealWear provides AI-voice-powered smart glasses designed to enhance productivity and safety for frontline workers by facilitating remote expert guidance and managing digital workflows. The technology integrates with ind",
+      "stage": "SERIES_C",
+      "last_amount": 7674392.0,
+      "total": 129497119.0,
+      "investors": [
+        "Teradyne",
+        "JPMorganChase",
+        "Runway Growth Capital",
+        "Qualcomm Ventures"
+      ],
+      "location": "Vancouver, WA"
+    },
+    {
+      "name": "Fish Audio",
+      "domain": "fish.audio",
+      "desc": "The company offers an AI text-to-speech platform that employs advanced voice cloning technology to produce high-quality audio with emotional nuance in multiple languages. It features a customizable API for real-time voic",
+      "stage": "SEED",
+      "last_amount": 52000000.0,
+      "total": 52000000.0,
+      "investors": [
+        "Play Time",
+        "645 Ventures",
+        "HF0",
+        "Carya"
+      ],
+      "location": "Mountain View, CA"
     },
     {
       "name": "ASUENE Inc.",
@@ -377,47 +361,49 @@
       "location": "Lewes, Delaware"
     },
     {
-      "name": "Talentware",
-      "domain": "talentware.ai",
-      "desc": "Talentware offers an AI-native talent management platform that consolidates data from various HR systems to create a dynamic skill map, facilitating real-time skill mapping and personalized career planning. This technolo",
-      "stage": "SEED",
-      "last_amount": 3762656.0,
-      "total": 6506063.0,
+      "name": "Tiger Technology",
+      "domain": "tiger-technology.com",
+      "desc": "Tiger Technology offers data management software that enhances on-premises storage while enabling hybrid cloud workflows, particularly suited for high-performance applications. Their solutions support efficient data life",
+      "stage": "SERIES_A",
+      "last_amount": 9880972.0,
+      "total": 21322688.0,
       "investors": [
-        "Cenciarini & Co.",
-        "360 Capital",
-        "035 Investimenti",
-        "CDP Venture Capital SGR"
+        "TDJ",
+        "Endeavor Catalyst",
+        "MFG Invest",
+        "IMPETUS Capital"
       ],
-      "location": "Milan"
+      "location": "Sofia"
     },
     {
-      "name": "FactorLab, Inc.",
-      "domain": "factorlab.com",
-      "desc": "FactorLab provides digital services and wearable applications that leverage advanced AI to analyze audio and video data, converting it into actionable insights aimed at improving safety and productivity in high-risk envi",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 341000.0,
+      "name": "Wify Technologies",
+      "domain": "home.wify.co.in",
+      "desc": "Wiffy provides a technology-driven platform designed for scheduling and monitoring product installations, allowing users to manage their services online. The platform features real-time tracking and a customer feedback m",
+      "stage": "SERIES_A",
+      "last_amount": 3000000.0,
+      "total": 9200120.0,
       "investors": [
-        "Falfurrias Management Partners",
-        "The Entrepreneurs' Fund"
+        "PERSOL Holdings Co., Ltd.",
+        "Blume Founders Fund",
+        "Goodwater Capital",
+        "Unitus Ventures"
       ],
-      "location": "Pleasanton, CA"
+      "location": "D-704, Remi Bizcourt, Off Veera Desai Road, Mumbai, Maharashtra 400053, India"
     },
     {
-      "name": "MAIA",
-      "domain": "getmaia.ai",
-      "desc": "The main product is an AI-driven knowledge management platform that facilitates the efficient analysis and retrieval of information from technical documents and external market knowledge via an intuitive chat interface. ",
-      "stage": "SEED",
-      "last_amount": 4560796.0,
-      "total": 5367457.0,
+      "name": "5U AI",
+      "domain": "5u.ai",
+      "desc": "5U AI provides digital AI workers that automate tasks in freight operations, such as order entry, quoting, and customer communication, by integrating with existing systems. These AI workers process unstructured data from",
+      "stage": "PRE_SEED",
+      "last_amount": 3200000.0,
+      "total": 3200000.0,
       "investors": [
-        "S2S Ventures",
-        "SpinLab - The HHL Accelerator",
-        "TGFS Technologiegründerfonds Sachsen",
-        "Swiss Family Office Channel"
+        "A.P. Moller - Maersk",
+        "Emerge Capital",
+        "DHL",
+        "CEVA Logistics"
       ],
-      "location": "Leipzig"
+      "location": "Munich"
     },
     {
       "name": "PolyBox.app",
@@ -465,21 +451,6 @@
       "location": "Middletown, Delaware"
     },
     {
-      "name": "Wify Technologies",
-      "domain": "home.wify.co.in",
-      "desc": "Wiffy provides a technology-driven platform designed for scheduling and monitoring product installations, allowing users to manage their services online. The platform features real-time tracking and a customer feedback m",
-      "stage": "SERIES_A",
-      "last_amount": 3000000.0,
-      "total": 9200120.0,
-      "investors": [
-        "PERSOL Holdings Co., Ltd.",
-        "Blume Founders Fund",
-        "Goodwater Capital",
-        "Unitus Ventures"
-      ],
-      "location": "D-704, Remi Bizcourt, Off Veera Desai Road, Mumbai, Maharashtra 400053, India"
-    },
-    {
       "name": "Zazu",
       "domain": "get-zazu.com",
       "desc": "Zazu offers a comprehensive banking solution designed for African entrepreneurs and small to medium-sized enterprises, featuring an all-in-one business account that includes payment cards, real-time transfers, invoicing,",
@@ -493,21 +464,6 @@
         "Axel Peyriere"
       ],
       "location": "Innovation City Cape Town, ZA"
-    },
-    {
-      "name": "瑞莱智慧 RealAI",
-      "domain": "realai.ai",
-      "desc": "RealAI provides artificial intelligence solutions that include platforms for AI collaboration, privacy protection computing, AI security systems, and deepfake content detection, utilizing third-generation AI technology. ",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 49057000.0,
-      "investors": [
-        "Baidu Venture",
-        "Lubbock Angel Network",
-        "Koala Fund",
-        "China Internet Investment Fund"
-      ],
-      "location": "北京市, 北京市"
     },
     {
       "name": "Siigo",
@@ -560,6 +516,16 @@
         "Principal VC"
       ],
       "location": "Savannah, GA"
+    },
+    {
+      "name": "Hello Cashflow",
+      "domain": "hellocashflow.com",
+      "desc": "Hello Cashflow is removing financial stress for small business owners. Most businesses already have accounting software and an accountant — yet many still feel uncertain, stressed, and reactive when it comes to cash flow",
+      "stage": "PRE_SEED",
+      "last_amount": 750000.0,
+      "total": 750000.0,
+      "investors": [],
+      "location": "Wellington"
     }
   ]
 }
