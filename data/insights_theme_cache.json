@@ -1653,5 +1653,80 @@
     "theme": "Fintech & payments",
     "domain": "",
     "clean": "Mbanq"
+  },
+  "pex": {
+    "theme": "Fintech & payments",
+    "domain": "",
+    "clean": "PEX"
+  },
+  "freehand": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Freehand"
+  },
+  "harmony": {
+    "theme": "Healthcare & bio AI",
+    "domain": "",
+    "clean": "Harmony"
+  },
+  "terminalycs23": {
+    "theme": "Data infrastructure",
+    "domain": "",
+    "clean": "Terminal (YC S23)"
+  },
+  "henryai": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Henry AI"
+  },
+  "pangramlabs": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Pangram Labs"
+  },
+  "superstatlimited": {
+    "theme": "Marketing & creative AI",
+    "domain": "",
+    "clean": "Superstat Limited"
+  },
+  "curantai": {
+    "theme": "Insurance / insurtech",
+    "domain": "",
+    "clean": "Curant.ai"
+  },
+  "olomon": {
+    "theme": "Fintech & payments",
+    "domain": "",
+    "clean": "Olomon"
+  },
+  "mentorcollective": {
+    "theme": "Data infrastructure",
+    "domain": "",
+    "clean": "Mentor Collective"
+  },
+  "centralize": {
+    "theme": "AI compute & models",
+    "domain": "",
+    "clean": "Centralize"
+  },
+  "rewind": {
+    "theme": "Cybersecurity",
+    "domain": "",
+    "clean": "Rewind"
+  },
+  "evidatapoweredbywoodwayassurance": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "EviData, powered by Woodway Assurance"
+  },
+  "ofintech": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "OFINTECH"
+  },
+  "bootheo": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Bootheo"
   }
 }

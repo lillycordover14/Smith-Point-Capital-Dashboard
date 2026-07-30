@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29",
+  "generated": "2026-07-30",
   "companies": [
     {
       "name": "Salient",
@@ -156,6 +156,13 @@
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
+        },
+        {
+          "date": "2026-07-29",
+          "title": "DORA is live, and every pillar assumes you can see your infrastructure",
+          "link": "https://netboxlabs.com/blog/dora-compliance-infrastructure-teamsdora-is-live-and-every-pillar-assumes-you-can-see-your-infrastructure/",
+          "source": "Blog",
+          "when": "prior"
         }
       ],
       "new_customers": [],

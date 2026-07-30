@@ -1,24 +1,159 @@
 {
-  "generated": "2026-07-29",
+  "generated": "2026-07-30",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 79,
-    "total_cap_m": 14009,
-    "early_cap_m": 2632,
+    "early_raises": 77,
+    "total_cap_m": 14054,
+    "early_cap_m": 2636,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 27,
-      "Series A": 49,
-      "Series B": 22,
+      "Seed": 24,
+      "Series A": 50,
+      "Series B": 23,
       "Series C": 10,
-      "Series D": 5,
-      "Venture": 78
+      "Series D": 4,
+      "Venture": 77
     }
   },
   "raises": [
+    {
+      "company": "PEX",
+      "amount_m": 160,
+      "date": "2026-07-30",
+      "link": "https://pexcard.com",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series C"
+    },
+    {
+      "company": "Freehand",
+      "amount_m": 75,
+      "date": "2026-07-30",
+      "link": "https://freehand.ai",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Series B"
+    },
+    {
+      "company": "Harmony",
+      "amount_m": 34,
+      "date": "2026-07-30",
+      "link": "https://harmony.io",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Terminal (YC S23)",
+      "amount_m": 20,
+      "date": "2026-07-30",
+      "link": "https://withterminal.com",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Series A"
+    },
+    {
+      "company": "Henry AI",
+      "amount_m": 16,
+      "date": "2026-07-30",
+      "link": "https://henry.ai",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Pangram Labs",
+      "amount_m": 9,
+      "date": "2026-07-30",
+      "link": "https://pangram.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Superstat Limited",
+      "amount_m": 4,
+      "date": "2026-07-30",
+      "link": "https://superstat.co.uk",
+      "investors": [],
+      "theme": "Marketing & creative AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Curant.ai",
+      "amount_m": 3,
+      "date": "2026-07-30",
+      "link": "https://curant.ai",
+      "investors": [],
+      "theme": "Insurance / insurtech",
+      "stage": "Seed"
+    },
+    {
+      "company": "Olomon",
+      "amount_m": 3,
+      "date": "2026-07-30",
+      "link": "https://olomon.com",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Mentor Collective",
+      "amount_m": 2,
+      "date": "2026-07-30",
+      "link": "https://mentorcollective.org",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Series A"
+    },
+    {
+      "company": "Centralize",
+      "amount_m": null,
+      "date": "2026-07-30",
+      "link": "https://usecentralize.com",
+      "investors": [],
+      "theme": "AI compute & models",
+      "stage": "Seed"
+    },
+    {
+      "company": "Rewind",
+      "amount_m": null,
+      "date": "2026-07-30",
+      "link": "https://rewind.com",
+      "investors": [],
+      "theme": "Cybersecurity",
+      "stage": "Series B"
+    },
+    {
+      "company": "EviData, powered by Woodway Assurance",
+      "amount_m": null,
+      "date": "2026-07-30",
+      "link": "https://woodway-assurance.com",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "OFINTECH",
+      "amount_m": null,
+      "date": "2026-07-30",
+      "link": "https://ofintech.co",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Bootheo",
+      "amount_m": null,
+      "date": "2026-07-30",
+      "link": "https://bootheo.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Fish Audio",
       "amount_m": 52,
@@ -146,15 +281,6 @@
       "stage": "Series A"
     },
     {
-      "company": "Supreium Technology",
-      "amount_m": 15,
-      "date": "2026-07-26",
-      "link": "https://supreium.com",
-      "investors": [],
-      "theme": "AI compute & models",
-      "stage": "Series B"
-    },
-    {
       "company": "Tripo AI",
       "amount_m": null,
       "date": "2026-07-26",
@@ -173,15 +299,6 @@
       "stage": "Seed"
     },
     {
-      "company": "CRMNEXT",
-      "amount_m": 40,
-      "date": "2026-07-24",
-      "link": "https://crmnext.us",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series C"
-    },
-    {
       "company": "Paper",
       "amount_m": 34,
       "date": "2026-07-24",
@@ -189,33 +306,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Assured",
-      "amount_m": 19,
-      "date": "2026-07-24",
-      "link": "https://withassured.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "PhnyX Lab",
-      "amount_m": 8,
-      "date": "2026-07-24",
-      "link": "https://cheiron.bio",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Cashboard (YC S22)",
-      "amount_m": 5,
-      "date": "2026-07-24",
-      "link": "https://cashboard.finance",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Seed"
     },
     {
       "company": "Coverwatch",
@@ -236,15 +326,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Greenhouse OS",
-      "amount_m": 1,
-      "date": "2026-07-24",
-      "link": "https://greenhouseos.com",
-      "investors": [],
-      "theme": "Sales & GTM AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Pelico",
       "amount_m": null,
       "date": "2026-07-24",
@@ -261,69 +342,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series D"
-    },
-    {
-      "company": "PolyBox.app",
-      "amount_m": null,
-      "date": "2026-07-24",
-      "link": "https://polybox.app",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Zazu",
-      "amount_m": null,
-      "date": "2026-07-24",
-      "link": "https://get-zazu.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Seed"
-    },
-    {
-      "company": "Candid Health",
-      "amount_m": 120,
-      "date": "2026-07-23",
-      "link": "https://joincandidhealth.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series D"
-    },
-    {
-      "company": "Jusfy",
-      "amount_m": 15,
-      "date": "2026-07-23",
-      "link": "https://jusfy.com.br",
-      "investors": [],
-      "theme": "Legal AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Innerlogic",
-      "amount_m": 12,
-      "date": "2026-07-23",
-      "link": "https://innerlogic.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "StrongestLayer",
-      "amount_m": 4,
-      "date": "2026-07-23",
-      "link": "https://strongestlayer.com",
-      "investors": [],
-      "theme": "Cybersecurity",
-      "stage": "Seed"
-    },
-    {
-      "company": "FlareLane",
-      "amount_m": 1,
-      "date": "2026-07-23",
-      "link": "https://flarelane.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     },
     {
       "company": "Flex",
@@ -2205,54 +2223,31 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Countable Labs",
-      "amount_m": 26,
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObzdMbFNNdWpjbWFCc1FfeHFlYTBvOGE5dFVXSFpfSWJzZER5TGxIcFRxQm5CdTNscGhJcl9RektMZFFJM2pxOGV0bHZDOUxDV3RlVHlrZ21tbm1UTk5CbjBxa05VRWM5SmI3YVBYa0h0VnBlek96U2dPa3ZwaXhwVWVCTzJOMHpTZUZsQ3dXYjdyLUtjVW9iRTY5d0poVk9IOVhtVHhpRVd4Wld6eVhKOXZwVjdhZ1ZQUWRyM01GZkxyc2ktckJ3VGxidExMMkxRb05YR3lQYllncnhrYzZuUXZ3TWRNV1RWdDFmanZ0blA1WGszakIya1M3TVdFbVlpeDFOTXBORzl6ajlHb0E?oc=5",
-      "investors": [
-        "ARCH Venture Partners"
-      ],
-      "theme": "Healthcare & bio AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "Trajectory",
-      "amount_m": 15,
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HN3BrQjJjcF9WZERqQzZSUS0zcmRFQjBrMnl0eVlwSEs4OS1tX3dFYTJMVG45RFRDR1NNMG13ZDQ1d3JCaXdmSzRtSmxISTdrVUlBWktKYmhYRWNqMkUtb0pid3l1aEdJX0xTWFlKT2UxTVkzRGJmME84aTgtd2s?oc=5",
-      "investors": [
-        "BoxGroup",
-        "Radical Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 120,
+      "count": 118,
       "examples": [
+        "Pangram Labs",
+        "OFINTECH",
+        "Bootheo",
         "Fish Audio",
         "COR",
-        "Weave",
-        "Tiger Technology",
-        "RealWear",
-        "Hello Cashflow"
+        "Weave"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
+      "count": 17,
       "examples": [
+        "Harmony",
         "Healia Health (YC W24)",
-        "Assured",
-        "Candid Health",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ]
     },
     {
@@ -2281,14 +2276,14 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
+      "count": 8,
       "examples": [
+        "PEX",
+        "Olomon",
         "Mbanq",
         "Coverwatch",
-        "Zazu",
         "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
+        "Fomo"
       ]
     },
     {
@@ -2319,17 +2314,26 @@
       "theme": "Cybersecurity",
       "count": 4,
       "examples": [
-        "StrongestLayer",
+        "Rewind",
         "Twenty",
         "A Security",
         "Opal Security"
       ]
     },
     {
+      "theme": "Financial back-office & compliance AI",
+      "count": 3,
+      "examples": [
+        "Freehand",
+        "Henry AI",
+        "EviData, powered by Woodway Assurance"
+      ]
+    },
+    {
       "theme": "AI compute & models",
       "count": 3,
       "examples": [
-        "Supreium Technology",
+        "Centralize",
         "Oratomic",
         "Prime Intellect"
       ]
@@ -2341,6 +2345,14 @@
         "Agave",
         "Scotch",
         "LightTable"
+      ]
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 2,
+      "examples": [
+        "Terminal (YC S23)",
+        "Mentor Collective"
       ]
     },
     {
@@ -2360,22 +2372,6 @@
       ]
     },
     {
-      "theme": "Data infrastructure",
-      "count": 2,
-      "examples": [
-        "Cashboard (YC S22)",
-        "PolyBox.app"
-      ]
-    },
-    {
-      "theme": "Legal AI",
-      "count": 2,
-      "examples": [
-        "Jusfy",
-        "Sandstone"
-      ]
-    },
-    {
       "theme": "Agent-native infra",
       "count": 2,
       "examples": [
@@ -2392,39 +2388,53 @@
       ]
     },
     {
-      "theme": "Sales & GTM AI",
+      "theme": "Marketing & creative AI",
       "count": 1,
       "examples": [
-        "Greenhouse OS"
+        "Superstat Limited"
+      ]
+    },
+    {
+      "theme": "Insurance / insurtech",
+      "count": 1,
+      "examples": [
+        "Curant.ai"
+      ]
+    },
+    {
+      "theme": "Legal AI",
+      "count": 1,
+      "examples": [
+        "Sandstone"
       ]
     }
   ],
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 120,
-      "cap_m": 8331,
+      "count": 118,
+      "cap_m": 8264,
       "examples": [
+        "Pangram Labs",
+        "OFINTECH",
+        "Bootheo",
         "Fish Audio",
         "COR",
-        "Weave",
-        "Tiger Technology",
-        "RealWear",
-        "Hello Cashflow"
+        "Weave"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
-      "cap_m": 1275,
+      "count": 17,
+      "cap_m": 1144,
       "examples": [
+        "Harmony",
         "Healia Health (YC W24)",
-        "Assured",
-        "Candid Health",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ],
       "top_stage": "Series A"
     },
@@ -2458,15 +2468,15 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
-      "cap_m": 252,
+      "count": 8,
+      "cap_m": 415,
       "examples": [
+        "PEX",
+        "Olomon",
         "Mbanq",
         "Coverwatch",
-        "Zazu",
         "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
+        "Fomo"
       ],
       "top_stage": "Series B"
     },
@@ -2501,21 +2511,32 @@
     {
       "theme": "Cybersecurity",
       "count": 4,
-      "cap_m": 164,
+      "cap_m": 160,
       "examples": [
-        "StrongestLayer",
+        "Rewind",
         "Twenty",
         "A Security",
         "Opal Security"
       ],
-      "top_stage": "Venture"
+      "top_stage": "Series B"
+    },
+    {
+      "theme": "Financial back-office & compliance AI",
+      "count": 3,
+      "cap_m": 91,
+      "examples": [
+        "Freehand",
+        "Henry AI",
+        "EviData, powered by Woodway Assurance"
+      ],
+      "top_stage": "Series B"
     },
     {
       "theme": "AI compute & models",
       "count": 3,
-      "cap_m": 445,
+      "cap_m": 430,
       "examples": [
-        "Supreium Technology",
+        "Centralize",
         "Oratomic",
         "Prime Intellect"
       ],
@@ -2533,24 +2554,14 @@
       "top_stage": "Series A"
     },
     {
-      "theme": "AI dev tooling",
+      "theme": "Data infrastructure",
       "count": 2,
-      "cap_m": 475,
+      "cap_m": 22,
       "examples": [
-        "Procode AI",
-        "Fusion Developer Helion"
+        "Terminal (YC S23)",
+        "Mentor Collective"
       ],
       "top_stage": "Series A"
-    },
-    {
-      "theme": "HR & workforce",
-      "count": 2,
-      "cap_m": 254,
-      "examples": [
-        "Siigo",
-        "Factorial"
-      ],
-      "top_stage": "Venture"
     }
   ],
   "investor_signal": [
@@ -3514,13 +3525,13 @@
     "tw": [
       {
         "name": "Applied / horizontal AI",
-        "delta": 12,
-        "now": 120
+        "delta": 10,
+        "now": 118
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 2,
-        "now": 19
+        "name": "Fintech & payments",
+        "delta": 1,
+        "now": 8
       },
       {
         "name": "Physical AI & robotics",
@@ -3528,17 +3539,12 @@
         "now": 7
       },
       {
-        "name": "AI dev tooling",
-        "delta": 1,
-        "now": 2
-      },
-      {
         "name": "Data infrastructure",
         "delta": 1,
         "now": 2
       },
       {
-        "name": "Legal AI",
+        "name": "AI dev tooling",
         "delta": 1,
         "now": 2
       },
@@ -3548,14 +3554,24 @@
         "now": 2
       },
       {
-        "name": "Fintech & payments",
+        "name": "Marketing & creative AI",
+        "delta": 1,
+        "now": 1
+      },
+      {
+        "name": "Healthcare & bio AI",
         "delta": 0,
-        "now": 7
+        "now": 17
       },
       {
         "name": "Cybersecurity",
         "delta": 0,
         "now": 4
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 0,
+        "now": 3
       },
       {
         "name": "AI compute & models",
@@ -3566,6 +3582,16 @@
         "name": "HR & workforce",
         "delta": 0,
         "now": 2
+      },
+      {
+        "name": "Insurance / insurtech",
+        "delta": 0,
+        "now": 1
+      },
+      {
+        "name": "Legal AI",
+        "delta": 0,
+        "now": 1
       },
       {
         "name": "Energy & climate",
@@ -3586,11 +3612,6 @@
         "name": "Vertical SaaS",
         "delta": -2,
         "now": 3
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": -2,
-        "now": 1
       },
       {
         "name": "Applied AI agents",

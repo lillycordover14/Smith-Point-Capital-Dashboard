@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29",
+  "generated": "2026-07-30",
   "mode": "full",
-  "count": 36,
+  "count": 37,
   "companies": [
     {
       "name": "Paper",
@@ -19,32 +19,17 @@
       "location": "Palo Alto, CA, United States"
     },
     {
-      "name": "Candid Health",
-      "domain": "joincandidhealth.com",
-      "desc": "Candid Health offers a revenue cycle management automation platform that aims to streamline billing processes for healthcare providers by reducing the need for human intervention. The platform utilizes automation, artifi",
-      "stage": "SERIES_D",
-      "last_amount": 120000000.0,
-      "total": 219650000.0,
+      "name": "Harmony",
+      "domain": "harmony.io",
+      "desc": "The main product is an AI-driven enterprise service management platform that automates IT operations, enabling rapid resolution of service requests and proactive monitoring of system health. It employs intelligent agents",
+      "stage": "SEED",
+      "last_amount": 34000000.0,
+      "total": 58875000.0,
       "investors": [
-        "Snowpoint Ventures",
-        "Oak HC/FT",
-        "First Round Capital",
-        "Y Combinator"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Assured",
-      "domain": "withassured.com",
-      "desc": "The product is an AI-driven platform that automates credentialing, licensing, and payer enrollment processes for healthcare organizations, streamlining provider onboarding and reducing administrative burdens. It employs ",
-      "stage": "SERIES_A",
-      "last_amount": 19000000.0,
-      "total": 25000000.0,
-      "investors": [
-        "Insight Partners",
-        "First Round Capital",
-        "Bragiel Brothers",
-        "Kindred Ventures"
+        "Operator Partners",
+        "Fin Capital",
+        "Lightspeed Venture Partners",
+        "Hitachi Ventures"
       ],
       "location": "New York, NY"
     },
@@ -64,34 +49,19 @@
       "location": "Miami, Florida"
     },
     {
-      "name": "StrongestLayer",
-      "domain": "strongestlayer.com",
-      "desc": "The company provides an AI-native email security platform that detects and mitigates sophisticated phishing attacks and financial fraud by analyzing email content, metadata, and user behavior. It utilizes advanced reason",
-      "stage": "SEED",
-      "last_amount": 4100000.0,
-      "total": 9300000.0,
+      "name": "Henry AI",
+      "domain": "henry.ai",
+      "desc": "The product is an AI-driven platform that automates underwriting, market research, and pitch deck creation for commercial real estate transactions, integrating with existing databases to enhance efficiency. It employs ar",
+      "stage": "SERIES_A",
+      "last_amount": 16500000.0,
+      "total": 21300000.0,
       "investors": [
-        "Inovia Capital",
-        "Alumni Ventures",
-        "Sorenson Capital",
-        "Recall Capital"
+        "Pioneer Fund",
+        "Orange Collective",
+        "StoryHouse Ventures",
+        "RXR"
       ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Rescale",
-      "domain": "rescale.com",
-      "desc": "The company offers a cloud-based high-performance computing (HPC) platform designed to enhance engineering and research applications through automated workflows and secure data management. It integrates AI technologies t",
-      "stage": "SERIES_D",
-      "last_amount": 0,
-      "total": 272400000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "伊藤忠テクノロジーベンチャーズ（株）",
-        "Jump Capital",
-        "Mitsubishi UFJ Capital Co.,Ltd."
-      ],
-      "location": "San Francisco, California"
+      "location": "New York City, New York, US"
     },
     {
       "name": "Scape",
@@ -109,19 +79,79 @@
       "location": "San Francisco, CA, United States"
     },
     {
-      "name": "PhnyX Lab",
-      "domain": "cheiron.bio",
-      "desc": "The primary offering is an AI-based solution tailored for the biopharma industry, which automates processes like literature reviews, document creation, and data analysis to enhance operational efficiency. It utilizes sop",
-      "stage": "SEED",
-      "last_amount": 8000000.0,
-      "total": 12000000.0,
+      "name": "Rescale",
+      "domain": "rescale.com",
+      "desc": "The company offers a cloud-based high-performance computing (HPC) platform designed to enhance engineering and research applications through automated workflows and secure data management. It integrates AI technologies t",
+      "stage": "SERIES_D",
+      "last_amount": 0,
+      "total": 272400000.0,
       "investors": [
-        "Menlo Ventures",
-        "SK Networks",
-        "Aidan Gomez",
-        "Illia Polosukhin"
+        "Andreessen Horowitz",
+        "伊藤忠テクノロジーベンチャーズ（株）",
+        "Jump Capital",
+        "Mitsubishi UFJ Capital Co.,Ltd."
       ],
-      "location": "575 High Street, Suite 320, Palo Alto, CA 94301, United States"
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Centralize",
+      "domain": "usecentralize.com",
+      "desc": "The product is a centralized platform for sales teams that consolidates customer interactions and insights, utilizing large language models to enhance the understanding of stakeholder relationships. It integrates with ov",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 4500000.0,
+      "investors": [
+        "20SALES",
+        "New Enterprise Associates (NEA)",
+        "Y Combinator",
+        "Ritual Capital"
+      ],
+      "location": "2261 Market Street, Suite 5767, San Francisco, CA 94114, United States"
+    },
+    {
+      "name": "Healia Health (YC W24)",
+      "domain": "healiahealth.com",
+      "desc": "Healia offers a health reimbursement arrangement (HRA) that allows employers to reimburse out-of-pocket medical expenses and premiums for employees' family members enrolled in a spouse's health plan, potentially covering",
+      "stage": "SERIES_A",
+      "last_amount": 14000000.0,
+      "total": 18045000.0,
+      "investors": [
+        "Pioneer Fund",
+        "North Coast Ventures",
+        "111° West Capital",
+        "First Round Capital"
+      ],
+      "location": "Columbus, Ohio"
+    },
+    {
+      "name": "Rewind",
+      "domain": "rewind.com",
+      "desc": "The company provides automated backup and restoration solutions for various SaaS applications, ensuring the security of user data and business continuity. Key technologies include rapid data recovery processes, comprehen",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 80202936.0,
+      "investors": [
+        "FundFire",
+        "Inovia Capital",
+        "Insight Partners",
+        "Atlassian Ventures"
+      ],
+      "location": "Ottawa, Ontario"
+    },
+    {
+      "name": "Fish Audio",
+      "domain": "fish.audio",
+      "desc": "The company offers an AI text-to-speech platform that employs advanced voice cloning technology to produce high-quality audio with emotional nuance in multiple languages. It features a customizable API for real-time voic",
+      "stage": "SEED",
+      "last_amount": 52000000.0,
+      "total": 52000000.0,
+      "investors": [
+        "Play Time",
+        "645 Ventures",
+        "HF0",
+        "Carya"
+      ],
+      "location": "Mountain View, CA"
     },
     {
       "name": "Coverwatch",
@@ -135,6 +165,51 @@
         "CoFound",
         "Restive Ventures",
         "Liquid 2 Ventures"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Pangram Labs",
+      "domain": "pangram.com",
+      "desc": "Pangram Labs provides an AI detection tool that utilizes natural language processing and deep learning techniques to identify AI-generated content by analyzing structural, stylistic, and semantic patterns in text. The sy",
+      "stage": "SEED",
+      "last_amount": 9000000.0,
+      "total": 12950000.0,
+      "investors": [
+        "ScOp Venture Capital",
+        "Script Capital",
+        "Haystack",
+        "Cadenza"
+      ],
+      "location": "Brooklyn, NY"
+    },
+    {
+      "name": "Terminal (YC S23)",
+      "domain": "withterminal.com",
+      "desc": "The company provides a telematics data infrastructure platform that integrates GPS data and vehicle metrics through a Universal API, specifically designed for commercial applications in insurance and fleet management. It",
+      "stage": "SERIES_A",
+      "last_amount": 20000000.0,
+      "total": 23591074.0,
+      "investors": [
+        "Golden Ventures",
+        "Boon Fund",
+        "Northside Ventures",
+        "McVestCo VC"
+      ],
+      "location": "Toronto, Ontario"
+    },
+    {
+      "name": "COR",
+      "domain": "projectcor.com",
+      "desc": "The company offers management software tailored for agencies, leveraging AI to automate time tracking and provide real-time project visibility. Key features include workload optimization and detailed operational insights",
+      "stage": "SERIES_A",
+      "last_amount": 30000000.0,
+      "total": 36039671.0,
+      "investors": [
+        "500 Global",
+        "Global Founders Capital",
+        "ScOp Venture Capital",
+        "FTV Capital"
       ],
       "location": "San Francisco, California"
     },
@@ -154,106 +229,34 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Healia Health (YC W24)",
-      "domain": "healiahealth.com",
-      "desc": "Healia offers a health reimbursement arrangement (HRA) that allows employers to reimburse out-of-pocket medical expenses and premiums for employees' family members enrolled in a spouse's health plan, potentially covering",
-      "stage": "SERIES_A",
-      "last_amount": 14000000.0,
-      "total": 18045000.0,
-      "investors": [
-        "Pioneer Fund",
-        "North Coast Ventures",
-        "111° West Capital",
-        "First Round Capital"
-      ],
-      "location": "Columbus, Ohio"
-    },
-    {
-      "name": "COR",
-      "domain": "projectcor.com",
-      "desc": "The company offers management software tailored for agencies, leveraging AI to automate time tracking and provide real-time project visibility. Key features include workload optimization and detailed operational insights",
-      "stage": "SERIES_A",
-      "last_amount": 30000000.0,
-      "total": 36039671.0,
-      "investors": [
-        "500 Global",
-        "Global Founders Capital",
-        "ScOp Venture Capital",
-        "FTV Capital"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Tripo AI",
-      "domain": "tripo3d.ai",
-      "desc": "The main product is an AI-powered platform that generates high-quality 3D models from text, images, or sketches, featuring automatic rigging and intelligent segmentation for improved model organization. It employs advanc",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 200000000.0,
-      "investors": [
-        "Hengxu Capital",
-        "Geely Capital",
-        "Baidu Venture",
-        "INCE Capital"
-      ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "Jusfy",
-      "domain": "jusfy.com.br",
-      "desc": "The main product is a comprehensive legal platform that integrates automated financial calculation tools, document management, and access to extensive legal databases to enhance the efficiency of legal professionals. It ",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 21525393.0,
-      "investors": [
-        "FJ Labs",
-        "Citrino Gestão de Recursos",
-        "SaaSholic",
-        "MAYA CAPITAL"
-      ],
-      "location": "Brasil"
-    },
-    {
-      "name": "Mbanq",
-      "domain": "mbanq.com",
-      "desc": "Mbanq provides a comprehensive digital banking platform that integrates cloud-based core banking technology with modular architecture and open banking APIs, enabling the seamless incorporation of various financial servic",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 159900000.0,
-      "investors": [
-        "Temenos"
-      ],
-      "location": "Naples, Florida"
-    },
-    {
-      "name": "CRMNEXT",
-      "domain": "crmnext.us",
-      "desc": "The main product is a customer relationship management system specifically designed for banks and credit unions, which focuses on data orchestration and seamless integration with existing systems. It utilizes AI and mach",
+      "name": "PEX",
+      "domain": "pexcard.com",
+      "desc": "The company offers a platform for managing corporate cards and employee spending, which includes features such as automated expense tracking, approval workflows, and real-time reporting. It utilizes a proprietary payment",
       "stage": "SERIES_C",
-      "last_amount": 40000000.0,
-      "total": 103000000.0,
+      "last_amount": 160000000.0,
+      "total": 181101421.0,
       "investors": [
-        "ServiceNow Ventures",
-        "Avataar Venture Partners",
-        "ServiceNow",
-        "Ascent Capital"
+        "New York Angels",
+        "Clear Haven Capital Management, LLC",
+        "Inovia Capital",
+        "Augury Capital"
       ],
-      "location": "Candor Tech Space, Ground Floor, Tower 1, 12th Floor, Tower 5, Sector 62, Noida, Uttar Pradesh 201309, India"
+      "location": "New York, NY"
     },
     {
-      "name": "Cashboard (YC S22)",
-      "domain": "cashboard.finance",
-      "desc": "Cashboard is an analytics platform that automates financial planning and analysis by integrating data from over 400 sources, allowing for the creation of real-time reports and customizable dashboards. It utilizes AI for ",
-      "stage": "SEED",
-      "last_amount": 5000000.0,
-      "total": 6500000.0,
+      "name": "5U AI",
+      "domain": "5u.ai",
+      "desc": "5U AI offers a digital workforce that automates various freight operations tasks, including order entry, customer notifications, and document processing, by integrating with existing systems to enhance efficiency. The te",
+      "stage": "PRE_SEED",
+      "last_amount": 3200000.0,
+      "total": 3200000.0,
       "investors": [
-        "TTV Capital",
-        "Y Combinator",
-        "Gaingels",
-        "FINTOP"
+        "A.P. Moller - Maersk",
+        "Emerge Capital",
+        "DHL",
+        "CEVA Logistics"
       ],
-      "location": "New York, New York"
+      "location": "Munich"
     },
     {
       "name": "Procode AI",
@@ -271,19 +274,19 @@
       "location": "C/O PROCODE INC, 1398 Miller Drive, Los Angeles, CA 90069, United States"
     },
     {
-      "name": "Innerlogic",
-      "domain": "innerlogic.com",
-      "desc": "The main product is an AI-driven platform that centralizes employee feedback and survey data, utilizing advanced algorithms and predictive models to generate actionable insights for improving engagement and organizationa",
-      "stage": "SEED",
-      "last_amount": 11500000.0,
-      "total": 12569286.0,
+      "name": "Tripo AI",
+      "domain": "tripo3d.ai",
+      "desc": "The main product is an AI-powered platform that generates high-quality 3D models from text, images, or sketches, featuring automatic rigging and intelligent segmentation for improved model organization. It employs advanc",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 200000000.0,
       "investors": [
-        "PTX Capital",
-        "Bison Ventures",
-        "Techstars",
-        "Tidal Venture Partners"
+        "Hengxu Capital",
+        "Geely Capital",
+        "Baidu Venture",
+        "INCE Capital"
       ],
-      "location": "Halifax, Nova Scotia"
+      "location": "San Francisco"
     },
     {
       "name": "Weave",
@@ -301,6 +304,33 @@
       "location": ""
     },
     {
+      "name": "Mbanq",
+      "domain": "mbanq.com",
+      "desc": "Mbanq provides a comprehensive digital banking platform that integrates cloud-based core banking technology with modular architecture and open banking APIs, enabling the seamless incorporation of various financial servic",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 159900000.0,
+      "investors": [
+        "Temenos"
+      ],
+      "location": "Naples, Florida"
+    },
+    {
+      "name": "Mentor Collective",
+      "domain": "mentorcollective.org",
+      "desc": "The main product is a technology platform that connects students with mentors to enhance engagement and retention in higher education. It utilizes data analytics to evaluate student needs and address issues related to at",
+      "stage": "SERIES_A",
+      "last_amount": 2000000.0,
+      "total": 30366188.0,
+      "investors": [
+        "IU Ventures",
+        "Techstars",
+        "Strada Education Foundation",
+        "JHH vc"
+      ],
+      "location": "Boston, Massachusetts"
+    },
+    {
       "name": "RealWear",
       "domain": "realwear.com",
       "desc": "RealWear provides AI-voice-powered smart glasses designed to enhance productivity and safety for frontline workers by facilitating remote expert guidance and managing digital workflows. The technology integrates with ind",
@@ -316,19 +346,19 @@
       "location": "Vancouver, WA"
     },
     {
-      "name": "Fish Audio",
-      "domain": "fish.audio",
-      "desc": "The company offers an AI text-to-speech platform that employs advanced voice cloning technology to produce high-quality audio with emotional nuance in multiple languages. It features a customizable API for real-time voic",
-      "stage": "SEED",
-      "last_amount": 52000000.0,
-      "total": 52000000.0,
+      "name": "Freehand",
+      "domain": "freehand.ai",
+      "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
+      "stage": "SERIES_B",
+      "last_amount": 75000000.0,
+      "total": 75000000.0,
       "investors": [
-        "Play Time",
-        "645 Ventures",
-        "HF0",
-        "Carya"
+        "NewRoad Capital Partners",
+        "Nexus Venture Partners",
+        "Chiratae Ventures",
+        "N47"
       ],
-      "location": "Mountain View, CA"
+      "location": "San Francisco"
     },
     {
       "name": "ASUENE Inc.",
@@ -346,6 +376,21 @@
       "location": "Minato-Ku, Tokyo"
     },
     {
+      "name": "Tiger Technology",
+      "domain": "tiger-technology.com",
+      "desc": "Tiger Technology offers data management software that enhances on-premises storage while enabling hybrid cloud workflows, particularly suited for high-performance applications. Their solutions support efficient data life",
+      "stage": "SERIES_A",
+      "last_amount": 10020472.0,
+      "total": 22026478.0,
+      "investors": [
+        "TDJ",
+        "Endeavor Catalyst",
+        "MFG Invest",
+        "IMPETUS Capital"
+      ],
+      "location": "Sofia"
+    },
+    {
       "name": "Essence App",
       "domain": "theessence.app",
       "desc": "The Essence App is a digital productivity tool designed to help users enhance their well-being by synchronizing their activities with their menstrual cycle, featuring period tracking and tailored recommendations. It empl",
@@ -359,21 +404,6 @@
         "Berkeley SkyDeck Fund"
       ],
       "location": "Lewes, Delaware"
-    },
-    {
-      "name": "Tiger Technology",
-      "domain": "tiger-technology.com",
-      "desc": "Tiger Technology offers data management software that enhances on-premises storage while enabling hybrid cloud workflows, particularly suited for high-performance applications. Their solutions support efficient data life",
-      "stage": "SERIES_A",
-      "last_amount": 9880972.0,
-      "total": 21322688.0,
-      "investors": [
-        "TDJ",
-        "Endeavor Catalyst",
-        "MFG Invest",
-        "IMPETUS Capital"
-      ],
-      "location": "Sofia"
     },
     {
       "name": "Wify Technologies",
@@ -391,34 +421,18 @@
       "location": "D-704, Remi Bizcourt, Off Veera Desai Road, Mumbai, Maharashtra 400053, India"
     },
     {
-      "name": "5U AI",
-      "domain": "5u.ai",
-      "desc": "5U AI provides digital AI workers that automate tasks in freight operations, such as order entry, quoting, and customer communication, by integrating with existing systems. These AI workers process unstructured data from",
-      "stage": "PRE_SEED",
-      "last_amount": 3200000.0,
-      "total": 3200000.0,
+      "name": "Curant.ai",
+      "domain": "curant.ai",
+      "desc": "Curant AI is modernizing disability claims workflows",
+      "stage": "SEED",
+      "last_amount": 3100000.0,
+      "total": 3100000.0,
       "investors": [
-        "A.P. Moller - Maersk",
-        "Emerge Capital",
-        "DHL",
-        "CEVA Logistics"
+        "Humania Assurance Inc.",
+        "Diagram",
+        "Blue Plains Capital"
       ],
-      "location": "Munich"
-    },
-    {
-      "name": "PolyBox.app",
-      "domain": "polybox.app",
-      "desc": "PolyBox is a platform that automates marketing analytics, allowing users to generate reports and insights from over 700 data sources, including social media and web analytics. It employs AI and machine learning to facili",
-      "stage": "PRE_SEED",
-      "last_amount": 401257.0,
-      "total": 1171036.0,
-      "investors": [
-        "Innovate UK",
-        "Creative UK",
-        "The North East Fund Ltd.",
-        "Northstar Ventures"
-      ],
-      "location": "Newcastle Upon Tyne"
+      "location": "Saint George, UT, United States"
     },
     {
       "name": "Pagemind.ai",
@@ -436,34 +450,17 @@
       "location": "Barcelona, Catalonia, Spain"
     },
     {
-      "name": "FlareLane",
-      "domain": "flarelane.com",
-      "desc": "FlareLane offers a customer engagement platform that enables personalized messaging through various channels such as mobile push, web push, SMS, and in-app notifications. The platform features event-based automation, A/B",
-      "stage": "SEED",
-      "last_amount": 540800.0,
-      "total": 1050594.0,
-      "investors": [
-        "Ryukyung PSG Asset Management",
-        "Ministry of SMEs and Startups, Republic of Korea, 대한민국 중소벤처기업부",
-        "Sazze Partners",
-        "Bridge Alliance Partners"
-      ],
-      "location": "Middletown, Delaware"
-    },
-    {
-      "name": "Zazu",
-      "domain": "get-zazu.com",
-      "desc": "Zazu offers a comprehensive banking solution designed for African entrepreneurs and small to medium-sized enterprises, featuring an all-in-one business account that includes payment cards, real-time transfers, invoicing,",
+      "name": "EviData, powered by Woodway Assurance",
+      "domain": "woodway-assurance.com",
+      "desc": "EviData offers an enterprise software solution that automates the assessment of de-identified and anonymized datasets to evaluate re-identification risks while ensuring compliance with recognized privacy standards. The p",
       "stage": "SEED",
       "last_amount": 0,
       "total": 1000000.0,
       "investors": [
-        "Plug and Play",
-        "Launch Africa Ventures",
-        "Fiat Republic",
-        "Axel Peyriere"
+        "Nina Capital",
+        "Aventure Capital"
       ],
-      "location": "Innovation City Cape Town, ZA"
+      "location": "Ottawa"
     },
     {
       "name": "Siigo",
@@ -478,44 +475,47 @@
       "location": "Bogotá D.C. , Cundinamarca"
     },
     {
-      "name": "Greenhouse OS",
-      "domain": "greenhouseos.com",
-      "desc": "Greenhouse OS is a customizable CRM platform tailored for estate and letting agencies, enabling automation of tasks such as prospecting, booking viewings, and tracking sales progression through AI integration. The platfo",
-      "stage": "SEED",
-      "last_amount": 1203771.0,
-      "total": 1203771.0,
-      "investors": [
-        "Finance Yorkshire"
-      ],
-      "location": "York, England"
+      "name": "Olomon",
+      "domain": "olomon.com",
+      "desc": "Olomon provides a personal finance and spend management platform that consolidates financial data from various sources, allowing users to track both traditional and alternative assets through a secure dashboard. The plat",
+      "stage": "PRE_SEED",
+      "last_amount": 2600000.0,
+      "total": 2600000.0,
+      "investors": [],
+      "location": "Brentwood, TN"
     },
     {
-      "name": "Supreium Technology",
-      "domain": "supreium.com",
-      "desc": "The main product is a Computer-Aided Engineering (CAE) platform that utilizes advanced algorithms to tackle challenges related to force, heat, light, sound, and electromagnetic fields, enhancing industrial design and man",
-      "stage": "SERIES_B",
-      "last_amount": 14700000.0,
-      "total": 29656178.0,
+      "name": "Superstat Limited",
+      "domain": "superstat.co.uk",
+      "desc": "Superstat provides a suite of products and services tailored for independent dealers, including sales and marketing CRM software and a variety of marketing tools for both online and offline use. The company also offers c",
+      "stage": "PRE_SEED",
+      "last_amount": 3500000.0,
+      "total": 3500000.0,
       "investors": [
-        "方信资本",
-        "Bridge Capital",
-        "Yajie Shanghui",
-        "Shenzhen Capital Group Co., Ltd"
+        "Blackbird",
+        "Chris Naoumidis"
       ],
-      "location": "Beijing, Beijing"
+      "location": "Unit 3 Rawdon Park, Green Lane Rawdon Leeds, West Yorkshire LS19 7BA, GB"
     },
     {
-      "name": "Infinity, Inc.",
-      "domain": "infinityinc.us",
-      "desc": "Infinity, Inc. offers managed IT services that include network security, cybersecurity, unified communications, and business continuity solutions tailored for small and medium-sized businesses. Their technology is design",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 15000000.0,
-      "investors": [
-        "Touring Capital",
-        "Principal VC"
-      ],
-      "location": "Savannah, GA"
+      "name": "OFINTECH",
+      "domain": "ofintech.co",
+      "desc": "OfinTech is an AI-powered platform for automated financial management. It provides insights into spending, cash flow, and investments with cloud access. OfinTech enhances efficiency, accuracy, and decision-making, helpin",
+      "stage": "PRE_SEED",
+      "last_amount": 100000.0,
+      "total": 100000.0,
+      "investors": [],
+      "location": "Riyadh"
+    },
+    {
+      "name": "Bootheo — Photo Booth Operations Software",
+      "domain": "bootheo.com",
+      "desc": "Bootheo is the back-of-house operations platform for photo booth operators. Manage gear checklists, crew assignments, and run of show — all from your phone.",
+      "stage": "PRE_SEED",
+      "last_amount": 150000.0,
+      "total": 150000.0,
+      "investors": [],
+      "location": ""
     },
     {
       "name": "Hello Cashflow",

@@ -1,6 +1,34 @@
 {
-  "generated": "2026-07-29",
+  "generated": "2026-07-30",
   "companies": [
+    {
+      "name": "NetBox Labs",
+      "domain": "netboxlabs.com",
+      "stage": "Series B",
+      "months_since": 13,
+      "last_raise_date": "2025-07-14",
+      "last_raise_source": "Harmonic (by domain)",
+      "funding_total": 55000000.0,
+      "cycle": "approaching",
+      "basis": "signal",
+      "status": "Entering window + momentum",
+      "likelihood": "Medium",
+      "rank": 3,
+      "strong_signals": 0,
+      "supporting_signals": 1,
+      "finance_leadership_open": false,
+      "open_roles": 11,
+      "signals": [
+        "13 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
+        "Last round: 2025-07-14 (Harmonic (by domain))",
+        "Conference/roadshow presence: y Meetup Sep 15, 2026 | 11:00 AM EST | 15:00 UTC Event NetBox Labs Partner Summi",
+        "Basis: live signal"
+      ],
+      "url": "https://netboxlabs.com",
+      "links": [
+        "https://netboxlabs.com/events"
+      ]
+    },
     {
       "name": "Salient",
       "domain": "trysalient.com",
@@ -25,34 +53,6 @@
       ],
       "url": "https://trysalient.com",
       "links": []
-    },
-    {
-      "name": "NetBox Labs",
-      "domain": "netboxlabs.com",
-      "stage": "Series B",
-      "months_since": 12,
-      "last_raise_date": "2025-07-14",
-      "last_raise_source": "Harmonic (by domain)",
-      "funding_total": 55000000.0,
-      "cycle": "approaching",
-      "basis": "signal",
-      "status": "Entering window + momentum",
-      "likelihood": "Medium",
-      "rank": 3,
-      "strong_signals": 0,
-      "supporting_signals": 1,
-      "finance_leadership_open": false,
-      "open_roles": 11,
-      "signals": [
-        "12 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
-        "Last round: 2025-07-14 (Harmonic (by domain))",
-        "Conference/roadshow presence: y Meetup Sep 15, 2026 | 11:00 AM EST | 15:00 UTC Event NetBox Labs Partner Summi",
-        "Basis: live signal"
-      ],
-      "url": "https://netboxlabs.com",
-      "links": [
-        "https://netboxlabs.com/events"
-      ]
     },
     {
       "name": "Bretton",
