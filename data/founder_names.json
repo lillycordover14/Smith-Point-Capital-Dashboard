@@ -123,8 +123,9 @@
   "vedanatherapeutics": {
     "name": "Anurag Agarwal",
     "title": "Co-Founder & CEO",
-    "email": "",
-    "source": "pitchbook (no company-domain email available)"
+    "email": "anurag.agarwal@scimals.com",
+    "source": "pitchbook",
+    "note": "Off-domain address (his SCIMALS email); Harmonic lists Vedana's domain as vedanatx.com."
   },
   "sandstone": {
     "name": "",
@@ -136,7 +137,8 @@
     "name": "",
     "title": "",
     "email": "",
-    "source": "unresolved (name collision — Harmonic/PB best match is an unrelated company)"
+    "source": "unresolved",
+    "note": "No current founder/CEO with an on-domain email. Harmonic's 'Fomo' record is the social-proof marketing company acquired by Relay Commerce in 2022 — likely not the fintech in the feed. Needs manual company ID before outreach."
   },
   "whale": {
     "name": "",
@@ -160,6 +162,31 @@
     "name": "Francis Thumpasery",
     "title": "Co-Founder & CEO",
     "email": "francis@permitflow.com",
+    "source": "harmonic"
+  },
+  "pex": {
+    "name": "Toffer Grant",
+    "title": "CEO & Founder",
+    "email": "tgrant@pexcard.com",
+    "source": "harmonic"
+  },
+  "freehand": {
+    "name": "Nitin Jayakrishnan",
+    "title": "Co-Founder & CEO",
+    "email": "nitin.jayakrishnan@pando.ai",
+    "source": "harmonic",
+    "note": "Email is on pando.ai (Freehand's prior brand) — no freehand.ai address in Harmonic or PitchBook."
+  },
+  "terminalycs23": {
+    "name": "Raghav Midha",
+    "title": "Co-Founder & CEO",
+    "email": "raghav@withterminal.com",
+    "source": "harmonic"
+  },
+  "mbanq": {
+    "name": "Vlad Lounegov",
+    "title": "CEO",
+    "email": "vladimir.lounegov@mbanq.com",
     "source": "harmonic"
   }
 }
