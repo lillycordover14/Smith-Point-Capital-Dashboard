@@ -3,7 +3,7 @@
   "window_days": 45,
   "counts": {
     "actionable": 11,
-    "watchlist": 21,
+    "watchlist": 23,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -321,6 +321,23 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
+      "company": "Dimension Studios",
+      "desc": "Data infrastructure",
+      "theme": "Data Management",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": 2,
+      "investors": [],
+      "date": "2026-07-30",
+      "link": "https://dimensionstudios.co",
+      "domain": "3dimensionstudios.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
       "company": "EviData, powered by Woodway Assurance",
       "desc": "Financial back-office & compliance AI",
       "theme": "Precision Applications",
@@ -402,6 +419,23 @@
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Hush Security",
+      "desc": "Hush Security Raises $30M to Close AI Agent Governance Gap",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Venture",
+      "amount_m": 30,
+      "investors": [],
+      "date": "2026-07-28",
+      "link": "https://ventureburn.com/hush-security-raises-30m-ai-agent-governance-gap/",
+      "domain": "hushsecurity.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
@@ -528,28 +562,23 @@
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
     },
     {
-      "company": "STARK",
-      "desc": "Defense & national security",
+      "company": "Assort Health",
+      "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
-      "vertical": "Defense",
+      "vertical": "Healthcare",
       "stage": "Venture",
       "amount_m": null,
       "investors": [
-        "Founders Fund"
+        "Menlo"
       ],
       "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DOWc1N0tLcWZ4bFowSXJCMG5GcDd4WEVIMEI1bklPNEljVlYtSXVIMW1Vd3VjWFdCTVRNYXJCM29mbUNoWnhtdHVzUURESkVvYnpYUE9jRlE0Wmt2b25taTg4ZzlFVnlVdWJqV2RWODJQeFdqQ09YTE5n?oc=5",
-      "domain": "starkbros.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHFBZkpGREh2N3hscnoyeWZPRFFLZGJaLUw4VVBQMWxWMnBBOXBYNlE2SEFIZVhtaDVYRHJKMGI2My0xTUg0T1FMYzBxb0ZpX0pSQ3c2U0xBdW5yMkpHc3hCcFBudVd1T3lhTjd0UUlYZlo1RXRHVWY0TFhCdHpxcnRxUDh5dFM5ZWQ1MUJMeTJuUDFoY3FBOERIb0poUERNVFNkdlBMMkh3Zw?oc=5",
+      "domain": "assorthealth.com",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
       "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Founders Fund — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
     },
     {
       "company": "Ladder Health",
@@ -569,6 +598,35 @@
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "STARK",
+      "desc": "Defense & national security",
+      "theme": "Precision Applications",
+      "vertical": "Defense",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [
+        "Founders Fund",
+        "Sequoia"
+      ],
+      "date": "2026-06-23",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFVHTThQT2FOUWZhUVpnSk5JeTdGUk04bGdwZDFVYW1JOUlSNHVBeXFHZ3hYUGh3NUVEeVVhUDlCOHRjTm1aWXZMcjVDR1lvRmprRExSYUVQSGpQZ2R3ZDhBb1JieUdtbHZ0c0NfUlkxM0Jxb1lmdUNLbHh3eXdoZ1dUZzRtWldzNjhPTV9PWER0R0EwaUR2eGppd1RxZGdLRko4bFZPUWlodUh3aDFGcEN0WGxYeHFnVGp3MWd0OTRhZFptUVpBcg?oc=5",
+      "domain": "starkbros.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "funds",
+      "connections": [
+        {
+          "kind": "co-investor",
+          "detail": "Backed by Founders Fund — a fund SPC gets intros through"
+        },
+        {
+          "kind": "co-investor",
+          "detail": "Backed by Sequoia — a fund SPC gets intros through"
+        }
+      ],
+      "connection_status": "prospective (web) — confirmed weekly via Affinity"
     },
     {
       "company": "Portal Biotechnologies",
@@ -615,23 +673,6 @@
         }
       ],
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
-    },
-    {
-      "company": "Swedish legaltech startup Lightbringer",
-      "desc": "Swedish legaltech startup Lightbringer secures $10M Series A to expand AI - powered patent platform",
-      "theme": "Precision Applications",
-      "vertical": "Legal",
-      "stage": "Series A",
-      "amount_m": 10,
-      "investors": [],
-      "date": "2026-06-16",
-      "link": "https://arcticstartup.com/lightbringer-raises-10m-series-a/",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Series A ($10M) — track for the next round",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
     }
   ],
   "enriched": false,

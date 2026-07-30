@@ -1,7 +1,7 @@
 {
   "generated": "2026-07-30",
   "mode": "full",
-  "count": 37,
+  "count": 46,
   "companies": [
     {
       "name": "Paper",
@@ -64,6 +64,21 @@
       "location": "New York City, New York, US"
     },
     {
+      "name": "Coverwatch",
+      "domain": "coverwatch.com",
+      "desc": "The company provides insurance brokerage services that leverage advanced technologies, including AI, to analyze risk profiles and optimize coverage for complex business risks. This technology enables the quick generation",
+      "stage": "PRE_SEED",
+      "last_amount": 4500000.0,
+      "total": 4500000.0,
+      "investors": [
+        "Kfund",
+        "CoFound",
+        "Restive Ventures",
+        "Liquid 2 Ventures"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
       "name": "Scape",
       "domain": "scape.app",
       "desc": "The product is an AI-native CRM that automates the capture and organization of customer interactions, including emails and meeting notes, to improve task management and information accessibility. It utilizes technologies",
@@ -97,9 +112,9 @@
       "name": "Centralize",
       "domain": "usecentralize.com",
       "desc": "The product is a centralized platform for sales teams that consolidates customer interactions and insights, utilizing large language models to enhance the understanding of stakeholder relationships. It integrates with ov",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 4500000.0,
+      "stage": "SERIES_A",
+      "last_amount": 19000000.0,
+      "total": 23500000.0,
       "investors": [
         "20SALES",
         "New Enterprise Associates (NEA)",
@@ -154,21 +169,6 @@
       "location": "Mountain View, CA"
     },
     {
-      "name": "Coverwatch",
-      "domain": "coverwatch.com",
-      "desc": "The company provides insurance brokerage services that leverage advanced technologies, including AI, to analyze risk profiles and optimize coverage for complex business risks. This technology enables the quick generation",
-      "stage": "PRE_SEED",
-      "last_amount": 4500000.0,
-      "total": 4500000.0,
-      "investors": [
-        "Kfund",
-        "CoFound",
-        "Restive Ventures",
-        "Liquid 2 Ventures"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
       "name": "Pangram Labs",
       "domain": "pangram.com",
       "desc": "Pangram Labs provides an AI detection tool that utilizes natural language processing and deep learning techniques to identify AI-generated content by analyzing structural, stylistic, and semantic patterns in text. The sy",
@@ -177,11 +177,26 @@
       "total": 12950000.0,
       "investors": [
         "ScOp Venture Capital",
+        "Haystack Ventures",
         "Script Capital",
-        "Haystack",
-        "Cadenza"
+        "Haystack"
       ],
       "location": "Brooklyn, NY"
+    },
+    {
+      "name": "LemonEdge",
+      "domain": "lemonedge.com",
+      "desc": "LemonEdge offers fund accounting software specifically designed for private markets, focusing on automating end-to-end accounting processes to improve scalability. The platform utilizes low-code, cloud-native architectur",
+      "stage": "SERIES_A",
+      "last_amount": 21000000.0,
+      "total": 28184000.0,
+      "investors": [
+        "Sidekick Partners",
+        "BNY Mellon",
+        "Tikhon Bernstam",
+        "Blackstone"
+      ],
+      "location": "London"
     },
     {
       "name": "Terminal (YC S23)",
@@ -206,10 +221,10 @@
       "last_amount": 30000000.0,
       "total": 36039671.0,
       "investors": [
+        "GFC",
         "500 Global",
         "Global Founders Capital",
-        "ScOp Venture Capital",
-        "FTV Capital"
+        "ScOp Venture Capital"
       ],
       "location": "San Francisco, California"
     },
@@ -331,6 +346,21 @@
       "location": "Boston, Massachusetts"
     },
     {
+      "name": "Intropy",
+      "domain": "intropy.ai",
+      "desc": "Developer of an AI-powered operating system designed to optimize operations in the parts and equipment industries. The company's system offers modular tools for pricing optimization, lead generation, distribution plannin",
+      "stage": "SEED",
+      "last_amount": 11000000.0,
+      "total": 11000000.0,
+      "investors": [
+        "Quiet Capital",
+        "General Catalyst",
+        "firstminute capital",
+        "Felix Capital"
+      ],
+      "location": "30 Churchill Place, London E14 5RE, England, United Kingdom"
+    },
+    {
       "name": "RealWear",
       "domain": "realwear.com",
       "desc": "RealWear provides AI-voice-powered smart glasses designed to enhance productivity and safety for frontline workers by facilitating remote expert guidance and managing digital workflows. The technology integrates with ind",
@@ -346,21 +376,6 @@
       "location": "Vancouver, WA"
     },
     {
-      "name": "Freehand",
-      "domain": "freehand.ai",
-      "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
-      "stage": "SERIES_B",
-      "last_amount": 75000000.0,
-      "total": 75000000.0,
-      "investors": [
-        "NewRoad Capital Partners",
-        "Nexus Venture Partners",
-        "Chiratae Ventures",
-        "N47"
-      ],
-      "location": "San Francisco"
-    },
-    {
       "name": "ASUENE Inc.",
       "domain": "asuene.com",
       "desc": "The company provides a cloud-based service for visualizing and managing greenhouse gas emissions, focusing on CO2 reduction and carbon offset support throughout the supply chain. It utilizes technologies such as AI-OCR f",
@@ -374,6 +389,21 @@
         "JERA Co., Inc."
       ],
       "location": "Minato-Ku, Tokyo"
+    },
+    {
+      "name": "Freehand",
+      "domain": "freehand.ai",
+      "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
+      "stage": "SERIES_B",
+      "last_amount": 75000000.0,
+      "total": 75000000.0,
+      "investors": [
+        "NewRoad Capital Partners",
+        "Nexus Venture Partners",
+        "Chiratae Ventures",
+        "N47"
+      ],
+      "location": "San Francisco"
     },
     {
       "name": "Tiger Technology",
@@ -463,6 +493,50 @@
       "location": "Ottawa"
     },
     {
+      "name": "Polar",
+      "domain": "polarbrowser.com",
+      "desc": "With just words, automate quick to hours-long tasks like research, recruiting, sales, ops, running a business, and more",
+      "stage": "SEED",
+      "last_amount": 5700000.0,
+      "total": 5700000.0,
+      "investors": [
+        "Madrona",
+        "Thomas Dohmke",
+        "Erik Bernhardsson"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Levels",
+      "domain": "levels.tech",
+      "desc": "Levels provides technology-driven solutions for block and estate management, integrating operational systems to enhance efficiency and reduce administrative burdens. Their approach combines human oversight with AI-driven",
+      "stage": "PRE_SEED",
+      "last_amount": 668364.0,
+      "total": 4668364.0,
+      "investors": [
+        "British Business Bank",
+        "OpenOcean",
+        "KOMPAS VC",
+        "2150"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Dimension Studios",
+      "domain": "dimensionstudios.co",
+      "desc": "Dimension provides an AI-driven platform for managing TikTok shops, automating tasks such as affiliate management and customer support while delivering real-time performance analytics. The technology utilizes advanced AI",
+      "stage": "SEED",
+      "last_amount": 1650000.0,
+      "total": 1650000.0,
+      "investors": [
+        "OpenSky Ventures",
+        "Long Run Capital",
+        "Lawrence Hsu",
+        "Science"
+      ],
+      "location": "Santa Monica, California"
+    },
+    {
       "name": "Siigo",
       "domain": "siigo.com",
       "desc": "The company offers a cloud-based administrative and accounting system designed for small and medium-sized enterprises, featuring capabilities such as electronic invoicing, payroll management, inventory tracking, and poin",
@@ -485,6 +559,35 @@
       "location": "Brentwood, TN"
     },
     {
+      "name": "Built Financial Technologies",
+      "domain": "built.africa",
+      "desc": "The company provides a financial software platform designed for small and medium-sized enterprises, featuring tools for invoicing, payroll management, and payment processing. It employs technologies that deliver real-tim",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 265000.0,
+      "investors": [
+        "Google for Startups",
+        "Fledge",
+        "Village Capital"
+      ],
+      "location": "Accra"
+    },
+    {
+      "name": "The Dimension Company",
+      "domain": "dimension.company",
+      "desc": "The main product is an AI-driven tool that generates production-ready CAD models from user-defined specifications, allowing for iterative refinement before geometry is created. It integrates with existing CAD software an",
+      "stage": "SEED",
+      "last_amount": 1650000.0,
+      "total": 1650000.0,
+      "investors": [
+        "OpenSky Ventures",
+        "Long Run Capital",
+        "Lawrence Hsu",
+        "Science"
+      ],
+      "location": "Daejeon"
+    },
+    {
       "name": "Superstat Limited",
       "domain": "superstat.co.uk",
       "desc": "Superstat provides a suite of products and services tailored for independent dealers, including sales and marketing CRM software and a variety of marketing tools for both online and offline use. The company also offers c",
@@ -496,6 +599,35 @@
         "Chris Naoumidis"
       ],
       "location": "Unit 3 Rawdon Park, Green Lane Rawdon Leeds, West Yorkshire LS19 7BA, GB"
+    },
+    {
+      "name": "TRIKKS",
+      "domain": "trikks.com",
+      "desc": "TRIKKS provides a flexible learning system designed for creating visual learning journeys that support both traditional e-learning and hybrid formats. The platform incorporates tools for digital content delivery, communi",
+      "stage": "SEED",
+      "last_amount": 5500000.0,
+      "total": 5500000.0,
+      "investors": [
+        "Fireside Ventures",
+        "Accel",
+        "Lightspeed India"
+      ],
+      "location": "Oslo, Lysaker"
+    },
+    {
+      "name": "ENCORE-AI",
+      "domain": "encore-ai.com",
+      "desc": "Encore-AI provides a software platform tailored for the restaurant industry, utilizing dynamic QR codes, customer feedback systems, and third-party API integrations to enhance customer lifecycle management. The platform ",
+      "stage": "SERIES_A",
+      "last_amount": 30000000.0,
+      "total": 30000000.0,
+      "investors": [
+        "The Garage",
+        "Team8",
+        "Planven",
+        "Lukatz Investments"
+      ],
+      "location": "Houston, Texas"
     },
     {
       "name": "OFINTECH",
