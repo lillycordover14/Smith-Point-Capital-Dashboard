@@ -1778,5 +1778,30 @@
     "theme": "Healthcare & bio AI",
     "domain": "",
     "clean": "Assort Health"
+  },
+  "inforcer": {
+    "theme": "Cybersecurity",
+    "domain": "",
+    "clean": "inforcer"
+  },
+  "dili": {
+    "theme": "AI dev tooling",
+    "domain": "",
+    "clean": "Dili"
+  },
+  "smallestai": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "smallest.ai"
+  },
+  "discern": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Discern"
+  },
+  "carallel": {
+    "theme": "Healthcare & bio AI",
+    "domain": "",
+    "clean": "Carallel"
   }
 }

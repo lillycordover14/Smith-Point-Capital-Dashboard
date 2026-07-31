@@ -1,52 +1,22 @@
 {
-  "generated": "2026-07-30",
+  "generated": "2026-07-31",
   "mode": "full",
-  "count": 46,
+  "count": 42,
   "companies": [
     {
-      "name": "Paper",
-      "domain": "paper.design",
-      "desc": "The main product is a digital canvas that facilitates the integration of design tools, enabling seamless interaction between design and code through the import of code components. It employs web standards and AI support ",
-      "stage": "SERIES_A",
-      "last_amount": 34000000.0,
-      "total": 38200000.0,
+      "name": "Simile",
+      "domain": "simile.ai",
+      "desc": "The main product is a simulation platform that utilizes AI-driven generative agents to model human behavior, enabling users to analyze responses to various scenarios and enhance decision-making processes. This technology",
+      "stage": "SERIES_B",
+      "last_amount": 200000000.0,
+      "total": 300000000.0,
       "investors": [
-        "Designer Fund",
-        "OpenAI",
-        "basecase capital",
-        "ICONIQ"
+        "Index Ventures",
+        "Greenoaks",
+        "A*",
+        "Definition"
       ],
-      "location": "Palo Alto, CA, United States"
-    },
-    {
-      "name": "Harmony",
-      "domain": "harmony.io",
-      "desc": "The main product is an AI-driven enterprise service management platform that automates IT operations, enabling rapid resolution of service requests and proactive monitoring of system health. It employs intelligent agents",
-      "stage": "SEED",
-      "last_amount": 34000000.0,
-      "total": 58875000.0,
-      "investors": [
-        "Operator Partners",
-        "Fin Capital",
-        "Lightspeed Venture Partners",
-        "Hitachi Ventures"
-      ],
-      "location": "New York, NY"
-    },
-    {
-      "name": "Pelico",
-      "domain": "pelico.ai",
-      "desc": "Pelico offers a manufacturing orchestration platform that utilizes AI-driven agents to manage production disruptions and recommend recovery strategies across complex multi-level BOMs and multi-plant networks. The platfor",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 72000000.0,
-      "investors": [
-        "La Famiglia",
-        "Serena",
-        "ISAI",
-        "Carsten Thoma"
-      ],
-      "location": "Miami, Florida"
+      "location": "Palo Alto, CA"
     },
     {
       "name": "Henry AI",
@@ -64,17 +34,47 @@
       "location": "New York City, New York, US"
     },
     {
-      "name": "Coverwatch",
-      "domain": "coverwatch.com",
-      "desc": "The company provides insurance brokerage services that leverage advanced technologies, including AI, to analyze risk profiles and optimize coverage for complex business risks. This technology enables the quick generation",
-      "stage": "PRE_SEED",
-      "last_amount": 4500000.0,
-      "total": 4500000.0,
+      "name": "Dili",
+      "domain": "dili.com",
+      "desc": "The main product is an AI-powered compliance automation platform tailored for developers and EPC firms, focusing on adherence to prevailing wage and apprenticeship regulations in federally funded projects. It employs rea",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 18600000.0,
       "investors": [
-        "Kfund",
-        "CoFound",
-        "Restive Ventures",
-        "Liquid 2 Ventures"
+        "Google for Startups",
+        "Hyper Ventures",
+        "Rebel Fund",
+        "10X Capital"
+      ],
+      "location": "New York"
+    },
+    {
+      "name": "Harmony",
+      "domain": "harmony.io",
+      "desc": "The main product is an AI-driven enterprise service management platform that automates IT operations, enabling rapid resolution of service requests and proactive monitoring of system health. It employs intelligent agents",
+      "stage": "SEED",
+      "last_amount": 34000000.0,
+      "total": 58875000.0,
+      "investors": [
+        "Operator Partners",
+        "Fin Capital",
+        "Lightspeed Venture Partners",
+        "Hitachi Ventures"
+      ],
+      "location": "New York, NY"
+    },
+    {
+      "name": "smallest.ai",
+      "domain": "smallest.ai",
+      "desc": "The company offers a real-time AI platform featuring advanced multi-modal voice AI models that integrate text-to-speech and process both speech and text, employing active learning techniques to enhance communication accu",
+      "stage": "SERIES_A",
+      "last_amount": 13000000.0,
+      "total": 21325000.0,
+      "investors": [
+        "Better Capital",
+        "SIERRA Ventures",
+        "peercheque",
+        "DeVC"
       ],
       "location": "San Francisco, California"
     },
@@ -94,21 +94,6 @@
       "location": "San Francisco, CA, United States"
     },
     {
-      "name": "Rescale",
-      "domain": "rescale.com",
-      "desc": "The company offers a cloud-based high-performance computing (HPC) platform designed to enhance engineering and research applications through automated workflows and secure data management. It integrates AI technologies t",
-      "stage": "SERIES_D",
-      "last_amount": 0,
-      "total": 272400000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "伊藤忠テクノロジーベンチャーズ（株）",
-        "Jump Capital",
-        "Mitsubishi UFJ Capital Co.,Ltd."
-      ],
-      "location": "San Francisco, California"
-    },
-    {
       "name": "Centralize",
       "domain": "usecentralize.com",
       "desc": "The product is a centralized platform for sales teams that consolidates customer interactions and insights, utilizing large language models to enhance the understanding of stakeholder relationships. It integrates with ov",
@@ -122,36 +107,6 @@
         "Ritual Capital"
       ],
       "location": "2261 Market Street, Suite 5767, San Francisco, CA 94114, United States"
-    },
-    {
-      "name": "Healia Health (YC W24)",
-      "domain": "healiahealth.com",
-      "desc": "Healia offers a health reimbursement arrangement (HRA) that allows employers to reimburse out-of-pocket medical expenses and premiums for employees' family members enrolled in a spouse's health plan, potentially covering",
-      "stage": "SERIES_A",
-      "last_amount": 14000000.0,
-      "total": 18045000.0,
-      "investors": [
-        "Pioneer Fund",
-        "North Coast Ventures",
-        "111° West Capital",
-        "First Round Capital"
-      ],
-      "location": "Columbus, Ohio"
-    },
-    {
-      "name": "Rewind",
-      "domain": "rewind.com",
-      "desc": "The company provides automated backup and restoration solutions for various SaaS applications, ensuring the security of user data and business continuity. Key technologies include rapid data recovery processes, comprehen",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 80202936.0,
-      "investors": [
-        "FundFire",
-        "Inovia Capital",
-        "Insight Partners",
-        "Atlassian Ventures"
-      ],
-      "location": "Ottawa, Ontario"
     },
     {
       "name": "Fish Audio",
@@ -184,6 +139,51 @@
       "location": "Brooklyn, NY"
     },
     {
+      "name": "Terminal (YC S23)",
+      "domain": "withterminal.com",
+      "desc": "The company provides a telematics data infrastructure platform that integrates GPS data and vehicle metrics through a Universal API, specifically designed for commercial applications in insurance and fleet management. It",
+      "stage": "SERIES_A",
+      "last_amount": 20000000.0,
+      "total": 23591074.0,
+      "investors": [
+        "Golden Ventures",
+        "Boon Fund",
+        "Northside Ventures",
+        "McVestCo VC"
+      ],
+      "location": "Toronto, Ontario"
+    },
+    {
+      "name": "Healia Health (YC W24)",
+      "domain": "healiahealth.com",
+      "desc": "Healia offers a health reimbursement arrangement (HRA) that allows employers to reimburse out-of-pocket medical expenses and premiums for employees' family members enrolled in a spouse's health plan, potentially covering",
+      "stage": "SERIES_A",
+      "last_amount": 14000000.0,
+      "total": 18045000.0,
+      "investors": [
+        "Pioneer Fund",
+        "North Coast Ventures",
+        "111° West Capital",
+        "First Round Capital"
+      ],
+      "location": "Columbus, Ohio"
+    },
+    {
+      "name": "Rewind",
+      "domain": "rewind.com",
+      "desc": "The company provides automated backup and restoration solutions for various SaaS applications, ensuring the security of user data and business continuity. Key technologies include rapid data recovery processes, comprehen",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 80202936.0,
+      "investors": [
+        "FundFire",
+        "Inovia Capital",
+        "Insight Partners",
+        "Atlassian Ventures"
+      ],
+      "location": "Ottawa, Ontario"
+    },
+    {
       "name": "LemonEdge",
       "domain": "lemonedge.com",
       "desc": "LemonEdge offers fund accounting software specifically designed for private markets, focusing on automating end-to-end accounting processes to improve scalability. The platform utilizes low-code, cloud-native architectur",
@@ -199,19 +199,19 @@
       "location": "London"
     },
     {
-      "name": "Terminal (YC S23)",
-      "domain": "withterminal.com",
-      "desc": "The company provides a telematics data infrastructure platform that integrates GPS data and vehicle metrics through a Universal API, specifically designed for commercial applications in insurance and fleet management. It",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 23591074.0,
+      "name": "inforcer",
+      "domain": "inforcer.com",
+      "desc": "The product is a platform that facilitates the management of security policies across multiple Microsoft 365 tenants, employing technologies such as Intune, Azure AD, and Defender. It automates policy deployment, ensures",
+      "stage": "SERIES_C",
+      "last_amount": 50000000.0,
+      "total": 105806921.0,
       "investors": [
-        "Golden Ventures",
-        "Boon Fund",
-        "Northside Ventures",
-        "McVestCo VC"
+        "Insight Partners",
+        "Dawn Capital",
+        "Meritech Capital",
+        "Dawn Capital"
       ],
-      "location": "Toronto, Ontario"
+      "location": "London, England"
     },
     {
       "name": "COR",
@@ -244,6 +244,21 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "5U AI",
+      "domain": "5u.ai",
+      "desc": "5U AI offers a digital workforce that automates various freight operations tasks, including order entry, customer notifications, and document processing, by integrating with existing systems to enhance efficiency. The te",
+      "stage": "PRE_SEED",
+      "last_amount": 3200000.0,
+      "total": 3200000.0,
+      "investors": [
+        "A.P. Moller - Maersk",
+        "Emerge Capital",
+        "DHL",
+        "CEVA Logistics"
+      ],
+      "location": "Munich"
+    },
+    {
       "name": "PEX",
       "domain": "pexcard.com",
       "desc": "The company offers a platform for managing corporate cards and employee spending, which includes features such as automated expense tracking, approval workflows, and real-time reporting. It utilizes a proprietary payment",
@@ -259,19 +274,19 @@
       "location": "New York, NY"
     },
     {
-      "name": "5U AI",
-      "domain": "5u.ai",
-      "desc": "5U AI offers a digital workforce that automates various freight operations tasks, including order entry, customer notifications, and document processing, by integrating with existing systems to enhance efficiency. The te",
-      "stage": "PRE_SEED",
-      "last_amount": 3200000.0,
-      "total": 3200000.0,
+      "name": "Freehand",
+      "domain": "freehand.ai",
+      "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
+      "stage": "SERIES_B",
+      "last_amount": 75000000.0,
+      "total": 75000000.0,
       "investors": [
-        "A.P. Moller - Maersk",
-        "Emerge Capital",
-        "DHL",
-        "CEVA Logistics"
+        "NewRoad Capital Partners",
+        "Nexus Venture Partners",
+        "Chiratae Ventures",
+        "N47"
       ],
-      "location": "Munich"
+      "location": "San Francisco"
     },
     {
       "name": "Procode AI",
@@ -319,6 +334,21 @@
       "location": ""
     },
     {
+      "name": "Intropy",
+      "domain": "intropy.ai",
+      "desc": "Developer of an AI-powered operating system designed to optimize operations in the parts and equipment industries. The company's system offers modular tools for pricing optimization, lead generation, distribution plannin",
+      "stage": "SEED",
+      "last_amount": 11000000.0,
+      "total": 11000000.0,
+      "investors": [
+        "Quiet Capital",
+        "No Label Ventures",
+        "General Catalyst",
+        "firstminute capital"
+      ],
+      "location": "30 Churchill Place, London E14 5RE, England, United Kingdom"
+    },
+    {
       "name": "Mbanq",
       "domain": "mbanq.com",
       "desc": "Mbanq provides a comprehensive digital banking platform that integrates cloud-based core banking technology with modular architecture and open banking APIs, enabling the seamless incorporation of various financial servic",
@@ -331,79 +361,34 @@
       "location": "Naples, Florida"
     },
     {
-      "name": "Mentor Collective",
-      "domain": "mentorcollective.org",
-      "desc": "The main product is a technology platform that connects students with mentors to enhance engagement and retention in higher education. It utilizes data analytics to evaluate student needs and address issues related to at",
+      "name": "Discern",
+      "domain": "discern.com",
+      "desc": "Discern provides an automated compliance operating system that delivers digital-first Registered Agent services across all U.S. jurisdictions, facilitating automatic filings for annual reports, franchise taxes, and forei",
       "stage": "SERIES_A",
-      "last_amount": 2000000.0,
-      "total": 30366188.0,
+      "last_amount": 10000000.0,
+      "total": 14500000.0,
       "investors": [
-        "IU Ventures",
-        "Techstars",
-        "Strada Education Foundation",
-        "JHH vc"
+        "Artiman Ventures",
+        "Walkabout Ventures",
+        "Bungalow Capital",
+        "100 Ventures"
       ],
-      "location": "Boston, Massachusetts"
+      "location": "."
     },
     {
-      "name": "Intropy",
-      "domain": "intropy.ai",
-      "desc": "Developer of an AI-powered operating system designed to optimize operations in the parts and equipment industries. The company's system offers modular tools for pricing optimization, lead generation, distribution plannin",
-      "stage": "SEED",
-      "last_amount": 11000000.0,
-      "total": 11000000.0,
+      "name": "Carallel",
+      "domain": "carallel.com",
+      "desc": "Carallel offers a digital health platform that provides personalized guidance and resources to assist family caregivers in managing their responsibilities effectively. The platform features tools for enhancing coordinati",
+      "stage": "SERIES_A",
+      "last_amount": 600000.0,
+      "total": 12324456.0,
       "investors": [
-        "Quiet Capital",
-        "General Catalyst",
-        "firstminute capital",
-        "Felix Capital"
+        "Create Health Ventures",
+        "FCA Venture Partners",
+        "450 Ventures",
+        "Hatteras Venture Partners"
       ],
-      "location": "30 Churchill Place, London E14 5RE, England, United Kingdom"
-    },
-    {
-      "name": "RealWear",
-      "domain": "realwear.com",
-      "desc": "RealWear provides AI-voice-powered smart glasses designed to enhance productivity and safety for frontline workers by facilitating remote expert guidance and managing digital workflows. The technology integrates with ind",
-      "stage": "SERIES_C",
-      "last_amount": 7674392.0,
-      "total": 129497119.0,
-      "investors": [
-        "Teradyne",
-        "JPMorganChase",
-        "Runway Growth Capital",
-        "Qualcomm Ventures"
-      ],
-      "location": "Vancouver, WA"
-    },
-    {
-      "name": "ASUENE Inc.",
-      "domain": "asuene.com",
-      "desc": "The company provides a cloud-based service for visualizing and managing greenhouse gas emissions, focusing on CO2 reduction and carbon offset support throughout the supply chain. It utilizes technologies such as AI-OCR f",
-      "stage": "SERIES_D",
-      "last_amount": 43800000.0,
-      "total": 190912732.0,
-      "investors": [
-        "Plug and Play",
-        "GREE, Inc.",
-        "Japan International Cooperation Agency (JICA)",
-        "JERA Co., Inc."
-      ],
-      "location": "Minato-Ku, Tokyo"
-    },
-    {
-      "name": "Freehand",
-      "domain": "freehand.ai",
-      "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
-      "stage": "SERIES_B",
-      "last_amount": 75000000.0,
-      "total": 75000000.0,
-      "investors": [
-        "NewRoad Capital Partners",
-        "Nexus Venture Partners",
-        "Chiratae Ventures",
-        "N47"
-      ],
-      "location": "San Francisco"
+      "location": "Chicago, Illinois"
     },
     {
       "name": "Tiger Technology",
@@ -436,6 +421,20 @@
       "location": "Lewes, Delaware"
     },
     {
+      "name": "Polar",
+      "domain": "polarbrowser.com",
+      "desc": "With just words, automate quick to hours-long tasks like research, recruiting, sales, ops, running a business, and more",
+      "stage": "SEED",
+      "last_amount": 5700000.0,
+      "total": 5700000.0,
+      "investors": [
+        "Madrona",
+        "Thomas Dohmke",
+        "Erik Bernhardsson"
+      ],
+      "location": ""
+    },
+    {
       "name": "Wify Technologies",
       "domain": "home.wify.co.in",
       "desc": "Wiffy provides a technology-driven platform designed for scheduling and monitoring product installations, allowing users to manage their services online. The platform features real-time tracking and a customer feedback m",
@@ -465,21 +464,6 @@
       "location": "Saint George, UT, United States"
     },
     {
-      "name": "Pagemind.ai",
-      "domain": "pagemind.ai",
-      "desc": "PageMind.ai makes websites conversational with AI. Our platform helps visitors find what they need, discover more, and feel understood — without heavy technical work or big budgets. With PageMind, businesses can instantl",
-      "stage": "SEED",
-      "last_amount": 1365250.0,
-      "total": 1365250.0,
-      "investors": [
-        "4Founders Capital",
-        "Javier Perez-Tenessa",
-        "David Martín",
-        "David Martin"
-      ],
-      "location": "Barcelona, Catalonia, Spain"
-    },
-    {
       "name": "EviData, powered by Woodway Assurance",
       "domain": "woodway-assurance.com",
       "desc": "EviData offers an enterprise software solution that automates the assessment of de-identified and anonymized datasets to evaluate re-identification risks while ensuring compliance with recognized privacy standards. The p",
@@ -491,35 +475,6 @@
         "Aventure Capital"
       ],
       "location": "Ottawa"
-    },
-    {
-      "name": "Polar",
-      "domain": "polarbrowser.com",
-      "desc": "With just words, automate quick to hours-long tasks like research, recruiting, sales, ops, running a business, and more",
-      "stage": "SEED",
-      "last_amount": 5700000.0,
-      "total": 5700000.0,
-      "investors": [
-        "Madrona",
-        "Thomas Dohmke",
-        "Erik Bernhardsson"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Levels",
-      "domain": "levels.tech",
-      "desc": "Levels provides technology-driven solutions for block and estate management, integrating operational systems to enhance efficiency and reduce administrative burdens. Their approach combines human oversight with AI-driven",
-      "stage": "PRE_SEED",
-      "last_amount": 668364.0,
-      "total": 4668364.0,
-      "investors": [
-        "British Business Bank",
-        "OpenOcean",
-        "KOMPAS VC",
-        "2150"
-      ],
-      "location": ""
     },
     {
       "name": "Dimension Studios",
@@ -537,6 +492,31 @@
       "location": "Santa Monica, California"
     },
     {
+      "name": "Olomon",
+      "domain": "olomon.com",
+      "desc": "Olomon provides a personal finance and spend management platform that consolidates financial data from various sources, allowing users to track both traditional and alternative assets through a secure dashboard. The plat",
+      "stage": "PRE_SEED",
+      "last_amount": 2600000.0,
+      "total": 2600000.0,
+      "investors": [],
+      "location": "Brentwood, TN"
+    },
+    {
+      "name": "Levels",
+      "domain": "levels.tech",
+      "desc": "Levels provides technology-driven solutions for block and estate management, integrating operational systems to enhance efficiency and reduce administrative burdens. Their approach combines human oversight with AI-driven",
+      "stage": "PRE_SEED",
+      "last_amount": 668364.0,
+      "total": 4668364.0,
+      "investors": [
+        "British Business Bank",
+        "OpenOcean",
+        "KOMPAS VC",
+        "2150"
+      ],
+      "location": ""
+    },
+    {
       "name": "Siigo",
       "domain": "siigo.com",
       "desc": "The company offers a cloud-based administrative and accounting system designed for small and medium-sized enterprises, featuring capabilities such as electronic invoicing, payroll management, inventory tracking, and poin",
@@ -549,28 +529,33 @@
       "location": "Bogotá D.C. , Cundinamarca"
     },
     {
-      "name": "Olomon",
-      "domain": "olomon.com",
-      "desc": "Olomon provides a personal finance and spend management platform that consolidates financial data from various sources, allowing users to track both traditional and alternative assets through a secure dashboard. The plat",
-      "stage": "PRE_SEED",
-      "last_amount": 2600000.0,
-      "total": 2600000.0,
-      "investors": [],
-      "location": "Brentwood, TN"
+      "name": "ENCORE-AI",
+      "domain": "encore-ai.com",
+      "desc": "Encore-AI provides a software platform tailored for the restaurant industry, utilizing dynamic QR codes, customer feedback systems, and third-party API integrations to enhance customer lifecycle management. The platform ",
+      "stage": "SERIES_A",
+      "last_amount": 30000000.0,
+      "total": 30000000.0,
+      "investors": [
+        "The Garage",
+        "Team8",
+        "Planven",
+        "Lukatz Investments"
+      ],
+      "location": "Houston, Texas"
     },
     {
-      "name": "Built Financial Technologies",
-      "domain": "built.africa",
-      "desc": "The company provides a financial software platform designed for small and medium-sized enterprises, featuring tools for invoicing, payroll management, and payment processing. It employs technologies that deliver real-tim",
+      "name": "TRIKKS",
+      "domain": "trikks.com",
+      "desc": "TRIKKS provides a flexible learning system designed for creating visual learning journeys that support both traditional e-learning and hybrid formats. The platform incorporates tools for digital content delivery, communi",
       "stage": "SEED",
-      "last_amount": 0,
-      "total": 265000.0,
+      "last_amount": 5500000.0,
+      "total": 5500000.0,
       "investors": [
-        "Google for Startups",
-        "Fledge",
-        "Village Capital"
+        "Fireside Ventures",
+        "Accel",
+        "Lightspeed India"
       ],
-      "location": "Accra"
+      "location": "Oslo, Lysaker"
     },
     {
       "name": "The Dimension Company",
@@ -599,45 +584,6 @@
         "Chris Naoumidis"
       ],
       "location": "Unit 3 Rawdon Park, Green Lane Rawdon Leeds, West Yorkshire LS19 7BA, GB"
-    },
-    {
-      "name": "TRIKKS",
-      "domain": "trikks.com",
-      "desc": "TRIKKS provides a flexible learning system designed for creating visual learning journeys that support both traditional e-learning and hybrid formats. The platform incorporates tools for digital content delivery, communi",
-      "stage": "SEED",
-      "last_amount": 5500000.0,
-      "total": 5500000.0,
-      "investors": [
-        "Fireside Ventures",
-        "Accel",
-        "Lightspeed India"
-      ],
-      "location": "Oslo, Lysaker"
-    },
-    {
-      "name": "ENCORE-AI",
-      "domain": "encore-ai.com",
-      "desc": "Encore-AI provides a software platform tailored for the restaurant industry, utilizing dynamic QR codes, customer feedback systems, and third-party API integrations to enhance customer lifecycle management. The platform ",
-      "stage": "SERIES_A",
-      "last_amount": 30000000.0,
-      "total": 30000000.0,
-      "investors": [
-        "The Garage",
-        "Team8",
-        "Planven",
-        "Lukatz Investments"
-      ],
-      "location": "Houston, Texas"
-    },
-    {
-      "name": "OFINTECH",
-      "domain": "ofintech.co",
-      "desc": "OfinTech is an AI-powered platform for automated financial management. It provides insights into spending, cash flow, and investments with cloud access. OfinTech enhances efficiency, accuracy, and decision-making, helpin",
-      "stage": "PRE_SEED",
-      "last_amount": 100000.0,
-      "total": 100000.0,
-      "investors": [],
-      "location": "Riyadh"
     },
     {
       "name": "Bootheo — Photo Booth Operations Software",
