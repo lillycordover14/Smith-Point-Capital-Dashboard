@@ -1803,5 +1803,30 @@
     "theme": "Healthcare & bio AI",
     "domain": "",
     "clean": "Carallel"
+  },
+  "ellis": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Ellis"
+  },
+  "modusenterprisetransformationplatform": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Modus Enterprise Transformation Platform"
+  },
+  "inspira": {
+    "theme": "Legal AI",
+    "domain": "",
+    "clean": "Inspira"
+  },
+  "kovant": {
+    "theme": "Logistics & supply chain",
+    "domain": "",
+    "clean": "Kovant"
+  },
+  "amgine": {
+    "theme": "Consumer & marketplace",
+    "domain": "",
+    "clean": "Amgine"
   }
 }

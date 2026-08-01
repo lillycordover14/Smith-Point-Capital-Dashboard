@@ -1,24 +1,69 @@
 {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 84,
-    "total_cap_m": 12841,
-    "early_cap_m": 2645,
+    "early_raises": 85,
+    "total_cap_m": 12595,
+    "early_cap_m": 2663,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 27,
-      "Series A": 54,
-      "Series B": 22,
-      "Series C": 10,
-      "Series D": 3,
-      "Venture": 74
+      "Seed": 29,
+      "Series A": 53,
+      "Series B": 21,
+      "Series C": 9,
+      "Series D": 4,
+      "Venture": 73
     }
   },
   "raises": [
+    {
+      "company": "Ellis",
+      "amount_m": 10,
+      "date": "2026-08-01",
+      "link": "https://ellis.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Modus Enterprise Transformation Platform",
+      "amount_m": 10,
+      "date": "2026-08-01",
+      "link": "https://modusetp.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Inspira",
+      "amount_m": 3,
+      "date": "2026-08-01",
+      "link": "https://inspire-se.co",
+      "investors": [],
+      "theme": "Legal AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Kovant",
+      "amount_m": 2,
+      "date": "2026-08-01",
+      "link": "https://kovant.com",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Seed"
+    },
+    {
+      "company": "Amgine",
+      "amount_m": null,
+      "date": "2026-08-01",
+      "link": "https://amgine.ai",
+      "investors": [],
+      "theme": "Consumer & marketplace",
+      "stage": "Venture Unknown"
+    },
     {
       "company": "inforcer",
       "amount_m": 50,
@@ -54,24 +99,6 @@
       "investors": [],
       "theme": "Financial back-office & compliance AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Carallel",
-      "amount_m": 1,
-      "date": "2026-07-31",
-      "link": "https://carallel.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "PEX",
-      "amount_m": 160,
-      "date": "2026-07-30",
-      "link": "https://pexcard.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Series C"
     },
     {
       "company": "Freehand",
@@ -236,6 +263,15 @@
       "stage": "Series B"
     },
     {
+      "company": "PEX",
+      "amount_m": null,
+      "date": "2026-07-30",
+      "link": "https://pexcard.com",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series D"
+    },
+    {
       "company": "EviData, powered by Woodway Assurance",
       "amount_m": null,
       "date": "2026-07-30",
@@ -335,15 +371,6 @@
       "stage": "Series D"
     },
     {
-      "company": "Mbanq",
-      "amount_m": null,
-      "date": "2026-07-29",
-      "link": "https://mbanq.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Series B"
-    },
-    {
       "company": "Essence App",
       "amount_m": null,
       "date": "2026-07-28",
@@ -353,24 +380,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Siigo",
-      "amount_m": 104,
-      "date": "2026-07-27",
-      "link": "https://siigo.com",
-      "investors": [],
-      "theme": "HR & workforce",
-      "stage": "Venture"
-    },
-    {
-      "company": "Wify Technologies",
-      "amount_m": 3,
-      "date": "2026-07-27",
-      "link": "https://home.wify.co.in",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
-    },
-    {
       "company": "Tripo AI",
       "amount_m": null,
       "date": "2026-07-26",
@@ -378,15 +387,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Scape",
-      "amount_m": 3,
-      "date": "2026-07-25",
-      "link": "https://scape.app",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     },
     {
       "company": "Flex",
@@ -2218,24 +2218,24 @@
       "theme": "Applied / horizontal AI",
       "count": 112,
       "examples": [
+        "Ellis",
+        "Modus Enterprise Transformation Platform",
         "smallest.ai",
         "LemonEdge",
         "Pangram Labs",
-        "TRIKKS",
-        "The Dimension Company",
-        "Levels"
+        "TRIKKS"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
+      "count": 18,
       "examples": [
-        "Carallel",
         "Harmony",
         "Healia Health (YC W24)",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ]
     },
     {
@@ -2264,14 +2264,14 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
+      "count": 6,
       "examples": [
-        "PEX",
         "Olomon",
-        "Mbanq",
+        "PEX",
         "Float",
         "Fomo",
-        "Crypto trading app Fomo"
+        "Crypto trading app Fomo",
+        "SyntheticFi"
       ]
     },
     {
@@ -2349,19 +2349,19 @@
       ]
     },
     {
+      "theme": "Legal AI",
+      "count": 2,
+      "examples": [
+        "Inspira",
+        "Sandstone"
+      ]
+    },
+    {
       "theme": "Data infrastructure",
       "count": 2,
       "examples": [
         "Terminal (YC S23)",
         "Dimension Studios"
-      ]
-    },
-    {
-      "theme": "HR & workforce",
-      "count": 2,
-      "examples": [
-        "Siigo",
-        "Factorial"
       ]
     },
     {
@@ -2378,6 +2378,20 @@
       "examples": [
         "STARK",
         "Picogrid"
+      ]
+    },
+    {
+      "theme": "Logistics & supply chain",
+      "count": 1,
+      "examples": [
+        "Kovant"
+      ]
+    },
+    {
+      "theme": "Consumer & marketplace",
+      "count": 1,
+      "examples": [
+        "Amgine"
       ]
     },
     {
@@ -2402,10 +2416,10 @@
       ]
     },
     {
-      "theme": "Legal AI",
+      "theme": "HR & workforce",
       "count": 1,
       "examples": [
-        "Sandstone"
+        "Factorial"
       ]
     }
   ],
@@ -2413,30 +2427,30 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 112,
-      "cap_m": 6913,
+      "cap_m": 6927,
       "examples": [
+        "Ellis",
+        "Modus Enterprise Transformation Platform",
         "smallest.ai",
         "LemonEdge",
         "Pangram Labs",
-        "TRIKKS",
-        "The Dimension Company",
-        "Levels"
+        "TRIKKS"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
-      "cap_m": 1145,
+      "count": 18,
+      "cap_m": 1144,
       "examples": [
-        "Carallel",
         "Harmony",
         "Healia Health (YC W24)",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Venture"
     },
     {
       "theme": "Crypto & digital assets",
@@ -2468,17 +2482,17 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
-      "cap_m": 411,
+      "count": 6,
+      "cap_m": 251,
       "examples": [
-        "PEX",
         "Olomon",
-        "Mbanq",
+        "PEX",
         "Float",
         "Fomo",
-        "Crypto trading app Fomo"
+        "Crypto trading app Fomo",
+        "SyntheticFi"
       ],
-      "top_stage": "Series B"
+      "top_stage": "Venture"
     },
     {
       "theme": "Applied AI agents",
@@ -3564,8 +3578,8 @@
       },
       {
         "name": "Healthcare & bio AI",
-        "delta": 2,
-        "now": 19
+        "delta": 1,
+        "now": 18
       },
       {
         "name": "Cybersecurity",
@@ -3578,6 +3592,11 @@
         "now": 4
       },
       {
+        "name": "Legal AI",
+        "delta": 1,
+        "now": 2
+      },
+      {
         "name": "Data infrastructure",
         "delta": 1,
         "now": 2
@@ -3588,14 +3607,14 @@
         "now": 2
       },
       {
-        "name": "Marketing & creative AI",
+        "name": "Consumer & marketplace",
         "delta": 1,
         "now": 1
       },
       {
-        "name": "Fintech & payments",
-        "delta": 0,
-        "now": 7
+        "name": "Marketing & creative AI",
+        "delta": 1,
+        "now": 1
       },
       {
         "name": "Physical AI & robotics",
@@ -3608,17 +3627,7 @@
         "now": 3
       },
       {
-        "name": "HR & workforce",
-        "delta": 0,
-        "now": 2
-      },
-      {
         "name": "Insurance / insurtech",
-        "delta": 0,
-        "now": 1
-      },
-      {
-        "name": "Legal AI",
         "delta": 0,
         "now": 1
       },
@@ -3626,6 +3635,11 @@
         "name": "Energy & climate",
         "delta": -1,
         "now": 9
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": -1,
+        "now": 6
       },
       {
         "name": "Vertical SaaS",
@@ -3636,6 +3650,11 @@
         "name": "Agent-native infra",
         "delta": -1,
         "now": 2
+      },
+      {
+        "name": "HR & workforce",
+        "delta": -1,
+        "now": 1
       },
       {
         "name": "Crypto & digital assets",
@@ -3651,6 +3670,11 @@
         "name": "Applied AI agents",
         "delta": -3,
         "now": 6
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": -3,
+        "now": 1
       }
     ]
   }

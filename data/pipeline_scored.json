@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "companies": [
     {
       "name": "NetBox Labs",
@@ -70,11 +70,11 @@
       "strong_signals": 0,
       "supporting_signals": 2,
       "finance_leadership_open": false,
-      "open_roles": 12,
+      "open_roles": 11,
       "signals": [
         "6 mo since last round (Series B) · typical Series B cadence ~15 mo · just raised",
         "Last round: 2026-02-10 (Harmonic (by domain))",
-        "Hiring ramp: open roles 8→12",
+        "Hiring ramp: open roles 8→11",
         "Conference/roadshow presence: :before { content: counter(activity-count) ' way to connect'; } .ev",
         "Basis: cadence only (no live signals yet)"
       ],
