@@ -1,24 +1,69 @@
 {
-  "generated": "2026-08-01",
+  "generated": "2026-08-02",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 85,
-    "total_cap_m": 12595,
-    "early_cap_m": 2663,
+    "early_raises": 84,
+    "total_cap_m": 12561,
+    "early_cap_m": 2623,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 29,
-      "Series A": 53,
+      "Seed": 30,
+      "Series A": 51,
       "Series B": 21,
       "Series C": 9,
       "Series D": 4,
-      "Venture": 73
+      "Venture": 74
     }
   },
   "raises": [
+    {
+      "company": "Balance Theory",
+      "amount_m": 19,
+      "date": "2026-08-02",
+      "link": "https://balancetheory.co",
+      "investors": [],
+      "theme": "Cybersecurity",
+      "stage": "Series A"
+    },
+    {
+      "company": "Tasklet",
+      "amount_m": 13,
+      "date": "2026-08-02",
+      "link": "https://tasklet.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Shortwave",
+      "amount_m": 13,
+      "date": "2026-08-02",
+      "link": "https://shortwave.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Atomic One",
+      "amount_m": 6,
+      "date": "2026-08-02",
+      "link": "https://atomic-one.com",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Venture"
+    },
+    {
+      "company": "Runflow",
+      "amount_m": 1,
+      "date": "2026-08-02",
+      "link": "https://runflow.ai",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Seed"
+    },
     {
       "company": "Ellis",
       "amount_m": 10,
@@ -80,15 +125,6 @@
       "link": "https://dili.com",
       "investors": [],
       "theme": "AI dev tooling",
-      "stage": "Series A"
-    },
-    {
-      "company": "smallest.ai",
-      "amount_m": 13,
-      "date": "2026-07-31",
-      "link": "https://smallest.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
       "stage": "Series A"
     },
     {
@@ -378,15 +414,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
-    },
-    {
-      "company": "Tripo AI",
-      "amount_m": null,
-      "date": "2026-07-26",
-      "link": "https://tripo3d.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     },
     {
       "company": "Flex",
@@ -2176,54 +2203,19 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "SpeedLabs",
-      "amount_m": 6,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ1VPMjJrWUtZRmRTSkFZTkxGWmRaclVyR1FQd2JRbDZZWktSd0NGdnVFU3dOZHJGMzJZUEJoc2ROTTM3UUxERkd5Y2NuTTk5SnVEQnd3SXpiYXFyWTAwVEMxbHppbzJhOFI0OUNDNldVd1NEckwyUlZkZm5sQkE?oc=5",
-      "investors": [
-        "Bullpen Capital"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Picogrid",
-      "amount_m": 45,
-      "date": "2026-05-29",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVnFfcDZvZWlqSWJzejN0QldLUnBZdXh6N0dMWlpyNXdvRlpSRW9rcGlxcnYwaDlzM2N1OEZkU1duVWozb0FKVnRfWk44S3BkVkhMb2t2RThKb3YteGV0TXF5amJsTUFEUnEwdXpSckpSMUVqLUw1VGxYZ0ZRampQNVdZRl9CLW5uMHBycUlFb2tOdnFwQjdIY3Y3UVdsWUk5SkhyYWU3RW5fTU54aVFmU0tFVEdaQXVIYm83RWRYa2RyNUM3OEEzVDBrY19iTFVvdzYtM05ZcTQ1eU9QaVAtdnBRSlFHUXBJSWow?oc=5",
-      "investors": [
-        "Bessemer",
-        "Initialized Capital"
-      ],
-      "theme": "Defense & national security",
-      "stage": "Series A"
-    },
-    {
-      "company": "LightTable",
-      "amount_m": 22,
-      "date": "2026-05-29",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2Q3X0cyeXZreDh2ZDhRUFJYVE95YktKSWJYbWc2bHEwODBheFJRcG5QX09kXzVVYlhVUGhha2owNmVWeVd2c2lHUEdPaGZkM3BMdGhfM1FJM2FoelAwMl9meEVSZ0xYdXVVTGtvemtpTWc3WGpsbXM3Q243TVB4YkN1d2c?oc=5",
-      "investors": [
-        "Blackhorn Ventures",
-        "Primary Venture Partners"
-      ],
-      "theme": "Vertical SaaS",
-      "stage": "Series A"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 112,
+      "count": 111,
       "examples": [
+        "Tasklet",
+        "Shortwave",
         "Ellis",
         "Modus Enterprise Transformation Platform",
-        "smallest.ai",
         "LemonEdge",
-        "Pangram Labs",
-        "TRIKKS"
+        "Pangram Labs"
       ]
     },
     {
@@ -2263,6 +2255,30 @@
       ]
     },
     {
+      "theme": "Applied AI agents",
+      "count": 7,
+      "examples": [
+        "Runflow",
+        "5U AI",
+        "Conversica",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research"
+      ]
+    },
+    {
+      "theme": "Cybersecurity",
+      "count": 6,
+      "examples": [
+        "Balance Theory",
+        "inforcer",
+        "Rewind",
+        "Twenty",
+        "A Security",
+        "Opal Security"
+      ]
+    },
+    {
       "theme": "Fintech & payments",
       "count": 6,
       "examples": [
@@ -2275,18 +2291,6 @@
       ]
     },
     {
-      "theme": "Applied AI agents",
-      "count": 6,
-      "examples": [
-        "5U AI",
-        "Conversica",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ]
-    },
-    {
       "theme": "Physical AI & robotics",
       "count": 6,
       "examples": [
@@ -2296,17 +2300,6 @@
         "Humble Robotics",
         "Queue",
         "Maneva"
-      ]
-    },
-    {
-      "theme": "Cybersecurity",
-      "count": 5,
-      "examples": [
-        "inforcer",
-        "Rewind",
-        "Twenty",
-        "A Security",
-        "Opal Security"
       ]
     },
     {
@@ -2331,12 +2324,11 @@
     },
     {
       "theme": "Vertical SaaS",
-      "count": 4,
+      "count": 3,
       "examples": [
         "ENCORE-AI",
         "Agave",
-        "Scotch",
-        "LightTable"
+        "Scotch"
       ]
     },
     {
@@ -2346,6 +2338,14 @@
         "Centralize",
         "Oratomic",
         "Prime Intellect"
+      ]
+    },
+    {
+      "theme": "Logistics & supply chain",
+      "count": 2,
+      "examples": [
+        "Atomic One",
+        "Kovant"
       ]
     },
     {
@@ -2370,21 +2370,6 @@
       "examples": [
         "Straiker",
         "Trase"
-      ]
-    },
-    {
-      "theme": "Defense & national security",
-      "count": 2,
-      "examples": [
-        "STARK",
-        "Picogrid"
-      ]
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 1,
-      "examples": [
-        "Kovant"
       ]
     },
     {
@@ -2416,6 +2401,13 @@
       ]
     },
     {
+      "theme": "Defense & national security",
+      "count": 1,
+      "examples": [
+        "STARK"
+      ]
+    },
+    {
       "theme": "HR & workforce",
       "count": 1,
       "examples": [
@@ -2426,15 +2418,15 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 112,
-      "cap_m": 6927,
+      "count": 111,
+      "cap_m": 6934,
       "examples": [
+        "Tasklet",
+        "Shortwave",
         "Ellis",
         "Modus Enterprise Transformation Platform",
-        "smallest.ai",
         "LemonEdge",
-        "Pangram Labs",
-        "TRIKKS"
+        "Pangram Labs"
       ],
       "top_stage": "Venture"
     },
@@ -2481,6 +2473,34 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Applied AI agents",
+      "count": 7,
+      "cap_m": 125,
+      "examples": [
+        "Runflow",
+        "5U AI",
+        "Conversica",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research"
+      ],
+      "top_stage": "Venture"
+    },
+    {
+      "theme": "Cybersecurity",
+      "count": 6,
+      "cap_m": 229,
+      "examples": [
+        "Balance Theory",
+        "inforcer",
+        "Rewind",
+        "Twenty",
+        "A Security",
+        "Opal Security"
+      ],
+      "top_stage": "Series B"
+    },
+    {
       "theme": "Fintech & payments",
       "count": 6,
       "cap_m": 251,
@@ -2491,20 +2511,6 @@
         "Fomo",
         "Crypto trading app Fomo",
         "SyntheticFi"
-      ],
-      "top_stage": "Venture"
-    },
-    {
-      "theme": "Applied AI agents",
-      "count": 6,
-      "cap_m": 124,
-      "examples": [
-        "5U AI",
-        "Conversica",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
       ],
       "top_stage": "Venture"
     },
@@ -2521,19 +2527,6 @@
         "Maneva"
       ],
       "top_stage": "Venture"
-    },
-    {
-      "theme": "Cybersecurity",
-      "count": 5,
-      "cap_m": 210,
-      "examples": [
-        "inforcer",
-        "Rewind",
-        "Twenty",
-        "A Security",
-        "Opal Security"
-      ],
-      "top_stage": "Series B"
     },
     {
       "theme": "AI dev tooling",
@@ -2561,13 +2554,12 @@
     },
     {
       "theme": "Vertical SaaS",
-      "count": 4,
-      "cap_m": 87,
+      "count": 3,
+      "cap_m": 65,
       "examples": [
         "ENCORE-AI",
         "Agave",
-        "Scotch",
-        "LightTable"
+        "Scotch"
       ],
       "top_stage": "Series A"
     },
@@ -3116,23 +3108,23 @@
           "theme": "Applied / horizontal AI"
         },
         {
-          "company": "Plug",
-          "stage": "Series A",
-          "amount_m": 20,
-          "date": "2026-02-02",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WeTNoUHVhTnNBOWJxdWNJNkpQZXVkMjlnSzRaOXVORThROG5hVXUzS0NIS0NvZmJSWWFXRWVKdE05WEI4M2pMdWcza0d6dy1nLW9SN0FKNUhlQ0cwcDI3ekR4c1o1d1JrUDQ4RkxsaG9ySWVnRXBfcEplalQ?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Helsing",
           "stage": "Venture",
           "amount_m": 1800,
           "date": "2026-07-13",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0dDMFp1MUVnWmJfZjhTbW40MHlkckdyN0VYakxxVHJ5LTlfWnEtTktnQ01FQVJjakNhb2hQN0lFYlJ4UkNLWGFrOVRsYmZwcTFVbzA2RWotdHhNUG9NMVRtY1E5QVg2U3V1MDludGxlb3ZyN0pwaW5nNHhSbVJtRTNlSQ?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "Pie",
+          "stage": "Venture",
+          "amount_m": 24,
+          "date": "2026-06-30",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYUpEWXNDS3lHTDFuQzVaNVFjcXFheG9Lc0F1cExnM2xUY2RweVZzLVBqTm5LdlNFbDRNbGpVLWMzV183bWZOMS1FaWwxc2ZTekZBdmU5d3V6aC14bElxSWxUOVRlLXNCendEb2daaVROWVpOdFpBX2ZfLVU4SnhHbjZsYXJqc1N2ZzJEblJjZTVlaGxfbjRCYWlFZFRyNUNDdlZXN280Z2RLT0g0THlYQXd1b0k4RXpzUmdiRkxSMUhJSDhVaXVHVA?oc=5",
+          "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 9
+      "early": 8
     },
     {
       "fund": "Bessemer",
@@ -3568,8 +3560,8 @@
     "tw": [
       {
         "name": "Applied / horizontal AI",
-        "delta": 4,
-        "now": 112
+        "delta": 3,
+        "now": 111
       },
       {
         "name": "AI dev tooling",
@@ -3577,14 +3569,14 @@
         "now": 4
       },
       {
+        "name": "Cybersecurity",
+        "delta": 2,
+        "now": 6
+      },
+      {
         "name": "Healthcare & bio AI",
         "delta": 1,
         "now": 18
-      },
-      {
-        "name": "Cybersecurity",
-        "delta": 1,
-        "now": 5
       },
       {
         "name": "Financial back-office & compliance AI",
@@ -3598,11 +3590,6 @@
       },
       {
         "name": "Data infrastructure",
-        "delta": 1,
-        "now": 2
-      },
-      {
-        "name": "Defense & national security",
         "delta": 1,
         "now": 2
       },
@@ -3632,6 +3619,11 @@
         "now": 1
       },
       {
+        "name": "Defense & national security",
+        "delta": 0,
+        "now": 1
+      },
+      {
         "name": "Energy & climate",
         "delta": -1,
         "now": 9
@@ -3640,11 +3632,6 @@
         "name": "Fintech & payments",
         "delta": -1,
         "now": 6
-      },
-      {
-        "name": "Vertical SaaS",
-        "delta": -1,
-        "now": 4
       },
       {
         "name": "Agent-native infra",
@@ -3662,18 +3649,23 @@
         "now": 9
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "Applied AI agents",
         "delta": -2,
-        "now": 1
+        "now": 7
       },
       {
-        "name": "Applied AI agents",
-        "delta": -3,
-        "now": 6
+        "name": "Vertical SaaS",
+        "delta": -2,
+        "now": 3
       },
       {
         "name": "Logistics & supply chain",
-        "delta": -3,
+        "delta": -2,
+        "now": 2
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": -2,
         "now": 1
       }
     ]

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-01",
+  "generated": "2026-08-02",
   "window_days": 45,
   "counts": {
     "actionable": 9,
-    "watchlist": 24,
+    "watchlist": 25,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -201,6 +201,40 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "Atomic One",
+      "desc": "Logistics & supply chain",
+      "theme": "Precision Applications",
+      "vertical": "Supply Chain",
+      "stage": "Venture",
+      "amount_m": 6,
+      "investors": [],
+      "date": "2026-08-02",
+      "link": "https://atomic-one.com",
+      "domain": "atomiconemusic.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Runflow",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": 1,
+      "investors": [],
+      "date": "2026-08-02",
+      "link": "https://runflow.ai",
+      "domain": "runflow.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Inspira",
       "desc": "Legal AI",
@@ -639,23 +673,6 @@
         }
       ],
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
-    },
-    {
-      "company": "Swedish legaltech startup Lightbringer",
-      "desc": "Swedish legaltech startup Lightbringer secures $10M Series A to expand AI - powered patent platform",
-      "theme": "Precision Applications",
-      "vertical": "Legal",
-      "stage": "Series A",
-      "amount_m": 10,
-      "investors": [],
-      "date": "2026-06-16",
-      "link": "https://arcticstartup.com/lightbringer-raises-10m-series-a/",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Series A ($10M) — track for the next round",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
     }
   ],
   "enriched": false,

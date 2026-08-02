@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01",
+  "generated": "2026-08-02",
   "mode": "full",
-  "count": 44,
+  "count": 47,
   "companies": [
     {
       "name": "Simile",
@@ -17,6 +17,21 @@
         "Definition"
       ],
       "location": "Palo Alto, CA"
+    },
+    {
+      "name": "Tasklet",
+      "domain": "tasklet.ai",
+      "desc": "The company offers a platform that automates business processes using artificial intelligence, allowing users to articulate their needs in plain language. It integrates with various HTTP APIs and MCP servers, leveraging ",
+      "stage": "SEED",
+      "last_amount": 13000000.0,
+      "total": 33000000.0,
+      "investors": [
+        "Union Square Ventures",
+        "Uncorrelated",
+        "Y Combinator",
+        "Lightspeed Venture Partners"
+      ],
+      "location": "San Francisco, California, United States of America"
     },
     {
       "name": "Dili",
@@ -49,6 +64,21 @@
       "location": "New York City, New York, US"
     },
     {
+      "name": "Fish Audio",
+      "domain": "fish.audio",
+      "desc": "The company offers an AI text-to-speech platform that employs advanced voice cloning technology to produce high-quality audio with emotional nuance in multiple languages. It features a customizable API for real-time voic",
+      "stage": "SEED",
+      "last_amount": 52000000.0,
+      "total": 52000000.0,
+      "investors": [
+        "Play Time",
+        "645 Ventures",
+        "HF0",
+        "Carya"
+      ],
+      "location": "Mountain View, CA"
+    },
+    {
       "name": "Harmony",
       "domain": "harmony.io",
       "desc": "The main product is an AI-driven enterprise service management platform that automates IT operations, enabling rapid resolution of service requests and proactive monitoring of system health. It employs intelligent agents",
@@ -77,36 +107,6 @@
         "Ritual Capital"
       ],
       "location": "2261 Market Street, Suite 5767, San Francisco, CA 94114, United States"
-    },
-    {
-      "name": "smallest.ai",
-      "domain": "smallest.ai",
-      "desc": "The company offers a real-time AI platform featuring advanced multi-modal voice AI models that integrate text-to-speech and process both speech and text, employing active learning techniques to enhance communication accu",
-      "stage": "SERIES_A",
-      "last_amount": 13000000.0,
-      "total": 21325000.0,
-      "investors": [
-        "Better Capital",
-        "SIERRA Ventures",
-        "peercheque",
-        "DeVC"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Fish Audio",
-      "domain": "fish.audio",
-      "desc": "The company offers an AI text-to-speech platform that employs advanced voice cloning technology to produce high-quality audio with emotional nuance in multiple languages. It features a customizable API for real-time voic",
-      "stage": "SEED",
-      "last_amount": 52000000.0,
-      "total": 52000000.0,
-      "investors": [
-        "Play Time",
-        "645 Ventures",
-        "HF0",
-        "Carya"
-      ],
-      "location": "Mountain View, CA"
     },
     {
       "name": "Terminal (YC S23)",
@@ -152,6 +152,21 @@
         "First Round Capital"
       ],
       "location": "Columbus, Ohio"
+    },
+    {
+      "name": "Shortwave",
+      "domain": "shortwave.com",
+      "desc": "The main product is an AI-driven communications application designed to enhance email management and automate workflows by integrating various business tools. It employs natural language processing to enable users to org",
+      "stage": "SERIES_A",
+      "last_amount": 13000000.0,
+      "total": 22500000.0,
+      "investors": [
+        "Union Square Ventures",
+        "Flybridge",
+        "Lightspeed Venture Partners",
+        "Afore Capital"
+      ],
+      "location": "San Francisco, CA"
     },
     {
       "name": "Rewind",
@@ -279,12 +294,12 @@
       "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
       "stage": "SERIES_B",
       "last_amount": 75000000.0,
-      "total": 75000000.0,
+      "total": 116000000.0,
       "investors": [
+        "Uncorrelated",
+        "Iron Pillar",
         "NewRoad Capital Partners",
-        "Nexus Venture Partners",
-        "Chiratae Ventures",
-        "N47"
+        "Nexus Venture Partners"
       ],
       "location": "San Francisco"
     },
@@ -317,21 +332,6 @@
         "Four Acres Capital"
       ],
       "location": "C/O PROCODE INC, 1398 Miller Drive, Los Angeles, CA 90069, United States"
-    },
-    {
-      "name": "Tripo AI",
-      "domain": "tripo3d.ai",
-      "desc": "The main product is an AI-powered platform that generates high-quality 3D models from text, images, or sketches, featuring automatic rigging and intelligent segmentation for improved model organization. It employs advanc",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 200000000.0,
-      "investors": [
-        "Hengxu Capital",
-        "Geely Capital",
-        "Baidu Venture",
-        "INCE Capital"
-      ],
-      "location": "San Francisco"
     },
     {
       "name": "Weave",
@@ -377,6 +377,20 @@
         "645 Ventures"
       ],
       "location": "1209 Orange Street, Wilmington, DE 19801, United States"
+    },
+    {
+      "name": "Balance Theory",
+      "domain": "balancetheory.co",
+      "desc": "The main product is a cybersecurity platform that helps organizations manage their security investments by tracking numerous vendors and products while automating procurement workflows. It features collaborative tools ai",
+      "stage": "SERIES_A",
+      "last_amount": 19000000.0,
+      "total": 25306000.0,
+      "investors": [
+        "TEDCO",
+        "DataTribe",
+        "SYN Ventures"
+      ],
+      "location": "Columbia, MD"
     },
     {
       "name": "modus",
@@ -533,6 +547,16 @@
       "location": ""
     },
     {
+      "name": "Runflow",
+      "domain": "runflow.ai",
+      "desc": "Runflow offers a platform designed for the creation, operation, and management of enterprise AI agents, facilitating rapid deployment and integration with existing systems through a variety of pre-built connectors. The p",
+      "stage": "SEED",
+      "last_amount": 1360000.0,
+      "total": 1360000.0,
+      "investors": [],
+      "location": "São Paulo, SP"
+    },
+    {
       "name": "글로랑",
       "domain": "glorang.com",
       "desc": "Glorang offers an online educational platform that employs AI-driven talent diagnosis technology to analyze psychological assessment data and educational materials, facilitating the creation of personalized curricula for",
@@ -546,6 +570,18 @@
         "TIPS Town"
       ],
       "location": "Gangnamgu, Seoul"
+    },
+    {
+      "name": "Atomic One",
+      "domain": "atomic-one.com",
+      "desc": "Atomic One is an autonomous operational layer for Amazon brands. We build specialized AI agents that manage pricing, PPC, inventory, and logistics, so founders focus on strategy, not firefighting.",
+      "stage": "",
+      "last_amount": 6376664.0,
+      "total": 6376664.0,
+      "investors": [
+        "Arcano Partners"
+      ],
+      "location": "Málaga, Andalusia"
     },
     {
       "name": "Modus Enterprise Transformation Platform",
