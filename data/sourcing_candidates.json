@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-02",
+  "generated": "2026-08-03",
   "window_days": 45,
   "counts": {
     "actionable": 9,
-    "watchlist": 25,
+    "watchlist": 27,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -201,6 +201,40 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "CapitalOS",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-03",
+      "link": "https://capitalos.com",
+      "domain": "capitalosteopathy.ca",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Faro",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-03",
+      "link": "https://farohealth.com",
+      "domain": "faroutmagazine.co.uk",
+      "tier": "watchlist",
+      "fit_reason": "Series A — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Atomic One",
       "desc": "Logistics & supply chain",
@@ -457,6 +491,23 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
+      "company": "Kalanick Atoms",
+      "desc": "Kalanick Atoms Raises $1 . 7 billion for Industrial Robotics",
+      "theme": "Precision Applications",
+      "vertical": "Robotics",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-07-23",
+      "link": "https://ventureburn.com/atoms-raises-1-7-billion-robotics-automation/",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
       "company": "Corner Health",
       "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
@@ -646,33 +697,6 @@
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Vetic",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 40,
-      "investors": [
-        "Bessemer",
-        "Bessemer - Entrackr",
-        "Bessemer Venture Partners - BusinessLine",
-        "Bessemer Venture Partners - YourStory.com"
-      ],
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVhSUGY2ck90Q0tRaG5tbTZyNDU3V1JZSWtmZTR3Mm9FNldCYTZ4ckN0SnNBam43cVJDYl81LWRzcWJZRFJ0Tm5xdnl0eUhVaDNCeklpb3h6TzJ1d21QUkFuYlNidXFDVGNxMkZsSFdDdzBVUVVFQjhiaTJxQ2stZDFOY3FEcExoRUF3aklZUndoOGVNUS0w0gGXAUFVX3lxTE9NWFJQZjZyT3RDS1Fobm1tNnI0NTdXUllJa2ZlNHcyb0U2V0JhNnhyQ3RKc0FqbjdxUkNiXzUtZHNxYllEUnRObnF2eXR5SFVoM0J6SWlveHpPMnV3bVBSQW5iU2J1cUNUY3EyRmxIV0N3MFVRVUVCOGJpMnFDay1kMU5jcURwTGhFQXdqSVlSd2g4ZU1RLTA?oc=5",
-      "domain": "vetic.in",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Bessemer — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
     }
   ],
   "enriched": false,

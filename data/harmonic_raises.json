@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-02",
+  "generated": "2026-08-03",
   "mode": "full",
-  "count": 47,
+  "count": 50,
   "companies": [
     {
       "name": "Simile",
@@ -109,6 +109,36 @@
       "location": "2261 Market Street, Suite 5767, San Francisco, CA 94114, United States"
     },
     {
+      "name": "CapitalOS",
+      "domain": "capitalos.com",
+      "desc": "The company offers a money orchestration platform designed for B2B applications, facilitating card issuance, cash management, and automated financial transactions through a unified API. It utilizes technologies such as r",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 39000000.0,
+      "investors": [
+        "Upper90",
+        "K5 Global",
+        "Great North Ventures",
+        "Slow Ventures"
+      ],
+      "location": "San Francisco , CA"
+    },
+    {
+      "name": "Faro",
+      "domain": "farohealth.com",
+      "desc": "Faro provides an AI-driven platform designed for the creation and management of clinical trial protocols, leveraging data-driven insights and workflow automation to optimize study design. The technology features intellig",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 38300000.0,
+      "investors": [
+        "Zetta Venture Partners",
+        "S32",
+        "Northpond Ventures",
+        "General Catalyst"
+      ],
+      "location": "San Diego, California"
+    },
+    {
       "name": "Terminal (YC S23)",
       "domain": "withterminal.com",
       "desc": "The company provides a telematics data infrastructure platform that integrates GPS data and vehicle metrics through a Universal API, specifically designed for commercial applications in insurance and fleet management. It",
@@ -152,6 +182,21 @@
         "First Round Capital"
       ],
       "location": "Columbus, Ohio"
+    },
+    {
+      "name": "Sanas",
+      "domain": "sanas.ai",
+      "desc": "Sanas provides a real-time speech understanding platform that includes technologies for accent translation, language translation, speech enhancement, and noise cancellation, aimed at improving communication clarity while",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 129819678.0,
+      "investors": [
+        "Carya Ventures",
+        "Tribe Capital",
+        "Google",
+        "Insight Partners"
+      ],
+      "location": "Palo Alto, California"
     },
     {
       "name": "Shortwave",
@@ -425,7 +470,7 @@
     {
       "name": "Tiger Technology",
       "domain": "tiger-technology.com",
-      "desc": "Tiger Technology offers data management software that enhances on-premises storage while enabling hybrid cloud workflows, particularly suited for high-performance applications. Their solutions support efficient data life",
+      "desc": "Tiger Technology provides hybrid cloud solutions that enhance on-premises storage and enable efficient workflows for high-performance applications. Their technology supports data lifecycle management across various stora",
       "stage": "SERIES_A",
       "last_amount": 10020472.0,
       "total": 22026478.0,
@@ -614,6 +659,18 @@
       "location": "Houston, Texas"
     },
     {
+      "name": "feending",
+      "domain": "feending.com",
+      "desc": "Feending is a platform that facilitates the management and engagement of professional communities through the use of artificial intelligence, which automates member matching and optimizes management processes. It include",
+      "stage": "PRE_SEED",
+      "last_amount": 228000.0,
+      "total": 734000.0,
+      "investors": [
+        "Lanzadera"
+      ],
+      "location": "Valencia"
+    },
+    {
       "name": "TRIKKS",
       "domain": "trikks.com",
       "desc": "TRIKKS provides a flexible learning system designed for creating visual learning journeys that support both traditional e-learning and hybrid formats. The platform incorporates tools for digital content delivery, communi",
@@ -643,37 +700,33 @@
       "location": "Daejeon"
     },
     {
-      "name": "Superstat Limited",
-      "domain": "superstat.co.uk",
-      "desc": "Superstat provides a suite of products and services tailored for independent dealers, including sales and marketing CRM software and a variety of marketing tools for both online and offline use. The company also offers c",
-      "stage": "PRE_SEED",
-      "last_amount": 3500000.0,
-      "total": 3500000.0,
+      "name": "Taian",
+      "domain": "taian-inc.com",
+      "desc": "The company provides a digital platform tailored for the bridal industry, which streamlines event planning, web invitations, and seating arrangements, allowing for comprehensive management throughout the event lifecycle.",
+      "stage": "SERIES_B",
+      "last_amount": 4310000.0,
+      "total": 11227102.0,
       "investors": [
-        "Blackbird",
-        "Chris Naoumidis"
+        "Mitsubishi UFJ Capital Co.,Ltd.",
+        "Canal Ventures",
+        "東京海上日動あんしん生命保険（株）",
+        "GLOBIS Corporation"
       ],
-      "location": "Unit 3 Rawdon Park, Green Lane Rawdon Leeds, West Yorkshire LS19 7BA, GB"
+      "location": "Shimizu Building 3rd Floor, Shinjuku 1-34-16, Tokyo, Shinjuku-ku 160-0022, Japan"
     },
     {
-      "name": "Bootheo — Photo Booth Operations Software",
-      "domain": "bootheo.com",
-      "desc": "Bootheo is the back-of-house operations platform for photo booth operators. Manage gear checklists, crew assignments, and run of show — all from your phone.",
-      "stage": "PRE_SEED",
-      "last_amount": 150000.0,
-      "total": 150000.0,
-      "investors": [],
-      "location": ""
-    },
-    {
-      "name": "Hello Cashflow",
-      "domain": "hellocashflow.com",
-      "desc": "Hello Cashflow is removing financial stress for small business owners. Most businesses already have accounting software and an accountant — yet many still feel uncertain, stressed, and reactive when it comes to cash flow",
-      "stage": "PRE_SEED",
-      "last_amount": 750000.0,
-      "total": 750000.0,
-      "investors": [],
-      "location": "Wellington"
+      "name": "Beilian Zhuguan",
+      "domain": "lccomputing.com",
+      "desc": "The primary product is a platform designed for the development of proprietary AI models, which covers the entire process from training to inference, leveraging a custom Kubernetes scheduler, GPU virtualization, and a pip",
+      "stage": "SERIES_A",
+      "last_amount": 14700000.0,
+      "total": 21605314.0,
+      "investors": [
+        "Vision Plus Capital",
+        "Zhoushan Xinhe Equity Investment",
+        "HSG"
+      ],
+      "location": "Room 403, 4th Floor, Building 17, Lefu Haibangyuan, Yuhang District, Hangzhou, Zhejiang 900000, China"
     }
   ]
 }
