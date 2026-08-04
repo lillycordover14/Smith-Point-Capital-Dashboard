@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03",
+  "generated": "2026-08-04",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -79,6 +79,21 @@
       "location": "Mountain View, CA"
     },
     {
+      "name": "OLIX",
+      "domain": "olix.com",
+      "desc": "The company develops a compute paradigm that integrates SRAM architecture with photonics to enhance throughput, interactivity, and latency, addressing the limitations of current GPU memory architectures. This technology ",
+      "stage": "SERIES_B",
+      "last_amount": 312000000.0,
+      "total": 546911000.0,
+      "investors": [
+        "Entrepreneur First",
+        "Octopus Ventures",
+        "Arm",
+        "Hudson River Trading"
+      ],
+      "location": "London, England, United Kingdom"
+    },
+    {
       "name": "Harmony",
       "domain": "harmony.io",
       "desc": "The main product is an AI-driven enterprise service management platform that automates IT operations, enabling rapid resolution of service requests and proactive monitoring of system health. It employs intelligent agents",
@@ -89,7 +104,7 @@
         "Operator Partners",
         "Fin Capital",
         "Lightspeed Venture Partners",
-        "Hitachi Ventures"
+        "Ofir Ehrlich"
       ],
       "location": "New York, NY"
     },
@@ -319,21 +334,6 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Conversica",
-      "domain": "conversica.com",
-      "desc": "Conversica offers an AI-powered conversational platform that utilizes large language models and natural language processing to enable personalized, real-time interactions with customers. The platform's AI agents are desi",
-      "stage": "SERIES_D",
-      "last_amount": 0,
-      "total": 148000000.0,
-      "investors": [
-        "Recruit Strategic Partners",
-        "Providence Equity Partners",
-        "Savant Growth",
-        "Savano Capital Partners"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
       "name": "Freehand",
       "domain": "freehand.ai",
       "desc": "The product is an AI-driven platform that automates invoice operations by normalizing and interpreting financial claims from various sources, linking them to contracts and operational data for reconciliation. It utilizes",
@@ -353,7 +353,7 @@
       "domain": "pexcard.com",
       "desc": "The company offers a platform for managing corporate cards and employee spending, which includes features such as automated expense tracking, approval workflows, and real-time reporting. It utilizes a proprietary payment",
       "stage": "SERIES_D",
-      "last_amount": 0,
+      "last_amount": 160000000.0,
       "total": 181114626.0,
       "investors": [
         "New York Angels",
@@ -381,7 +381,7 @@
     {
       "name": "Weave",
       "domain": "weaveos.com",
-      "desc": "",
+      "desc": "Weave provides a platform that leverages AI to enhance engineering productivity by measuring contributions, optimizing workflows, and analyzing the impact of changes across various projects. The technology includes tools",
       "stage": "SERIES_A",
       "last_amount": 13500000.0,
       "total": 18200000.0,
@@ -392,6 +392,19 @@
         "Pioneer Fund"
       ],
       "location": ""
+    },
+    {
+      "name": "Vectorize AI, Inc.",
+      "domain": "vectorize.io",
+      "desc": "The main product is a platform that transforms unstructured data into AI-ready intelligence, facilitating the development of AI applications that manage extensive document volumes. It utilizes retrieval augmented generat",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 3600000.0,
+      "investors": [
+        "True Ventures",
+        "DIG Ventures"
+      ],
+      "location": "Dover, DE"
     },
     {
       "name": "Discern",
@@ -496,21 +509,6 @@
       "location": "Toronto, Ontario"
     },
     {
-      "name": "Essence App",
-      "domain": "theessence.app",
-      "desc": "The Essence App is a digital productivity tool designed to help users enhance their well-being by synchronizing their activities with their menstrual cycle, featuring period tracking and tailored recommendations. It empl",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 800000.0,
-      "investors": [
-        "Berkeley SkyDeck",
-        "DVC",
-        "Growing Well Partners",
-        "Berkeley SkyDeck Fund"
-      ],
-      "location": "Lewes, Delaware"
-    },
-    {
       "name": "Polar",
       "domain": "polarbrowser.com",
       "desc": "With just words, automate quick to hours-long tasks like research, recruiting, sales, ops, running a business, and more",
@@ -523,6 +521,18 @@
         "Erik Bernhardsson"
       ],
       "location": ""
+    },
+    {
+      "name": "Allied BIM",
+      "domain": "alliedbim.com",
+      "desc": "The main product is a software solution designed to streamline the building fabrication process by connecting design teams with fabrication shop operations, enabling efficient management of cut lists and work orders. It ",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 2500000.0,
+      "investors": [
+        "ARCO/Murray"
+      ],
+      "location": "Bozeman, Montana"
     },
     {
       "name": "Curant.ai",
@@ -577,6 +587,34 @@
       "location": "Brentwood, TN"
     },
     {
+      "name": "Wayy",
+      "domain": "wayy.ai",
+      "desc": "Wayy.ai offers an AI-driven sales automation platform that assists solopreneurs and small business owners in generating leads and conducting outreach with minimal setup. The technology utilizes data analysis to identify ",
+      "stage": "PRE_SEED",
+      "last_amount": 2000000.0,
+      "total": 3590000.0,
+      "investors": [
+        "Zero to One Ventures",
+        "Tunç Y."
+      ],
+      "location": "Miami, Florida"
+    },
+    {
+      "name": "Fusepay",
+      "domain": "fusepay.app",
+      "desc": "Fusepay is a financial technology platform designed for businesses in Seychelles, enabling the management of payments, invoices, orders, and accounting through a single interface. It incorporates features such as automat",
+      "stage": "PRE_SEED",
+      "last_amount": 350000.0,
+      "total": 350000.0,
+      "investors": [
+        "Startup Istanbul",
+        "Velocity Digital",
+        "First Check Ventures",
+        "Everywhere Ventures"
+      ],
+      "location": "Seychelles"
+    },
+    {
       "name": "Levels",
       "domain": "levels.tech",
       "desc": "Levels provides technology-driven solutions for block and estate management, integrating operational systems to enhance efficiency and reduce administrative burdens. Their approach combines human oversight with AI-driven",
@@ -629,6 +667,31 @@
       "location": "Málaga, Andalusia"
     },
     {
+      "name": "Scale Social AI, Inc.",
+      "domain": "scalesocial.ai",
+      "desc": "",
+      "stage": "PRE_SEED",
+      "last_amount": 0,
+      "total": 1300000.0,
+      "investors": [
+        "NC Tweener Fund, Powered by NC IDEA",
+        "⚡️Primordial Ventures",
+        "Charlotte Fund",
+        "RTP Angel Fund"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Boon AI",
+      "domain": "boon.ai",
+      "desc": "Boon is the world's first all-in-one GTM AI Platform that detects sales ready opps, leads ready-to-buy, warm intros by monitoring 1billion external client signals per day. Our customers only get charged when our AI Agent",
+      "stage": "PRE_SEED",
+      "last_amount": 750000.0,
+      "total": 750000.0,
+      "investors": [],
+      "location": ""
+    },
+    {
       "name": "Modus Enterprise Transformation Platform",
       "domain": "modusetp.com",
       "desc": "The Modus Enterprise Transformation Platform (ETP) provides a suite of modules that centralize and integrate transformation practices, including business model management, value chain modeling, and operating model manage",
@@ -657,76 +720,6 @@
         "Lukatz Investments"
       ],
       "location": "Houston, Texas"
-    },
-    {
-      "name": "feending",
-      "domain": "feending.com",
-      "desc": "Feending is a platform that facilitates the management and engagement of professional communities through the use of artificial intelligence, which automates member matching and optimizes management processes. It include",
-      "stage": "PRE_SEED",
-      "last_amount": 228000.0,
-      "total": 734000.0,
-      "investors": [
-        "Lanzadera"
-      ],
-      "location": "Valencia"
-    },
-    {
-      "name": "TRIKKS",
-      "domain": "trikks.com",
-      "desc": "TRIKKS provides a flexible learning system designed for creating visual learning journeys that support both traditional e-learning and hybrid formats. The platform incorporates tools for digital content delivery, communi",
-      "stage": "SEED",
-      "last_amount": 5500000.0,
-      "total": 5500000.0,
-      "investors": [
-        "Fireside Ventures",
-        "Accel",
-        "Lightspeed India"
-      ],
-      "location": "Oslo, Lysaker"
-    },
-    {
-      "name": "The Dimension Company",
-      "domain": "dimension.company",
-      "desc": "The main product is an AI-driven tool that generates production-ready CAD models from user-defined specifications, allowing for iterative refinement before geometry is created. It integrates with existing CAD software an",
-      "stage": "SEED",
-      "last_amount": 1650000.0,
-      "total": 1650000.0,
-      "investors": [
-        "OpenSky Ventures",
-        "Long Run Capital",
-        "Lawrence Hsu",
-        "Science"
-      ],
-      "location": "Daejeon"
-    },
-    {
-      "name": "Taian",
-      "domain": "taian-inc.com",
-      "desc": "The company provides a digital platform tailored for the bridal industry, which streamlines event planning, web invitations, and seating arrangements, allowing for comprehensive management throughout the event lifecycle.",
-      "stage": "SERIES_B",
-      "last_amount": 4310000.0,
-      "total": 11227102.0,
-      "investors": [
-        "Mitsubishi UFJ Capital Co.,Ltd.",
-        "Canal Ventures",
-        "東京海上日動あんしん生命保険（株）",
-        "GLOBIS Corporation"
-      ],
-      "location": "Shimizu Building 3rd Floor, Shinjuku 1-34-16, Tokyo, Shinjuku-ku 160-0022, Japan"
-    },
-    {
-      "name": "Beilian Zhuguan",
-      "domain": "lccomputing.com",
-      "desc": "The primary product is a platform designed for the development of proprietary AI models, which covers the entire process from training to inference, leveraging a custom Kubernetes scheduler, GPU virtualization, and a pip",
-      "stage": "SERIES_A",
-      "last_amount": 14700000.0,
-      "total": 21605314.0,
-      "investors": [
-        "Vision Plus Capital",
-        "Zhoushan Xinhe Equity Investment",
-        "HSG"
-      ],
-      "location": "Room 403, 4th Floor, Building 17, Lefu Haibangyuan, Yuhang District, Hangzhou, Zhejiang 900000, China"
     }
   ]
 }

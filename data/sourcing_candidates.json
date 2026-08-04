@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03",
+  "generated": "2026-08-04",
   "window_days": 45,
   "counts": {
     "actionable": 9,
-    "watchlist": 27,
+    "watchlist": 28,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -202,6 +202,40 @@
   ],
   "watchlist": [
     {
+      "company": "Boon AI",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": 1,
+      "investors": [],
+      "date": "2026-08-04",
+      "link": "https://boon.ai",
+      "domain": "boonailift.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Fusepay",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-04",
+      "link": "https://fusepay.app",
+      "domain": "fusepay.io",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
       "company": "CapitalOS",
       "desc": "Fintech & payments",
       "theme": "Precision Applications",
@@ -321,6 +355,23 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
+      "company": "PEX",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Series D",
+      "amount_m": 160,
+      "investors": [],
+      "date": "2026-07-30",
+      "link": "https://pexcard.com",
+      "domain": "pexels.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
       "company": "Harmony",
       "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
@@ -406,23 +457,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "PEX",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Series D",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-30",
-      "link": "https://pexcard.com",
-      "domain": "pexels.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "EviData, powered by Woodway Assurance",
       "desc": "Financial back-office & compliance AI",
       "theme": "Precision Applications",
@@ -469,23 +503,6 @@
       "domain": "uai.com.br",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Conversica",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Series D",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-29",
-      "link": "https://conversica.com",
-      "domain": "conversica.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -680,21 +697,19 @@
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
     },
     {
-      "company": "Portal Biotechnologies",
-      "desc": "Healthcare & bio AI",
-      "theme": "Edge Computing",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 9,
-      "investors": [
-        "IA Ventures"
-      ],
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjN0Q3BNeHZvMDEtb1ZyZml3OHhjc3Racm1aODNwcW00Z0FFb2ZhekpONGVUR2tWU1RKNTNrd2M2N043NXI5RS1vaUpNVTNnM0JuQmwxU0sycEdFZnNKWnRDRkNLREo2WE9jUjlNMzEwbFA0eHJ4Mlg5cjh3MXRELW53M2p5NDA?oc=5",
-      "domain": "portalbiotechnologies.com",
+      "company": "Swedish legaltech startup Lightbringer",
+      "desc": "Swedish legaltech startup Lightbringer secures $10M Series A to expand AI - powered patent platform",
+      "theme": "Precision Applications",
+      "vertical": "Legal",
+      "stage": "Series A",
+      "amount_m": 10,
+      "investors": [],
+      "date": "2026-06-16",
+      "link": "https://arcticstartup.com/lightbringer-raises-10m-series-a/",
+      "domain": "",
       "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
+      "fit_reason": "Series A ($10M) — track for the next round",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }

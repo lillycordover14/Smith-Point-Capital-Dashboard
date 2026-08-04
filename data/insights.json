@@ -1,24 +1,69 @@
 {
-  "generated": "2026-08-03",
+  "generated": "2026-08-04",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 85,
-    "total_cap_m": 12804,
-    "early_cap_m": 2592,
+    "early_raises": 83,
+    "total_cap_m": 13300,
+    "early_cap_m": 2595,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 30,
-      "Series A": 52,
-      "Series B": 22,
+      "Seed": 29,
+      "Series A": 51,
+      "Series B": 23,
       "Series C": 9,
-      "Series D": 4,
+      "Series D": 3,
       "Venture": 74
     }
   },
   "raises": [
+    {
+      "company": "OLIX",
+      "amount_m": 312,
+      "date": "2026-08-04",
+      "link": "https://olix.com",
+      "investors": [],
+      "theme": "AI compute & models",
+      "stage": "Series B"
+    },
+    {
+      "company": "Wayy",
+      "amount_m": 2,
+      "date": "2026-08-04",
+      "link": "https://wayy.ai",
+      "investors": [],
+      "theme": "Sales & GTM AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Boon AI",
+      "amount_m": 1,
+      "date": "2026-08-04",
+      "link": "https://boon.ai",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Allied BIM",
+      "amount_m": null,
+      "date": "2026-08-04",
+      "link": "https://alliedbim.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Fusepay",
+      "amount_m": null,
+      "date": "2026-08-04",
+      "link": "https://fusepay.app",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Khosla leads $310 million",
       "amount_m": 310,
@@ -29,24 +74,6 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Beilian Zhuguan",
-      "amount_m": 15,
-      "date": "2026-08-03",
-      "link": "https://lccomputing.com",
-      "investors": [],
-      "theme": "AI compute & models",
-      "stage": "Series A"
-    },
-    {
-      "company": "Taian",
-      "amount_m": 4,
-      "date": "2026-08-03",
-      "link": "https://taian-inc.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series B"
     },
     {
       "company": "CapitalOS",
@@ -74,15 +101,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series B"
-    },
-    {
-      "company": "feending",
-      "amount_m": null,
-      "date": "2026-08-03",
-      "link": "https://feending.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
     },
     {
       "company": "Balance Theory",
@@ -202,6 +220,15 @@
       "stage": "Series A"
     },
     {
+      "company": "PEX",
+      "amount_m": 160,
+      "date": "2026-07-30",
+      "link": "https://pexcard.com",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series D"
+    },
+    {
       "company": "Freehand",
       "amount_m": 75,
       "date": "2026-07-30",
@@ -292,15 +319,6 @@
       "stage": "Seed"
     },
     {
-      "company": "TRIKKS",
-      "amount_m": 6,
-      "date": "2026-07-30",
-      "link": "https://trikks.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Curant.ai",
       "amount_m": 3,
       "date": "2026-07-30",
@@ -328,15 +346,6 @@
       "stage": "Seed"
     },
     {
-      "company": "The Dimension Company",
-      "amount_m": 2,
-      "date": "2026-07-30",
-      "link": "https://dimension.company",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Levels",
       "amount_m": 1,
       "date": "2026-07-30",
@@ -353,15 +362,6 @@
       "investors": [],
       "theme": "Cybersecurity",
       "stage": "Series B"
-    },
-    {
-      "company": "PEX",
-      "amount_m": null,
-      "date": "2026-07-30",
-      "link": "https://pexcard.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Series D"
     },
     {
       "company": "EviData, powered by Woodway Assurance",
@@ -434,24 +434,6 @@
       "investors": [],
       "theme": "Applied AI agents",
       "stage": "Pre Seed"
-    },
-    {
-      "company": "Conversica",
-      "amount_m": null,
-      "date": "2026-07-29",
-      "link": "https://conversica.com",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Series D"
-    },
-    {
-      "company": "Essence App",
-      "amount_m": null,
-      "date": "2026-07-28",
-      "link": "https://theessence.app",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     },
     {
       "company": "Flex",
@@ -2195,19 +2177,43 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
+    },
+    {
+      "company": "Sekai",
+      "amount_m": 26,
+      "date": "2026-06-01",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RM05jb0RkbkRTZHM2TUItQ0JRQlM0UGZZQWNwQzdlWExmcWpydFc0dU5PWkVENFl0cDg5MlpmNkh3XzlYc3NycDhLdlR2VUtHNW11R2F1T3NBYTJrWlMyUUdZTzlwcW95cUxhcmZDa00?oc=5",
+      "investors": [
+        "Khosla Ventures",
+        "MVP Ventures",
+        "New Enterprise Associates"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Unastella",
+      "amount_m": 22,
+      "date": "2026-06-01",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dlJNMGFyWnVzREF0NDRkMHRjcWsyQXpGLWQ5ZERYblFjTjlEWWR1Ujc5bzNKZ2ozYS0tdGhOLTZBRWRmQV9iR2Z5NGwxMERUQWFBRFVjRlFqWTgzSmhsaQ?oc=5",
+      "investors": [
+        "Altos Ventures"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series B"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 109,
+      "count": 107,
       "examples": [
+        "Allied BIM",
         "Khosla leads $310 million",
-        "Taian",
         "Sanas",
-        "feending",
         "Tasklet",
-        "Shortwave"
+        "Shortwave",
+        "Ellis"
       ]
     },
     {
@@ -2250,24 +2256,24 @@
       "theme": "Applied AI agents",
       "count": 8,
       "examples": [
+        "Boon AI",
         "Faro",
         "Runflow",
         "5U AI",
-        "Conversica",
         "InstaLILY AI",
         "Pocket"
       ]
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
+      "count": 8,
       "examples": [
+        "Fusepay",
         "CapitalOS",
-        "Olomon",
         "PEX",
+        "Olomon",
         "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
+        "Fomo"
       ]
     },
     {
@@ -2298,7 +2304,7 @@
       "theme": "AI compute & models",
       "count": 4,
       "examples": [
-        "Beilian Zhuguan",
+        "OLIX",
         "Centralize",
         "Oratomic",
         "Prime Intellect"
@@ -2331,6 +2337,14 @@
         "ENCORE-AI",
         "Agave",
         "Scotch"
+      ]
+    },
+    {
+      "theme": "Sales & GTM AI",
+      "count": 2,
+      "examples": [
+        "Wayy",
+        "Polar"
       ]
     },
     {
@@ -2373,13 +2387,6 @@
       ]
     },
     {
-      "theme": "Sales & GTM AI",
-      "count": 1,
-      "examples": [
-        "Polar"
-      ]
-    },
-    {
       "theme": "Insurance / insurtech",
       "count": 1,
       "examples": [
@@ -2404,15 +2411,15 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 109,
-      "cap_m": 7166,
+      "count": 107,
+      "cap_m": 7202,
       "examples": [
+        "Allied BIM",
         "Khosla leads $310 million",
-        "Taian",
         "Sanas",
-        "feending",
         "Tasklet",
-        "Shortwave"
+        "Shortwave",
+        "Ellis"
       ],
       "top_stage": "Venture"
     },
@@ -2461,30 +2468,30 @@
     {
       "theme": "Applied AI agents",
       "count": 8,
-      "cap_m": 125,
+      "cap_m": 126,
       "examples": [
+        "Boon AI",
         "Faro",
         "Runflow",
         "5U AI",
-        "Conversica",
         "InstaLILY AI",
         "Pocket"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Pre Seed"
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
-      "cap_m": 251,
+      "count": 8,
+      "cap_m": 411,
       "examples": [
+        "Fusepay",
         "CapitalOS",
-        "Olomon",
         "PEX",
+        "Olomon",
         "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
+        "Fomo"
       ],
-      "top_stage": "Venture"
+      "top_stage": "Pre Seed"
     },
     {
       "theme": "Cybersecurity",
@@ -2517,9 +2524,9 @@
     {
       "theme": "AI compute & models",
       "count": 4,
-      "cap_m": 464,
+      "cap_m": 761,
       "examples": [
-        "Beilian Zhuguan",
+        "OLIX",
         "Centralize",
         "Oratomic",
         "Prime Intellect"
@@ -3572,14 +3579,14 @@
         "now": 6
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": 1,
-        "now": 109
-      },
-      {
         "name": "Healthcare & bio AI",
         "delta": 1,
         "now": 18
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": 1,
+        "now": 8
       },
       {
         "name": "AI compute & models",
@@ -3607,11 +3614,6 @@
         "now": 1
       },
       {
-        "name": "Fintech & payments",
-        "delta": 0,
-        "now": 7
-      },
-      {
         "name": "Physical AI & robotics",
         "delta": 0,
         "now": 6
@@ -3627,6 +3629,11 @@
         "now": 1
       },
       {
+        "name": "Applied / horizontal AI",
+        "delta": -1,
+        "now": 107
+      },
+      {
         "name": "Energy & climate",
         "delta": -1,
         "now": 9
@@ -3635,6 +3642,11 @@
         "name": "Applied AI agents",
         "delta": -1,
         "now": 8
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": -1,
+        "now": 2
       },
       {
         "name": "Agent-native infra",
@@ -3660,11 +3672,6 @@
         "name": "Logistics & supply chain",
         "delta": -2,
         "now": 2
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": -2,
-        "now": 1
       }
     ]
   }
