@@ -1,8 +1,23 @@
 {
-  "generated": "2026-08-04",
+  "generated": "2026-08-05",
   "mode": "full",
   "count": 50,
   "companies": [
+    {
+      "name": "HappyRobot",
+      "domain": "happyrobot.ai",
+      "desc": "The company offers an AI-native operating system designed to autonomously manage complex supply chain and industrial-scale operations through specialized AI workers. This system leverages real-time data, agentic reasonin",
+      "stage": "SERIES_C",
+      "last_amount": 150000000.0,
+      "total": 211175006.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Plug and Play",
+        "Ryder System, Inc.",
+        "Array Ventures"
+      ],
+      "location": "San Francisco, California 94114, US"
+    },
     {
       "name": "Simile",
       "domain": "simile.ai",
@@ -64,21 +79,6 @@
       "location": "New York City, New York, US"
     },
     {
-      "name": "Fish Audio",
-      "domain": "fish.audio",
-      "desc": "The company offers an AI text-to-speech platform that employs advanced voice cloning technology to produce high-quality audio with emotional nuance in multiple languages. It features a customizable API for real-time voic",
-      "stage": "SEED",
-      "last_amount": 52000000.0,
-      "total": 52000000.0,
-      "investors": [
-        "Play Time",
-        "645 Ventures",
-        "HF0",
-        "Carya"
-      ],
-      "location": "Mountain View, CA"
-    },
-    {
       "name": "OLIX",
       "domain": "olix.com",
       "desc": "The company develops a compute paradigm that integrates SRAM architecture with photonics to enhance throughput, interactivity, and latency, addressing the limitations of current GPU memory architectures. This technology ",
@@ -94,21 +94,6 @@
       "location": "London, England, United Kingdom"
     },
     {
-      "name": "Harmony",
-      "domain": "harmony.io",
-      "desc": "The main product is an AI-driven enterprise service management platform that automates IT operations, enabling rapid resolution of service requests and proactive monitoring of system health. It employs intelligent agents",
-      "stage": "SEED",
-      "last_amount": 34000000.0,
-      "total": 58875000.0,
-      "investors": [
-        "Operator Partners",
-        "Fin Capital",
-        "Lightspeed Venture Partners",
-        "Ofir Ehrlich"
-      ],
-      "location": "New York, NY"
-    },
-    {
       "name": "Centralize",
       "domain": "usecentralize.com",
       "desc": "The product is a centralized platform for sales teams that consolidates customer interactions and insights, utilizing large language models to enhance the understanding of stakeholder relationships. It integrates with ov",
@@ -122,21 +107,6 @@
         "Ritual Capital"
       ],
       "location": "2261 Market Street, Suite 5767, San Francisco, CA 94114, United States"
-    },
-    {
-      "name": "CapitalOS",
-      "domain": "capitalos.com",
-      "desc": "The company offers a money orchestration platform designed for B2B applications, facilitating card issuance, cash management, and automated financial transactions through a unified API. It utilizes technologies such as r",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 39000000.0,
-      "investors": [
-        "Upper90",
-        "K5 Global",
-        "Great North Ventures",
-        "Slow Ventures"
-      ],
-      "location": "San Francisco , CA"
     },
     {
       "name": "Faro",
@@ -169,6 +139,21 @@
       "location": "Toronto, Ontario"
     },
     {
+      "name": "Onyx Security",
+      "domain": "onyx.security",
+      "desc": "Onyx offers a secure AI control plane that enables enterprises to manage and oversee AI agents and models across various environments, including SaaS, cloud, and endpoints. The platform incorporates technologies for AI o",
+      "stage": "SERIES_B",
+      "last_amount": 113000000.0,
+      "total": 153000000.0,
+      "investors": [
+        "Cyberstarts",
+        "Conviction",
+        "G Squared",
+        "QuantumLight"
+      ],
+      "location": "New York, NY"
+    },
+    {
       "name": "Pangram Labs",
       "domain": "pangram.com",
       "desc": "Pangram Labs provides an AI detection tool that utilizes natural language processing and deep learning techniques to identify AI-generated content by analyzing structural, stylistic, and semantic patterns in text. The sy",
@@ -184,19 +169,19 @@
       "location": "Brooklyn, NY"
     },
     {
-      "name": "Healia Health (YC W24)",
-      "domain": "healiahealth.com",
-      "desc": "Healia offers a health reimbursement arrangement (HRA) that allows employers to reimburse out-of-pocket medical expenses and premiums for employees' family members enrolled in a spouse's health plan, potentially covering",
+      "name": "Delightree",
+      "domain": "delightree.com",
+      "desc": "Delightree offers an AI-powered franchise management platform that automates processes and centralizes task management to enhance operational efficiency for multi-unit businesses. Key features include task execution, tra",
       "stage": "SERIES_A",
-      "last_amount": 14000000.0,
-      "total": 18045000.0,
+      "last_amount": 25000000.0,
+      "total": 48628950.0,
       "investors": [
-        "Pioneer Fund",
-        "North Coast Ventures",
-        "111° West Capital",
-        "First Round Capital"
+        "Brainstorm Ventures",
+        "Axilor Ventures",
+        "Innovius Capital",
+        "Alchemist Accelerator"
       ],
-      "location": "Columbus, Ohio"
+      "location": "San Francisco, California"
     },
     {
       "name": "Sanas",
@@ -289,21 +274,6 @@
       "location": "London, England"
     },
     {
-      "name": "5U AI",
-      "domain": "5u.ai",
-      "desc": "5U AI offers a digital workforce that automates various freight operations tasks, including order entry, customer notifications, and document processing, by integrating with existing systems to enhance efficiency. The te",
-      "stage": "PRE_SEED",
-      "last_amount": 3200000.0,
-      "total": 3200000.0,
-      "investors": [
-        "A.P. Moller - Maersk",
-        "Emerge Capital",
-        "DHL",
-        "CEVA Logistics"
-      ],
-      "location": "Munich"
-    },
-    {
       "name": "Intropy",
       "domain": "intropy.ai",
       "desc": "Developer of an AI-powered operating system designed to optimize operations in the parts and equipment industries. The company's system offers modular tools for pricing optimization, lead generation, distribution plannin",
@@ -319,19 +289,19 @@
       "location": "30 Churchill Place, London E14 5RE, England, United Kingdom"
     },
     {
-      "name": "COR",
-      "domain": "projectcor.com",
-      "desc": "The company offers management software tailored for agencies, leveraging AI to automate time tracking and provide real-time project visibility. Key features include workload optimization and detailed operational insights",
+      "name": "Buzz Solutions",
+      "domain": "buzzsolutions.com",
+      "desc": "The company provides an AI-driven platform that utilizes machine vision algorithms and predictive analytics to analyze visual data for infrastructure inspections in the utility sector. This technology enables the rapid p",
       "stage": "SERIES_A",
-      "last_amount": 30000000.0,
-      "total": 36039671.0,
+      "last_amount": 20000000.0,
+      "total": 30700000.0,
       "investors": [
-        "GFC",
-        "500 Global",
-        "Global Founders Capital",
-        "ScOp Venture Capital"
+        "S3 Ventures",
+        "Robertson Stephens",
+        "Blue Leaf Ventures",
+        "GoPoint Ventures"
       ],
-      "location": "San Francisco, California"
+      "location": "Palo Alto, CA"
     },
     {
       "name": "Freehand",
@@ -364,47 +334,49 @@
       "location": "New York, NY"
     },
     {
-      "name": "Procode AI",
-      "domain": "tryprocode.com",
-      "desc": "The main product is an AI-driven coding copilot designed for medical billers, which automates the charge submission process by integrating with EHR systems to manage record retrieval, coding, and charge scrubbing. This t",
-      "stage": "SERIES_A",
-      "last_amount": 10000000.0,
-      "total": 14000000.0,
+      "name": "STELLA Automotive AI",
+      "domain": "stellaautomotive.com",
+      "desc": "STELLA offers an AI-driven platform that automates customer interactions for automotive dealerships, utilizing conversational AI to manage inbound calls, service scheduling, and communication through voice, text, and cha",
+      "stage": "SERIES_B",
+      "last_amount": 22100000.0,
+      "total": 90814591.0,
       "investors": [
-        "Health Velocity Capital",
-        "Progression",
-        "Story Ventures",
-        "Four Acres Capital"
+        "Mills Automotive Group",
+        "The Presidio Group",
+        "Czubay Family Enterprises",
+        "Flow Automotive Companies"
       ],
-      "location": "C/O PROCODE INC, 1398 Miller Drive, Los Angeles, CA 90069, United States"
+      "location": "Tampa, FL"
     },
     {
-      "name": "Weave",
-      "domain": "weaveos.com",
-      "desc": "Weave provides a platform that leverages AI to enhance engineering productivity by measuring contributions, optimizing workflows, and analyzing the impact of changes across various projects. The technology includes tools",
-      "stage": "SERIES_A",
-      "last_amount": 13500000.0,
-      "total": 18200000.0,
+      "name": "10x Banking",
+      "domain": "10xbanking.com",
+      "desc": "The company offers a cloud-native core banking platform designed to facilitate real-time data insights and efficient product lifecycle management, employing no-code tools for the swift development of digital banking solu",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 53756560.0,
+      "total": 350538533.0,
       "investors": [
-        "Y Combinator",
-        "Burst Capital",
-        "Irregular Expressions",
-        "Pioneer Fund"
+        "Nationwide Building Society",
+        "BlackRock",
+        "PingAn",
+        "Medical office buildings (Canada Pension Plan Investment Board _ Health Care REIT)"
       ],
-      "location": ""
+      "location": "London, England"
     },
     {
-      "name": "Vectorize AI, Inc.",
-      "domain": "vectorize.io",
-      "desc": "The main product is a platform that transforms unstructured data into AI-ready intelligence, facilitating the development of AI applications that manage extensive document volumes. It utilizes retrieval augmented generat",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 3600000.0,
+      "name": "Blaze.tech",
+      "domain": "blaze.tech",
+      "desc": "Blaze is a no-code platform that enables healthcare organizations to create HIPAA-compliant applications through a visual drag-and-drop interface, facilitating integration with various APIs and data sources, including FH",
+      "stage": "PRE_SEED",
+      "last_amount": 5000000.0,
+      "total": 10000000.0,
       "investors": [
-        "True Ventures",
-        "DIG Ventures"
+        "Socially Financed",
+        "Flybridge",
+        "Sangha Capital SA",
+        "The K Funds"
       ],
-      "location": "Dover, DE"
+      "location": "Los Angeles"
     },
     {
       "name": "Discern",
@@ -481,21 +453,6 @@
       "location": "Sao Paulo"
     },
     {
-      "name": "Tiger Technology",
-      "domain": "tiger-technology.com",
-      "desc": "Tiger Technology provides hybrid cloud solutions that enhance on-premises storage and enable efficient workflows for high-performance applications. Their technology supports data lifecycle management across various stora",
-      "stage": "SERIES_A",
-      "last_amount": 10020472.0,
-      "total": 22026478.0,
-      "investors": [
-        "TDJ",
-        "Endeavor Catalyst",
-        "MFG Invest",
-        "IMPETUS Capital"
-      ],
-      "location": "Sofia"
-    },
-    {
       "name": "Amgine",
       "domain": "amgine.ai",
       "desc": "AMGiNE provides an AI automation platform designed for travel management companies, utilizing API-first technology to automate travel bookings and streamline communication across various channels. The platform integrates",
@@ -523,30 +480,17 @@
       "location": ""
     },
     {
-      "name": "Allied BIM",
-      "domain": "alliedbim.com",
-      "desc": "The main product is a software solution designed to streamline the building fabrication process by connecting design teams with fabrication shop operations, enabling efficient management of cut lists and work orders. It ",
+      "name": "Relu",
+      "domain": "relu.ai",
+      "desc": "Relu provides a cloud-based AI software platform that automates the segmentation and alignment of imaging data from cone beam computed tomography (CBCT) scans and digital impressions, facilitating dental and maxillofacia",
       "stage": "SEED",
-      "last_amount": 0,
-      "total": 2500000.0,
+      "last_amount": 1750000.0,
+      "total": 3917646.0,
       "investors": [
-        "ARCO/Murray"
+        "DIA",
+        "Care Capital Partners"
       ],
-      "location": "Bozeman, Montana"
-    },
-    {
-      "name": "Curant.ai",
-      "domain": "curant.ai",
-      "desc": "Curant AI is modernizing disability claims workflows",
-      "stage": "SEED",
-      "last_amount": 3100000.0,
-      "total": 3100000.0,
-      "investors": [
-        "Humania Assurance Inc.",
-        "Diagram",
-        "Blue Plains Capital"
-      ],
-      "location": "Saint George, UT, United States"
+      "location": "Leuven, Flemish Region"
     },
     {
       "name": "EviData, powered by Woodway Assurance",
@@ -577,16 +521,6 @@
       "location": "Santa Monica, California"
     },
     {
-      "name": "Olomon",
-      "domain": "olomon.com",
-      "desc": "Olomon provides a personal finance and spend management platform that consolidates financial data from various sources, allowing users to track both traditional and alternative assets through a secure dashboard. The plat",
-      "stage": "PRE_SEED",
-      "last_amount": 2600000.0,
-      "total": 2600000.0,
-      "investors": [],
-      "location": "Brentwood, TN"
-    },
-    {
       "name": "Wayy",
       "domain": "wayy.ai",
       "desc": "Wayy.ai offers an AI-driven sales automation platform that assists solopreneurs and small business owners in generating leads and conducting outreach with minimal setup. The technology utilizes data analysis to identify ",
@@ -594,6 +528,7 @@
       "last_amount": 2000000.0,
       "total": 3590000.0,
       "investors": [
+        "Tunc Yalgin",
         "Zero to One Ventures",
         "Tunç Y."
       ],
@@ -655,16 +590,43 @@
       "location": "Gangnamgu, Seoul"
     },
     {
-      "name": "Atomic One",
-      "domain": "atomic-one.com",
-      "desc": "Atomic One is an autonomous operational layer for Amazon brands. We build specialized AI agents that manage pricing, PPC, inventory, and logistics, so founders focus on strategy, not firefighting.",
-      "stage": "",
-      "last_amount": 6376664.0,
-      "total": 6376664.0,
+      "name": "Walaw",
+      "domain": "walaw.io",
+      "desc": "The main product is an AI-driven communication platform for healthcare providers that automates patient inquiries, appointment scheduling, and call answering around the clock. It employs natural language processing to ha",
+      "stage": "SEED",
+      "last_amount": 1500000.0,
+      "total": 1500000.0,
+      "investors": [],
+      "location": "Montreal"
+    },
+    {
+      "name": "Aavalynx",
+      "domain": "aavalynx.ai",
+      "desc": "Aavalynx provides an AI-driven legal platform that enhances dispute resolution by integrating advanced artificial intelligence with legal expertise, facilitating various stages of dispute management, including early case",
+      "stage": "PRE_SEED",
+      "last_amount": 2015177.0,
+      "total": 2015177.0,
       "investors": [
-        "Arcano Partners"
+        "Omega Venture Partners",
+        "Two Ravens VC",
+        "Omega Ventures"
       ],
-      "location": "Málaga, Andalusia"
+      "location": "St Helier"
+    },
+    {
+      "name": "Shiplog",
+      "domain": "useshiplog.com",
+      "desc": "Say hello to Remote. Designed for real businesses like yours: freelancers crafting from home offices, startups disrupting industries, agencies delivering client work — Remote works the way you do.",
+      "stage": "PRE_SEED",
+      "last_amount": 929793.0,
+      "total": 929793.0,
+      "investors": [
+        "STATION F",
+        "Purple",
+        "No Label Ventures",
+        "Kima Ventures"
+      ],
+      "location": "Paris, France"
     },
     {
       "name": "Scale Social AI, Inc.",
@@ -678,6 +640,21 @@
         "⚡️Primordial Ventures",
         "Charlotte Fund",
         "RTP Angel Fund"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Palabra AI: Real-Time Speech Translation for Audio & Video Calls",
+      "domain": "palabra.ai",
+      "desc": "The main product is a real-time speech translation service that supports communication in over 60 languages during audio and video calls, events, and streaming. It utilizes proprietary language models to deliver high acc",
+      "stage": "PRE_SEED",
+      "last_amount": 8400000.0,
+      "total": 8400000.0,
+      "investors": [
+        "Seven Seven Six 7️⃣7️⃣6️⃣",
+        "Creator Collective Capital (C3 VC)",
+        "Anne Lee Skates",
+        "Max Mullen"
       ],
       "location": ""
     },
@@ -720,6 +697,32 @@
         "Lukatz Investments"
       ],
       "location": "Houston, Texas"
+    },
+    {
+      "name": "feending",
+      "domain": "feending.com",
+      "desc": "Feending is a platform that facilitates the management and engagement of professional communities through the use of artificial intelligence, which automates member matching and optimizes management processes. It include",
+      "stage": "PRE_SEED",
+      "last_amount": 228000.0,
+      "total": 734000.0,
+      "investors": [
+        "Lanzadera"
+      ],
+      "location": "Valencia"
+    },
+    {
+      "name": "TRIKKS",
+      "domain": "trikks.com",
+      "desc": "TRIKKS provides a flexible learning system designed for creating visual learning journeys that support both traditional e-learning and hybrid formats. The platform incorporates tools for digital content delivery, communi",
+      "stage": "SEED",
+      "last_amount": 5500000.0,
+      "total": 5500000.0,
+      "investors": [
+        "Fireside Ventures",
+        "Accel",
+        "Lightspeed India"
+      ],
+      "location": "Oslo, Lysaker"
     }
   ]
 }
