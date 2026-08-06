@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05",
+  "generated": "2026-08-06",
   "companies": [
     {
       "name": "Salient",
@@ -83,6 +83,20 @@
       "domain": "netboxlabs.com",
       "slug": "netbox-labs",
       "updates": [
+        {
+          "date": "2026-08-06",
+          "category": "Blog",
+          "title": "Public Preview: NetBox Analytics Puts Your Infrastructure Record to Work",
+          "link": "https://netboxlabs.com/blog/netbox-analytics-public-preview/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-08-05",
+          "category": "Blog",
+          "title": "Meet Amanda Rodrigues, the Engineer Building Confidence in Observability",
+          "link": "https://netboxlabs.com/blog/meet-amanda-rodrigues-the-engineer-building-confidence-in-observability/",
+          "source": "Blog"
+        },
         {
           "date": "2026-07-23",
           "category": "Blog",
