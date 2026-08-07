@@ -2048,5 +2048,35 @@
     "theme": "Applied / horizontal AI",
     "domain": "",
     "clean": "Forward"
+  },
+  "hadrian": {
+    "theme": "Physical AI & robotics",
+    "domain": "",
+    "clean": "Hadrian"
+  },
+  "omilia": {
+    "theme": "Agent-native infra",
+    "domain": "",
+    "clean": "Omilia"
+  },
+  "naive": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Naive"
+  },
+  "malachyte": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Malachyte"
+  },
+  "shelfmark": {
+    "theme": "Physical AI & robotics",
+    "domain": "",
+    "clean": "Shelfmark"
+  },
+  "herdr": {
+    "theme": "AI dev tooling",
+    "domain": "",
+    "clean": "herdr"
   }
 }

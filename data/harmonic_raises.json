@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "mode": "full",
-  "count": 50,
+  "count": 40,
   "companies": [
     {
       "name": "HappyRobot",
@@ -19,19 +19,19 @@
       "location": "San Francisco, California 94114, US"
     },
     {
-      "name": "Simile",
-      "domain": "simile.ai",
-      "desc": "The main product is a simulation platform that utilizes AI-driven generative agents to model human behavior, enabling users to analyze responses to various scenarios and enhance decision-making processes. This technology",
-      "stage": "SERIES_B",
-      "last_amount": 200000000.0,
-      "total": 300000000.0,
+      "name": "Hadrian",
+      "domain": "hadrian.co",
+      "desc": "Hadrian specializes in precision manufacturing, leveraging its AI-powered platform, Opus, to automate production and inspection processes, which enhances operational efficiency and throughput. The company provides flexib",
+      "stage": "SERIES_D",
+      "last_amount": 1370000000.0,
+      "total": 1978807594.0,
       "investors": [
-        "Index Ventures",
-        "Greenoaks",
-        "A*",
-        "Definition"
+        "Andreessen Horowitz",
+        "Morgan Stanley",
+        "Baillie Gifford",
+        "XYZ Venture Capital"
       ],
-      "location": "Palo Alto, CA"
+      "location": "Los Angeles, CA"
     },
     {
       "name": "Wordsmith AI",
@@ -79,21 +79,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Dili",
-      "domain": "dili.com",
-      "desc": "The main product is an AI-powered compliance automation platform tailored for developers and EPC firms, focusing on adherence to prevailing wage and apprenticeship regulations in federally funded projects. It employs rea",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 18600000.0,
-      "investors": [
-        "Google for Startups",
-        "Hyper Ventures",
-        "Rebel Fund",
-        "10X Capital"
-      ],
-      "location": "New York"
-    },
-    {
       "name": "Rime",
       "domain": "rime.ai",
       "desc": "Rime develops advanced text-to-speech models that leverage a proprietary dataset of expressive, multilingual conversational speech, enabling highly realistic voice interactions that incorporate natural speech patterns an",
@@ -128,7 +113,7 @@
       "domain": "ordwaylabs.com",
       "desc": "The company provides a finance platform that automates billing, accounting, and KPI reporting for businesses with recurring revenue models, such as SaaS and fintech. It utilizes technologies that support various pricing ",
       "stage": "SERIES_A",
-      "last_amount": 0,
+      "last_amount": 20000000.0,
       "total": 32500000.0,
       "investors": [
         "Harbert Management Corporation",
@@ -139,19 +124,19 @@
       "location": "Washington, District of Columbia"
     },
     {
-      "name": "Onyx Security",
-      "domain": "onyx.security",
-      "desc": "Onyx offers a secure AI control plane that enables enterprises to manage and oversee AI agents and models across various environments, including SaaS, cloud, and endpoints. The platform incorporates technologies for AI o",
-      "stage": "SERIES_B",
-      "last_amount": 113000000.0,
-      "total": 153000000.0,
+      "name": "Naive",
+      "domain": "usenaive.ai",
+      "desc": "The main product is a platform designed for the creation and management of autonomous businesses through AI-driven agents, utilizing a unified command-line interface. It employs technologies such as microVM sandboxes, sm",
+      "stage": "SERIES_A",
+      "last_amount": 28500000.0,
+      "total": 31000000.0,
       "investors": [
-        "Cyberstarts",
-        "Conviction",
-        "G Squared",
-        "QuantumLight"
+        "Nexus Venture Partners",
+        "Y Combinator",
+        "Rocket Internet SE",
+        "z21 Ventures"
       ],
-      "location": "New York, NY"
+      "location": "San Francisco, CA, United States"
     },
     {
       "name": "Delightree",
@@ -184,26 +169,26 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "Kovant",
-      "domain": "kovant.com",
-      "desc": "Kovant provides a platform that deploys autonomous AI agents to enhance operational efficiency in procurement, supply chain, and financial processing through role-based execution. The technology integrates with existing ",
+      "name": "Shelfmark",
+      "domain": "shelfmark.com",
+      "desc": "Shelfmark offers an AI-powered visual inspection system designed for web-based manufacturing, utilizing deep learning computer vision technology to identify defects in real-time. The solution features customized hardware",
       "stage": "SEED",
-      "last_amount": 1723861.0,
-      "total": 3460333.0,
+      "last_amount": 3500000.0,
+      "total": 9680978.0,
       "investors": [
-        "J12",
-        "Ampli Ventures",
-        "Greens Ventures",
-        "Sara Öhrvall"
+        "Armory Square Ventures",
+        "Cultivation Capital",
+        "Grand Ventures",
+        "TitletownTech"
       ],
-      "location": "Stockholm"
+      "location": "Pittsburgh, Pennsylvania"
     },
     {
       "name": "Moss",
       "domain": "getmoss.com",
       "desc": "Moss provides a spend management platform that automates invoice processing, matches invoices to purchase requests, and integrates corporate card functionality to streamline financial operations. The platform utilizes AI",
       "stage": "SERIES_C",
-      "last_amount": 34639260.0,
+      "last_amount": 34609890.0,
       "total": 238948870.0,
       "investors": [
         "Global Founders Capital",
@@ -212,36 +197,6 @@
         "HSBC"
       ],
       "location": "Berlin"
-    },
-    {
-      "name": "inforcer",
-      "domain": "inforcer.com",
-      "desc": "The product is a platform that facilitates the management of security policies across multiple Microsoft 365 tenants, employing technologies such as Intune, Azure AD, and Defender. It automates policy deployment, ensures",
-      "stage": "SERIES_C",
-      "last_amount": 50000000.0,
-      "total": 105806921.0,
-      "investors": [
-        "Insight Partners",
-        "Dawn Capital",
-        "Meritech Capital",
-        "Dawn Capital"
-      ],
-      "location": "London, England"
-    },
-    {
-      "name": "Intropy",
-      "domain": "intropy.ai",
-      "desc": "Developer of an AI-powered operating system designed to optimize operations in the parts and equipment industries. The company's system offers modular tools for pricing optimization, lead generation, distribution plannin",
-      "stage": "SEED",
-      "last_amount": 11000000.0,
-      "total": 11000000.0,
-      "investors": [
-        "Quiet Capital",
-        "No Label Ventures",
-        "General Catalyst",
-        "firstminute capital"
-      ],
-      "location": "30 Churchill Place, London E14 5RE, England, United Kingdom"
     },
     {
       "name": "Advocate Technologies",
@@ -293,8 +248,8 @@
       "domain": "conmeet.io",
       "desc": "The main product is a cloud-based business management platform designed for medium-sized craft businesses, integrating customer relationship management, project management, and personnel management into a single system. ",
       "stage": "SEED",
-      "last_amount": 6922410.0,
-      "total": 8463792.0,
+      "last_amount": 6933690.0,
+      "total": 8475072.0,
       "investors": [
         "Smedvig Ventures",
         "May Ventures",
@@ -334,6 +289,19 @@
       "location": "Tampa, FL"
     },
     {
+      "name": "Omilia",
+      "domain": "omilia.com",
+      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
+      "stage": "SERIES_B",
+      "last_amount": 67000000.0,
+      "total": 87000000.0,
+      "investors": [
+        "Expedition Growth Capital",
+        "Grafton Capital"
+      ],
+      "location": "Larnaca, Larnaca"
+    },
+    {
       "name": "10x Banking",
       "domain": "10xbanking.com",
       "desc": "The company offers a cloud-native core banking platform designed to facilitate real-time data insights and efficient product lifecycle management, employing no-code tools for the swift development of digital banking solu",
@@ -364,34 +332,18 @@
       "location": "Singapore, Singapore"
     },
     {
-      "name": "Discern",
-      "domain": "discern.com",
-      "desc": "Discern provides an automated compliance operating system that delivers digital-first Registered Agent services across all U.S. jurisdictions, facilitating automatic filings for annual reports, franchise taxes, and forei",
-      "stage": "SERIES_A",
-      "last_amount": 10000000.0,
-      "total": 14500000.0,
-      "investors": [
-        "Artiman Ventures",
-        "Walkabout Ventures",
-        "Bungalow Capital",
-        "100 Ventures"
-      ],
-      "location": "."
-    },
-    {
-      "name": "Ellis",
-      "domain": "ellis.ai",
-      "desc": "Ellis is the preeminent intelligence layer for private credit. Built for the next generation of private credit managers, those who refuse to let operational drag limit their growth.",
+      "name": "Malachyte",
+      "domain": "malachyte.com",
+      "desc": "Malachyte offers a real-time personalization platform that generates adaptive user profiles through in-session learning, enabling dynamic content customization based on visitor behavior without requiring prior history or",
       "stage": "SEED",
       "last_amount": 10000000.0,
-      "total": 10000000.0,
+      "total": 15150000.0,
       "investors": [
-        "Slow Ventures",
-        "First Round Capital",
-        "Westbound Equity Partners",
-        "645 Ventures"
+        "Harpoon Ventures",
+        "Bessemer Venture Partners",
+        "Gradient"
       ],
-      "location": "1209 Orange Street, Wilmington, DE 19801, United States"
+      "location": "New York, NY"
     },
     {
       "name": "Balance Theory",
@@ -408,34 +360,6 @@
       "location": "Columbia, MD"
     },
     {
-      "name": "Inspira",
-      "domain": "inspire-se.co",
-      "desc": "Inspira offers an AI-driven legal assistant designed to streamline legal practices by integrating features such as legal research, document analysis, and report generation. The platform utilizes artificial intelligence a",
-      "stage": "SERIES_A",
-      "last_amount": 2800000.0,
-      "total": 3760000.0,
-      "investors": [
-        "Google for Startups",
-        "Gávea Angels",
-        "Urca Angels",
-        "Cloud9 Capital"
-      ],
-      "location": "Sao Paulo"
-    },
-    {
-      "name": "Amgine",
-      "domain": "amgine.ai",
-      "desc": "AMGiNE provides an AI automation platform designed for travel management companies, utilizing API-first technology to automate travel bookings and streamline communication across various channels. The platform integrates",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 18771623.0,
-      "investors": [
-        "BCD Travel",
-        "RTL Group Investments"
-      ],
-      "location": "Toronto, Ontario"
-    },
-    {
       "name": "WorldScape",
       "domain": "worldscape.ai",
       "desc": "Worldscape develops a data fabric that orchestrates distributed data, agents, and systems in real-time, utilizing advanced 3D and physics engine technology for accurate simulations and predictive analysis. The platform i",
@@ -449,16 +373,6 @@
         "Radius Capital Ventures"
       ],
       "location": "15809 Bear Creek Parkway, Suite 130, Redmond, WA 98052, United States"
-    },
-    {
-      "name": "Boxsy",
-      "domain": "boxsy.io",
-      "desc": "Boxsy provides an AI-driven platform that automates fundraising operations for startup founders, featuring tools for managing investor pipelines, organizing data rooms, and facilitating investor updates. The technology l",
-      "stage": "PRE_SEED",
-      "last_amount": 50000.0,
-      "total": 218000.0,
-      "investors": [],
-      "location": "Austin, Texas"
     },
     {
       "name": "Relu",
@@ -488,31 +402,6 @@
       "location": "Miami, Florida"
     },
     {
-      "name": "Fusepay",
-      "domain": "fusepay.app",
-      "desc": "Fusepay is a financial technology platform designed for businesses in Seychelles, enabling the management of payments, invoices, orders, and accounting through a single interface. It incorporates features such as automat",
-      "stage": "PRE_SEED",
-      "last_amount": 350000.0,
-      "total": 350000.0,
-      "investors": [
-        "Startup Istanbul",
-        "Velocity Digital",
-        "First Check Ventures",
-        "Everywhere Ventures"
-      ],
-      "location": "Seychelles"
-    },
-    {
-      "name": "Runflow",
-      "domain": "runflow.ai",
-      "desc": "Runflow offers a platform designed for the creation, operation, and management of enterprise AI agents, facilitating rapid deployment and integration with existing systems through a variety of pre-built connectors. The p",
-      "stage": "SEED",
-      "last_amount": 1360000.0,
-      "total": 1360000.0,
-      "investors": [],
-      "location": "São Paulo, SP"
-    },
-    {
       "name": "Superleap AI CRM",
       "domain": "superleap.com",
       "desc": "Superleap offers an AI-driven CRM platform designed to enhance sales productivity through features such as automated meeting notes, real-time AI assistance, and advanced automation capabilities. The technology employs AI",
@@ -522,7 +411,7 @@
       "investors": [
         "Peak XV Partners",
         "Surge",
-        "Peak XVs Surge programme"
+        "Peak XV Partners Surge"
       ],
       "location": "Bengaluru South, Karnataka"
     },
@@ -566,21 +455,6 @@
       "location": "Paris, France"
     },
     {
-      "name": "Scale Social AI, Inc.",
-      "domain": "scalesocial.ai",
-      "desc": "",
-      "stage": "PRE_SEED",
-      "last_amount": 0,
-      "total": 1300000.0,
-      "investors": [
-        "NC Tweener Fund, Powered by NC IDEA",
-        "⚡️Primordial Ventures",
-        "Charlotte Fund",
-        "RTP Angel Fund"
-      ],
-      "location": ""
-    },
-    {
       "name": "Palabra AI: Real-Time Speech Translation for Audio & Video Calls",
       "domain": "palabra.ai",
       "desc": "The main product is a real-time speech translation service that supports communication in over 60 languages during audio and video calls, events, and streaming. It utilizes proprietary language models to deliver high acc",
@@ -606,26 +480,16 @@
       "location": ""
     },
     {
-      "name": "feending",
-      "domain": "feending.com",
-      "desc": "Feending is a platform that facilitates the management and engagement of professional communities through the use of artificial intelligence, which automates member matching and optimizes management processes. It include",
+      "name": "herdr",
+      "domain": "herdr.dev",
+      "desc": "Herdr is to coding agents what tmux is to terminals: an agent multiplexer that runs where your agents run. Real panes, agent state at a glance, ssh from anywhere, no app.",
       "stage": "PRE_SEED",
-      "last_amount": 228000.0,
-      "total": 734000.0,
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "Lanzadera"
+        "Y Combinator"
       ],
-      "location": "Valencia"
-    },
-    {
-      "name": "Mixel Studio, Inc.",
-      "domain": "mixelstudio.com",
-      "desc": "The main product is a web-based mixed reality platform designed for instructor-led spatial training and educational experiences, enabling users to create immersive content without requiring advanced technical skills. It ",
-      "stage": "",
-      "last_amount": 110000.0,
-      "total": 110000.0,
-      "investors": [],
-      "location": "Ann Arbor, MICHIGAN"
+      "location": ""
     },
     {
       "name": "Forward",

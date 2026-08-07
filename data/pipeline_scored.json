@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-06",
+  "generated": "2026-08-07",
   "companies": [
     {
       "name": "NetBox Labs",
@@ -45,11 +45,11 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 11,
+      "open_roles": 12,
       "signals": [
         "12 mo since last round (Series A) · typical Series A cadence ~12 mo · approaching typical raise window",
         "Last round: 2025-07-28 (Harmonic (by domain))",
-        "Hiring ramp: open roles 8→11",
+        "Hiring ramp: open roles 8→12",
         "Basis: live signal"
       ],
       "url": "https://trysalient.com",
@@ -69,13 +69,12 @@
       "likelihood": "Very low",
       "rank": 1,
       "strong_signals": 0,
-      "supporting_signals": 2,
+      "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 11,
+      "open_roles": 10,
       "signals": [
         "6 mo since last round (Series B) · typical Series B cadence ~15 mo · just raised",
         "Last round: 2026-02-10 (Harmonic (by domain))",
-        "Hiring ramp: open roles 8→11",
         "Conference/roadshow presence: :before { content: counter(activity-count) ' way to connect'; } .ev",
         "Basis: cadence only (no live signals yet)"
       ],
@@ -88,7 +87,7 @@
       "name": "Taktile",
       "domain": "taktile.com",
       "stage": "Series C",
-      "months_since": 1,
+      "months_since": 2,
       "last_raise_date": "2026-06-22",
       "last_raise_source": "provided",
       "funding_total": 188850000.0,
@@ -100,9 +99,9 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 45,
+      "open_roles": 44,
       "signals": [
-        "1 mo since last round (Series C) · typical Series C cadence ~19 mo · just raised",
+        "2 mo since last round (Series C) · typical Series C cadence ~19 mo · just raised",
         "Last round: 2026-06-22 (provided)",
         "Conference/roadshow presence: cover upcoming webinars, on-demand insights, and connect with us",
         "Basis: cadence only (no live signals yet)"
