@@ -1,8 +1,23 @@
 {
-  "generated": "2026-08-07",
+  "generated": "2026-08-08",
   "mode": "full",
-  "count": 40,
+  "count": 39,
   "companies": [
+    {
+      "name": "Harvey",
+      "domain": "harvey.ai",
+      "desc": "The main product is an AI platform designed for legal professionals, enabling efficient workflow management, document analysis, and legal research through domain-specific capabilities. It utilizes large language models h",
+      "stage": "SERIES_G",
+      "last_amount": 0,
+      "total": 1224559173.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Inertia Ventures",
+        "Conviction",
+        "EQT Group"
+      ],
+      "location": "San Francisco, California, US"
+    },
     {
       "name": "HappyRobot",
       "domain": "happyrobot.ai",
@@ -24,7 +39,7 @@
       "desc": "Hadrian specializes in precision manufacturing, leveraging its AI-powered platform, Opus, to automate production and inspection processes, which enhances operational efficiency and throughput. The company provides flexib",
       "stage": "SERIES_D",
       "last_amount": 1370000000.0,
-      "total": 1978807594.0,
+      "total": 1978807547.0,
       "investors": [
         "Andreessen Horowitz",
         "Morgan Stanley",
@@ -49,21 +64,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Tasklet",
-      "domain": "tasklet.ai",
-      "desc": "The company offers a platform that automates business processes using artificial intelligence, allowing users to articulate their needs in plain language. It integrates with various HTTP APIs and MCP servers, leveraging ",
-      "stage": "SEED",
-      "last_amount": 13000000.0,
-      "total": 33000000.0,
-      "investors": [
-        "Union Square Ventures",
-        "Uncorrelated",
-        "Y Combinator",
-        "Lightspeed Venture Partners"
-      ],
-      "location": "San Francisco, California, United States of America"
-    },
-    {
       "name": "Ambrook",
       "domain": "ambrook.com",
       "desc": "Ambrook offers accounting software designed for family-run businesses, consolidating bookkeeping, payments, and financial insights into a unified platform. The software utilizes AI for receipt sorting and payment matchin",
@@ -77,21 +77,6 @@
         "Cameron Ventures"
       ],
       "location": "New York, NY"
-    },
-    {
-      "name": "Rime",
-      "domain": "rime.ai",
-      "desc": "Rime develops advanced text-to-speech models that leverage a proprietary dataset of expressive, multilingual conversational speech, enabling highly realistic voice interactions that incorporate natural speech patterns an",
-      "stage": "SEED",
-      "last_amount": 2000000.0,
-      "total": 34593986.0,
-      "investors": [
-        "Plug and Play",
-        "Moth Fund",
-        "Twilio Ventures",
-        "Unusual Ventures"
-      ],
-      "location": "San Francisco, CA"
     },
     {
       "name": "OLIX",
@@ -109,11 +94,41 @@
       "location": "London, England, United Kingdom"
     },
     {
+      "name": "Avatar Robotics",
+      "domain": "avatarrobotics.com",
+      "desc": "The company offers robotic solutions designed for various industrial tasks, including pick and place, part handling, inspection, and assembly, which function under human supervision. Their technology allows robots to lea",
+      "stage": "SEED",
+      "last_amount": 6500000.0,
+      "total": 6500000.0,
+      "investors": [
+        "defy.vc",
+        "REFASHIOND Ventures: The Industrial Transformation Fund",
+        "Headline",
+        "AlleyCorp"
+      ],
+      "location": "650 California Street, Floor 7, San Francisco, CA 94108, United States"
+    },
+    {
+      "name": "Rime",
+      "domain": "rime.ai",
+      "desc": "Rime develops advanced text-to-speech models that leverage a proprietary dataset of expressive, multilingual conversational speech, enabling highly realistic voice interactions that incorporate natural speech patterns an",
+      "stage": "SEED",
+      "last_amount": 2000000.0,
+      "total": 34593986.0,
+      "investors": [
+        "Plug and Play",
+        "Moth Fund",
+        "Twilio Ventures",
+        "Unusual Ventures"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
       "name": "Ordway",
       "domain": "ordwaylabs.com",
       "desc": "The company provides a finance platform that automates billing, accounting, and KPI reporting for businesses with recurring revenue models, such as SaaS and fintech. It utilizes technologies that support various pricing ",
       "stage": "SERIES_A",
-      "last_amount": 20000000.0,
+      "last_amount": 0,
       "total": 32500000.0,
       "investors": [
         "Harbert Management Corporation",
@@ -122,6 +137,21 @@
         "CRV"
       ],
       "location": "Washington, District of Columbia"
+    },
+    {
+      "name": "Advocate Technologies",
+      "domain": "advocate.app",
+      "desc": "The main product is a software platform that automates insurance risk management processes, focusing on compliance and operational efficiency within the commercial real estate sector. It employs AI technology to standard",
+      "stage": "SEED",
+      "last_amount": 18000000.0,
+      "total": 24600000.0,
+      "investors": [
+        "Vestigo Ventures",
+        "MetaProp",
+        "Brewer Lane Ventures",
+        "Angels Capital"
+      ],
+      "location": "New York City"
     },
     {
       "name": "Naive",
@@ -139,6 +169,21 @@
       "location": "San Francisco, CA, United States"
     },
     {
+      "name": "conmeet",
+      "domain": "conmeet.io",
+      "desc": "The main product is a cloud-based business management platform designed for medium-sized craft businesses, integrating customer relationship management, project management, and personnel management into a single system. ",
+      "stage": "SEED",
+      "last_amount": 6933690.0,
+      "total": 8475072.0,
+      "investors": [
+        "Smedvig Ventures",
+        "May Ventures",
+        "REIMANN INVESTORS",
+        "Benedikt Kisner"
+      ],
+      "location": "Borken, North Rhine-Westphalia"
+    },
+    {
       "name": "Delightree",
       "domain": "delightree.com",
       "desc": "Delightree offers an AI-powered franchise management platform that automates processes and centralizes task management to enhance operational efficiency for multi-unit businesses. Key features include task execution, tra",
@@ -154,27 +199,12 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Shortwave",
-      "domain": "shortwave.com",
-      "desc": "The main product is an AI-driven communications application designed to enhance email management and automate workflows by integrating various business tools. It employs natural language processing to enable users to org",
-      "stage": "SERIES_A",
-      "last_amount": 13000000.0,
-      "total": 22500000.0,
-      "investors": [
-        "Union Square Ventures",
-        "Flybridge",
-        "Lightspeed Venture Partners",
-        "Afore Capital"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
       "name": "Shelfmark",
       "domain": "shelfmark.com",
       "desc": "Shelfmark offers an AI-powered visual inspection system designed for web-based manufacturing, utilizing deep learning computer vision technology to identify defects in real-time. The solution features customized hardware",
       "stage": "SEED",
       "last_amount": 3500000.0,
-      "total": 9680978.0,
+      "total": 9880978.0,
       "investors": [
         "Armory Square Ventures",
         "Cultivation Capital",
@@ -199,36 +229,6 @@
       "location": "Berlin"
     },
     {
-      "name": "Advocate Technologies",
-      "domain": "advocate.app",
-      "desc": "The main product is a software platform that automates insurance risk management processes, focusing on compliance and operational efficiency within the commercial real estate sector. It employs AI technology to standard",
-      "stage": "SEED",
-      "last_amount": 18000000.0,
-      "total": 24600000.0,
-      "investors": [
-        "Vestigo Ventures",
-        "MetaProp",
-        "Brewer Lane Ventures",
-        "Angels Capital"
-      ],
-      "location": "New York City"
-    },
-    {
-      "name": "Avatar Robotics",
-      "domain": "avatarrobotics.com",
-      "desc": "The company offers robotic solutions designed for various industrial tasks, including pick and place, part handling, inspection, and assembly, which function under human supervision. Their technology allows robots to lea",
-      "stage": "SEED",
-      "last_amount": 6500000.0,
-      "total": 6500000.0,
-      "investors": [
-        "defy.vc",
-        "REFASHIOND Ventures: The Industrial Transformation Fund",
-        "Headline",
-        "AlleyCorp"
-      ],
-      "location": "650 California Street, Floor 7, San Francisco, CA 94108, United States"
-    },
-    {
       "name": "Buzz Solutions",
       "domain": "buzzsolutions.com",
       "desc": "The company provides an AI-driven platform that utilizes machine vision algorithms and predictive analytics to analyze visual data for infrastructure inspections in the utility sector. This technology enables the rapid p",
@@ -242,21 +242,6 @@
         "GoPoint Ventures"
       ],
       "location": "Palo Alto, CA"
-    },
-    {
-      "name": "conmeet",
-      "domain": "conmeet.io",
-      "desc": "The main product is a cloud-based business management platform designed for medium-sized craft businesses, integrating customer relationship management, project management, and personnel management into a single system. ",
-      "stage": "SEED",
-      "last_amount": 6933690.0,
-      "total": 8475072.0,
-      "investors": [
-        "Smedvig Ventures",
-        "May Ventures",
-        "REIMANN INVESTORS",
-        "Benedikt Kisner"
-      ],
-      "location": "Borken, North Rhine-Westphalia"
     },
     {
       "name": "Proxy Foods AI",
@@ -274,47 +259,18 @@
       "location": "Washington, DC"
     },
     {
-      "name": "STELLA Automotive AI",
-      "domain": "stellaautomotive.com",
-      "desc": "STELLA offers an AI-driven platform that automates customer interactions for automotive dealerships, utilizing conversational AI to manage inbound calls, service scheduling, and communication through voice, text, and cha",
-      "stage": "SERIES_B",
-      "last_amount": 22100000.0,
-      "total": 90814591.0,
+      "name": "Malachyte",
+      "domain": "malachyte.com",
+      "desc": "Malachyte offers a real-time personalization platform that generates adaptive user profiles through in-session learning, enabling dynamic content customization based on visitor behavior without requiring prior history or",
+      "stage": "SEED",
+      "last_amount": 10000000.0,
+      "total": 15150000.0,
       "investors": [
-        "Mills Automotive Group",
-        "The Presidio Group",
-        "Czubay Family Enterprises",
-        "Flow Automotive Companies"
+        "Harpoon Ventures",
+        "Bessemer Venture Partners",
+        "Gradient"
       ],
-      "location": "Tampa, FL"
-    },
-    {
-      "name": "Omilia",
-      "domain": "omilia.com",
-      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
-      "stage": "SERIES_B",
-      "last_amount": 67000000.0,
-      "total": 87000000.0,
-      "investors": [
-        "Expedition Growth Capital",
-        "Grafton Capital"
-      ],
-      "location": "Larnaca, Larnaca"
-    },
-    {
-      "name": "10x Banking",
-      "domain": "10xbanking.com",
-      "desc": "The company offers a cloud-native core banking platform designed to facilitate real-time data insights and efficient product lifecycle management, employing no-code tools for the swift development of digital banking solu",
-      "stage": "SERIES_C",
-      "last_amount": 53796000.0,
-      "total": 350538533.0,
-      "investors": [
-        "Nationwide Building Society",
-        "BlackRock",
-        "PingAn",
-        "Medical office buildings (Canada Pension Plan Investment Board _ Health Care REIT)"
-      ],
-      "location": "London, England"
+      "location": "New York, NY"
     },
     {
       "name": "Multiplier Holdings",
@@ -332,32 +288,32 @@
       "location": "Singapore, Singapore"
     },
     {
-      "name": "Malachyte",
-      "domain": "malachyte.com",
-      "desc": "Malachyte offers a real-time personalization platform that generates adaptive user profiles through in-session learning, enabling dynamic content customization based on visitor behavior without requiring prior history or",
-      "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 15150000.0,
+      "name": "10x Banking",
+      "domain": "10xbanking.com",
+      "desc": "The company offers a cloud-native core banking platform designed to facilitate real-time data insights and efficient product lifecycle management, employing no-code tools for the swift development of digital banking solu",
+      "stage": "SERIES_C",
+      "last_amount": 53796000.0,
+      "total": 350538533.0,
       "investors": [
-        "Harpoon Ventures",
-        "Bessemer Venture Partners",
-        "Gradient"
+        "Nationwide Building Society",
+        "BlackRock",
+        "PingAn",
+        "Medical office buildings (Canada Pension Plan Investment Board _ Health Care REIT)"
       ],
-      "location": "New York, NY"
+      "location": "London, England"
     },
     {
-      "name": "Balance Theory",
-      "domain": "balancetheory.co",
-      "desc": "The main product is a cybersecurity platform that helps organizations manage their security investments by tracking numerous vendors and products while automating procurement workflows. It features collaborative tools ai",
-      "stage": "SERIES_A",
-      "last_amount": 19000000.0,
-      "total": 25306000.0,
+      "name": "Omilia",
+      "domain": "omilia.com",
+      "desc": "The company offers a Self-Learning Agentic CX Platform that automates customer service interactions through advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
+      "stage": "SERIES_B",
+      "last_amount": 67000000.0,
+      "total": 87000000.0,
       "investors": [
-        "TEDCO",
-        "DataTribe",
-        "SYN Ventures"
+        "Expedition Growth Capital",
+        "Grafton Capital"
       ],
-      "location": "Columbia, MD"
+      "location": "Larnaca, Larnaca"
     },
     {
       "name": "WorldScape",
@@ -373,6 +329,64 @@
         "Radius Capital Ventures"
       ],
       "location": "15809 Bear Creek Parkway, Suite 130, Redmond, WA 98052, United States"
+    },
+    {
+      "name": "Endeavor Optical Networks Inc.",
+      "domain": "endeavornetworks.com",
+      "desc": "Dedicated, point-to-point, data transfer through space creating data superhighways for Earth's critical infrastructure via a network of optical relay satellites.",
+      "stage": "SEED",
+      "last_amount": 10750000.0,
+      "total": 10750000.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "XYZ Venture Capital",
+        "Upfront Ventures",
+        "General Catalyst"
+      ],
+      "location": ""
+    },
+    {
+      "name": "STELLA Automotive AI",
+      "domain": "stellaautomotive.com",
+      "desc": "STELLA offers an AI-driven platform that automates customer interactions for automotive dealerships, utilizing conversational AI to manage inbound calls, service scheduling, and communication through voice, text, and cha",
+      "stage": "SERIES_B",
+      "last_amount": 22100000.0,
+      "total": 90814591.0,
+      "investors": [
+        "Mills Automotive Group",
+        "The Presidio Group",
+        "Czubay Family Enterprises",
+        "Flow Automotive Companies"
+      ],
+      "location": "Tampa, FL"
+    },
+    {
+      "name": "Benivo",
+      "domain": "benivo.com",
+      "desc": "Benivo offers an integrated mobility platform that combines relocation services with advanced technologies such as AI and machine learning to optimize the employee relocation process. Key functionalities include data con",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 7000000.0,
+      "total": 24000000.0,
+      "investors": [
+        "MLC Lawyers",
+        "The Duke of York",
+        "Granatus Ventures",
+        "Updata Partners"
+      ],
+      "location": "London, England"
+    },
+    {
+      "name": "MiiHealth AI",
+      "domain": "miihealth.ai",
+      "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake and pre-visit data collection through natural conversations, effectively capturing clinical histories and symptoms. This technolo",
+      "stage": "SEED",
+      "last_amount": 2800000.0,
+      "total": 3350000.0,
+      "investors": [
+        "Opportunity Through Entrepreneurship Foundation",
+        "Arteria Capital"
+      ],
+      "location": "Phoenix, Arizona"
     },
     {
       "name": "Relu",
@@ -402,28 +416,18 @@
       "location": "Miami, Florida"
     },
     {
-      "name": "Superleap AI CRM",
-      "domain": "superleap.com",
-      "desc": "Superleap offers an AI-driven CRM platform designed to enhance sales productivity through features such as automated meeting notes, real-time AI assistance, and advanced automation capabilities. The technology employs AI",
-      "stage": "SEED",
-      "last_amount": 3785760.0,
-      "total": 3785760.0,
+      "name": "Platter",
+      "domain": "weareplatter.com",
+      "desc": "The main product is a B2B SaaS platform designed for the wholesale food sector, providing digital solutions for order management, invoicing, and purchase order processes, while integrating with existing ERP and accountin",
+      "stage": "PRE_SEED",
+      "last_amount": 0,
+      "total": 566116.0,
       "investors": [
-        "Peak XV Partners",
-        "Surge",
-        "Peak XV Partners Surge"
+        "Verb Ventures",
+        "Startup Wise Guys",
+        "Toby Webber"
       ],
-      "location": "Bengaluru South, Karnataka"
-    },
-    {
-      "name": "Walaw",
-      "domain": "walaw.io",
-      "desc": "The main product is an AI-driven communication platform for healthcare providers that automates patient inquiries, appointment scheduling, and call answering around the clock. It employs natural language processing to ha",
-      "stage": "SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [],
-      "location": "Montreal"
+      "location": "London"
     },
     {
       "name": "Aavalynx",
@@ -440,9 +444,41 @@
       "location": "St Helier"
     },
     {
+      "name": "Forward",
+      "domain": "useforward.co",
+      "desc": "We standardise dispersed borrower financials into structured deal proposals: saving time and generating more revenue for both debt advisors and private credit funds.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Walaw",
+      "domain": "walaw.io",
+      "desc": "The main product is an AI-driven communication platform for healthcare providers that automates patient inquiries, appointment scheduling, and call answering around the clock. It employs natural language processing to ha",
+      "stage": "SEED",
+      "last_amount": 1500000.0,
+      "total": 1500000.0,
+      "investors": [],
+      "location": "Montreal"
+    },
+    {
+      "name": "NYAI",
+      "domain": "nyai.ai",
+      "desc": "The main product is a legal intelligence platform that automates the summarization of legal documents, generates compliant contracts, and facilitates collaborative legal research while ensuring adherence to current regul",
+      "stage": "SEED",
+      "last_amount": 1500000.0,
+      "total": 1500000.0,
+      "investors": [],
+      "location": ""
+    },
+    {
       "name": "Shiplog",
       "domain": "useshiplog.com",
-      "desc": "Say hello to Remote. Designed for real businesses like yours: freelancers crafting from home offices, startups disrupting industries, agencies delivering client work — Remote works the way you do.",
+      "desc": "Shiplog is an AI-powered customer intelligence platform that helps businesses grow net revenue retention by reducing churn, increasing expansion, and improving product adoption - especially across long tail customer port",
       "stage": "PRE_SEED",
       "last_amount": 1000000.0,
       "total": 1000000.0,
@@ -470,38 +506,18 @@
       "location": ""
     },
     {
-      "name": "Boon AI",
-      "domain": "boon.ai",
-      "desc": "Boon is the world's first all-in-one GTM AI Platform that detects sales ready opps, leads ready-to-buy, warm intros by monitoring 1billion external client signals per day. Our customers only get charged when our AI Agent",
-      "stage": "PRE_SEED",
-      "last_amount": 750000.0,
-      "total": 750000.0,
-      "investors": [],
-      "location": ""
-    },
-    {
-      "name": "herdr",
-      "domain": "herdr.dev",
-      "desc": "Herdr is to coding agents what tmux is to terminals: an agent multiplexer that runs where your agents run. Real panes, agent state at a glance, ssh from anywhere, no app.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "Superleap AI CRM",
+      "domain": "superleap.com",
+      "desc": "Superleap offers an AI-driven CRM platform designed to enhance sales productivity through features such as automated meeting notes, real-time AI assistance, and advanced automation capabilities. The technology employs AI",
+      "stage": "SERIES_A",
+      "last_amount": 3785760.0,
+      "total": 7558560.0,
       "investors": [
-        "Y Combinator"
+        "Peak XV Partners",
+        "Surge",
+        "Peak XV Partners Surge"
       ],
-      "location": ""
-    },
-    {
-      "name": "Forward",
-      "domain": "useforward.co",
-      "desc": "We standardise dispersed borrower financials into structured deal proposals: saving time and generating more revenue for both debt advisors and private credit funds.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco, California"
+      "location": "Bengaluru South, Karnataka"
     },
     {
       "name": "Yard Ops",
@@ -517,6 +533,18 @@
       "location": "Hull, East Yorkshire"
     },
     {
+      "name": "herdr",
+      "domain": "herdr.dev",
+      "desc": "Herdr is to coding agents what tmux is to terminals: an agent multiplexer that runs where your agents run. Real panes, agent state at a glance, ssh from anywhere, no app.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
       "name": "RIME Platform",
       "domain": "rime.sa",
       "desc": "RIME provides a platform that integrates with existing camera systems to enhance operational efficiency through real-time data analysis and dynamic task management, utilizing AI and computer vision technologies. The syst",
@@ -528,46 +556,6 @@
         "Unity Invest Partners"
       ],
       "location": "Al Malqa, Riyadh"
-    },
-    {
-      "name": "Taian",
-      "domain": "taian-inc.com",
-      "desc": "The company provides a digital platform tailored for the bridal industry, which streamlines event planning, web invitations, and seating arrangements, allowing for comprehensive management throughout the event lifecycle.",
-      "stage": "SERIES_B",
-      "last_amount": 4310000.0,
-      "total": 11227102.0,
-      "investors": [
-        "Mitsubishi UFJ Capital Co.,Ltd.",
-        "Canal Ventures",
-        "東京海上日動あんしん生命保険（株）",
-        "GLOBIS Corporation"
-      ],
-      "location": "Shimizu Building 3rd Floor, Shinjuku 1-34-16, Tokyo, Shinjuku-ku 160-0022, Japan"
-    },
-    {
-      "name": "NYAI",
-      "domain": "nyai.ai",
-      "desc": "The main product is a legal intelligence platform that automates the summarization of legal documents, generates compliant contracts, and facilitates collaborative legal research while ensuring adherence to current regul",
-      "stage": "SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [],
-      "location": ""
-    },
-    {
-      "name": "Endeavor Optical Networks Inc.",
-      "domain": "endeavornetworks.com",
-      "desc": "Dedicated, point-to-point, data transfer through space creating data superhighways for Earth's critical infrastructure via a network of optical relay satellites.",
-      "stage": "SEED",
-      "last_amount": 10750000.0,
-      "total": 10750000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "XYZ Venture Capital",
-        "Upfront Ventures",
-        "General Catalyst"
-      ],
-      "location": ""
     }
   ]
 }

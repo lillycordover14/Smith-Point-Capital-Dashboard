@@ -1,24 +1,51 @@
 {
-  "generated": "2026-08-07",
+  "generated": "2026-08-08",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 77,
-    "total_cap_m": 14684,
-    "early_cap_m": 2505,
+    "early_raises": 76,
+    "total_cap_m": 15714,
+    "early_cap_m": 2533,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 30,
+      "Seed": 29,
       "Series A": 44,
-      "Series B": 25,
+      "Series B": 24,
       "Series C": 11,
       "Series D": 3,
-      "Venture": 76
+      "Venture": 77
     }
   },
   "raises": [
+    {
+      "company": "Benivo",
+      "amount_m": 7,
+      "date": "2026-08-08",
+      "link": "https://benivo.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Venture Unknown"
+    },
+    {
+      "company": "MiiHealth AI",
+      "amount_m": 3,
+      "date": "2026-08-08",
+      "link": "https://miihealth.ai",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Platter",
+      "amount_m": null,
+      "date": "2026-08-08",
+      "link": "https://weareplatter.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Hadrian",
       "amount_m": 1370,
@@ -92,15 +119,6 @@
       "stage": "Series B"
     },
     {
-      "company": "Ordway",
-      "amount_m": 20,
-      "date": "2026-08-06",
-      "link": "https://ordwaylabs.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Series A"
-    },
-    {
       "company": "Advocate Technologies",
       "amount_m": 18,
       "date": "2026-08-06",
@@ -161,6 +179,15 @@
       "link": "https://superleap.com",
       "investors": [],
       "theme": "Sales & GTM AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "NYAI",
+      "amount_m": 2,
+      "date": "2026-08-06",
+      "link": "https://nyai.ai",
+      "investors": [],
+      "theme": "Legal AI",
       "stage": "Seed"
     },
     {
@@ -173,15 +200,6 @@
       "stage": "Seed"
     },
     {
-      "company": "NYAI",
-      "amount_m": 2,
-      "date": "2026-08-06",
-      "link": "https://nyai.ai",
-      "investors": [],
-      "theme": "Legal AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Yard Ops",
       "amount_m": 1,
       "date": "2026-08-06",
@@ -189,6 +207,15 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
+    },
+    {
+      "company": "Ordway",
+      "amount_m": null,
+      "date": "2026-08-06",
+      "link": "https://ordwaylabs.com",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series A"
     },
     {
       "company": "Forward",
@@ -263,15 +290,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Walaw",
-      "amount_m": 2,
-      "date": "2026-08-05",
-      "link": "https://walaw.io",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Aavalynx",
       "amount_m": 2,
       "date": "2026-08-05",
@@ -279,6 +297,15 @@
       "investors": [],
       "theme": "Legal AI",
       "stage": "Pre Seed"
+    },
+    {
+      "company": "Walaw",
+      "amount_m": 2,
+      "date": "2026-08-05",
+      "link": "https://walaw.io",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Seed"
     },
     {
       "company": "Shiplog",
@@ -308,15 +335,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Boon AI",
-      "amount_m": 1,
-      "date": "2026-08-04",
-      "link": "https://boon.ai",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Khosla leads $310 million",
       "amount_m": 310,
       "date": "2026-08-03",
@@ -326,42 +344,6 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Taian",
-      "amount_m": 4,
-      "date": "2026-08-03",
-      "link": "https://taian-inc.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series B"
-    },
-    {
-      "company": "Balance Theory",
-      "amount_m": 19,
-      "date": "2026-08-02",
-      "link": "https://balancetheory.co",
-      "investors": [],
-      "theme": "Cybersecurity",
-      "stage": "Series A"
-    },
-    {
-      "company": "Tasklet",
-      "amount_m": 13,
-      "date": "2026-08-02",
-      "link": "https://tasklet.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Shortwave",
-      "amount_m": 13,
-      "date": "2026-08-02",
-      "link": "https://shortwave.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     },
     {
       "company": "Rime",
@@ -2217,31 +2199,56 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
+    },
+    {
+      "company": "Cognition",
+      "amount_m": 1000,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOem9RbHdjb3JLSldxU2ZCMjJRT3dKcEl6ZHhqdlBVWUc4Q2czbHFTcEFPVTVCQnF0QWhWRERua0d2YW1qSFlwbW1uMkw5ZDNHUzExaGUzTFlBRENBSU5VaXkxRkJpVk9rdTJzTXlXTEo4a05BMkhiQnN3S1dnWWtqSkZFZ0UwU1N4ekNYYzZqMUNHTUhMZXZjM0l2d05Gbk1SZHZma0dIdzd3NTVvVTlNTTl5X1RIX0dCdkliQ2ZBajRnTWFxNWdmb2lGSlVmc3VGaTY0X0laY3YtTnJCTjNR?oc=5",
+      "investors": [
+        "8VC",
+        "Lux"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Venture"
+    },
+    {
+      "company": "Observable Space",
+      "amount_m": 90,
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFBTN19LSmJLc3E4bTFKOXhQYWE3YzZsTTEzbW9sZGt4aTZwTU9Bd0JHRnRNTnhQc3JyWmt0cTUyMEdaendOQ2l5UFhVUWhxRFRuTUlqUHJDYUFHODZOb1FpQ0JlX0FseWJNRl9rUVBYRUJOanlBbFpua1JHTnFHclF6NVZNd3NSSmFOY1VLTFc0MG0wWGJXM0Z5MlZ6TnB2Qm5vekpDWkdGWE0?oc=5",
+      "investors": [
+        "Company Ventures",
+        "Lux Capital",
+        "Upfront Ventures"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
+      "count": 114,
       "examples": [
+        "Benivo",
+        "Platter",
         "Naive",
         "Malachyte",
         "WorldScape",
-        "conmeet",
-        "Yard Ops",
-        "Forward"
+        "conmeet"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 17,
+      "count": 18,
       "examples": [
+        "MiiHealth AI",
         "Walaw",
         "Corner Health",
         "xCures",
         "Healome Therapeutics",
-        "Hera",
-        "Assort Health"
+        "Hera"
       ]
     },
     {
@@ -2304,17 +2311,6 @@
       ]
     },
     {
-      "theme": "Applied AI agents",
-      "count": 5,
-      "examples": [
-        "Boon AI",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ]
-    },
-    {
       "theme": "Agent-native infra",
       "count": 4,
       "examples": [
@@ -2335,13 +2331,13 @@
       ]
     },
     {
-      "theme": "Cybersecurity",
+      "theme": "Applied AI agents",
       "count": 4,
       "examples": [
-        "Balance Theory",
-        "Twenty",
-        "A Security",
-        "Opal Security"
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
       ]
     },
     {
@@ -2351,6 +2347,15 @@
         "Agave",
         "Scotch",
         "LightTable"
+      ]
+    },
+    {
+      "theme": "Cybersecurity",
+      "count": 3,
+      "examples": [
+        "Twenty",
+        "A Security",
+        "Opal Security"
       ]
     },
     {
@@ -2402,29 +2407,29 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
-      "cap_m": 7204,
+      "count": 114,
+      "cap_m": 8271,
       "examples": [
+        "Benivo",
+        "Platter",
         "Naive",
         "Malachyte",
         "WorldScape",
-        "conmeet",
-        "Yard Ops",
-        "Forward"
+        "conmeet"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 17,
-      "cap_m": 1098,
+      "count": 18,
+      "cap_m": 1101,
       "examples": [
+        "MiiHealth AI",
         "Walaw",
         "Corner Health",
         "xCures",
         "Healome Therapeutics",
-        "Hera",
-        "Assort Health"
+        "Hera"
       ],
       "top_stage": "Venture"
     },
@@ -2473,7 +2478,7 @@
     {
       "theme": "Fintech & payments",
       "count": 8,
-      "cap_m": 387,
+      "cap_m": 367,
       "examples": [
         "Moss",
         "Ambrook",
@@ -2496,19 +2501,6 @@
         "Prime Intellect"
       ],
       "top_stage": "Seed"
-    },
-    {
-      "theme": "Applied AI agents",
-      "count": 5,
-      "cap_m": 122,
-      "examples": [
-        "Boon AI",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ],
-      "top_stage": "Venture"
     },
     {
       "theme": "Agent-native infra",
@@ -2535,14 +2527,14 @@
       "top_stage": "Series B"
     },
     {
-      "theme": "Cybersecurity",
+      "theme": "Applied AI agents",
       "count": 4,
-      "cap_m": 179,
+      "cap_m": 121,
       "examples": [
-        "Balance Theory",
-        "Twenty",
-        "A Security",
-        "Opal Security"
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
       ],
       "top_stage": "Venture"
     },
@@ -2556,6 +2548,17 @@
         "LightTable"
       ],
       "top_stage": "Series A"
+    },
+    {
+      "theme": "Cybersecurity",
+      "count": 3,
+      "cap_m": 160,
+      "examples": [
+        "Twenty",
+        "A Security",
+        "Opal Security"
+      ],
+      "top_stage": "Venture"
     }
   ],
   "investor_signal": [
@@ -3555,8 +3558,18 @@
     }
   ],
   "momentum": {
-    "since": "2026-07-17",
+    "since": "2026-07-18",
     "tw": [
+      {
+        "name": "Applied / horizontal AI",
+        "delta": 4,
+        "now": 114
+      },
+      {
+        "name": "Healthcare & bio AI",
+        "delta": 3,
+        "now": 18
+      },
       {
         "name": "Physical AI & robotics",
         "delta": 3,
@@ -3573,29 +3586,14 @@
         "now": 4
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": 2,
-        "now": 113
-      },
-      {
         "name": "AI compute & models",
         "delta": 2,
         "now": 5
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 1,
-        "now": 17
-      },
-      {
         "name": "Agent-native infra",
         "delta": 1,
         "now": 4
-      },
-      {
-        "name": "AI dev tooling",
-        "delta": 0,
-        "now": 2
       },
       {
         "name": "Sales & GTM AI",
@@ -3606,11 +3604,6 @@
         "name": "Defense & national security",
         "delta": 0,
         "now": 2
-      },
-      {
-        "name": "Data infrastructure",
-        "delta": 0,
-        "now": 1
       },
       {
         "name": "HR & workforce",
@@ -3630,12 +3623,17 @@
       {
         "name": "Cybersecurity",
         "delta": -1,
-        "now": 4
+        "now": 3
       },
       {
-        "name": "Vertical SaaS",
-        "delta": -2,
-        "now": 3
+        "name": "AI dev tooling",
+        "delta": -1,
+        "now": 2
+      },
+      {
+        "name": "Data infrastructure",
+        "delta": -1,
+        "now": 1
       },
       {
         "name": "Financial back-office & compliance AI",
@@ -3645,7 +3643,12 @@
       {
         "name": "Applied AI agents",
         "delta": -4,
-        "now": 5
+        "now": 4
+      },
+      {
+        "name": "Vertical SaaS",
+        "delta": -4,
+        "now": 3
       }
     ]
   }

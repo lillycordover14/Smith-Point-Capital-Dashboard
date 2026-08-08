@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-07",
+  "generated": "2026-08-08",
   "window_days": 45,
   "counts": {
-    "actionable": 9,
-    "watchlist": 18,
+    "actionable": 7,
+    "watchlist": 13,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -37,23 +37,6 @@
       "domain": "ambrook.com",
       "tier": "actionable",
       "fit_reason": "Series B ($30M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Ordway",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Series A",
-      "amount_m": 20,
-      "investors": [],
-      "date": "2026-08-06",
-      "link": "https://ordwaylabs.com",
-      "domain": "ordwaylabs.com",
-      "tier": "actionable",
-      "fit_reason": "Series A ($20M) — sizable A, likely at/near the ARR floor",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -157,39 +140,26 @@
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Cadence",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Series C",
-      "amount_m": 100,
-      "investors": [
-        "General Catalyst",
-        "Spark Capital",
-        "Thrive Capital"
-      ],
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWRTQ2p6cW9RTFh0VWFiQWZxSzRJWGRpaEJyeVdQWGtONWlwdnZzaXFudzBQejM0SmVBN1liUWNubElwWVQ4Wm9JTVZhTnhzaEwycG5lMWd1TklkYTdLLTh3bzVObkx6Y3AxeHp1a0RFcDZjRkJ4UU5veVVoQXU4NlhlQWt2c0NsX0lsckNKbFVUX1dhQnNCNzJReVB3dUhMRWxV?oc=5",
-      "domain": "cadence.care",
-      "tier": "actionable",
-      "fit_reason": "Series C ($100M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Spark Capital — a fund SPC gets intros through"
-        },
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Thrive Capital — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
     }
   ],
   "watchlist": [
+    {
+      "company": "MiiHealth AI",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Seed",
+      "amount_m": 3,
+      "investors": [],
+      "date": "2026-08-08",
+      "link": "https://miihealth.ai",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Advocate Technologies",
       "desc": "Financial back-office & compliance AI",
@@ -225,18 +195,18 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Walaw",
-      "desc": "Healthcare & bio AI",
+      "company": "Ordway",
+      "desc": "Fintech & payments",
       "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Seed",
-      "amount_m": 2,
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": null,
       "investors": [],
-      "date": "2026-08-05",
-      "link": "https://walaw.io",
-      "domain": "wa-la.net",
+      "date": "2026-08-06",
+      "link": "https://ordwaylabs.com",
+      "domain": "ordwaylabs.com",
       "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
+      "fit_reason": "Series A — track for the next round",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -259,33 +229,16 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Embodied",
-      "desc": "Embodied - AI data infrastructure startup Kaiwang Data raises more than RMB100 million · TechNode",
-      "theme": "Data Management",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": null,
+      "company": "Walaw",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Seed",
+      "amount_m": 2,
       "investors": [],
       "date": "2026-08-05",
-      "link": "https://technode.com/2026/08/05/embodied-ai-data-infrastructure-startup-kaiwang-data-raises-more-than-rmb100-million/",
-      "domain": "embodied.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Boon AI",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 1,
-      "investors": [],
-      "date": "2026-08-04",
-      "link": "https://boon.ai",
-      "domain": "boonailift.com",
+      "link": "https://walaw.io",
+      "domain": "wa-la.net",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
@@ -293,67 +246,16 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "NYC Startup",
-      "desc": "NYC Startup Raise $8 . 88B in Q2 2026 – Best Capital Quarter Since 2021 – as AI and Fintech Megadeals Reshape the Market",
+      "company": "Freehand",
+      "desc": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies",
       "theme": "Precision Applications",
-      "vertical": "",
+      "vertical": "Supply Chain",
       "stage": "Venture",
-      "amount_m": null,
+      "amount_m": 75,
       "investors": [],
-      "date": "2026-07-22",
-      "link": "https://www.alleywatch.com/2026/07/nyc-startup-funding-q2-2026-best-capital-quarter-since-2021/",
-      "domain": "nycstartupday.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Hadrius",
-      "desc": "Hadrius raises USD $27 million to boost AI compliance",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Venture",
-      "amount_m": 27,
-      "investors": [],
-      "date": "2026-07-20",
-      "link": "https://itbrief.co.nz/story/hadrius-raises-usd-27-million-to-boost-ai-compliance",
-      "domain": "hadrius.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Bunkerhill",
-      "desc": "Bunkerhill raises $55M for hospital - built clinical AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": 55,
-      "investors": [],
-      "date": "2026-07-17",
-      "link": "https://thenextweb.com/news/bunkerhill-health-agentic-ai-carebricks-series-b",
-      "domain": "bhcc.edu",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Bunkerhill Health",
-      "desc": "Bunkerhill Health raises $55M for healthcare AI agents",
-      "theme": "Applied AI",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 55,
-      "investors": [],
-      "date": "2026-07-16",
-      "link": "https://thenextweb.com/news/bunkerhill-health-55m-healthcare-ai-agents",
-      "domain": "bunkerhillhealth.com",
+      "date": "2026-07-29",
+      "link": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/freehand-raises-75m-to-scale-ai-teams-managing-supply-chain-spend-for-fortune-500-companies/2394083",
+      "domain": "freehandhotels.com",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
       "source": "news",
@@ -483,54 +385,6 @@
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Ladder Health",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 7,
-      "investors": [
-        "Hatteras Venture Partners"
-      ],
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1R5ZnpqQy0yWURxTVdjUmwwZG5LemYzNFQ0SUlCd1ZRbmYta3FibVpNalJXUHlINkFQb25QR2FmTldSTmpVUWVBTzVoUjczQjVrQ2hpdG9Cd1UwZ3E1UXV2RDdTZjMtcGY1V3VvMjd5dzlfYjZaVzA5S1NUUG5OQklSZHFlNXU0WUtsaWFVczZBVk9uOXJ1bnpLNHpFVEtxekFaWE53aTlvcFBtNXZ6dVEzTmQxM2p6QXpYNGNR?oc=5",
-      "domain": "ladderhealth.ai",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "STARK",
-      "desc": "Defense & national security",
-      "theme": "Precision Applications",
-      "vertical": "Defense",
-      "stage": "Venture",
-      "amount_m": null,
-      "investors": [
-        "Founders Fund",
-        "Sequoia"
-      ],
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFVHTThQT2FOUWZhUVpnSk5JeTdGUk04bGdwZDFVYW1JOUlSNHVBeXFHZ3hYUGh3NUVEeVVhUDlCOHRjTm1aWXZMcjVDR1lvRmprRExSYUVQSGpQZ2R3ZDhBb1JieUdtbHZ0c0NfUlkxM0Jxb1lmdUNLbHh3eXdoZ1dUZzRtWldzNjhPTV9PWER0R0EwaUR2eGppd1RxZGdLRko4bFZPUWlodUh3aDFGcEN0WGxYeHFnVGp3MWd0OTRhZFptUVpBcg?oc=5",
-      "domain": "starkbros.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Founders Fund — a fund SPC gets intros through"
-        },
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Sequoia — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
     }
   ],
   "enriched": false,
