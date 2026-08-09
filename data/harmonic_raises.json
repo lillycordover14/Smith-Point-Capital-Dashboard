@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08",
+  "generated": "2026-08-09",
   "mode": "full",
   "count": 39,
   "companies": [
@@ -124,21 +124,6 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "Ordway",
-      "domain": "ordwaylabs.com",
-      "desc": "The company provides a finance platform that automates billing, accounting, and KPI reporting for businesses with recurring revenue models, such as SaaS and fintech. It utilizes technologies that support various pricing ",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 32500000.0,
-      "investors": [
-        "Harbert Management Corporation",
-        "Clocktower Ventures",
-        "Founder Collective",
-        "CRV"
-      ],
-      "location": "Washington, District of Columbia"
-    },
-    {
       "name": "Advocate Technologies",
       "domain": "advocate.app",
       "desc": "The main product is a software platform that automates insurance risk management processes, focusing on compliance and operational efficiency within the commercial real estate sector. It employs AI technology to standard",
@@ -152,6 +137,21 @@
         "Angels Capital"
       ],
       "location": "New York City"
+    },
+    {
+      "name": "Ordway",
+      "domain": "ordwaylabs.com",
+      "desc": "The company offers a finance platform that automates billing, accounting, and KPI reporting specifically for businesses with recurring revenue models, such as SaaS and fintech. It employs technologies that facilitate var",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 32500000.0,
+      "investors": [
+        "Harbert Management Corporation",
+        "Clocktower Ventures",
+        "Founder Collective",
+        "CRV"
+      ],
+      "location": "Washington, District of Columbia"
     },
     {
       "name": "Naive",
@@ -184,21 +184,6 @@
       "location": "Borken, North Rhine-Westphalia"
     },
     {
-      "name": "Delightree",
-      "domain": "delightree.com",
-      "desc": "Delightree offers an AI-powered franchise management platform that automates processes and centralizes task management to enhance operational efficiency for multi-unit businesses. Key features include task execution, tra",
-      "stage": "SERIES_A",
-      "last_amount": 25000000.0,
-      "total": 48628950.0,
-      "investors": [
-        "Brainstorm Ventures",
-        "Axilor Ventures",
-        "Innovius Capital",
-        "Alchemist Accelerator"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
       "name": "Shelfmark",
       "domain": "shelfmark.com",
       "desc": "Shelfmark offers an AI-powered visual inspection system designed for web-based manufacturing, utilizing deep learning computer vision technology to identify defects in real-time. The solution features customized hardware",
@@ -214,19 +199,19 @@
       "location": "Pittsburgh, Pennsylvania"
     },
     {
-      "name": "Moss",
-      "domain": "getmoss.com",
-      "desc": "Moss provides a spend management platform that automates invoice processing, matches invoices to purchase requests, and integrates corporate card functionality to streamline financial operations. The platform utilizes AI",
-      "stage": "SERIES_C",
-      "last_amount": 34609890.0,
-      "total": 238948870.0,
+      "name": "Delightree",
+      "domain": "delightree.com",
+      "desc": "Delightree offers an AI-powered franchise management platform that automates processes and centralizes task management to enhance operational efficiency for multi-unit businesses. Key features include task execution, tra",
+      "stage": "SERIES_A",
+      "last_amount": 25000000.0,
+      "total": 48628950.0,
       "investors": [
-        "Global Founders Capital",
-        "California Technology Ventures",
-        "A*",
-        "HSBC"
+        "Brainstorm Ventures",
+        "Axilor Ventures",
+        "Innovius Capital",
+        "Alchemist Accelerator"
       ],
-      "location": "Berlin"
+      "location": "San Francisco, California"
     },
     {
       "name": "Buzz Solutions",
@@ -259,18 +244,19 @@
       "location": "Washington, DC"
     },
     {
-      "name": "Malachyte",
-      "domain": "malachyte.com",
-      "desc": "Malachyte offers a real-time personalization platform that generates adaptive user profiles through in-session learning, enabling dynamic content customization based on visitor behavior without requiring prior history or",
-      "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 15150000.0,
+      "name": "Vertical Insure",
+      "domain": "verticalinsure.com",
+      "desc": "Vertical Insure offers an embedded insurance platform that integrates customized insurance solutions into various vertical SaaS applications, focusing on industries such as sports, events, and pet care. The technology ai",
+      "stage": "SERIES_A",
+      "last_amount": 21000000.0,
+      "total": 33515200.0,
       "investors": [
-        "Harpoon Ventures",
-        "Bessemer Venture Partners",
-        "Gradient"
+        "Dundee Venture Capital",
+        "Greenlight Re",
+        "Groove Capital",
+        "Rally Ventures"
       ],
-      "location": "New York, NY"
+      "location": "Minneapolis, MN"
     },
     {
       "name": "Multiplier Holdings",
@@ -288,6 +274,34 @@
       "location": "Singapore, Singapore"
     },
     {
+      "name": "Endeavor Optical Networks Inc.",
+      "domain": "endeavornetworks.com",
+      "desc": "Dedicated, point-to-point, data transfer through space creating data superhighways for Earth's critical infrastructure via a network of optical relay satellites.",
+      "stage": "SEED",
+      "last_amount": 10750000.0,
+      "total": 10750000.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "XYZ Venture Capital",
+        "Upfront Ventures",
+        "General Catalyst"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Omilia",
+      "domain": "omilia.com",
+      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
+      "stage": "SERIES_B",
+      "last_amount": 67000000.0,
+      "total": 87000000.0,
+      "investors": [
+        "Expedition Growth Capital",
+        "Grafton Capital"
+      ],
+      "location": "Larnaca, Larnaca"
+    },
+    {
       "name": "10x Banking",
       "domain": "10xbanking.com",
       "desc": "The company offers a cloud-native core banking platform designed to facilitate real-time data insights and efficient product lifecycle management, employing no-code tools for the swift development of digital banking solu",
@@ -303,19 +317,6 @@
       "location": "London, England"
     },
     {
-      "name": "Omilia",
-      "domain": "omilia.com",
-      "desc": "The company offers a Self-Learning Agentic CX Platform that automates customer service interactions through advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
-      "stage": "SERIES_B",
-      "last_amount": 67000000.0,
-      "total": 87000000.0,
-      "investors": [
-        "Expedition Growth Capital",
-        "Grafton Capital"
-      ],
-      "location": "Larnaca, Larnaca"
-    },
-    {
       "name": "WorldScape",
       "domain": "worldscape.ai",
       "desc": "Worldscape develops a data fabric that orchestrates distributed data, agents, and systems in real-time, utilizing advanced 3D and physics engine technology for accurate simulations and predictive analysis. The platform i",
@@ -329,21 +330,6 @@
         "Radius Capital Ventures"
       ],
       "location": "15809 Bear Creek Parkway, Suite 130, Redmond, WA 98052, United States"
-    },
-    {
-      "name": "Endeavor Optical Networks Inc.",
-      "domain": "endeavornetworks.com",
-      "desc": "Dedicated, point-to-point, data transfer through space creating data superhighways for Earth's critical infrastructure via a network of optical relay satellites.",
-      "stage": "SEED",
-      "last_amount": 10750000.0,
-      "total": 10750000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "XYZ Venture Capital",
-        "Upfront Ventures",
-        "General Catalyst"
-      ],
-      "location": ""
     },
     {
       "name": "STELLA Automotive AI",
@@ -389,19 +375,6 @@
       "location": "Phoenix, Arizona"
     },
     {
-      "name": "Relu",
-      "domain": "relu.ai",
-      "desc": "Relu provides a cloud-based AI software platform that automates the segmentation and alignment of imaging data from cone beam computed tomography (CBCT) scans and digital impressions, facilitating dental and maxillofacia",
-      "stage": "SEED",
-      "last_amount": 1750000.0,
-      "total": 3917646.0,
-      "investors": [
-        "DIA",
-        "Care Capital Partners"
-      ],
-      "location": "Leuven, Flemish Region"
-    },
-    {
       "name": "Wayy",
       "domain": "wayy.ai",
       "desc": "Wayy.ai offers an AI-driven sales automation platform that assists solopreneurs and small business owners in generating leads and conducting outreach with minimal setup. The technology utilizes data analysis to identify ",
@@ -414,6 +387,19 @@
         "Tunç Y."
       ],
       "location": "Miami, Florida"
+    },
+    {
+      "name": "Relu",
+      "domain": "relu.ai",
+      "desc": "Relu provides a cloud-based AI software platform that automates the segmentation and alignment of imaging data from cone beam computed tomography (CBCT) scans and digital impressions, facilitating dental and maxillofacia",
+      "stage": "SEED",
+      "last_amount": 1750000.0,
+      "total": 3917646.0,
+      "investors": [
+        "DIA",
+        "Care Capital Partners"
+      ],
+      "location": "Leuven, Flemish Region"
     },
     {
       "name": "Platter",
@@ -456,16 +442,6 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Walaw",
-      "domain": "walaw.io",
-      "desc": "The main product is an AI-driven communication platform for healthcare providers that automates patient inquiries, appointment scheduling, and call answering around the clock. It employs natural language processing to ha",
-      "stage": "SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [],
-      "location": "Montreal"
-    },
-    {
       "name": "NYAI",
       "domain": "nyai.ai",
       "desc": "The main product is a legal intelligence platform that automates the summarization of legal documents, generates compliant contracts, and facilitates collaborative legal research while ensuring adherence to current regul",
@@ -474,6 +450,16 @@
       "total": 1500000.0,
       "investors": [],
       "location": ""
+    },
+    {
+      "name": "Walaw",
+      "domain": "walaw.io",
+      "desc": "The main product is an AI-driven communication platform for healthcare providers that automates patient inquiries, appointment scheduling, and call answering around the clock. It employs natural language processing to ha",
+      "stage": "SEED",
+      "last_amount": 1500000.0,
+      "total": 1500000.0,
+      "investors": [],
+      "location": "Montreal"
     },
     {
       "name": "Shiplog",
@@ -533,6 +519,19 @@
       "location": "Hull, East Yorkshire"
     },
     {
+      "name": "RIME Platform",
+      "domain": "rime.sa",
+      "desc": "RIME provides a platform that integrates with existing camera systems to enhance operational efficiency through real-time data analysis and dynamic task management, utilizing AI and computer vision technologies. The syst",
+      "stage": "SEED",
+      "last_amount": 2000000.0,
+      "total": 2000000.0,
+      "investors": [
+        "SEEDRA Ventures",
+        "Unity Invest Partners"
+      ],
+      "location": "Al Malqa, Riyadh"
+    },
+    {
       "name": "herdr",
       "domain": "herdr.dev",
       "desc": "Herdr is to coding agents what tmux is to terminals: an agent multiplexer that runs where your agents run. Real panes, agent state at a glance, ssh from anywhere, no app.",
@@ -545,17 +544,16 @@
       "location": ""
     },
     {
-      "name": "RIME Platform",
-      "domain": "rime.sa",
-      "desc": "RIME provides a platform that integrates with existing camera systems to enhance operational efficiency through real-time data analysis and dynamic task management, utilizing AI and computer vision technologies. The syst",
-      "stage": "SEED",
-      "last_amount": 2000000.0,
-      "total": 2000000.0,
+      "name": "Tennsa",
+      "domain": "tennsa.com",
+      "desc": "Most growing businesses don't have a data problem. They have a coherence problem. Operational information lives in fragments - accounting in one tool, inventory in another, customer relationships in a third, communicatio",
+      "stage": "PRE_SEED",
+      "last_amount": 61934.0,
+      "total": 61934.0,
       "investors": [
-        "SEEDRA Ventures",
-        "Unity Invest Partners"
+        "Oakvale Invest"
       ],
-      "location": "Al Malqa, Riyadh"
+      "location": "Cape Town"
     }
   ]
 }
