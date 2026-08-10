@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09",
+  "generated": "2026-08-10",
   "mode": "full",
-  "count": 39,
+  "count": 40,
   "companies": [
     {
       "name": "Harvey",
@@ -124,21 +124,6 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "Advocate Technologies",
-      "domain": "advocate.app",
-      "desc": "The main product is a software platform that automates insurance risk management processes, focusing on compliance and operational efficiency within the commercial real estate sector. It employs AI technology to standard",
-      "stage": "SEED",
-      "last_amount": 18000000.0,
-      "total": 24600000.0,
-      "investors": [
-        "Vestigo Ventures",
-        "MetaProp",
-        "Brewer Lane Ventures",
-        "Angels Capital"
-      ],
-      "location": "New York City"
-    },
-    {
       "name": "Ordway",
       "domain": "ordwaylabs.com",
       "desc": "The company offers a finance platform that automates billing, accounting, and KPI reporting specifically for businesses with recurring revenue models, such as SaaS and fintech. It employs technologies that facilitate var",
@@ -152,6 +137,21 @@
         "CRV"
       ],
       "location": "Washington, District of Columbia"
+    },
+    {
+      "name": "Advocate Technologies",
+      "domain": "advocate.app",
+      "desc": "The main product is a software platform that automates insurance risk management processes, focusing on compliance and operational efficiency within the commercial real estate sector. It employs AI technology to standard",
+      "stage": "SEED",
+      "last_amount": 18000000.0,
+      "total": 24600000.0,
+      "investors": [
+        "Vestigo Ventures",
+        "MetaProp",
+        "Brewer Lane Ventures",
+        "Angels Capital"
+      ],
+      "location": "New York City"
     },
     {
       "name": "Naive",
@@ -259,21 +259,6 @@
       "location": "Minneapolis, MN"
     },
     {
-      "name": "Multiplier Holdings",
-      "domain": "multiplierholdings.com",
-      "desc": "Multiplier provides a platform that utilizes AI technology to improve operational efficiency and service delivery in the tax and accounting sectors, integrating advanced software tools to enhance staff productivity. This",
-      "stage": "SERIES_B",
-      "last_amount": 35000000.0,
-      "total": 62500000.0,
-      "investors": [
-        "Ribbit Capital",
-        "The General Partnership",
-        "EDBI Pte Ltd",
-        "Lightspeed Venture Partners"
-      ],
-      "location": "Singapore, Singapore"
-    },
-    {
       "name": "Endeavor Optical Networks Inc.",
       "domain": "endeavornetworks.com",
       "desc": "Dedicated, point-to-point, data transfer through space creating data superhighways for Earth's critical infrastructure via a network of optical relay satellites.",
@@ -289,17 +274,19 @@
       "location": ""
     },
     {
-      "name": "Omilia",
-      "domain": "omilia.com",
-      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
+      "name": "Multiplier Holdings",
+      "domain": "multiplierholdings.com",
+      "desc": "Multiplier provides a platform that utilizes AI technology to improve operational efficiency and service delivery in the tax and accounting sectors, integrating advanced software tools to enhance staff productivity. This",
       "stage": "SERIES_B",
-      "last_amount": 67000000.0,
-      "total": 87000000.0,
+      "last_amount": 35000000.0,
+      "total": 62500000.0,
       "investors": [
-        "Expedition Growth Capital",
-        "Grafton Capital"
+        "Ribbit Capital",
+        "The General Partnership",
+        "EDBI Pte Ltd",
+        "Lightspeed Venture Partners"
       ],
-      "location": "Larnaca, Larnaca"
+      "location": "Singapore, Singapore"
     },
     {
       "name": "10x Banking",
@@ -315,6 +302,19 @@
         "Medical office buildings (Canada Pension Plan Investment Board _ Health Care REIT)"
       ],
       "location": "London, England"
+    },
+    {
+      "name": "Omilia",
+      "domain": "omilia.com",
+      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
+      "stage": "SERIES_B",
+      "last_amount": 67000000.0,
+      "total": 87000000.0,
+      "investors": [
+        "Expedition Growth Capital",
+        "Grafton Capital"
+      ],
+      "location": "Larnaca, Larnaca"
     },
     {
       "name": "WorldScape",
@@ -362,19 +362,6 @@
       "location": "London, England"
     },
     {
-      "name": "MiiHealth AI",
-      "domain": "miihealth.ai",
-      "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake and pre-visit data collection through natural conversations, effectively capturing clinical histories and symptoms. This technolo",
-      "stage": "SEED",
-      "last_amount": 2800000.0,
-      "total": 3350000.0,
-      "investors": [
-        "Opportunity Through Entrepreneurship Foundation",
-        "Arteria Capital"
-      ],
-      "location": "Phoenix, Arizona"
-    },
-    {
       "name": "Wayy",
       "domain": "wayy.ai",
       "desc": "Wayy.ai offers an AI-driven sales automation platform that assists solopreneurs and small business owners in generating leads and conducting outreach with minimal setup. The technology utilizes data analysis to identify ",
@@ -387,6 +374,19 @@
         "Tunç Y."
       ],
       "location": "Miami, Florida"
+    },
+    {
+      "name": "MiiHealth AI",
+      "domain": "miihealth.ai",
+      "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake and pre-visit data collection through natural conversations, effectively capturing clinical histories and symptoms. This technolo",
+      "stage": "SEED",
+      "last_amount": 2800000.0,
+      "total": 3350000.0,
+      "investors": [
+        "Opportunity Through Entrepreneurship Foundation",
+        "Arteria Capital"
+      ],
+      "location": "Phoenix, Arizona"
     },
     {
       "name": "Relu",
@@ -492,6 +492,19 @@
       "location": ""
     },
     {
+      "name": "Yard Ops",
+      "domain": "yard.cloud",
+      "desc": "The company offers a yard management system that optimizes operations by providing real-time visibility and modular solutions for various functions such as booking, space management, and dock management. It utilizes data",
+      "stage": "SEED",
+      "last_amount": 671361.0,
+      "total": 671361.0,
+      "investors": [
+        "Haatch",
+        "York Angels"
+      ],
+      "location": "Hull, East Yorkshire"
+    },
+    {
       "name": "Superleap AI CRM",
       "domain": "superleap.com",
       "desc": "Superleap offers an AI-driven CRM platform designed to enhance sales productivity through features such as automated meeting notes, real-time AI assistance, and advanced automation capabilities. The technology employs AI",
@@ -504,19 +517,6 @@
         "Peak XV Partners Surge"
       ],
       "location": "Bengaluru South, Karnataka"
-    },
-    {
-      "name": "Yard Ops",
-      "domain": "yard.cloud",
-      "desc": "The company offers a yard management system that optimizes operations by providing real-time visibility and modular solutions for various functions such as booking, space management, and dock management. It utilizes data",
-      "stage": "SEED",
-      "last_amount": 671361.0,
-      "total": 671361.0,
-      "investors": [
-        "Haatch",
-        "York Angels"
-      ],
-      "location": "Hull, East Yorkshire"
     },
     {
       "name": "RIME Platform",
@@ -534,7 +534,7 @@
     {
       "name": "herdr",
       "domain": "herdr.dev",
-      "desc": "Herdr is to coding agents what tmux is to terminals: an agent multiplexer that runs where your agents run. Real panes, agent state at a glance, ssh from anywhere, no app.",
+      "desc": "Herdr is the runtime your coding agents live on. It holds real terminals open on your laptop, your desktop or a box you rent, so the work survives the lid closing — and you can attach again from anything with a keyboard.",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
@@ -542,6 +542,21 @@
         "Y Combinator"
       ],
       "location": ""
+    },
+    {
+      "name": "Marsdy",
+      "domain": "marsdy.jp",
+      "desc": "Marsdy provides a numerical management solution that integrates robotic automation with manual processes to enhance the management of sales, marketing, and financial data typically handled in Excel. The service utilizes ",
+      "stage": "SERIES_A",
+      "last_amount": 6680000.0,
+      "total": 9150000.0,
+      "investors": [
+        "Gazelle Capital",
+        "Mitsubishi UFJ Capital Co.,Ltd.",
+        "Femto Partners",
+        "RICOH Innovation Fund"
+      ],
+      "location": "Sumitomo Fudosan Shibakoen Tower, 2-11-1 Shibakoen, 16th Floor, Minato-ku, Tokyo, 105-0011, Japan"
     },
     {
       "name": "Tennsa",

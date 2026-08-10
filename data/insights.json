@@ -1,13 +1,13 @@
 {
-  "generated": "2026-08-09",
+  "generated": "2026-08-10",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 76,
-    "total_cap_m": 15690,
-    "early_cap_m": 2544,
+    "total_cap_m": 15607,
+    "early_cap_m": 2461,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 28,
@@ -19,6 +19,15 @@
     }
   },
   "raises": [
+    {
+      "company": "Marsdy",
+      "amount_m": 7,
+      "date": "2026-08-10",
+      "link": "https://marsdy.jp",
+      "investors": [],
+      "theme": "Physical AI & robotics",
+      "stage": "Series A"
+    },
     {
       "company": "Vertical Insure",
       "amount_m": 21,
@@ -2211,25 +2220,12 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Observable Space",
-      "amount_m": 90,
-      "date": "2026-05-28",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFBTN19LSmJLc3E4bTFKOXhQYWE3YzZsTTEzbW9sZGt4aTZwTU9Bd0JHRnRNTnhQc3JyWmt0cTUyMEdaendOQ2l5UFhVUWhxRFRuTUlqUHJDYUFHODZOb1FpQ0JlX0FseWJNRl9rUVBYRUJOanlBbFpua1JHTnFHclF6NVZNd3NSSmFOY1VLTFc0MG0wWGJXM0Z5MlZ6TnB2Qm5vekpDWkdGWE0?oc=5",
-      "investors": [
-        "Company Ventures",
-        "Lux Capital",
-        "Upfront Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
+      "count": 112,
       "examples": [
         "Benivo",
         "Platter",
@@ -2253,14 +2249,14 @@
     },
     {
       "theme": "Physical AI & robotics",
-      "count": 10,
+      "count": 11,
       "examples": [
+        "Marsdy",
         "Hadrian",
         "Shelfmark",
         "Avatar Robotics",
         "Buzz Solutions",
-        "Monumental",
-        "Nous Research"
+        "Monumental"
       ]
     },
     {
@@ -2421,8 +2417,8 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
-      "cap_m": 8261,
+      "count": 112,
+      "cap_m": 8171,
       "examples": [
         "Benivo",
         "Platter",
@@ -2449,15 +2445,15 @@
     },
     {
       "theme": "Physical AI & robotics",
-      "count": 10,
-      "cap_m": 1544,
+      "count": 11,
+      "cap_m": 1551,
       "examples": [
+        "Marsdy",
         "Hadrian",
         "Shelfmark",
         "Avatar Robotics",
         "Buzz Solutions",
-        "Monumental",
-        "Nous Research"
+        "Monumental"
       ],
       "top_stage": "Venture"
     },
@@ -3028,14 +3024,6 @@
           "date": "2026-03-11",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkl4TGtJb29sT3lJYllCSE5DNldhWFhKUkFOUUVkajE5c0YxUjlVUlRKc2FSVHQzV3pDcWJYY3ZRbU5LRkppRHdKeDBaUU1xTEhFNWVLMV9aU0ZSVlpSQ2RXU1UyczNiWEU3dzV1RkxrT25kSk5TVHMyandWQ1A3NFF0ZGs1OTdZOTh1V19xelNYNG9HbUQyRkw0VVhnbTN4RTZnN0hRV1kzLS1XVVVXNXZjWDVWNlJtT2pFN3VsdF84SXFweHVfT2MzYWRMNkR2WUVULVo3N1k?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Bretton AI",
-          "stage": "Venture",
-          "amount_m": 75,
-          "date": "2026-02-10",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZF9SYzBtTXJyWFpGVzhxTzZzOUhlMG45YXRUWW1EVmYxWS1WSEJrOWpSVUV6QlpEQ2xpRXFWUlRVMlFsVUR6bGw0Z0tHSnBPdXo4XzA4QVhoYXMyRTBWUEJKZTFFWDNORVV4Nzd6Wk9qZmdGcUxDSjZGVWMyS09DelpnVzA0ZmJIX2dudHFvZ3o1SWNkRjJwcFZZXzJtRG91a3YyRUduaHgzY01EU2dsdDBMQTZ6dw?oc=5",
-          "theme": "Financial back-office & compliance AI"
         }
       ],
       "early": 1
@@ -3572,22 +3560,22 @@
     }
   ],
   "momentum": {
-    "since": "2026-07-19",
+    "since": "2026-07-20",
     "tw": [
+      {
+        "name": "Physical AI & robotics",
+        "delta": 4,
+        "now": 11
+      },
       {
         "name": "Applied / horizontal AI",
         "delta": 3,
-        "now": 113
+        "now": 112
       },
       {
         "name": "Healthcare & bio AI",
         "delta": 3,
         "now": 18
-      },
-      {
-        "name": "Physical AI & robotics",
-        "delta": 3,
-        "now": 10
       },
       {
         "name": "Legal AI",
@@ -3608,6 +3596,11 @@
         "name": "Agent-native infra",
         "delta": 1,
         "now": 4
+      },
+      {
+        "name": "AI dev tooling",
+        "delta": 0,
+        "now": 2
       },
       {
         "name": "Sales & GTM AI",
@@ -3645,11 +3638,6 @@
         "now": 3
       },
       {
-        "name": "AI dev tooling",
-        "delta": -1,
-        "now": 2
-      },
-      {
         "name": "Data infrastructure",
         "delta": -1,
         "now": 1
@@ -3671,7 +3659,7 @@
       },
       {
         "name": "Vertical SaaS",
-        "delta": -4,
+        "delta": -5,
         "now": 3
       }
     ]

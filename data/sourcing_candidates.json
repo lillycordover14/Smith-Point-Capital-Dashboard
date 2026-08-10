@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-09",
+  "generated": "2026-08-10",
   "window_days": 45,
   "counts": {
     "actionable": 7,
-    "watchlist": 16,
+    "watchlist": 12,
     "excluded_off_thesis": 1
   },
   "actionable": [
@@ -280,57 +280,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "NYC Startup",
-      "desc": "NYC Startup Raise $8 . 88B in Q2 2026 – Best Capital Quarter Since 2021 – as AI and Fintech Megadeals Reshape the Market",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-22",
-      "link": "https://www.alleywatch.com/2026/07/nyc-startup-funding-q2-2026-best-capital-quarter-since-2021/",
-      "domain": "nycstartupday.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Bunkerhill",
-      "desc": "Bunkerhill raises $55M for hospital - built clinical AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": 55,
-      "investors": [],
-      "date": "2026-07-17",
-      "link": "https://thenextweb.com/news/bunkerhill-health-agentic-ai-carebricks-series-b",
-      "domain": "bhcc.edu",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Bunkerhill Health",
-      "desc": "Bunkerhill Health raises $55M for healthcare AI agents",
-      "theme": "Applied AI",
-      "vertical": "Healthcare",
-      "stage": "Venture",
-      "amount_m": 55,
-      "investors": [],
-      "date": "2026-07-16",
-      "link": "https://thenextweb.com/news/bunkerhill-health-55m-healthcare-ai-agents",
-      "domain": "bunkerhillhealth.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "Corner Health",
       "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
@@ -407,30 +356,6 @@
         {
           "kind": "co-investor",
           "detail": "Backed by Accel — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
-    },
-    {
-      "company": "Sail Research",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Venture",
-      "amount_m": 80,
-      "investors": [
-        "Kleiner Perkins"
-      ],
-      "date": "2026-06-25",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFcyM0l4RHJld3RRVjNGZUoyX3BvZHdaY2dEUm9NamlvM0RTRjJUemNFUVpoT2ZJTnlJRy10UWZkTjBmNE84OFNkVk5QR2QtRGwya1lHVEtJUHNEdElKVEtJcmtWWmpURzNuXzlwMHRJVGY4T3VwRGs1ejIzckVYSTV1NFFxd0lPRllGUnlTdjA2M1VsMzlJazZmN3piS1ExeU5OeTFtVWtYUVZyZnhKYkZjeXJLOVNDZ09pSmZDVnVRZ3k4czVlVDFrNlhub3lwMmhGSkFPVQ?oc=5",
-      "domain": "sailresearch.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Kleiner Perkins — a fund SPC gets intros through"
         }
       ],
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
