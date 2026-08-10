@@ -1,119 +1,198 @@
 {
-  "generated": "2026-08-02",
+  "generated": "2026-08-09",
   "window_days": 45,
-  "enriched": true,
-  "enriched_at": "2026-08-03T13:21:17Z",
   "counts": {
-    "actionable": 9,
-    "watchlist": 25,
-    "affinity_connections": 14,
-    "co_investor_paths": 15,
-    "experience_inference_paths": 45,
-    "warm_paths": 19,
-    "total_enriched": 34
+    "actionable": 7,
+    "watchlist": 16,
+    "excluded_off_thesis": 1,
+    "affinity_connections": 7,
+    "co_investor_paths": 13,
+    "experience_inference_paths": 31,
+    "warm_paths": 13,
+    "total_enriched": 19,
+    "unresolved": 4
   },
   "actionable": [
     {
-      "company": "Freehand",
-      "desc": "Financial back-office & compliance AI",
+      "company": "Vertical Insure",
+      "desc": "Insurance / insurtech",
       "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "SERIES_B",
-      "amount_m": 75,
+      "vertical": "Insurance",
+      "stage": "SERIES_A",
+      "amount_m": 21,
       "investors": [
-        "Uncorrelated",
-        "Iron Pillar",
-        "NewRoad Capital Partners",
-        "Nexus Venture Partners",
-        "Chiratae Ventures",
-        "N47",
-        "Battery Ventures",
-        "PSP Partners",
-        "Nick Mehta",
-        "Tom Noonan",
-        "Nishant Rao",
-        "Saikiran Krishnamurthy",
-        "Kashyap Deorah",
-        "David Dorman",
-        "Balaji P",
-        "Girish Mathrubootham",
-        "Alok Mittal",
-        "Ramkumar Narayanan",
-        "Scott Kirk",
-        "Amanda Murdock",
-        "Penny Pritzker"
+        "Dundee Venture Capital",
+        "Greenlight Re",
+        "Groove Capital",
+        "Rally Ventures",
+        "Ironwood Ventures",
+        "Daren Cotter"
       ],
-      "date": "2026-07-30",
-      "link": "https://freehand.ai",
-      "domain": "freehandhotels.com",
+      "date": "2026-08-09",
+      "link": "https://verticalinsure.com",
+      "domain": "verticalinsure.com",
       "tier": "actionable",
-      "fit_reason": "Series B ($75M) — growth-stage sweet spot",
+      "fit_reason": "Series A ($21M) — sizable A, likely at/near the ARR floor",
       "source": "funds",
       "connections": [
         {
-          "via": "Chris Lytle",
-          "person": "Abhishek Sharma",
-          "title": "Board Member",
+          "via": "Tyler Prince",
+          "person": "Nick Thielman",
+          "title": "Strategic Partnerships, Vertical Insure",
           "source": "LINKEDIN"
         },
         {
-          "via": "Brooke Slattery",
-          "person": "Abhishek Sharma",
-          "title": "Board Member",
-          "source": "LINKEDIN"
+          "detail": "Jeff Hinck, Co-founder & Board Member, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
         },
         {
-          "detail": "Jim Hilbert, Chief Revenue Officer, was at IBM — overlaps with Tyler Prince (MD, Head of Value Creation)"
-        },
-        {
-          "detail": "Saravana Kumar, Chief Technology Officer, was at Microsoft — overlaps with Maria Martinez (Customer Success)"
-        },
-        {
-          "detail": "Saravana Kumar, Chief Technology Officer, was at Microsoft — overlaps with Paul Smith (CCO, Anthropic)"
+          "detail": "Jeff Hinck, Co-founder & Board Member, went to Harvard Law School — overlaps with Sewon Park (Associate)"
         }
       ],
       "connection_status": "warm path",
-      "harmonic_id": 71521204,
-      "harmonic_name": "Freehand",
-      "valuation_m": 413,
-      "harmonic_round_date": "2026-07-29"
+      "harmonic_id": 10175901,
+      "harmonic_name": "Vertical Insure",
+      "valuation_m": 105,
+      "harmonic_round_date": "2026-08-04"
     },
     {
-      "company": "Terminal (YC S23)",
-      "desc": "Data infrastructure",
-      "theme": "Data Management",
+      "company": "Ambrook",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
       "vertical": "",
-      "stage": "SERIES_A",
-      "amount_m": 20,
+      "stage": "SERIES_B",
+      "amount_m": 30,
       "investors": [
-        "Golden Ventures",
-        "Boon Fund",
-        "Northside Ventures",
-        "McVestCo VC",
-        "Y Combinator",
-        "Battery Ventures",
-        "McVestCo",
-        "Wayfinder Ventures",
-        "Penske",
-        "Intact Ventures",
-        "Penske Transportation Solutions",
-        "Liz Wessel",
-        "Matt McKinney",
-        "JJ Fliegelman",
-        "Eli B."
+        "Designer Fund",
+        "Not Boring",
+        "Mischief",
+        "Cameron Ventures",
+        "Thrive Capital",
+        "BoxGroup",
+        "Thomson Reuters Ventures",
+        "Homebrew",
+        "Startup Shell",
+        "Deep Checks",
+        "Field Ventures",
+        "Akshay Kothari",
+        "Lachy Groom",
+        "Guillermo Rauch",
+        "Dylan Field",
+        "Tomer London"
       ],
-      "date": "2026-07-30",
-      "link": "https://withterminal.com",
-      "domain": "",
+      "date": "2026-08-06",
+      "link": "https://ambrook.com",
+      "domain": "ambrook.com",
       "tier": "actionable",
-      "fit_reason": "Series A ($20M) — sizable A, likely at/near the ARR floor",
+      "fit_reason": "Series B ($30M) — growth-stage sweet spot",
       "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 11582939,
-      "harmonic_name": "Terminal (YC S23)",
-      "valuation_m": 100,
-      "harmonic_round_date": "2026-07-29"
+      "connections": [
+        {
+          "detail": "Backed by Thrive Capital — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Dan Schlosser, Co-Founder & Head of Product, went to Columbia University — overlaps with John Cummings (Managing Director, CFO/COO)"
+        }
+      ],
+      "connection_status": "warm path",
+      "harmonic_id": 1761081,
+      "harmonic_name": "Ambrook",
+      "valuation_m": 165,
+      "harmonic_round_date": "2026-08-04"
+    },
+    {
+      "company": "Wordsmith AI",
+      "desc": "Legal AI",
+      "theme": "Precision Applications",
+      "vertical": "Legal",
+      "stage": "SERIES_B",
+      "amount_m": 14,
+      "investors": [
+        "Scottish Enterprise",
+        "FT Ventures",
+        "Index Ventures",
+        "s16vc - Founders for Founders Fund",
+        "Highland Europe",
+        "General Catalyst",
+        "Felix Capital",
+        "Yellow",
+        "Intact Ventures",
+        "Gareth Williams",
+        "Mandeep Singh"
+      ],
+      "date": "2026-08-06",
+      "link": "https://wordsmith.ai",
+      "domain": "wordsmith.ai",
+      "tier": "actionable",
+      "fit_reason": "Series B ($14M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [
+        {
+          "via": "Sewon Park",
+          "person": "Sam Ruback",
+          "title": "GTM Legal Engineer, Wordsmith AI",
+          "source": "LINKEDIN"
+        },
+        {
+          "detail": "Backed by Index Ventures — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Volodymyr Giginiak, CTO, was at Microsoft — overlaps with Maria Martinez (Customer Success advisor)"
+        },
+        {
+          "detail": "Volodymyr Giginiak, CTO, was at Microsoft — overlaps with Paul Smith (CCO, Anthropic)"
+        },
+        {
+          "detail": "Tim Dorris, Chief Revenue Officer (departed Jun 2026), was at Oracle — overlaps with Keith Block (Founder & CEO)"
+        },
+        {
+          "detail": "Tim Dorris, Chief Revenue Officer (departed Jun 2026), was at Oracle — overlaps with Tyler Prince (Managing Director, Head of Value Creation)"
+        },
+        {
+          "detail": "Tim Dorris, Chief Revenue Officer (departed Jun 2026), was at Oracle — overlaps with Larry Shurtz (Chief Sales Officer, Genesys)"
+        },
+        {
+          "detail": "Tim Dorris, Chief Revenue Officer (departed Jun 2026), was at Oracle — overlaps with John Wookey (Product advisor)"
+        }
+      ],
+      "connection_status": "warm path",
+      "harmonic_id": 12584727,
+      "harmonic_name": "Wordsmith AI",
+      "harmonic_round_date": "2026-08-05"
+    },
+    {
+      "company": "10x Banking",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "SERIES_C",
+      "amount_m": 54,
+      "investors": [
+        "Nationwide Building Society",
+        "BlackRock",
+        "PingAn",
+        "JPMorganChase",
+        "AshGrove",
+        "Westpac Group",
+        "Oliver Wyman",
+        "CPP Investments",
+        "J.P. Morgan"
+      ],
+      "date": "2026-08-05",
+      "link": "https://10xbanking.com",
+      "domain": "10xbanking.com",
+      "tier": "actionable",
+      "fit_reason": "Series C ($54M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [
+        {
+          "detail": "Nadir Guessoum, Chief Financial Officer, was at PwC — overlaps with Tyler Prince (Managing Director, Head of Value Creation)"
+        }
+      ],
+      "connection_status": "warm path",
+      "harmonic_id": 207667,
+      "harmonic_name": "10x Banking",
+      "valuation_m": 700,
+      "harmonic_round_date": "2026-08-04"
     },
     {
       "company": "InstaLILY AI",
@@ -141,16 +220,16 @@
       "source": "funds",
       "connections": [
         {
-          "via": "Tyler Prince",
-          "person": "Jon Suarez-Davis (Jsd)",
-          "title": "Investor and Advisor",
-          "source": "LINKEDIN"
-        },
-        {
           "via": "Lilly Cordover",
           "person": "Amit Shah",
-          "title": "Founder & CEO",
+          "title": "Founder & CEO, InstaLILY AI",
           "source": "EMAIL"
+        },
+        {
+          "via": "Tyler Prince",
+          "person": "Jon Suarez-Davis (Jsd)",
+          "title": "Investor and Advisor, InstaLILY AI",
+          "source": "LINKEDIN"
         },
         {
           "detail": "Backed by Insight Partners — a fund SPC gets intros through"
@@ -159,19 +238,19 @@
           "detail": "Karim Motani, VP of Finance and Business Development, was at Insight Partners — overlaps with Brooke Slattery (Principal Investor)"
         },
         {
-          "detail": "Amit Shah, Founder & CEO, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM, Stripe)"
+          "detail": "Amit Shah, Founder & CEO, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
         },
         {
-          "detail": "Amit Shah, Founder & CEO, studied at Harvard University — same school as Sewon Park (Associate)"
+          "detail": "Amit Shah, Founder & CEO, went to Harvard University — overlaps with Sewon Park (Associate)"
         },
         {
-          "detail": "Raghav Sharma, Chief Growth Officer, studied at The Wharton School — same school as Brooke Slattery (Principal Investor)"
+          "detail": "Raghav Sharma, Chief Growth Officer, went to The Wharton School — overlaps with Brooke Slattery (Principal Investor)"
         }
       ],
       "connection_status": "warm path",
       "harmonic_id": 21556879,
       "harmonic_name": "InstaLILY AI",
-      "valuation_m": 330,
+      "valuation_m": 383,
       "harmonic_round_date": "2026-07-14"
     },
     {
@@ -209,13 +288,16 @@
       "source": "funds",
       "connections": [
         {
-          "detail": "Jeff Shrager, Co-Founder and Director of Research, studied at Carnegie Mellon University — same school as Keith Block (Founder & CEO)"
+          "detail": "Jeff Shrager, Co-Founder and Director of Research, went to Carnegie Mellon University — overlaps with Keith Block (Founder & CEO)"
         },
         {
-          "detail": "Jeff Shrager, Co-Founder and Director of Research, studied at University of Pennsylvania — same school as Brooke Slattery (Principal Investor)"
+          "detail": "Jeff Shrager, Co-Founder and Director of Research, went to University of Pennsylvania — overlaps with Brooke Slattery (Principal Investor)"
         },
         {
-          "detail": "Eric Svetcov, CISO, CCO & VP of IT, was at Salesforce — overlaps with Keith Block (Founder & CEO)"
+          "detail": "Glenn Kramer, Chief Technology Officer, was at The University of Texas at Austin — overlaps with Lorenzo Salazar (Principal Investor)"
+        },
+        {
+          "detail": "Eric Svetcov, CISO/CCO & VP IT, was at Salesforce — overlaps with Keith Block (Founder & CEO), Burke Norton, John Cummings, Tyler Prince and Christian Nysaether — plus Salesforce alumni advisors (Denise Dresser, Lisa Edwards, Andy Kofoid, Maria Martinez, Ari Schmorak, Larry Shurtz, Paul Smith, Sara Varni, John Wookey)"
         }
       ],
       "connection_status": "warm path",
@@ -233,7 +315,7 @@
       "amount_m": 27,
       "investors": [
         "IA Ventures",
-        "Bain Capital Ventures (BCV)",
+        "Bain Capital Ventures",
         "Accel",
         "BoxGroup",
         "constellationvc",
@@ -253,16 +335,13 @@
           "detail": "Connie Kang, Cofounder & COO, was at Credit Suisse — overlaps with Lorenzo Salazar (Principal Investor)"
         },
         {
-          "detail": "Connie Kang, Cofounder & COO, studied at The Wharton School — same school as Brooke Slattery (Principal Investor)"
+          "detail": "Connie Kang, Cofounder & COO, went to University of Pennsylvania / The Wharton School — overlaps with Brooke Slattery (Principal Investor)"
         },
         {
-          "detail": "Connie Kang, Cofounder & COO, studied at University of Pennsylvania — same school as Brooke Slattery (Principal Investor)"
+          "detail": "Jenny Lee, Co-founder & CEO, went to UC Berkeley Haas School of Business — overlaps with John Cummings (Managing Director, CFO/COO)"
         },
         {
-          "detail": "Jenny Lee, Co-founder & CEO, studied at University of California, Berkeley, Haas School of Business — same school as John Cummings (MD, CFO/COO)"
-        },
-        {
-          "detail": "Myles Novick, Co-Founder & CTO, studied at Harvard University — same school as Sewon Park (Associate)"
+          "detail": "Myles Novick, Co-Founder & CTO, went to Harvard University — overlaps with Sewon Park (Associate)"
         }
       ],
       "connection_status": "warm path",
@@ -270,661 +349,313 @@
       "harmonic_name": "Hera",
       "valuation_m": 135,
       "harmonic_round_date": "2026-06-25"
-    },
-    {
-      "company": "Cadence",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "SERIES_C",
-      "amount_m": 100,
-      "investors": [
-        "Spark Capital",
-        "K5 Global",
-        "B Capital",
-        "Coatue Management",
-        "Martin Ventures",
-        "Metrodora Ventures",
-        "Memorial Hermann Health System",
-        "Thrive Capital",
-        "General Catalyst",
-        "Corewell Health Ventures",
-        "Duke University Health System",
-        "Adam Boehler",
-        "Hugo Barra",
-        "Chelsea Clinton"
-      ],
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWRTQ2p6cW9RTFh0VWFiQWZxSzRJWGRpaEJyeVdQWGtONWlwdnZzaXFudzBQejM0SmVBN1liUWNubElwWVQ4Wm9JTVZhTnhzaEwycG5lMWd1TklkYTdLLTh3bzVObkx6Y3AxeHp1a0RFcDZjRkJ4UU5veVVoQXU4NlhlQWt2c0NsX0lsckNKbFVUX1dhQnNCNzJReVB3dUhMRWxV?oc=5",
-      "domain": "cadence.care",
-      "tier": "actionable",
-      "fit_reason": "Series C ($100M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [
-        {
-          "via": "Lilly Cordover",
-          "person": "Chris Altchek",
-          "title": "Founder & CEO",
-          "source": "EMAIL"
-        },
-        {
-          "detail": "Backed by Spark Capital — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Backed by Coatue Management — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Backed by Thrive Capital — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Eric Hauser, CTO, was at Salesforce — overlaps with Keith Block (Founder & CEO)"
-        },
-        {
-          "detail": "Eric Hauser, CTO, was at ExactTarget — overlaps with Andy Kofoid (President, Databricks)"
-        },
-        {
-          "detail": "Chris Altchek, Founder & CEO, studied at Harvard University — same school as Sewon Park (Associate)"
-        },
-        {
-          "detail": "Kareem Zaki, Co-Founder & Board Member, studied at Harvard University — same school as Sewon Park (Associate)"
-        },
-        {
-          "detail": "Grace Colloton Hedrick, VP and Head of Partner and Provider Success, studied at Harvard University — same school as Sewon Park (Associate)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 1839930,
-      "harmonic_name": "Cadence",
-      "valuation_m": 1200,
-      "harmonic_round_date": "2026-06-23"
-    },
-    {
-      "company": "Fomo",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Series B",
-      "amount_m": 75,
-      "investors": [],
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORE90cGhNN05vVHByU2dBc2lXZS1JOUxwaURDREJwbU9XRjV5d1JlTkRhLXZQY1IyOUxITWtEZmFabW9sVHlmOGRIWUhnb1M2WWluaC15RUVQR3hmSHVLbzltaml1Rm44WXMtRXp3ZV9BZzRnZ3dkZzIyTlAxZmdDS0JYaWxPYXZZSnR4SVhwaHhjOTVmSVJzLXRXZVdWVTVqQ1IyVDRfWG90SzU2Zk1Vek5ubGdmRU15NWc3MWtJcjRNYXhVeUhLQV81MnlaeHZmNFhuYlpSc0NITHRqSXByOS1uM1NBcFR1QlF2QkZBYmFRODY1ZnEw0gH8AUFVX3lxTE9rWUxDeTI3ZjdVY3BBcXBTeHZwX19aS280MHhYNVd6cFRwNV9XTDVDUGxmYnRhV0V4VzZJRDNTUTR4aFNyNmtoMHZZLXB0UWRIazIyRm5HTGZTSnd4QkZ5SkJoSnk4U01UbEc5LTBremFnWWs2SEZTLTFKOFpLTGlxandiRFJHTjlGSUVZbmZzVWFvRmdnZ2V0WXpPWlRpbUQySFBrU0xjbUJtWkxramhUeXpoOWhUYVB1eUNyempnUzJ6M0JQUlJKYU1UbWRDemRHYkZtSFJLNl9vaExFeVlucFVpeFRka09nSnBJSUJQY21PV3E0bFlnbmxlTA?oc=5",
-      "domain": "fomo.com",
-      "tier": "actionable",
-      "fit_reason": "Series B ($75M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": null,
-      "harmonic_name": null,
-      "valuation_m": null,
-      "harmonic_round_date": null,
-      "note": "Harmonic name collision (FOMO Pay, Singapore). Correct entity is FOMO / fomo.family, New York — on-chain trading platform; Harmonic funding data suppressed to avoid asserting a 2022 round as current."
-    },
-    {
-      "company": "Vedana Therapeutics",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "SERIES_A",
-      "amount_m": 46,
-      "investors": [
-        "Dawn Biopharma",
-        "Westlake BioPartners",
-        "Canaan",
-        "Alexandria Venture Investments"
-      ],
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHgyQTBOTFVLczlJQU84T2l0QU93akpYNnFadmdXQ0VHVGpSZl9NRUtURG5taHpxdUNhMmV6d0FzUFlReE91TmRiZVhMMWZNeGlDbXozUzB4MTN0MjVJN2lRQmdjYzdwSjRLaWhjbENGQ1hxTDlSdmhYb1llcDJ3c1pmQ0h3VXpXa1FyU3VKZlc?oc=5",
-      "domain": "vedanatherapeutics.com",
-      "tier": "actionable",
-      "fit_reason": "Series A ($46M) — sizable A, likely at/near the ARR floor",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 76740076,
-      "harmonic_name": "Vedana Therapeutics",
-      "valuation_m": 230,
-      "harmonic_round_date": "2026-06-17"
-    },
-    {
-      "company": "Prosper AI",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "SERIES_A",
-      "amount_m": 30,
-      "investors": [
-        "Andreessen Horowitz",
-        "Y Combinator",
-        "CRV",
-        "Base10 Partners",
-        "Emergence Capital",
-        "Company Ventures"
-      ],
-      "date": "2026-06-22",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnFVX3NSQ2pSdjZTbmd6UHFmVURsaC1GWkVqUFJJWkU4eFNMUEtFa2hfd3cyVFVRRTM1aXRJdkZZMFZvU1hFaF9QVWNPNXctaVkyZFJOYThqRlEwWFFNdWF0Yzc1ZXAwRVJNMWdDeFp2b044UFRWV3FGdG9WLVNOYXJDOG4xanVZLUZWR0I0WQ?oc=5",
-      "domain": "getprosper.ai",
-      "tier": "actionable",
-      "fit_reason": "Series A ($30M) — sizable A, likely at/near the ARR floor",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Backed by Andreessen Horowitz — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Xavier De Gracia, Co-Founder, studied at Harvard Business School — same school as Sewon Park (Associate)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 18790772,
-      "harmonic_name": "Prosper AI",
-      "valuation_m": 150,
-      "harmonic_round_date": "2026-06-22"
     }
   ],
   "watchlist": [
     {
-      "company": "Atomic One",
+      "company": "Tennsa",
       "desc": "Logistics & supply chain",
       "theme": "Precision Applications",
       "vertical": "Supply Chain",
-      "stage": "PRIVATE_EQUITY",
-      "amount_m": 6,
+      "stage": "PRE_SEED",
+      "amount_m": null,
       "investors": [
-        "Arcano Partners"
+        "Oakvale Invest"
       ],
-      "date": "2026-08-02",
-      "link": "https://atomic-one.com",
-      "domain": "atomiconemusic.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Jose L. M. De Bustamante, General Manager Europe, was at Morgan Stanley - overlaps with Chris Lytle (Co-Founder, MD)"
-        },
-        {
-          "detail": "Jose L. M. De Bustamante, General Manager Europe, was at Morgan Stanley - overlaps with Sewon Park (Associate)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 76547636,
-      "harmonic_name": "Atomic One",
-      "valuation_m": 32.0,
-      "harmonic_round_date": "2026-07-28"
-    },
-    {
-      "company": "Runflow",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "SEED",
-      "amount_m": 1,
-      "investors": [],
-      "date": "2026-08-02",
-      "link": "https://runflow.ai",
-      "domain": "runflow.com",
+      "date": "2026-08-09",
+      "link": "https://tennsa.com",
+      "domain": "tennsa.com",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 64389501,
-      "harmonic_name": "Runflow",
-      "valuation_m": 7.0,
-      "harmonic_round_date": "2026-07-30"
+      "harmonic_id": 69780060,
+      "harmonic_name": "Tennsa",
+      "valuation_m": 0.248,
+      "harmonic_round_date": "2026-08-07"
     },
     {
-      "company": "Inspira",
+      "company": "MiiHealth AI",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "SEED",
+      "amount_m": 3,
+      "investors": [
+        "Opportunity Through Entrepreneurship Foundation",
+        "Arteria Capital"
+      ],
+      "date": "2026-08-08",
+      "link": "https://miihealth.ai",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "No automated SPC connection surfaced",
+      "harmonic_id": 63830138,
+      "harmonic_name": "MiiHealth AI",
+      "valuation_m": 14,
+      "harmonic_round_date": "2026-08-05"
+    },
+    {
+      "company": "Advocate Technologies",
+      "desc": "Financial back-office & compliance AI",
+      "theme": "Precision Applications",
+      "vertical": "Compliance",
+      "stage": "SEED",
+      "amount_m": 18,
+      "investors": [
+        "Vestigo Ventures",
+        "MetaProp",
+        "Brewer Lane Ventures",
+        "Angels Capital"
+      ],
+      "date": "2026-08-06",
+      "link": "https://advocate.app",
+      "domain": "advocatetechnologies.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "No automated SPC connection surfaced",
+      "harmonic_id": 3251615,
+      "harmonic_name": "Advocate Technologies",
+      "valuation_m": 90,
+      "harmonic_round_date": "2026-08-04"
+    },
+    {
+      "company": "NYAI",
       "desc": "Legal AI",
       "theme": "Precision Applications",
       "vertical": "Legal",
-      "stage": "SERIES_A",
-      "amount_m": 3,
-      "investors": [
-        "Google for Startups",
-        "Gávea Angels",
-        "Urca Angels",
-        "Cloud9 Capital",
-        "a16z Scout Fund",
-        "Wayra Brasil",
-        "Vivo Ventures"
-      ],
-      "date": "2026-08-01",
-      "link": "https://inspire-se.co",
-      "domain": "mypayflex.com",
-      "tier": "watchlist",
-      "fit_reason": "Series A ($3M) — track for the next round",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Backed by a16z Scout Fund - a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 62798122,
-      "harmonic_name": "Inspira",
-      "valuation_m": 14.0,
-      "harmonic_round_date": "2026-07-30"
-    },
-    {
-      "company": "Kovant",
-      "desc": "Logistics & supply chain",
-      "theme": "Precision Applications",
-      "vertical": "Supply Chain",
-      "stage": "SEED",
-      "amount_m": 2,
-      "investors": [
-        "J12",
-        "Ampli Ventures",
-        "Greens Ventures",
-        "Sara Öhrvall",
-        "Emmanuel Martin-Chave"
-      ],
-      "date": "2026-08-01",
-      "link": "https://kovant.com",
-      "domain": "kovantech.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 64530512,
-      "harmonic_name": "Kovant",
-      "valuation_m": 12.0,
-      "harmonic_round_date": "2026-07-30"
-    },
-    {
-      "company": "Discern",
-      "desc": "Financial back-office & compliance AI",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "SEED",
-      "amount_m": 10,
-      "investors": [
-        "Aperiam"
-      ],
-      "date": "2026-07-31",
-      "link": "https://discern.com",
-      "domain": "discerningcyclist.com",
-      "tier": "watchlist",
-      "fit_reason": "Series A ($10M) — track for the next round",
-      "source": "funds",
-      "connections": [
-        {
-          "via": "Brooke Slattery",
-          "person": "Pablo Dominguez",
-          "title": "Board Member",
-          "source": "LINKEDIN"
-        },
-        {
-          "detail": "Wei Tang, VP of Engineering, studied at Carnegie Mellon University - same school as Keith Block (Founder & CEO)"
-        },
-        {
-          "detail": "Helen Lin, Founder and CEO, studied at Harvard Business School - same school as Sewon Park (Associate)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 2119618,
-      "harmonic_name": "Discern",
-      "valuation_m": 15.0,
-      "harmonic_round_date": "2021-10-26"
-    },
-    {
-      "company": "Harmony",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "VENTURE_UNKNOWN",
-      "amount_m": 34,
-      "investors": [],
-      "date": "2026-07-30",
-      "link": "https://harmony.io",
-      "domain": "harmonytx.org",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 60302561,
-      "harmonic_name": "Harmony AI",
-      "valuation_m": null,
-      "harmonic_round_date": null
-    },
-    {
-      "company": "Henry AI",
-      "desc": "Financial back-office & compliance AI",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "SERIES_A",
-      "amount_m": 16,
-      "investors": [
-        "Pioneer Fund",
-        "Orange Collective",
-        "StoryHouse Ventures",
-        "RXR",
-        "Karman Ventures",
-        "Y Combinator",
-        "Coalition Operators",
-        "Susa Ventures",
-        "FirstMark",
-        "Unwritten Capital",
-        "Thomson Reuters Ventures",
-        "1Sharpe Ventures",
-        "Singularity Capital",
-        "RXR ARDEN Digital Ventures",
-        "Arden Venture Arms",
-        "Yahya Mokhtarzada",
-        "Rami Essaid",
-        "Joe Teplow",
-        "Brian Chen"
-      ],
-      "date": "2026-07-30",
-      "link": "https://henry.ai",
-      "domain": "henryai.com",
-      "tier": "watchlist",
-      "fit_reason": "Series A ($16M) — track for the next round",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 56663285,
-      "harmonic_name": "Henry AI",
-      "valuation_m": 83.0,
-      "harmonic_round_date": "2026-07-29"
-    },
-    {
-      "company": "Curant.ai",
-      "desc": "Insurance / insurtech",
-      "theme": "Precision Applications",
-      "vertical": "Insurance",
-      "stage": "SEED",
-      "amount_m": 3,
-      "investors": [
-        "Humania Assurance Inc.",
-        "Diagram"
-      ],
-      "date": "2026-07-30",
-      "link": "https://curant.ai",
-      "domain": "curantai.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "John Haller Jr., CEO & Co-Founder, was at McKinsey & Company - overlaps with Ari Schmorak (Head of GTM, Stripe)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 74731778,
-      "harmonic_name": "Curant.ai",
-      "valuation_m": 16.0,
-      "harmonic_round_date": "2026-07-28"
-    },
-    {
-      "company": "Olomon",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "PRE_SEED",
-      "amount_m": 3,
-      "investors": [],
-      "date": "2026-07-30",
-      "link": "https://olomon.com",
-      "domain": "olomon.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 48149963,
-      "harmonic_name": "Olomon",
-      "valuation_m": 10.0,
-      "harmonic_round_date": "2026-07-28"
-    },
-    {
-      "company": "Dimension Studios",
-      "desc": "Data infrastructure",
-      "theme": "Data Management",
-      "vertical": "",
       "stage": "Seed",
       "amount_m": 2,
       "investors": [],
-      "date": "2026-07-30",
-      "link": "https://dimensionstudios.co",
-      "domain": "3dimensionstudios.com",
+      "date": "2026-08-06",
+      "link": "https://nyai.ai",
+      "domain": "nyainredningsmontage.se",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "valuation_m": null,
-      "harmonic_round_date": null
+      "connection_status": "No automated SPC connection surfaced"
     },
     {
-      "company": "PEX",
+      "company": "Ordway",
       "desc": "Fintech & payments",
       "theme": "Precision Applications",
       "vertical": "",
-      "stage": "SERIES_D",
-      "amount_m": null,
-      "investors": [
-        "New York Angels",
-        "Clear Haven Capital Management, LLC",
-        "Inovia Capital",
-        "Augury Capital",
-        "Alpine Meridian",
-        "Bluff Point Associates"
-      ],
-      "date": "2026-07-30",
-      "link": "https://pexcard.com",
-      "domain": "pexels.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Rohan Hattangdi, VP of Infrastructure, was at Morgan Stanley — overlaps with Chris Lytle (Co-Founder, MD)"
-        },
-        {
-          "detail": "Rohan Hattangdi, VP of Infrastructure, was at Morgan Stanley — overlaps with Sewon Park (Associate)"
-        },
-        {
-          "detail": "Luke Pritchett, Chief Financial Officer, was at Visa — overlaps with Lisa Edwards (Advisor, Operations)"
-        },
-        {
-          "detail": "Katie Foos, Chief Revenue Officer, studied at UC Berkeley Haas School of Business — same school as John Cummings (MD, CFO/COO)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 783453,
-      "harmonic_name": "PEX",
-      "valuation_m": 800,
-      "harmonic_round_date": "2026-07-30"
-    },
-    {
-      "company": "EviData, powered by Woodway Assurance",
-      "desc": "Financial back-office & compliance AI",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "SEED",
-      "amount_m": null,
-      "investors": [
-        "Nina Capital"
-      ],
-      "date": "2026-07-30",
-      "link": "https://woodway-assurance.com",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 64513490,
-      "harmonic_name": "EviData, powered by Woodway Assurance",
-      "valuation_m": null,
-      "harmonic_round_date": "2026-07-29"
-    },
-    {
-      "company": "Healia Health (YC W24)",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
       "stage": "SERIES_A",
-      "amount_m": 14,
-      "investors": [
-        "Pioneer Fund",
-        "North Coast Ventures",
-        "111° West Capital",
-        "First Round Capital",
-        "Y Combinator",
-        "GoAhead Ventures"
-      ],
-      "date": "2026-07-29",
-      "link": "https://healiahealth.com",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Series A ($14M) — track for the next round",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 12578854,
-      "harmonic_name": "Healia Health (YC W24)",
-      "valuation_m": 70,
-      "harmonic_round_date": "2026-07-28"
-    },
-    {
-      "company": "5U AI",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "PRE_SEED",
-      "amount_m": 3,
-      "investors": [
-        "A.P. Moller - Maersk",
-        "Emerge Capital",
-        "DHL",
-        "CEVA Logistics",
-        "GEODIS",
-        "Christian Stiebner",
-        "Mario Baros"
-      ],
-      "date": "2026-07-29",
-      "link": "https://5u.ai",
-      "domain": "uai.com.br",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 63891517,
-      "harmonic_name": "5U AI",
-      "valuation_m": 13,
-      "harmonic_round_date": "2026-07-28"
-    },
-    {
-      "company": "Conversica",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "SERIES_D",
       "amount_m": null,
       "investors": [
-        "Recruit Strategic Partners",
-        "Providence Equity Partners",
-        "Savant Growth",
-        "Savano Capital Partners",
-        "Toba Capital",
-        "Hollyport Capital",
-        "Alumni Ventures",
-        "Savano Capital",
-        "PSG",
-        "Kennet Partners",
-        "Green D Ventures (an Alumni Ventures Fund)",
-        "Morgan Stanley Expansion Capital LP",
-        "Wellington Financial LP",
-        "CIBC",
-        "CIBC Innovation Banking",
-        "Recruit Holdings Co., Ltd.",
-        "Wellington Financial",
-        "Ben Brigham",
-        "Rob Meinhardt"
+        "Harbert Management Corporation",
+        "Clocktower Ventures",
+        "Founder Collective",
+        "CRV",
+        "Middleland Capital",
+        "Lerer Hippeau",
+        "Social Starts",
+        "Revolution"
       ],
-      "date": "2026-07-29",
-      "link": "https://conversica.com",
-      "domain": "conversica.com",
+      "date": "2026-08-06",
+      "link": "https://ordwaylabs.com",
+      "domain": "ordwaylabs.com",
       "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
+      "fit_reason": "Series A — track for the next round",
       "source": "funds",
       "connections": [
-        {
-          "via": "Brooke Slattery",
-          "person": "Gregg Ames",
-          "title": "Advisor, Unify",
-          "source": "LINKEDIN"
-        },
         {
           "via": "Christian Nysaether",
-          "person": "Andy Cochran",
-          "title": "Sr Director, Partnerships, AllPaid",
+          "person": "Brannon Adlesh",
+          "title": "Senior Staff Product Manager | Lead to Cash, Intuit",
           "source": "LINKEDIN"
         },
         {
           "via": "Lilly Cordover",
-          "person": "Andy Cochran",
-          "title": "Sr Director, Partnerships, AllPaid",
+          "person": "Brannon Adlesh",
+          "title": "Senior Staff Product Manager | Lead to Cash, Intuit",
           "source": "LINKEDIN"
         },
         {
-          "via": "Tyler Prince",
-          "person": "Bill Binch",
-          "title": "Board Member, Neuron7.ai",
-          "source": "LINKEDIN"
-        },
-        {
-          "via": "Chris Lytle",
-          "person": "Bill Binch",
-          "title": "Board Member, Neuron7.ai",
-          "source": "LINKEDIN"
-        },
-        {
-          "via": "Chris Lytle",
-          "person": "Matt Mclaughlin",
-          "title": "Advisor, Openlayer",
-          "source": "LINKEDIN"
-        },
-        {
-          "via": "Keith Block",
-          "person": "Joshua Brown",
-          "title": "Enterprise Account Executive, Larridin, Inc.",
-          "source": "LINKEDIN"
-        },
-        {
-          "detail": "Michael Gilson, Chief Executive Officer, studied at University of Illinois Urbana-Champaign — same school as Tyler Prince (MD, Head of Value Creation)"
-        },
-        {
-          "detail": "Jeff Pasco, VP of Sales, was at Salesforce — overlaps with Keith Block (Founder & CEO)"
-        },
-        {
-          "detail": "Jeff Pasco, VP of Sales, was at Salesforce — overlaps with Burke Norton (Co-Founder, MD)"
-        },
-        {
-          "detail": "Jeff Pasco, VP of Sales, was at Salesforce — overlaps with John Cummings (MD, CFO/COO)"
-        },
-        {
-          "detail": "Jeff Pasco, VP of Sales, was at Oracle — overlaps with Keith Block (Founder & CEO)"
-        },
-        {
-          "detail": "Jeff Pasco, VP of Sales, was at Oracle — overlaps with Tyler Prince (MD, Head of Value Creation)"
-        },
-        {
-          "detail": "Jeff Pasco, VP of Sales, was at Oracle — overlaps with Larry Shurtz (CSO, Genesys)"
+          "detail": "Steve Keifer, Chief Marketing Officer, went to University of Virginia — overlaps with Lilly Cordover (Analyst)"
         }
       ],
       "connection_status": "warm path",
-      "harmonic_id": 75840,
-      "harmonic_name": "Conversica",
-      "valuation_m": null,
-      "harmonic_round_date": "2026-07-27"
+      "harmonic_id": 106164,
+      "harmonic_name": "Ordway",
+      "valuation_m": 100,
+      "harmonic_round_date": "2026-08-05"
+    },
+    {
+      "company": "Aavalynx",
+      "desc": "Legal AI",
+      "theme": "Precision Applications",
+      "vertical": "Legal",
+      "stage": "PRE_SEED",
+      "amount_m": 2,
+      "investors": [
+        "Omega Venture Partners",
+        "Two Ravens VC"
+      ],
+      "date": "2026-08-05",
+      "link": "https://aavalynx.ai",
+      "domain": "aavalynx.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "No automated SPC connection surfaced",
+      "harmonic_id": 57678689,
+      "harmonic_name": "Aavalynx",
+      "valuation_m": 8,
+      "harmonic_round_date": "2026-08-04"
+    },
+    {
+      "company": "Walaw",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "SEED",
+      "amount_m": 2,
+      "investors": [],
+      "date": "2026-08-05",
+      "link": "https://walaw.io",
+      "domain": "wa-la.net",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "No automated SPC connection surfaced",
+      "harmonic_id": 64333037,
+      "harmonic_name": "Walaw",
+      "valuation_m": 8,
+      "harmonic_round_date": "2026-08-03"
+    },
+    {
+      "company": "Kalanick Atoms",
+      "desc": "Kalanick Atoms Raises $1 . 7 billion for Industrial Robotics",
+      "theme": "Precision Applications",
+      "vertical": "Robotics",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-07-23",
+      "link": "https://ventureburn.com/atoms-raises-1-7-billion-robotics-automation/",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "No automated SPC connection surfaced"
+    },
+    {
+      "company": "NYC Startup",
+      "desc": "NYC Startup Raise $8 . 88B in Q2 2026 – Best Capital Quarter Since 2021 – as AI and Fintech Megadeals Reshape the Market",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-07-22",
+      "link": "https://www.alleywatch.com/2026/07/nyc-startup-funding-q2-2026-best-capital-quarter-since-2021/",
+      "domain": "nycstartupday.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "No automated SPC connection surfaced"
+    },
+    {
+      "company": "Bunkerhill",
+      "desc": "Bunkerhill raises $55M for hospital - built clinical AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "SERIES_B",
+      "amount_m": 55,
+      "investors": [
+        "Level Ventures",
+        "Felicis",
+        "Y Combinator",
+        "Bold Brain Capital",
+        "Sequoia Capital",
+        "Optum Ventures",
+        "Khosla Ventures",
+        "constellationvc"
+      ],
+      "date": "2026-07-17",
+      "link": "https://thenextweb.com/news/bunkerhill-health-agentic-ai-carebricks-series-b",
+      "domain": "bhcc.edu",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [
+        {
+          "detail": "Backed by Felicis — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Backed by Sequoia Capital — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Backed by Khosla Ventures — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Sean Bennett, Vice President, Operations, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
+        },
+        {
+          "detail": "Bradley Gordon, Vice President of Sales, went to Columbia Business School — overlaps with John Cummings (Managing Director, CFO/COO)"
+        }
+      ],
+      "connection_status": "warm path",
+      "harmonic_id": 6818,
+      "harmonic_name": "Bunkerhill Health",
+      "harmonic_round_date": "2026-07-16"
+    },
+    {
+      "company": "Bunkerhill Health",
+      "desc": "Bunkerhill Health raises $55M for healthcare AI agents",
+      "theme": "Applied AI",
+      "vertical": "Healthcare",
+      "stage": "SERIES_B",
+      "amount_m": 55,
+      "investors": [
+        "Level Ventures",
+        "Felicis",
+        "Y Combinator",
+        "Bold Brain Capital",
+        "Sequoia Capital",
+        "Optum Ventures",
+        "Khosla Ventures",
+        "constellationvc"
+      ],
+      "date": "2026-07-16",
+      "link": "https://thenextweb.com/news/bunkerhill-health-55m-healthcare-ai-agents",
+      "domain": "bunkerhillhealth.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [
+        {
+          "detail": "Backed by Felicis — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Backed by Sequoia Capital — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Backed by Khosla Ventures — a fund SPC gets intros through"
+        },
+        {
+          "detail": "Sean Bennett, Vice President, Operations, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
+        },
+        {
+          "detail": "Bradley Gordon, Vice President of Sales, went to Columbia Business School — overlaps with John Cummings (Managing Director, CFO/COO)"
+        }
+      ],
+      "connection_status": "warm path",
+      "harmonic_id": 6818,
+      "harmonic_name": "Bunkerhill Health",
+      "harmonic_round_date": "2026-07-16"
     },
     {
       "company": "Corner Health",
@@ -951,7 +682,7 @@
       "source": "funds",
       "connections": [
         {
-          "detail": "Lava Sunder, Co-founder and CEO, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM, Stripe)"
+          "detail": "Lava Sunder, Co-founder and CEO, was at McKinsey & Company — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
         }
       ],
       "connection_status": "warm path",
@@ -1004,7 +735,6 @@
         "BDC",
         "OMERS Ventures",
         "Northleaf Capital Partners",
-        "A*STAR - Agency for Science, Technology and Research",
         "Tiger Global",
         "Susa Ventures",
         "Garage Capital",
@@ -1015,14 +745,7 @@
         "Active Capital",
         "Notation Capital",
         "Tiny",
-        "Goldman Sachs Alternatives",
-        "Ross Jones",
-        "Les Whiting",
-        "Kirk Simpson",
-        "Michael Hyatt",
-        "Rhianna Brancato",
-        "Richard Seibel",
-        "Michael Katchen"
+        "Goldman Sachs Alternatives"
       ],
       "date": "2026-06-29",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVVNfMlZ3TVNneHRzbHZtbm1ERHY0Vnd1YkhpUlJUWlM0N2dKMDlhWnZWb0FzZ0J0ZW94OG1rRjAxYmlwdHk3OS1PVVJFS2FqNHVxLXlKenFFd1p5T01HcTFKUjZxUlVPbFpZUzZDRzNrdl9DNWNQak9PY3hXSUd2RkNRYw?oc=5",
@@ -1034,20 +757,17 @@
         {
           "via": "Brooke Slattery",
           "person": "Rob Palumbo",
-          "title": "Fractional CMO, Glow",
+          "title": "Growth Advisor, Tre'dish / Fractional CMO, Glow",
           "source": "LINKEDIN"
         },
         {
-          "detail": "Tramale Turner, Chief Technology Officer, was at Stripe — overlaps with Ari Schmorak (Head of GTM, Stripe)"
+          "detail": "Tramale Turner, Chief Technology Officer, was at Stripe — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
         },
         {
-          "detail": "Tramale Turner, Chief Technology Officer, studied at University of Pennsylvania — same school as Brooke Slattery (Principal Investor)"
+          "detail": "Tramale Turner, Chief Technology Officer, went to University of Pennsylvania — overlaps with Brooke Slattery (Principal Investor)"
         },
         {
-          "detail": "Victoria Smith, VP of People, was at Stripe — overlaps with Ari Schmorak (Head of GTM, Stripe)"
-        },
-        {
-          "detail": "Nina Bilimoria Angelo, SVP, Go-to-Market (GTM), studied at Harvard Business School — same school as Sewon Park (Associate)"
+          "detail": "Victoria Smith, VP of People, was at Stripe — overlaps with Ari Schmorak (Head of GTM and Product Ops, Stripe)"
         }
       ],
       "connection_status": "warm path",
@@ -1073,9 +793,7 @@
       "fit_reason": "stage unconfirmed — track",
       "source": "funds",
       "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "valuation_m": null,
-      "harmonic_round_date": null
+      "connection_status": "No automated SPC connection surfaced"
     },
     {
       "company": "Sail Research",
@@ -1120,220 +838,8 @@
       "harmonic_name": "Sail Research",
       "valuation_m": 450,
       "harmonic_round_date": "2026-06-24"
-    },
-    {
-      "company": "Assort Health",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "SERIES_C",
-      "amount_m": null,
-      "investors": [
-        "Strategic Waterfall Partners",
-        "TAU Ventures",
-        "Supernode Ventures",
-        "A*",
-        "First Round Capital",
-        "Felicis",
-        "Quiet Capital",
-        "Lightspeed Venture Partners",
-        "Tau Ventures",
-        "Pioneer Fund",
-        "The New Normal Fund",
-        "Liquid 2 Ventures",
-        "Menlo Ventures",
-        "Four Acres Capital",
-        "Chemistry",
-        "constellationvc",
-        "Aditya Khosla",
-        "Joe Montana"
-      ],
-      "date": "2026-06-24",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHFBZkpGREh2N3hscnoyeWZPRFFLZGJaLUw4VVBQMWxWMnBBOXBYNlE2SEFIZVhtaDVYRHJKMGI2My0xTUg0T1FMYzBxb0ZpX0pSQ3c2U0xBdW5yMkpHc3hCcFBudVd1T3lhTjd0UUlYZlo1RXRHVWY0TFhCdHpxcnRxUDh5dFM5ZWQ1MUJMeTJuUDFoY3FBOERIb0poUERNVFNkdlBMMkh3Zw?oc=5",
-      "domain": "assorthealth.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Backed by Felicis — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Backed by Lightspeed Venture Partners — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 12867444,
-      "harmonic_name": "Assort Health",
-      "valuation_m": 1200,
-      "harmonic_round_date": "2026-06-24"
-    },
-    {
-      "company": "Ladder Health",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "SEED",
-      "amount_m": 7,
-      "investors": [
-        "Mairs & Power Venture Capital",
-        "Create Health Ventures",
-        "25m Health",
-        "Groove Capital",
-        "Hatteras Venture Partners",
-        "Jumpstart Capital",
-        "Nina Capital",
-        "25madison",
-        "South Dakota First Capital",
-        "White Oak Enterprises"
-      ],
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1R5ZnpqQy0yWURxTVdjUmwwZG5LemYzNFQ0SUlCd1ZRbmYta3FibVpNalJXUHlINkFQb25QR2FmTldSTmpVUWVBTzVoUjczQjVrQ2hpdG9Cd1UwZ3E1UXV2RDdTZjMtcGY1V3VvMjd5dzlfYjZaVzA5S1NUUG5OQklSZHFlNXU0WUtsaWFVczZBVk9uOXJ1bnpLNHpFVEtxekFaWE53aTlvcFBtNXZ6dVEzTmQxM2p6QXpYNGNR?oc=5",
-      "domain": "ladderhealth.ai",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Mitch Mudra, Chief Executive Officer, studied at The Wharton School (University of Pennsylvania) — same school as Brooke Slattery (Principal Investor)"
-        },
-        {
-          "detail": "Elizabeth Kidder, Founder & Chief Operating Officer, studied at University of Virginia (Darden) — same school as Lilly Cordover (Analyst)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 48650942,
-      "harmonic_name": "Ladder Health",
-      "valuation_m": 35,
-      "harmonic_round_date": "2026-06-23"
-    },
-    {
-      "company": "STARK",
-      "desc": "Defense & national security",
-      "theme": "Precision Applications",
-      "vertical": "Defense",
-      "stage": "SERIES_A",
-      "amount_m": null,
-      "investors": [
-        "Advent",
-        "BlueYard Capital",
-        "IQT",
-        "Founders Fund",
-        "201 Ventures",
-        "8VC",
-        "Air Street Capital",
-        "Project A",
-        "Sequoia Capital",
-        "Thiel Capital",
-        "NATO Innovation Fund (NIF)",
-        "Doepfner Capital",
-        "Project A Ventures",
-        "Peter Thiel"
-      ],
-      "date": "2026-06-23",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFVHTThQT2FOUWZhUVpnSk5JeTdGUk04bGdwZDFVYW1JOUlSNHVBeXFHZ3hYUGh3NUVEeVVhUDlCOHRjTm1aWXZMcjVDR1lvRmprRExSYUVQSGpQZ2R3ZDhBb1JieUdtbHZ0c0NfUlkxM0Jxb1lmdUNLbHh3eXdoZ1dUZzRtWldzNjhPTV9PWER0R0EwaUR2eGppd1RxZGdLRko4bFZPUWlodUh3aDFGcEN0WGxYeHFnVGp3MWd0OTRhZFptUVpBcg?oc=5",
-      "domain": "starkbros.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Backed by Founders Fund — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Backed by Sequoia Capital — a fund SPC gets intros through"
-        },
-        {
-          "detail": "Christian Napolitano, Vice President, studied at Columbia Business School — same school as John Cummings (MD, CFO/COO)"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 55453570,
-      "harmonic_name": "STARK",
-      "valuation_m": 4000,
-      "harmonic_round_date": "2026-06-23"
-    },
-    {
-      "company": "Portal Biotechnologies",
-      "desc": "Healthcare & bio AI",
-      "theme": "Edge Computing",
-      "vertical": "Healthcare",
-      "stage": "SEED",
-      "amount_m": 9,
-      "investors": [
-        "BBQ Capital",
-        "NFX",
-        "IKJ Capital",
-        "Page One Ventures",
-        "10X Capital",
-        "Undeterred Capital",
-        "Kichinvest",
-        "IA Ventures",
-        "Pear VC",
-        "Conscience VC",
-        "StratMinds",
-        "Patel Family Office",
-        "Amanda Schloss family office",
-        "DARPA",
-        "Rocky Yu",
-        "Nemanja Kostic"
-      ],
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjN0Q3BNeHZvMDEtb1ZyZml3OHhjc3Racm1aODNwcW00Z0FFb2ZhekpONGVUR2tWU1RKNTNrd2M2N043NXI5RS1vaUpNVTNnM0JuQmwxU0sycEdFZnNKWnRDRkNLREo2WE9jUjlNMzEwbFA0eHJ4Mlg5cjh3MXRELW53M2p5NDA?oc=5",
-      "domain": "portalbiotechnologies.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "No automated SPC connection surfaced",
-      "harmonic_id": 43645621,
-      "harmonic_name": "Portal",
-      "valuation_m": 45,
-      "harmonic_round_date": "2026-06-18"
-    },
-    {
-      "company": "Vetic",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "SERIES_C",
-      "amount_m": 40,
-      "investors": [
-        "Acorn Capital Ltd",
-        "Greenoaks",
-        "1947 Rise",
-        "Abhinav Sinha",
-        "iSeed",
-        "Bessemer Venture Partners",
-        "JSW",
-        "Reed India",
-        "JSW Ventures",
-        "Shiva Singh Sangwan",
-        "Utsav Somani",
-        "Manu Gupta",
-        "Revant Bhate",
-        "Lachy Groom",
-        "Maninder Gulati",
-        "Nitin Saluja",
-        "Ritesh Agarwal",
-        "Anuuj Tejpaal"
-      ],
-      "date": "2026-06-18",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVhSUGY2ck90Q0tRaG5tbTZyNDU3V1JZSWtmZTR3Mm9FNldCYTZ4ckN0SnNBam43cVJDYl81LWRzcWJZRFJ0Tm5xdnl0eUhVaDNCeklpb3h6TzJ1d21QUkFuYlNidXFDVGNxMkZsSFdDdzBVUVVFQjhiaTJxQ2stZDFOY3FEcExoRUF3aklZUndoOGVNUS0w0gGXAUFVX3lxTE9NWFJQZjZyT3RDS1Fobm1tNnI0NTdXUllJa2ZlNHcyb0U2V0JhNnhyQ3RKc0FqbjdxUkNiXzUtZHNxYllEUnRObnF2eXR5SFVoM0J6SWlveHpPMnV3bVBSQW5iU2J1cUNUY3EyRmxIV0N3MFVRVUVCOGJpMnFDay1kMU5jcURwTGhFQXdqSVlSd2g4ZU1RLTA?oc=5",
-      "domain": "vetic.in",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [
-        {
-          "detail": "Backed by Bessemer Venture Partners — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "warm path",
-      "harmonic_id": 10636377,
-      "harmonic_name": "Vetic",
-      "valuation_m": null,
-      "harmonic_round_date": "2026-04-01"
     }
-  ]
+  ],
+  "enriched": true,
+  "enriched_at": "2026-08-10T12:48:32Z"
 }
