@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "mode": "full",
-  "count": 40,
+  "count": 42,
   "companies": [
     {
       "name": "Harvey",
@@ -39,7 +39,7 @@
       "desc": "Hadrian specializes in precision manufacturing, leveraging its AI-powered platform, Opus, to automate production and inspection processes, which enhances operational efficiency and throughput. The company provides flexib",
       "stage": "SERIES_D",
       "last_amount": 1370000000.0,
-      "total": 1978807547.0,
+      "total": 1868807594.0,
       "investors": [
         "Andreessen Horowitz",
         "Morgan Stanley",
@@ -79,21 +79,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "OLIX",
-      "domain": "olix.com",
-      "desc": "The company develops a compute paradigm that integrates SRAM architecture with photonics to enhance throughput, interactivity, and latency, addressing the limitations of current GPU memory architectures. This technology ",
-      "stage": "SERIES_B",
-      "last_amount": 312000000.0,
-      "total": 546911000.0,
-      "investors": [
-        "Entrepreneur First",
-        "Octopus Ventures",
-        "Arm",
-        "Hudson River Trading"
-      ],
-      "location": "London, England, United Kingdom"
-    },
-    {
       "name": "Avatar Robotics",
       "domain": "avatarrobotics.com",
       "desc": "The company offers robotic solutions designed for various industrial tasks, including pick and place, part handling, inspection, and assembly, which function under human supervision. Their technology allows robots to lea",
@@ -107,6 +92,21 @@
         "AlleyCorp"
       ],
       "location": "650 California Street, Floor 7, San Francisco, CA 94108, United States"
+    },
+    {
+      "name": "Standard Metrics",
+      "domain": "standardmetrics.io",
+      "desc": "The main product is an automated data platform for portfolio management that centralizes performance data, facilitating enhanced analytics and reporting for startups and investors. It employs AI-driven analytics and inte",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 29526797.0,
+      "investors": [
+        "LeFrak",
+        "Spark Capital",
+        "Global Founders Capital",
+        "SAV (Scale Asia Ventures)"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "Rime",
@@ -128,7 +128,7 @@
       "domain": "ordwaylabs.com",
       "desc": "The company offers a finance platform that automates billing, accounting, and KPI reporting specifically for businesses with recurring revenue models, such as SaaS and fintech. It employs technologies that facilitate var",
       "stage": "SERIES_A",
-      "last_amount": 0,
+      "last_amount": 20000000.0,
       "total": 32500000.0,
       "investors": [
         "Harbert Management Corporation",
@@ -214,6 +214,21 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Finster AI",
+      "domain": "finster.ai",
+      "desc": "Finster AI offers a platform designed to automate the analysis of complex financial filings, enabling investment analysts to efficiently extract insights while integrating real-time market data. The technology utilizes a",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 43313363.0,
+      "investors": [
+        "Hoxton Ventures",
+        "Peak XV Partners",
+        "FinTech Collective",
+        "UBS Investment Bank"
+      ],
+      "location": "London, England"
+    },
+    {
       "name": "Buzz Solutions",
       "domain": "buzzsolutions.com",
       "desc": "The company provides an AI-driven platform that utilizes machine vision algorithms and predictive analytics to analyze visual data for infrastructure inspections in the utility sector. This technology enables the rapid p",
@@ -289,6 +304,19 @@
       "location": "Singapore, Singapore"
     },
     {
+      "name": "Omilia",
+      "domain": "omilia.com",
+      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
+      "stage": "SERIES_B",
+      "last_amount": 67000000.0,
+      "total": 87000000.0,
+      "investors": [
+        "Expedition Growth Capital",
+        "Grafton Capital"
+      ],
+      "location": "Larnaca, Larnaca"
+    },
+    {
       "name": "10x Banking",
       "domain": "10xbanking.com",
       "desc": "The company offers a cloud-native core banking platform designed to facilitate real-time data insights and efficient product lifecycle management, employing no-code tools for the swift development of digital banking solu",
@@ -304,17 +332,17 @@
       "location": "London, England"
     },
     {
-      "name": "Omilia",
-      "domain": "omilia.com",
-      "desc": "The company provides a Self-Learning Agentic CX Platform that automates customer service interactions using advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
-      "stage": "SERIES_B",
-      "last_amount": 67000000.0,
-      "total": 87000000.0,
+      "name": "VibeIQ",
+      "domain": "vibeiq.com",
+      "desc": "VibeIQ offers a collaborative platform that streamlines product ideation and creation through a suite of applications focused on visual line planning, assortment building, and AI-assisted decision-making. The platform ut",
+      "stage": "SEED",
+      "last_amount": 22500000.0,
+      "total": 28800000.0,
       "investors": [
-        "Expedition Growth Capital",
-        "Grafton Capital"
+        "Volition Capital",
+        "Venture Guides"
       ],
-      "location": "Larnaca, Larnaca"
+      "location": "Boston, MA"
     },
     {
       "name": "WorldScape",
@@ -332,48 +360,32 @@
       "location": "15809 Bear Creek Parkway, Suite 130, Redmond, WA 98052, United States"
     },
     {
-      "name": "STELLA Automotive AI",
-      "domain": "stellaautomotive.com",
-      "desc": "STELLA offers an AI-driven platform that automates customer interactions for automotive dealerships, utilizing conversational AI to manage inbound calls, service scheduling, and communication through voice, text, and cha",
-      "stage": "SERIES_B",
-      "last_amount": 22100000.0,
-      "total": 90814591.0,
-      "investors": [
-        "Mills Automotive Group",
-        "The Presidio Group",
-        "Czubay Family Enterprises",
-        "Flow Automotive Companies"
-      ],
-      "location": "Tampa, FL"
-    },
-    {
-      "name": "Benivo",
-      "domain": "benivo.com",
-      "desc": "Benivo offers an integrated mobility platform that combines relocation services with advanced technologies such as AI and machine learning to optimize the employee relocation process. Key functionalities include data con",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 7000000.0,
-      "total": 24000000.0,
-      "investors": [
-        "MLC Lawyers",
-        "The Duke of York",
-        "Granatus Ventures",
-        "Updata Partners"
-      ],
-      "location": "London, England"
-    },
-    {
-      "name": "Wayy",
-      "domain": "wayy.ai",
-      "desc": "Wayy.ai offers an AI-driven sales automation platform that assists solopreneurs and small business owners in generating leads and conducting outreach with minimal setup. The technology utilizes data analysis to identify ",
+      "name": "Blaze.tech",
+      "domain": "blaze.tech",
+      "desc": "Blaze is a no-code platform that enables healthcare organizations to create HIPAA-compliant applications through a visual drag-and-drop interface, facilitating integration with various APIs and data sources, including FH",
       "stage": "PRE_SEED",
-      "last_amount": 2000000.0,
-      "total": 3590000.0,
+      "last_amount": 5000000.0,
+      "total": 10000000.0,
       "investors": [
-        "Tunc Yalgin",
-        "Zero to One Ventures",
-        "Tunç Y."
+        "Socially Financed",
+        "Flybridge",
+        "Sangha Capital SA",
+        "The K Funds"
       ],
-      "location": "Miami, Florida"
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Ploid",
+      "domain": "ploid.com",
+      "desc": "Ploid provides an AI-driven platform that facilitates the recruiting process by allowing users to search, enrich, and construct candidate profiles through natural language queries. The technology employs advanced algorit",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 520000.0,
+      "investors": [
+        "Y Combinator",
+        "Founders, Inc."
+      ],
+      "location": "New York, New York"
     },
     {
       "name": "MiiHealth AI",
@@ -387,6 +399,19 @@
         "Arteria Capital"
       ],
       "location": "Phoenix, Arizona"
+    },
+    {
+      "name": "Tursio",
+      "domain": "tursio.ai",
+      "desc": "Tursio provides an enterprise search platform that enables users to query multiple structured databases using natural language while maintaining data security and control. The technology employs automatically inferred co",
+      "stage": "SEED",
+      "last_amount": 50000.0,
+      "total": 1450000.0,
+      "investors": [
+        "Speciale Invest",
+        "Z5 Capital"
+      ],
+      "location": "Seattle"
     },
     {
       "name": "Relu",
@@ -414,6 +439,21 @@
         "Toby Webber"
       ],
       "location": "London"
+    },
+    {
+      "name": "VISOID",
+      "domain": "visoid.com",
+      "desc": "Visoid offers architectural visualization software that utilizes AI technology for the rapid rendering of 3D models, enabling users to produce high-quality images efficiently. The software is compatible with various 3D d",
+      "stage": "SEED",
+      "last_amount": 2500000.0,
+      "total": 3427103.0,
+      "investors": [
+        "Startuplab",
+        "byFounders",
+        "OBOS",
+        "Antler"
+      ],
+      "location": "Oslo"
     },
     {
       "name": "Aavalynx",
@@ -452,16 +492,6 @@
       "location": ""
     },
     {
-      "name": "Walaw",
-      "domain": "walaw.io",
-      "desc": "The main product is an AI-driven communication platform for healthcare providers that automates patient inquiries, appointment scheduling, and call answering around the clock. It employs natural language processing to ha",
-      "stage": "SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [],
-      "location": "Montreal"
-    },
-    {
       "name": "Shiplog",
       "domain": "useshiplog.com",
       "desc": "Shiplog is an AI-powered customer intelligence platform that helps businesses grow net revenue retention by reducing churn, increasing expansion, and improving product adoption - especially across long tail customer port",
@@ -492,17 +522,16 @@
       "location": ""
     },
     {
-      "name": "Yard Ops",
-      "domain": "yard.cloud",
-      "desc": "The company offers a yard management system that optimizes operations by providing real-time visibility and modular solutions for various functions such as booking, space management, and dock management. It utilizes data",
-      "stage": "SEED",
-      "last_amount": 671361.0,
-      "total": 671361.0,
+      "name": "herdr",
+      "domain": "herdr.dev",
+      "desc": "Herdr is the runtime your coding agents live on. It holds real terminals open on your laptop, your desktop or a box you rent, so the work survives the lid closing — and you can attach again from anything with a keyboard.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "Haatch",
-        "York Angels"
+        "Y Combinator"
       ],
-      "location": "Hull, East Yorkshire"
+      "location": ""
     },
     {
       "name": "Superleap AI CRM",
@@ -532,16 +561,19 @@
       "location": "Al Malqa, Riyadh"
     },
     {
-      "name": "herdr",
-      "domain": "herdr.dev",
-      "desc": "Herdr is the runtime your coding agents live on. It holds real terminals open on your laptop, your desktop or a box you rent, so the work survives the lid closing — and you can attach again from anything with a keyboard.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "NdotLight",
+      "domain": "ndotlight.com",
+      "desc": "NdotLight offers a suite of 3D design tools that includes a CAD-based modeling application and a web platform for real-time collaboration and photorealistic rendering, utilizing AI-driven technologies and a proprietary 3",
+      "stage": "SERIES_A",
+      "last_amount": 10575000.0,
+      "total": 20020706.0,
       "investors": [
-        "Y Combinator"
+        "Samsung Venture Investment",
+        "NAVER D2SF",
+        "IMM Investment Corp.",
+        "CJ Investment Inc."
       ],
-      "location": ""
+      "location": "Seongnam, Gyeonggi"
     },
     {
       "name": "Marsdy",
@@ -563,8 +595,8 @@
       "domain": "tennsa.com",
       "desc": "Most growing businesses don't have a data problem. They have a coherence problem. Operational information lives in fragments - accounting in one tool, inventory in another, customer relationships in a third, communicatio",
       "stage": "PRE_SEED",
-      "last_amount": 61934.0,
-      "total": 61934.0,
+      "last_amount": 61000.0,
+      "total": 61000.0,
       "investors": [
         "Oakvale Invest"
       ],

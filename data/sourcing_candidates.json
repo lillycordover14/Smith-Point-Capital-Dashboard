@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10",
+  "generated": "2026-08-11",
   "window_days": 45,
   "counts": {
     "actionable": 7,
@@ -37,6 +37,23 @@
       "domain": "ambrook.com",
       "tier": "actionable",
       "fit_reason": "Series B ($30M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Ordway",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": 20,
+      "investors": [],
+      "date": "2026-08-06",
+      "link": "https://ordwaylabs.com",
+      "domain": "ordwaylabs.com",
+      "tier": "actionable",
+      "fit_reason": "Series A ($20M) — sizable A, likely at/near the ARR floor",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -119,30 +136,26 @@
         }
       ],
       "connection_status": "prospective (web) — confirmed weekly via Affinity"
-    },
-    {
-      "company": "Hera",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Series A",
-      "amount_m": 27,
-      "investors": [
-        "Bain Capital Ventures",
-        "Bain Capital Ventures - Pulse 2.0",
-        "IA Ventures"
-      ],
-      "date": "2026-06-26",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0V4XzVxbzJJeE8zN1lDeXlWQ0tPQW1JN0t5cHZPeFlIajNPR3BOMC02d2ZKYnIxMHVhdXZnRS0zdzV1UzRvV255QUxBSTV2b1lpR2ZoOVlPSVZYb3B5bGc5eHJVcDhLN0dNeUh4cU1RcjZnck1uX3pjZ05JbUxCUUdablRNWjN4N2NFQU5TcHFNWEM3cWlrNTZHQjlEd2IwNml6UU5GMlZnUWJyRDZzN0Nn?oc=5",
-      "domain": "hellohera.com",
-      "tier": "actionable",
-      "fit_reason": "Series A ($27M) — sizable A, likely at/near the ARR floor",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
     }
   ],
   "watchlist": [
+    {
+      "company": "Standard Metrics",
+      "desc": "Data infrastructure",
+      "theme": "Data Management",
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-11",
+      "link": "https://standardmetrics.io",
+      "domain": "standardmetrics.io",
+      "tier": "watchlist",
+      "fit_reason": "Series A — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Tennsa",
       "desc": "Logistics & supply chain",
@@ -212,18 +225,18 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Ordway",
-      "desc": "Fintech & payments",
+      "company": "Blaze.tech",
+      "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Series A",
-      "amount_m": null,
+      "vertical": "Healthcare",
+      "stage": "Seed",
+      "amount_m": 5,
       "investors": [],
-      "date": "2026-08-06",
-      "link": "https://ordwaylabs.com",
-      "domain": "ordwaylabs.com",
+      "date": "2026-08-05",
+      "link": "https://blaze.tech",
+      "domain": "blazetechgh.com",
       "tier": "watchlist",
-      "fit_reason": "Series A — track for the next round",
+      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -246,35 +259,18 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Walaw",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
+      "company": "Saudi AIoT Startup Rime",
+      "desc": "Saudi AIoT Startup Rime Raises $2 Million Seed Round",
+      "theme": "Edge Computing",
+      "vertical": "",
       "stage": "Seed",
       "amount_m": 2,
       "investors": [],
       "date": "2026-08-05",
-      "link": "https://walaw.io",
-      "domain": "wa-la.net",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Kalanick Atoms",
-      "desc": "Kalanick Atoms Raises $1 . 7 billion for Industrial Robotics",
-      "theme": "Precision Applications",
-      "vertical": "Robotics",
-      "stage": "Venture",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-07-23",
-      "link": "https://ventureburn.com/atoms-raises-1-7-billion-robotics-automation/",
+      "link": "https://cairoscene.com/Business/Saudi-AIoT-Startup-Rime-Raises-2-Million-Seed-Round",
       "domain": "",
       "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
+      "fit_reason": "Seed — early; track for traction",
       "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
