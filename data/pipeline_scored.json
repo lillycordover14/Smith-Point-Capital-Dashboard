@@ -1,6 +1,32 @@
 {
-  "generated": "2026-08-12",
+  "generated": "2026-08-13",
   "companies": [
+    {
+      "name": "Salient",
+      "domain": "trysalient.com",
+      "stage": "Series A",
+      "months_since": 13,
+      "last_raise_date": "2025-07-28",
+      "last_raise_source": "Harmonic (by domain)",
+      "funding_total": 64500000.0,
+      "cycle": "approaching",
+      "basis": "signal",
+      "status": "Entering window + momentum",
+      "likelihood": "Medium",
+      "rank": 3,
+      "strong_signals": 0,
+      "supporting_signals": 1,
+      "finance_leadership_open": false,
+      "open_roles": 12,
+      "signals": [
+        "13 mo since last round (Series A) · typical Series A cadence ~12 mo · approaching typical raise window",
+        "Last round: 2025-07-28 (Harmonic (by domain))",
+        "Hiring ramp: open roles 8→12",
+        "Basis: live signal"
+      ],
+      "url": "https://trysalient.com",
+      "links": []
+    },
     {
       "name": "NetBox Labs",
       "domain": "netboxlabs.com",
@@ -17,43 +43,17 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 12,
+      "open_roles": 11,
       "signals": [
         "13 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
         "Last round: 2025-07-14 (Harmonic (by domain))",
-        "Conference/roadshow presence: y Meetup Sep 15, 2026 | 11:00 AM EST | 15:00 UTC Event NetBox Labs Partner Summi",
+        "Conference/roadshow presence: y Meetup Sep 15, 2026 | 11:00 AM EST | 15:00 UTC Event Red Hat Summit: Connec",
         "Basis: live signal"
       ],
       "url": "https://netboxlabs.com",
       "links": [
         "https://netboxlabs.com/events"
       ]
-    },
-    {
-      "name": "Salient",
-      "domain": "trysalient.com",
-      "stage": "Series A",
-      "months_since": 12,
-      "last_raise_date": "2025-07-28",
-      "last_raise_source": "Harmonic (by domain)",
-      "funding_total": 64500000.0,
-      "cycle": "approaching",
-      "basis": "signal",
-      "status": "Entering window + momentum",
-      "likelihood": "Medium",
-      "rank": 3,
-      "strong_signals": 0,
-      "supporting_signals": 1,
-      "finance_leadership_open": false,
-      "open_roles": 12,
-      "signals": [
-        "12 mo since last round (Series A) · typical Series A cadence ~12 mo · approaching typical raise window",
-        "Last round: 2025-07-28 (Harmonic (by domain))",
-        "Hiring ramp: open roles 8→12",
-        "Basis: live signal"
-      ],
-      "url": "https://trysalient.com",
-      "links": []
     },
     {
       "name": "Bretton",
@@ -99,7 +99,7 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 44,
+      "open_roles": 45,
       "signals": [
         "2 mo since last round (Series C) · typical Series C cadence ~19 mo · just raised",
         "Last round: 2026-06-22 (provided)",
