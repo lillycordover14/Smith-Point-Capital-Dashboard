@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-14",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-08-13",
+          "category": "Blog",
+          "title": "Your Infrastructure Record, Now Native in Jira Service Management Assets",
+          "link": "https://netboxlabs.com/blog/your-infrastructure-record-now-native-in-jira-service-management-assets/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-08-06",
           "category": "Blog",
           "title": "Public Preview: NetBox Analytics Puts Your Infrastructure Record to Work",
@@ -150,6 +157,13 @@
         },
         {
           "date": "",
+          "title": ":00 PM Event NetBox Evolve 2026 Oct 13, 2026 Event Cisco Live 2026 Me",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
           "title": "tBox Community Meetup Event Datacloud Global Congress 2026 Event Cisco Live 2026 La",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
@@ -158,13 +172,6 @@
         {
           "date": "",
           "title": "webinars. Browse dates, topics, and formats, and register to join live or on d",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
-          "title": "026 banner\"},\"acf\":{\"event_details\":{\"type\":\"Conference\",\"locat",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13",
+  "generated": "2026-08-14",
   "mode": "full",
-  "count": 41,
+  "count": 37,
   "companies": [
     {
       "name": "Harvey",
@@ -34,19 +34,19 @@
       "location": "New York, NY"
     },
     {
-      "name": "Hadrian",
-      "domain": "hadrian.co",
-      "desc": "Hadrian specializes in precision manufacturing, utilizing its AI-powered platform, Opus, to automate production and inspection processes, thereby enhancing operational efficiency and throughput. The company offers flexib",
-      "stage": "SERIES_D",
-      "last_amount": 1370000000.0,
-      "total": 1868807594.0,
+      "name": "CodeRabbit",
+      "domain": "coderabbit.ai",
+      "desc": "The company offers an AI-augmented code review platform designed to enhance software quality workflows by streamlining the review process and improving bug detection. It employs advanced language models, integrates with ",
+      "stage": "SERIES_C",
+      "last_amount": 143000000.0,
+      "total": 230605233.0,
       "investors": [
-        "Andreessen Horowitz",
-        "Morgan Stanley",
-        "Baillie Gifford",
-        "XYZ Venture Capital"
+        "Scale Venture Partners",
+        "Smash Capital",
+        "Datadog",
+        "CRV"
       ],
-      "location": "Los Angeles, CA"
+      "location": "San Francisco, California"
     },
     {
       "name": "Fazeshift",
@@ -64,36 +64,6 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "CodeRabbit",
-      "domain": "coderabbit.ai",
-      "desc": "The company offers an AI-augmented code review platform designed to enhance software quality workflows by streamlining the review process and improving bug detection. It employs advanced language models, integrates with ",
-      "stage": "SERIES_C",
-      "last_amount": 143000000.0,
-      "total": 230605233.0,
-      "investors": [
-        "Scale Venture Partners",
-        "Smash Capital",
-        "Datadog",
-        "CRV"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "Lace",
-      "domain": "lace.ai",
-      "desc": "Lace AI offers call center automation technology specifically designed for the HVAC and plumbing industries, utilizing artificial intelligence to enhance lead qualification and objection management. The platform incorpor",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 19000000.0,
-      "investors": [
-        "Horizon",
-        "Canvas Prime",
-        "Horizons Ventures",
-        "LAUNCHub Ventures"
-      ],
-      "location": "Mountain View, California"
-    },
-    {
       "name": "Skan AI",
       "domain": "skan.ai",
       "desc": "The company provides an enterprise work context platform that captures and analyzes actual workflows to facilitate automation and transformation. It employs technologies such as real-time monitoring, predictive analytics",
@@ -109,19 +79,19 @@
       "location": "Menlo Park, California"
     },
     {
-      "name": "Naive",
-      "domain": "usenaive.ai",
-      "desc": "The main product is a platform designed for the creation and management of autonomous businesses through AI-driven agents, utilizing a unified command-line interface. It employs technologies such as microVM sandboxes, sm",
-      "stage": "SERIES_A",
-      "last_amount": 28500000.0,
-      "total": 31000000.0,
+      "name": "Lace",
+      "domain": "lace.ai",
+      "desc": "Lace AI offers call center automation technology specifically designed for the HVAC and plumbing industries, utilizing artificial intelligence to enhance lead qualification and objection management. The platform incorpor",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 19000000.0,
       "investors": [
-        "Zetta Venture Partners",
-        "Nexus Venture Partners",
-        "Y Combinator",
-        "Rocket Internet SE"
+        "Horizon",
+        "Canvas Prime",
+        "Horizons Ventures",
+        "LAUNCHub Ventures"
       ],
-      "location": "San Francisco, CA, United States"
+      "location": "Mountain View, California"
     },
     {
       "name": "Finster AI",
@@ -184,6 +154,34 @@
       "location": "Paris"
     },
     {
+      "name": "Ploid",
+      "domain": "ploid.com",
+      "desc": "Ploid provides an AI-driven platform that facilitates the recruiting process by allowing users to search, enrich, and construct candidate profiles through natural language queries. The technology employs advanced algorit",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 520000.0,
+      "investors": [
+        "Y Combinator",
+        "Founders, Inc."
+      ],
+      "location": "New York, New York"
+    },
+    {
+      "name": "Pathway",
+      "domain": "pathway.com",
+      "desc": "The main product is a data processing framework that facilitates real-time analytics and the development of live AI systems, leveraging a high-performance Rust engine to efficiently manage both structured and unstructure",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 141730000.0,
+      "investors": [
+        "Market One Capital",
+        "Id4 ventures",
+        "Inovo.vc",
+        "TQ Ventures"
+      ],
+      "location": "Palo Alto, California"
+    },
+    {
       "name": "VibeIQ",
       "domain": "vibeiq.com",
       "desc": "VibeIQ offers a collaborative platform that streamlines product ideation and creation through a suite of applications focused on visual line planning, assortment building, and AI-assisted decision-making. The platform ut",
@@ -212,34 +210,6 @@
       "location": "London, England"
     },
     {
-      "name": "Omilia",
-      "domain": "omilia.com",
-      "desc": "The company offers a Self-Learning Agentic CX Platform that automates customer service interactions through advanced AI technologies, including natural language processing and a closed-loop learning cycle that enhances a",
-      "stage": "SERIES_B",
-      "last_amount": 67000000.0,
-      "total": 87000000.0,
-      "investors": [
-        "Expedition Growth Capital",
-        "Grafton Capital"
-      ],
-      "location": "Larnaca, Larnaca"
-    },
-    {
-      "name": "Palette",
-      "domain": "palette.team",
-      "desc": "Palette Desktop is a collaboration tool that integrates AI models with shared folders, enabling non-technical users to efficiently manage tasks, research, and planning. It employs machine learning and a signal engine to ",
-      "stage": "PRE_SEED",
-      "last_amount": 3462612.0,
-      "total": 3462612.0,
-      "investors": [
-        "Emblem",
-        "Acadian Ventures",
-        "Ugly Duckling Ventures",
-        "Peter Holm"
-      ],
-      "location": "Copenhagen, Capital Region of Denmark"
-    },
-    {
       "name": "VISOID",
       "domain": "visoid.com",
       "desc": "Visoid offers architectural visualization software that utilizes AI technology for the rapid rendering of 3D models, enabling users to produce high-quality images efficiently. The software is compatible with various 3D d",
@@ -258,7 +228,7 @@
       "name": "Fisent Technologies",
       "domain": "fisent.com",
       "desc": "Fisent Technologies offers an AI-enabled solution that automates content processing tasks across various business functions, particularly in the financial sector, utilizing Generative AI and Business Process Management t",
-      "stage": "SEED",
+      "stage": "SERIES_A",
       "last_amount": 4300000.0,
       "total": 7150000.0,
       "investors": [
@@ -270,17 +240,19 @@
       "location": "Toronto"
     },
     {
-      "name": "Ploid",
-      "domain": "ploid.com",
-      "desc": "Ploid provides an AI-driven platform that facilitates the recruiting process by allowing users to search, enrich, and construct candidate profiles through natural language queries. The technology employs advanced algorit",
+      "name": "Palette",
+      "domain": "palette.team",
+      "desc": "Palette Desktop is a collaboration tool that integrates AI models with shared folders, enabling non-technical users to efficiently manage tasks, research, and planning. It employs machine learning and a signal engine to ",
       "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 520000.0,
+      "last_amount": 3462612.0,
+      "total": 3462612.0,
       "investors": [
-        "Y Combinator",
-        "Founders, Inc."
+        "Emblem",
+        "Acadian Ventures",
+        "Ugly Duckling Ventures",
+        "Peter Holm"
       ],
-      "location": "New York, New York"
+      "location": "Copenhagen, Capital Region of Denmark"
     },
     {
       "name": "River",
@@ -323,6 +295,21 @@
       "location": "Berlin"
     },
     {
+      "name": "Aloi",
+      "domain": "aloi.law",
+      "desc": "Aloi provides an AI-driven platform that transforms fragmented legal data into structured, decision-grade intelligence, enabling legal teams to draft and negotiate contracts more effectively. The technology continuously ",
+      "stage": "SEED",
+      "last_amount": 7000000.0,
+      "total": 16790000.0,
+      "investors": [
+        "Johan Karlsson",
+        "Fredrik Jung Abbou",
+        "Erik Engellau-Nilsson",
+        "Victor Jacobsson"
+      ],
+      "location": "Stockholm"
+    },
+    {
       "name": "Legio Software",
       "domain": "getlegio.com",
       "desc": "Legio — Safety & Security Operations Platform Safety and security teams spend an estimated 30–40% of officer time on documentation, reporting, and compliance work that follows every safety event. Legio is built to elimin",
@@ -350,6 +337,21 @@
       "location": "New York, NY, United States"
     },
     {
+      "name": "hiSofi",
+      "domain": "hisofi.com",
+      "desc": "The product is a digital platform for debt collection that leverages artificial intelligence to enhance negotiation processes and customer interactions across multiple communication channels. It employs predictive intell",
+      "stage": "SEED",
+      "last_amount": 1000000.0,
+      "total": 1678766.0,
+      "investors": [
+        "Google for Startups",
+        "Sororitê",
+        "Anjos do Brasil",
+        "ANII"
+      ],
+      "location": "Miami, Florida"
+    },
+    {
       "name": "Platter",
       "domain": "weareplatter.com",
       "desc": "The main product is a B2B SaaS platform designed for the wholesale food sector, providing digital solutions for order management, invoicing, and purchase order processes, while integrating with existing ERP and accountin",
@@ -362,21 +364,6 @@
         "Toby Webber"
       ],
       "location": "London"
-    },
-    {
-      "name": "hiSofi",
-      "domain": "hisofi.com",
-      "desc": "The product is a digital platform for debt collection that leverages artificial intelligence to enhance negotiation processes and customer interactions across multiple communication channels. It employs predictive intell",
-      "stage": "PRE_SEED",
-      "last_amount": 1000000.0,
-      "total": 1678766.0,
-      "investors": [
-        "Google for Startups",
-        "Sororitê",
-        "Anjos do Brasil",
-        "ANII"
-      ],
-      "location": "Miami, Florida"
     },
     {
       "name": "Cobi",
@@ -393,16 +380,19 @@
       "location": "Dubai"
     },
     {
-      "name": "Forward",
-      "domain": "useforward.co",
-      "desc": "We standardise dispersed borrower financials into structured deal proposals: saving time and generating more revenue for both debt advisors and private credit funds.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "Genera",
+      "domain": "genera.sh",
+      "desc": "Genera is an AI-driven platform, that specializes in managing autonomous and hybrid human-AI processes across multiple industries such as marketing, sales, education, and healthcare. The platform allows organizations to ",
+      "stage": "SEED",
+      "last_amount": 10000000.0,
+      "total": 10000000.0,
       "investors": [
-        "Y Combinator"
+        "Success Venture Partners",
+        "First Round Capital",
+        "WndrCo",
+        "BoxGroup"
       ],
-      "location": "San Francisco, California"
+      "location": "Plantation, Florida"
     },
     {
       "name": "Monty Mobile",
@@ -417,22 +407,10 @@
       "location": "London, England, United Kingdom"
     },
     {
-      "name": "herdr",
-      "domain": "herdr.dev",
-      "desc": "Herdr is the runtime your coding agents live on. It holds real terminals open on your laptop, your desktop or a box you rent, so the work survives the lid closing — and you can attach again from anything with a keyboard.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
       "name": "FreightFox",
       "domain": "freightfox.ai",
       "desc": "FreightFox provides a cloud-based transportation management platform that enhances freight procurement, management, and deployment for large supply chain operators through the use of predictive insights and real-time ana",
-      "stage": "SERIES_A",
+      "stage": "SEED",
       "last_amount": 524200.0,
       "total": 1424200.0,
       "investors": [
@@ -454,21 +432,9 @@
         "Samsung Venture Investment",
         "NAVER D2SF",
         "OurCrowd",
-        "IMM Investment Corp."
+        "CJ Investment Inc."
       ],
       "location": "Seongnam, Gyeonggi"
-    },
-    {
-      "name": "Netrin",
-      "domain": "netrin.com.br",
-      "desc": "Netrin offers automated solutions and APIs for compliance and third-party risk management, focusing on the verification of customers and transactions through data intelligence and automated queries. The technology integr",
-      "stage": "SEED",
-      "last_amount": 5090000.0,
-      "total": 7090000.0,
-      "investors": [
-        "Meta"
-      ],
-      "location": "Curitiba, Paraná"
     },
     {
       "name": "Telamont",
@@ -483,6 +449,21 @@
       "location": "Québec, Québec"
     },
     {
+      "name": "ume - #1 fund distribution due diligence platform",
+      "domain": "ume.solutions",
+      "desc": "The platform automates the due diligence process for fund distributors by standardizing questionnaires and employing data analytics to ensure compliance with legal and regulatory standards. It also supports secure inform",
+      "stage": "",
+      "last_amount": 96211500.0,
+      "total": 123446050.0,
+      "investors": [
+        "Itaú Unibanco",
+        "Luxinnovation GIE",
+        "Banco Bradesco",
+        "Real-World Asset Summit"
+      ],
+      "location": "Luxembourg, Luxembourg"
+    },
+    {
       "name": "Fabulate",
       "domain": "fabulate.com.au",
       "desc": "The company provides a comprehensive platform for managing influencer marketing campaigns, integrating tools for creator discovery, outreach, workflow management, and performance analytics. It utilizes advanced technolog",
@@ -494,21 +475,6 @@
         "Centerstone Capital"
       ],
       "location": "Sydney, New South Wales"
-    },
-    {
-      "name": "Marsdy",
-      "domain": "marsdy.jp",
-      "desc": "Marsdy provides a numerical management solution that integrates robotic automation with manual processes to enhance the management of sales, marketing, and financial data typically handled in Excel. The service utilizes ",
-      "stage": "SERIES_A",
-      "last_amount": 6680000.0,
-      "total": 9150000.0,
-      "investors": [
-        "Gazelle Capital",
-        "Mitsubishi UFJ Capital Co.,Ltd.",
-        "Femto Partners",
-        "RICOH Innovation Fund"
-      ],
-      "location": "Sumitomo Fudosan Shibakoen Tower, 2-11-1 Shibakoen, 16th Floor, Minato-ku, Tokyo, 105-0011, Japan"
     },
     {
       "name": "Datapile.co | Page For Founders",
@@ -528,7 +494,7 @@
     {
       "name": "Kalpi",
       "domain": "kalpi.ai",
-      "desc": "Kalpi offers a platform for building, backtesting, and investing in rule-based stock portfolios, utilizing a no-code strategy builder that allows users to create custom investment strategies or select from pre-designed t",
+      "desc": "Kalpi offers a platform for building, backtesting, and managing rule-based stock portfolios, utilizing a no-code strategy builder that supports both custom and pre-designed templates. The technology includes features for",
       "stage": "SEED",
       "last_amount": 0,
       "total": 388350.0,
@@ -548,21 +514,6 @@
         "Oakvale Invest"
       ],
       "location": "Cape Town"
-    },
-    {
-      "name": "Genera",
-      "domain": "genera.sh",
-      "desc": "Genera is an AI-driven platform, that specializes in managing autonomous and hybrid human-AI processes across multiple industries such as marketing, sales, education, and healthcare. The platform allows organizations to ",
-      "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "Success Venture Partners",
-        "First Round Capital",
-        "WndrCo",
-        "BoxGroup"
-      ],
-      "location": "Plantation, Florida"
     },
     {
       "name": "Kaleta Labs",
