@@ -2278,5 +2278,30 @@
     "theme": "Data infrastructure",
     "domain": "",
     "clean": "Pathway"
+  },
+  "graas": {
+    "theme": "Logistics & supply chain",
+    "domain": "",
+    "clean": "graas"
+  },
+  "narangeneraltradingcollc": {
+    "theme": "Fintech & payments",
+    "domain": "",
+    "clean": "Naran General Trading Co LLC"
+  },
+  "claritysystems": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Clarity Systems"
+  },
+  "sterling": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Sterling"
+  },
+  "dentalcall": {
+    "theme": "Healthcare & bio AI",
+    "domain": "",
+    "clean": "Dentalcall"
   }
 }

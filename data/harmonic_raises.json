@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-14",
+  "generated": "2026-08-15",
   "mode": "full",
-  "count": 37,
+  "count": 39,
   "companies": [
-    {
-      "name": "Harvey",
-      "domain": "harvey.ai",
-      "desc": "The main product is an AI platform tailored for legal professionals, facilitating efficient workflow management, document analysis, and legal research through domain-specific capabilities. It employs large language model",
-      "stage": "SERIES_G",
-      "last_amount": 0,
-      "total": 1224559173.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Inertia Ventures",
-        "Conviction",
-        "EQT Group"
-      ],
-      "location": "San Francisco, California, US"
-    },
     {
       "name": "ModelML (YC W24)",
       "domain": "modelml.com",
@@ -32,6 +17,21 @@
         "LocalGlobe"
       ],
       "location": "New York, NY"
+    },
+    {
+      "name": "Hadrian",
+      "domain": "hadrian.co",
+      "desc": "Hadrian specializes in precision manufacturing, utilizing its AI-powered platform, Opus, to automate production and inspection processes, thereby enhancing operational efficiency and throughput. The company offers flexib",
+      "stage": "SERIES_D",
+      "last_amount": 360000000.0,
+      "total": 2338807594.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Morgan Stanley",
+        "Baillie Gifford",
+        "XYZ Venture Capital"
+      ],
+      "location": "Los Angeles, CA"
     },
     {
       "name": "CodeRabbit",
@@ -124,21 +124,6 @@
       "location": "Arlington, Virginia"
     },
     {
-      "name": "Blaze.tech",
-      "domain": "blaze.tech",
-      "desc": "Blaze is a no-code platform that enables healthcare organizations to create HIPAA-compliant applications through a visual drag-and-drop interface, facilitating integration with various APIs and data sources, including FH",
-      "stage": "PRE_SEED",
-      "last_amount": 5000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "Socially Financed",
-        "Flybridge",
-        "Sangha Capital SA",
-        "The K Funds"
-      ],
-      "location": "Los Angeles"
-    },
-    {
       "name": "Corma",
       "domain": "corma.io",
       "desc": "Corma provides a SaaS platform focused on license and access governance, automating user provisioning and centralizing application access while enhancing visibility into software usage. The platform utilizes proprietary ",
@@ -154,6 +139,36 @@
       "location": "Paris"
     },
     {
+      "name": "Blaze.tech",
+      "domain": "blaze.tech",
+      "desc": "Blaze is a no-code platform that enables healthcare organizations to create HIPAA-compliant applications through a visual drag-and-drop interface, facilitating integration with various APIs and data sources, including FH",
+      "stage": "PRE_SEED",
+      "last_amount": 5000000.0,
+      "total": 10000000.0,
+      "investors": [
+        "Socially Financed",
+        "Flybridge",
+        "Sangha Capital SA",
+        "The K Funds"
+      ],
+      "location": "Los Angeles"
+    },
+    {
+      "name": "Pathway",
+      "domain": "pathway.com",
+      "desc": "The main product is a data processing framework that facilitates real-time analytics and the development of live AI systems, leveraging a high-performance Rust engine to efficiently manage both structured and unstructure",
+      "stage": "SEED",
+      "last_amount": 30000000.0,
+      "total": 171730000.0,
+      "investors": [
+        "Market One Capital",
+        "Id4 ventures",
+        "Inovo.vc",
+        "TQ Ventures"
+      ],
+      "location": "Palo Alto, California"
+    },
+    {
       "name": "Ploid",
       "domain": "ploid.com",
       "desc": "Ploid provides an AI-driven platform that facilitates the recruiting process by allowing users to search, enrich, and construct candidate profiles through natural language queries. The technology employs advanced algorit",
@@ -165,21 +180,6 @@
         "Founders, Inc."
       ],
       "location": "New York, New York"
-    },
-    {
-      "name": "Pathway",
-      "domain": "pathway.com",
-      "desc": "The main product is a data processing framework that facilitates real-time analytics and the development of live AI systems, leveraging a high-performance Rust engine to efficiently manage both structured and unstructure",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 141730000.0,
-      "investors": [
-        "Market One Capital",
-        "Id4 ventures",
-        "Inovo.vc",
-        "TQ Ventures"
-      ],
-      "location": "Palo Alto, California"
     },
     {
       "name": "VibeIQ",
@@ -310,6 +310,21 @@
       "location": "Stockholm"
     },
     {
+      "name": "Dentalcall",
+      "domain": "dentalcall.kr",
+      "desc": "The main product is an AI phone coordinator designed for dental practices, automating patient interactions such as appointment scheduling and follow-up communications while integrating with electronic medical records (EM",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 67800.0,
+      "investors": [
+        "TAIL Ventures",
+        "CNTTECH CO., LTD.",
+        "Antler - Korea",
+        "AI Angel Club"
+      ],
+      "location": "New York, New York"
+    },
+    {
       "name": "Legio Software",
       "domain": "getlegio.com",
       "desc": "Legio — Safety & Security Operations Platform Safety and security teams spend an estimated 30–40% of officer time on documentation, reporting, and compliance work that follows every safety event. Legio is built to elimin",
@@ -352,20 +367,6 @@
       "location": "Miami, Florida"
     },
     {
-      "name": "Platter",
-      "domain": "weareplatter.com",
-      "desc": "The main product is a B2B SaaS platform designed for the wholesale food sector, providing digital solutions for order management, invoicing, and purchase order processes, while integrating with existing ERP and accountin",
-      "stage": "PRE_SEED",
-      "last_amount": 0,
-      "total": 566116.0,
-      "investors": [
-        "Verb Ventures",
-        "Startup Wise Guys",
-        "Toby Webber"
-      ],
-      "location": "London"
-    },
-    {
       "name": "Cobi",
       "domain": "hellocobi.com",
       "desc": "Cobi is a personal finance application that utilizes artificial intelligence to analyze user spending patterns, facilitating effective budgeting and personalized saving strategies. The platform incorporates real-time ana",
@@ -378,6 +379,21 @@
         "Lunara Partners"
       ],
       "location": "Dubai"
+    },
+    {
+      "name": "Clarity Systems",
+      "domain": "claritysystems.ai",
+      "desc": "The primary offering is a system that focuses on real-time fraud prevention, defect detection, and comprehensive data capture, employing advanced technologies for effective monitoring and analysis. It is designed to mana",
+      "stage": "SEED",
+      "last_amount": 4400000.0,
+      "total": 4400000.0,
+      "investors": [
+        "Regeneration.VC",
+        "LMNT Ventures",
+        "Humba Ventures",
+        "Massive Tech Ventures"
+      ],
+      "location": "Flagstaff, AZ"
     },
     {
       "name": "Genera",
@@ -393,6 +409,21 @@
         "BoxGroup"
       ],
       "location": "Plantation, Florida"
+    },
+    {
+      "name": "graas",
+      "domain": "graas.ai",
+      "desc": "Graas offers a platform for eCommerce that utilizes predictive AI and machine learning to analyze and integrate data across various operational areas, such as storefronts, advertising, inventory, and fulfillment. This te",
+      "stage": "SERIES_B",
+      "last_amount": 17000000.0,
+      "total": 66000000.0,
+      "investors": [
+        "ORZON Ventures",
+        "FORS Capital Partners",
+        "InCred Wealth",
+        "Tin Men Capital"
+      ],
+      "location": "Outram, Singapore"
     },
     {
       "name": "Monty Mobile",
@@ -504,26 +535,30 @@
       "location": ""
     },
     {
-      "name": "Tennsa",
-      "domain": "tennsa.com",
-      "desc": "Most growing businesses don't have a data problem. They have a coherence problem. Operational information lives in fragments - accounting in one tool, inventory in another, customer relationships in a third, communicatio",
-      "stage": "PRE_SEED",
-      "last_amount": 61000.0,
-      "total": 61000.0,
+      "name": "Sterling",
+      "domain": "histerling.com",
+      "desc": "The main product is an AI-driven accounting assistant that automates financial processes such as accounts payable, accounts receivable, payroll, and reconciliations, while seamlessly integrating with existing financial s",
+      "stage": "SEED",
+      "last_amount": 2226735.0,
+      "total": 2226735.0,
       "investors": [
-        "Oakvale Invest"
+        "Blackbird",
+        "Eliot Crowther",
+        "Rowan Simpson"
       ],
-      "location": "Cape Town"
+      "location": "Wellington"
     },
     {
-      "name": "Kaleta Labs",
-      "domain": "kaletalabs.com",
-      "desc": "Kaleta Labs LLC is an independent software company.",
-      "stage": "",
-      "last_amount": 100000.0,
-      "total": 100000.0,
-      "investors": [],
-      "location": "1629 Cardinal Lane, Round Rock, TX 78681, United States"
+      "name": "Naran General Trading Co LLC",
+      "domain": "naran-group.com",
+      "desc": "Naran is a renowned diversified service providing company that is internationally acclaimed for its quality output to the suppliers and customers. The impact of the company is strong in the deep business regions such as ",
+      "stage": "SEED",
+      "last_amount": 10000000.0,
+      "total": 10000000.0,
+      "investors": [
+        "Landel"
+      ],
+      "location": "Dubai, Dubai"
     }
   ]
 }
