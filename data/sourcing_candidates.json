@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-15",
+  "generated": "2026-08-16",
   "window_days": 45,
   "counts": {
     "actionable": 4,
-    "watchlist": 20,
+    "watchlist": 18,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -88,6 +88,23 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "Lightfield",
+      "desc": "Legal AI",
+      "theme": "Precision Applications",
+      "vertical": "Legal",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-16",
+      "link": "https://trylightfield.ai",
+      "domain": "lightfieldlab.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Naran General Trading Co LLC",
       "desc": "Fintech & payments",
@@ -310,40 +327,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Saudi AIoT Startup Rime",
-      "desc": "Saudi AIoT Startup Rime Raises $2 Million Seed Round",
-      "theme": "Edge Computing",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 2,
-      "investors": [],
-      "date": "2026-08-05",
-      "link": "https://cairoscene.com/Business/Saudi-AIoT-Startup-Rime-Raises-2-Million-Seed-Round",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Freehand",
-      "desc": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies",
-      "theme": "Precision Applications",
-      "vertical": "Supply Chain",
-      "stage": "Venture",
-      "amount_m": 75,
-      "investors": [],
-      "date": "2026-07-29",
-      "link": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/freehand-raises-75m-to-scale-ai-teams-managing-supply-chain-spend-for-fortune-500-companies/2394083",
-      "domain": "freehandhotels.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "MarginEdge",
       "desc": "Logistics & supply chain",
       "theme": "Precision Applications",
@@ -374,23 +357,6 @@
       "tier": "watchlist",
       "fit_reason": "Series A — track for the next round",
       "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Hadrius",
-      "desc": "Hadrius raises USD $27 million to boost AI compliance",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Venture",
-      "amount_m": 27,
-      "investors": [],
-      "date": "2026-07-20",
-      "link": "https://itbrief.co.nz/story/hadrius-raises-usd-27-million-to-boost-ai-compliance",
-      "domain": "hadrius.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },

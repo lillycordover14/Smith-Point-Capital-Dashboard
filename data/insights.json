@@ -1,24 +1,51 @@
 {
-  "generated": "2026-08-15",
+  "generated": "2026-08-16",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 79,
-    "total_cap_m": 13369,
-    "early_cap_m": 2482,
+    "total_cap_m": 13316,
+    "early_cap_m": 2431,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 34,
-      "Series A": 42,
+      "Seed": 35,
+      "Series A": 41,
       "Series B": 21,
       "Series C": 10,
       "Series D": 4,
-      "Venture": 77
+      "Venture": 76
     }
   },
   "raises": [
+    {
+      "company": "Calico AI",
+      "amount_m": 15,
+      "date": "2026-08-16",
+      "link": "https://calicoai.com",
+      "investors": [],
+      "theme": "Marketing & creative AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "DiscreteStack",
+      "amount_m": 1,
+      "date": "2026-08-16",
+      "link": "https://discretestack.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Lightfield",
+      "amount_m": null,
+      "date": "2026-08-16",
+      "link": "https://trylightfield.ai",
+      "investors": [],
+      "theme": "Legal AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "graas",
       "amount_m": 17,
@@ -2182,41 +2209,6 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
-    },
-    {
-      "company": "Picogrid",
-      "amount_m": 45,
-      "date": "2026-05-29",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVnFfcDZvZWlqSWJzejN0QldLUnBZdXh6N0dMWlpyNXdvRlpSRW9rcGlxcnYwaDlzM2N1OEZkU1duVWozb0FKVnRfWk44S3BkVkhMb2t2RThKb3YteGV0TXF5amJsTUFEUnEwdXpSckpSMUVqLUw1VGxYZ0ZRampQNVdZRl9CLW5uMHBycUlFb2tOdnFwQjdIY3Y3UVdsWUk5SkhyYWU3RW5fTU54aVFmU0tFVEdaQXVIYm83RWRYa2RyNUM3OEEzVDBrY19iTFVvdzYtM05ZcTQ1eU9QaVAtdnBRSlFHUXBJSWow?oc=5",
-      "investors": [
-        "Bessemer",
-        "Initialized Capital"
-      ],
-      "theme": "Defense & national security",
-      "stage": "Series A"
-    },
-    {
-      "company": "LightTable",
-      "amount_m": 22,
-      "date": "2026-05-29",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2Q3X0cyeXZreDh2ZDhRUFJYVE95YktKSWJYbWc2bHEwODBheFJRcG5QX09kXzVVYlhVUGhha2owNmVWeVd2c2lHUEdPaGZkM3BMdGhfM1FJM2FoelAwMl9meEVSZ0xYdXVVTGtvemtpTWc3WGpsbXM3Q243TVB4YkN1d2c?oc=5",
-      "investors": [
-        "Blackhorn Ventures",
-        "Primary Venture Partners"
-      ],
-      "theme": "Vertical SaaS",
-      "stage": "Series A"
-    },
-    {
-      "company": "Fragrance Tech Company Patina",
-      "amount_m": 2,
-      "date": "2026-05-29",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdmJXbkJERlMtbXNQLXVsQXc1UXNCYXRORVRkaUZxQjlBaFNEZ0hFUGJkelZicDA0aTBFVzlGaGVNRWI2WENrNTdjQnczcDJ1VVpSUEhHYktmcHNBSThGQjZDRzlVWXZGNWtRaFNnQzdKTnZ3aGJxY3JZMDI3ZVJTbTlMa2stSEE?oc=5",
-      "investors": [
-        "True Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
     }
   ],
   "themes": [
@@ -2224,12 +2216,12 @@
       "theme": "Applied / horizontal AI",
       "count": 116,
       "examples": [
+        "DiscreteStack",
         "Clarity Systems",
         "CodeRabbit",
         "Monty Mobile",
         "Datapile.co",
-        "hiSofi",
-        "Lace"
+        "hiSofi"
       ]
     },
     {
@@ -2304,6 +2296,16 @@
       ]
     },
     {
+      "theme": "Legal AI",
+      "count": 4,
+      "examples": [
+        "Lightfield",
+        "Aloi",
+        "Telamont",
+        "Sandstone"
+      ]
+    },
+    {
       "theme": "Logistics & supply chain",
       "count": 4,
       "examples": [
@@ -2324,16 +2326,6 @@
       ]
     },
     {
-      "theme": "Vertical SaaS",
-      "count": 4,
-      "examples": [
-        "Edgify",
-        "Agave",
-        "Scotch",
-        "LightTable"
-      ]
-    },
-    {
       "theme": "Cybersecurity",
       "count": 4,
       "examples": [
@@ -2344,12 +2336,12 @@
       ]
     },
     {
-      "theme": "Legal AI",
+      "theme": "Vertical SaaS",
       "count": 3,
       "examples": [
-        "Aloi",
-        "Telamont",
-        "Sandstone"
+        "Edgify",
+        "Agave",
+        "Scotch"
       ]
     },
     {
@@ -2377,11 +2369,10 @@
       ]
     },
     {
-      "theme": "Defense & national security",
-      "count": 2,
+      "theme": "Marketing & creative AI",
+      "count": 1,
       "examples": [
-        "STARK",
-        "Picogrid"
+        "Calico AI"
       ]
     },
     {
@@ -2389,6 +2380,13 @@
       "count": 1,
       "examples": [
         "Sterling"
+      ]
+    },
+    {
+      "theme": "Defense & national security",
+      "count": 1,
+      "examples": [
+        "STARK"
       ]
     },
     {
@@ -2403,14 +2401,14 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 116,
-      "cap_m": 7322,
+      "cap_m": 7321,
       "examples": [
+        "DiscreteStack",
         "Clarity Systems",
         "CodeRabbit",
         "Monty Mobile",
         "Datapile.co",
-        "hiSofi",
-        "Lace"
+        "hiSofi"
       ],
       "top_stage": "Venture"
     },
@@ -2498,6 +2496,18 @@
       "top_stage": "Series A"
     },
     {
+      "theme": "Legal AI",
+      "count": 4,
+      "cap_m": 37,
+      "examples": [
+        "Lightfield",
+        "Aloi",
+        "Telamont",
+        "Sandstone"
+      ],
+      "top_stage": "Pre Seed"
+    },
+    {
       "theme": "Logistics & supply chain",
       "count": 4,
       "cap_m": 98,
@@ -2522,18 +2532,6 @@
       "top_stage": "Seed"
     },
     {
-      "theme": "Vertical SaaS",
-      "count": 4,
-      "cap_m": 66,
-      "examples": [
-        "Edgify",
-        "Agave",
-        "Scotch",
-        "LightTable"
-      ],
-      "top_stage": "Series A"
-    },
-    {
       "theme": "Cybersecurity",
       "count": 4,
       "cap_m": 165,
@@ -2546,15 +2544,15 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "Legal AI",
+      "theme": "Vertical SaaS",
       "count": 3,
-      "cap_m": 37,
+      "cap_m": 44,
       "examples": [
-        "Aloi",
-        "Telamont",
-        "Sandstone"
+        "Edgify",
+        "Agave",
+        "Scotch"
       ],
-      "top_stage": "Seed"
+      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3562,7 +3560,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-07-25",
+    "since": "2026-07-26",
     "tw": [
       {
         "name": "Logistics & supply chain",
@@ -3576,13 +3574,18 @@
       },
       {
         "name": "Healthcare & bio AI",
-        "delta": 1,
+        "delta": 2,
         "now": 19
       },
       {
         "name": "Data infrastructure",
         "delta": 1,
         "now": 4
+      },
+      {
+        "name": "Marketing & creative AI",
+        "delta": 1,
+        "now": 1
       },
       {
         "name": "Financial back-office & compliance AI",
@@ -3600,22 +3603,17 @@
         "now": 6
       },
       {
+        "name": "Legal AI",
+        "delta": 0,
+        "now": 4
+      },
+      {
         "name": "HR & workforce",
         "delta": 0,
         "now": 2
       },
       {
-        "name": "AI compute & models",
-        "delta": 0,
-        "now": 2
-      },
-      {
         "name": "Agent-native infra",
-        "delta": 0,
-        "now": 2
-      },
-      {
-        "name": "Defense & national security",
         "delta": 0,
         "now": 2
       },
@@ -3640,9 +3638,14 @@
         "now": 4
       },
       {
-        "name": "Legal AI",
+        "name": "AI compute & models",
         "delta": -1,
-        "now": 3
+        "now": 2
+      },
+      {
+        "name": "Defense & national security",
+        "delta": -1,
+        "now": 1
       },
       {
         "name": "AI dev tooling",
@@ -3651,8 +3654,8 @@
       },
       {
         "name": "Vertical SaaS",
-        "delta": -2,
-        "now": 4
+        "delta": -3,
+        "now": 3
       }
     ]
   }

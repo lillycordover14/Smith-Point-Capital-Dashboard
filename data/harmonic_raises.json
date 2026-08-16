@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-15",
+  "generated": "2026-08-16",
   "mode": "full",
-  "count": 39,
+  "count": 42,
   "companies": [
     {
       "name": "ModelML (YC W24)",
@@ -24,7 +24,7 @@
       "desc": "Hadrian specializes in precision manufacturing, utilizing its AI-powered platform, Opus, to automate production and inspection processes, thereby enhancing operational efficiency and throughput. The company offers flexib",
       "stage": "SERIES_D",
       "last_amount": 360000000.0,
-      "total": 2338807594.0,
+      "total": 2228807594.0,
       "investors": [
         "Andreessen Horowitz",
         "Morgan Stanley",
@@ -255,6 +255,21 @@
       "location": "Copenhagen, Capital Region of Denmark"
     },
     {
+      "name": "Calico AI",
+      "domain": "calicoai.com",
+      "desc": "Calico offers a supply chain management platform tailored for fashion brands, utilizing AI-driven workflows to streamline production processes and enhance operational efficiency. Key features include automated lead time ",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 17150000.0,
+      "investors": [
+        "Inovia Capital",
+        "Wittington Ventures",
+        "Serena Ventures",
+        "Forum Ventures"
+      ],
+      "location": "169 Gore Vale Avenue, Toronto, Ontario M6J 2R5, Canada"
+    },
+    {
       "name": "River",
       "domain": "rivereditor.com",
       "desc": "River is an AI-driven workspace that enables real-time collaboration by integrating directly with users' documents and tools, allowing for seamless drafting and editing without manual data transfer. It utilizes advanced ",
@@ -320,7 +335,7 @@
         "TAIL Ventures",
         "CNTTECH CO., LTD.",
         "Antler - Korea",
-        "AI Angel Club"
+        "AI엔젤클럽"
       ],
       "location": "New York, New York"
     },
@@ -337,19 +352,18 @@
       "location": "Toronto, Ontario"
     },
     {
-      "name": "Astraeus",
-      "domain": "astraeuswealth.com",
-      "desc": "Astraeus offers an AI-native infrastructure that integrates data, compliance, and decision-making processes within wealth management firms, effectively addressing the issues caused by fragmented systems. This architectur",
+      "name": "Sterling",
+      "domain": "histerling.com",
+      "desc": "The main product is an AI-driven accounting assistant that automates financial processes such as accounts payable, accounts receivable, payroll, and reconciliations, while seamlessly integrating with existing financial s",
       "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
+      "last_amount": 2226735.0,
+      "total": 2238960.0,
       "investors": [
-        "Plug and Play",
-        "FinTech Collective",
-        "Walkabout Ventures",
-        "F-Prime"
+        "Blackbird",
+        "Eliot Crowther",
+        "Rowan Simpson"
       ],
-      "location": "New York, NY, United States"
+      "location": "Wellington"
     },
     {
       "name": "hiSofi",
@@ -365,6 +379,21 @@
         "ANII"
       ],
       "location": "Miami, Florida"
+    },
+    {
+      "name": "Astraeus",
+      "domain": "astraeuswealth.com",
+      "desc": "Astraeus offers an AI-native infrastructure that integrates data, compliance, and decision-making processes within wealth management firms, effectively addressing the issues caused by fragmented systems. This architectur",
+      "stage": "SEED",
+      "last_amount": 10000000.0,
+      "total": 10000000.0,
+      "investors": [
+        "Plug and Play",
+        "FinTech Collective",
+        "Walkabout Ventures",
+        "F-Prime"
+      ],
+      "location": "New York, NY, United States"
     },
     {
       "name": "Cobi",
@@ -424,6 +453,19 @@
         "Tin Men Capital"
       ],
       "location": "Outram, Singapore"
+    },
+    {
+      "name": "Fabulate",
+      "domain": "fabulate.com.au",
+      "desc": "The company provides a comprehensive platform for managing influencer marketing campaigns, integrating tools for creator discovery, outreach, workflow management, and performance analytics. It utilizes advanced technolog",
+      "stage": "SEED",
+      "last_amount": 4500000.0,
+      "total": 7380000.0,
+      "investors": [
+        "Nightingale Partners",
+        "Centerstone Capital"
+      ],
+      "location": "Sydney, New South Wales"
     },
     {
       "name": "Monty Mobile",
@@ -495,19 +537,6 @@
       "location": "Luxembourg, Luxembourg"
     },
     {
-      "name": "Fabulate",
-      "domain": "fabulate.com.au",
-      "desc": "The company provides a comprehensive platform for managing influencer marketing campaigns, integrating tools for creator discovery, outreach, workflow management, and performance analytics. It utilizes advanced technolog",
-      "stage": "SEED",
-      "last_amount": 4500000.0,
-      "total": 7380000.0,
-      "investors": [
-        "Nightingale Partners",
-        "Centerstone Capital"
-      ],
-      "location": "Sydney, New South Wales"
-    },
-    {
       "name": "Datapile.co | Page For Founders",
       "domain": "datapile.co",
       "desc": "The main product is a database platform that provides detailed contact information for over 100,000 venture capital and angel investors, aimed at streamlining the fundraising process for startups. It employs advanced sea",
@@ -535,18 +564,16 @@
       "location": ""
     },
     {
-      "name": "Sterling",
-      "domain": "histerling.com",
-      "desc": "The main product is an AI-driven accounting assistant that automates financial processes such as accounts payable, accounts receivable, payroll, and reconciliations, while seamlessly integrating with existing financial s",
-      "stage": "SEED",
-      "last_amount": 2226735.0,
-      "total": 2226735.0,
+      "name": "Lightfield",
+      "domain": "trylightfield.ai",
+      "desc": "Lightfield is an AI-powered legal intake and triage platform built for solo GCs and small in-house legal teams. Legal requests arrive over Slack, email, and everywhere in between. Lightfield captures every request, triag",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "Blackbird",
-        "Eliot Crowther",
-        "Rowan Simpson"
+        "Y Combinator"
       ],
-      "location": "Wellington"
+      "location": "San Francisco, California"
     },
     {
       "name": "Naran General Trading Co LLC",
@@ -559,6 +586,20 @@
         "Landel"
       ],
       "location": "Dubai, Dubai"
+    },
+    {
+      "name": "DiscreteStack",
+      "domain": "discretestack.com",
+      "desc": "DiscreteStack provides a private AI operating system that enables enterprises to deploy AI on their own infrastructure, ensuring data remains on-premises. The technology features a single-server architecture optimized fo",
+      "stage": "SEED",
+      "last_amount": 925386.0,
+      "total": 925386.0,
+      "investors": [
+        "CleverPine Ventures",
+        "Milen Manev",
+        "Stoil Vasilev"
+      ],
+      "location": ""
     }
   ]
 }
