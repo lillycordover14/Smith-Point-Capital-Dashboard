@@ -2318,5 +2318,45 @@
     "theme": "Legal AI",
     "domain": "",
     "clean": "Lightfield"
+  },
+  "fabricos": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "fabricOS"
+  },
+  "rebuild": {
+    "theme": "Insurance / insurtech",
+    "domain": "",
+    "clean": "Rebuild"
+  },
+  "north": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "North"
+  },
+  "sant": {
+    "theme": "Logistics & supply chain",
+    "domain": "",
+    "clean": "Santé"
+  },
+  "rapidflare": {
+    "theme": "Applied AI agents",
+    "domain": "",
+    "clean": "Rapidflare"
+  },
+  "vincue": {
+    "theme": "Data infrastructure",
+    "domain": "",
+    "clean": "VINCUE"
+  },
+  "valis": {
+    "theme": "Data infrastructure",
+    "domain": "",
+    "clean": "VALIS"
+  },
+  "tessact": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Tessact"
   }
 }

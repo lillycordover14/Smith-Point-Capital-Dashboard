@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-16",
+  "generated": "2026-08-17",
   "mode": "full",
-  "count": 42,
+  "count": 50,
   "companies": [
     {
       "name": "ModelML (YC W24)",
@@ -109,6 +109,50 @@
       "location": "London, England"
     },
     {
+      "name": "Rebuild",
+      "domain": "rebuild.work",
+      "desc": "The main product is an AI-driven estimating tool that automates damage assessments for restoration projects, generating accurate, insurance-compliant estimates in minutes. It utilizes machine learning algorithms to analy",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 2094999.0,
+      "investors": [
+        "Gutter Capital",
+        "25madison",
+        "Green Egg Ventures"
+      ],
+      "location": "New York, NY"
+    },
+    {
+      "name": "North",
+      "domain": "north.cloud",
+      "desc": "The main product is a cloud cost optimization platform that utilizes AI to automate financial operations, offering real-time cost reporting and identifying savings opportunities across cloud services like AWS and GCP. Ke",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 5000000.0,
+      "investors": [
+        "Looking Glass Capital",
+        "Companyon Ventures",
+        "Navigate Ventures",
+        "Alpaca VC"
+      ],
+      "location": "Brooklyn, New York"
+    },
+    {
+      "name": "Santé",
+      "domain": "santehq.com",
+      "desc": "Santé provides a point-of-sale system tailored for liquor stores, consolidating checkout, inventory management, eCommerce, and delivery services into a unified platform. The system utilizes real-time data updates and AI-",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 9600000.0,
+      "investors": [
+        "Y Combinator",
+        "Bonfire Ventures",
+        "Allison Allen",
+        "Coughdrop Capital"
+      ],
+      "location": "Flatiron, NYC"
+    },
+    {
       "name": "MarginEdge",
       "domain": "marginedge.com",
       "desc": "MarginEdge offers a restaurant management software platform that automates invoice processing, tracks inventory, and manages food costs, providing real-time insights into operational efficiency. The system integrates wit",
@@ -152,6 +196,21 @@
         "The K Funds"
       ],
       "location": "Los Angeles"
+    },
+    {
+      "name": "Rapidflare",
+      "domain": "rapidflare.ai",
+      "desc": "Rapidflare provides a generative AI platform that organizes technical knowledge into structured, task-specific AI agents aimed at improving B2B sales processes in the electronics industry. The technology utilizes knowled",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 2600000.0,
+      "investors": [
+        "500 Global",
+        "Struck Capital",
+        "Upekkha",
+        "z21 Ventures"
+      ],
+      "location": "San Jose, CA"
     },
     {
       "name": "Pathway",
@@ -210,6 +269,20 @@
       "location": "London, England"
     },
     {
+      "name": "VINCUE",
+      "domain": "vincue.com",
+      "desc": "VINCUE provides an automotive inventory management platform that focuses on vehicle lifecycle management, integrating operations for intelligent buying and market analytics. The platform employs real-time data and advanc",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 6160435.0,
+      "investors": [
+        "Cypress Growth Capital",
+        "Autotech Ventures",
+        "Automotive Ventures"
+      ],
+      "location": "Kansas City, Missouri"
+    },
+    {
       "name": "VISOID",
       "domain": "visoid.com",
       "desc": "Visoid offers architectural visualization software that utilizes AI technology for the rapid rendering of 3D models, enabling users to produce high-quality images efficiently. The software is compatible with various 3D d",
@@ -255,6 +328,21 @@
       "location": "Copenhagen, Capital Region of Denmark"
     },
     {
+      "name": "Dentalcall",
+      "domain": "dentalcall.kr",
+      "desc": "The main product is an AI phone coordinator designed for dental practices, automating patient interactions such as appointment scheduling and follow-up communications while integrating with electronic medical records (EM",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 67800.0,
+      "investors": [
+        "TAIL Ventures",
+        "CNTTECH CO., LTD.",
+        "Antler - Korea",
+        "AI엔젤클럽"
+      ],
+      "location": "New York, New York"
+    },
+    {
       "name": "Calico AI",
       "domain": "calicoai.com",
       "desc": "Calico offers a supply chain management platform tailored for fashion brands, utilizing AI-driven workflows to streamline production processes and enhance operational efficiency. Key features include automated lead time ",
@@ -280,6 +368,21 @@
         "Y Combinator"
       ],
       "location": "Palo Ato, California"
+    },
+    {
+      "name": "VALIS",
+      "domain": "valisinsights.com",
+      "desc": "The main product is a software solution that optimizes scrap metal sorting and enhances quality analysis in the recycling industry, utilizing AI-driven technology and data analytics to improve operational efficiency. It ",
+      "stage": "SEED",
+      "last_amount": 100000.0,
+      "total": 1080000.0,
+      "investors": [
+        "GS Futures",
+        "Worcester Polytechnic Institute",
+        "Closed Loop Partners",
+        "REFASHIOND Ventures: The Industrial Transformation Fund"
+      ],
+      "location": "Worcester, Massachusetts"
     },
     {
       "name": "Echovane",
@@ -323,21 +426,6 @@
         "Victor Jacobsson"
       ],
       "location": "Stockholm"
-    },
-    {
-      "name": "Dentalcall",
-      "domain": "dentalcall.kr",
-      "desc": "The main product is an AI phone coordinator designed for dental practices, automating patient interactions such as appointment scheduling and follow-up communications while integrating with electronic medical records (EM",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 67800.0,
-      "investors": [
-        "TAIL Ventures",
-        "CNTTECH CO., LTD.",
-        "Antler - Korea",
-        "AI엔젤클럽"
-      ],
-      "location": "New York, New York"
     },
     {
       "name": "Legio Software",
@@ -537,6 +625,30 @@
       "location": "Luxembourg, Luxembourg"
     },
     {
+      "name": "fabricOS",
+      "domain": "fabricos.com",
+      "desc": ".",
+      "stage": "SEED",
+      "last_amount": 3600000.0,
+      "total": 3600000.0,
+      "investors": [],
+      "location": "Los Angeles"
+    },
+    {
+      "name": "DiscreteStack",
+      "domain": "discretestack.com",
+      "desc": "DiscreteStack provides a private AI operating system that enables enterprises to deploy AI on their own infrastructure, ensuring data remains on-premises. The technology features a single-server architecture optimized fo",
+      "stage": "SEED",
+      "last_amount": 925386.0,
+      "total": 925386.0,
+      "investors": [
+        "CleverPine Ventures",
+        "Milen Manev",
+        "Stoil Vasilev"
+      ],
+      "location": ""
+    },
+    {
       "name": "Datapile.co | Page For Founders",
       "domain": "datapile.co",
       "desc": "The main product is a database platform that provides detailed contact information for over 100,000 venture capital and angel investors, aimed at streamlining the fundraising process for startups. It employs advanced sea",
@@ -576,6 +688,16 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Tessact",
+      "domain": "tessact.ai",
+      "desc": "Tessact provides a video creation platform that leverages artificial intelligence and machine learning to automate video editing and manage metadata, facilitating efficient content generation across various formats. The ",
+      "stage": "PRE_SEED",
+      "last_amount": 150000.0,
+      "total": 150000.0,
+      "investors": [],
+      "location": "Mumbai, Maharashtra"
+    },
+    {
       "name": "Naran General Trading Co LLC",
       "domain": "naran-group.com",
       "desc": "Naran is a renowned diversified service providing company that is internationally acclaimed for its quality output to the suppliers and customers. The impact of the company is strong in the deep business regions such as ",
@@ -586,20 +708,6 @@
         "Landel"
       ],
       "location": "Dubai, Dubai"
-    },
-    {
-      "name": "DiscreteStack",
-      "domain": "discretestack.com",
-      "desc": "DiscreteStack provides a private AI operating system that enables enterprises to deploy AI on their own infrastructure, ensuring data remains on-premises. The technology features a single-server architecture optimized fo",
-      "stage": "SEED",
-      "last_amount": 925386.0,
-      "total": 925386.0,
-      "investors": [
-        "CleverPine Ventures",
-        "Milen Manev",
-        "Stoil Vasilev"
-      ],
-      "location": ""
     }
   ]
 }

@@ -1,24 +1,96 @@
 {
-  "generated": "2026-08-16",
+  "generated": "2026-08-17",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 79,
-    "total_cap_m": 13316,
-    "early_cap_m": 2431,
+    "early_raises": 81,
+    "total_cap_m": 12793,
+    "early_cap_m": 2353,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 35,
-      "Series A": 41,
-      "Series B": 21,
+      "Seed": 38,
+      "Series A": 40,
+      "Series B": 20,
       "Series C": 10,
       "Series D": 4,
-      "Venture": 76
+      "Venture": 74
     }
   },
   "raises": [
+    {
+      "company": "fabricOS",
+      "amount_m": 4,
+      "date": "2026-08-17",
+      "link": "https://fabricos.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Rebuild",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://rebuild.work",
+      "investors": [],
+      "theme": "Insurance / insurtech",
+      "stage": "Seed"
+    },
+    {
+      "company": "North",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://north.cloud",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Santé",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://santehq.com",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Seed"
+    },
+    {
+      "company": "Rapidflare",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://rapidflare.ai",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Seed"
+    },
+    {
+      "company": "VINCUE",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://vincue.com",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Seed"
+    },
+    {
+      "company": "VALIS",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://valisinsights.com",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Seed"
+    },
+    {
+      "company": "Tessact",
+      "amount_m": null,
+      "date": "2026-08-17",
+      "link": "https://tessact.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Calico AI",
       "amount_m": 15,
@@ -2117,111 +2189,19 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Series C"
-    },
-    {
-      "company": "Board",
-      "amount_m": 20,
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPS29FemdzWFRKTHBlZzR3Zm5DLUJSZG8za3Y2MHY2M1VrX3pXc1RsOXZZc1VYSnlBTlROTzBHZWc4RlBBVDJlbnlCN3loWmFnd3FsUm52WGxndlVxSkdfN2R0Y0RneF9SRVNmSEFoR05meTZxZjhHZUdfY2NBSUw3YmhZWVRTSmpxaWNlaWtkNzRET0QxV3RpX3dJNzhZdnVjUkdwTy1yZnhIOWkzcnB2bzNMRGctX0NjZ1VaR2F0aldfbkYtcl9ZOE9mb0dpRFBKT1JkbXZ6Z1hWZTUxWTRtWHBJbkk4QnNoWU9wRVc2MnRyOXJnV1JvZnAwNUp4aXRQaXdVbFNGMzRrMi1xTjVDUmpYRXNTVG5s?oc=5",
-      "investors": [
-        "Mirror founder Brynn Putnam",
-        "Union Square - GlobeNewswire",
-        "Union Square Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Plot",
-      "amount_m": 10,
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZWV4Ymoxb2hPM3lUSGhNUFZGYVJubEtJWFVnV09ueGZWVFRtVEFiWkdnbUJWclVHNjlkTHlnNzRaMVJQZzNRU2UwblFPc3ZmbTFzd09SWVQ1alhqT0U0Tm51MWY5ZlZQUkdCWTFUcTc4bkRmN05r?oc=5",
-      "investors": [
-        "XYZ Venture Capital"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "DriveNets",
-      "amount_m": 410,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZjc0MzZfbXFOTklwWTVEQXdINEp0RzhyaHVPWm84aF9pQl9HYlQ3bFNnYlBkVEZfYjBkVDByWXkzYXBsSU5heEJFV3FlUU4zYXhKVW9odjI3ZUQ0YmdVN2RxMml5UHc?oc=5",
-      "investors": [
-        "Bessemer"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "Sekai",
-      "amount_m": 26,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RM05jb0RkbkRTZHM2TUItQ0JRQlM0UGZZQWNwQzdlWExmcWpydFc0dU5PWkVENFl0cDg5MlpmNkh3XzlYc3NycDhLdlR2VUtHNW11R2F1T3NBYTJrWlMyUUdZTzlwcW95cUxhcmZDa00?oc=5",
-      "investors": [
-        "Khosla Ventures",
-        "MVP Ventures",
-        "New Enterprise Associates"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Unastella",
-      "amount_m": 22,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dlJNMGFyWnVzREF0NDRkMHRjcWsyQXpGLWQ5ZERYblFjTjlEWWR1Ujc5bzNKZ2ozYS0tdGhOLTZBRWRmQV9iR2Z5NGwxMERUQWFBRFVjRlFqWTgzSmhsaQ?oc=5",
-      "investors": [
-        "Altos Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series B"
-    },
-    {
-      "company": "Waypoint Bio",
-      "amount_m": 20,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUHUzRUljQzlrQl9YLXNwNUllZkY3WUlLLVJZNm9CbmN5c3p2Ty1qbzk5UzNXcnpZZC1RZlhPM2JCV2pibGMzNDNwNmFUZGhscGJKUlBEWUJPVDA4blRkSldOZVBJeG5OZEJZSEFwM3RtS1h6Z3FLTjliZ0IzQUo5V19UVDEtdDdMTmN4ZFlNZTlReUJ1akF1SnhiY0ZGejNLQTBETnJuZjZFSFY4YjVXd1hIQ0dDZFZTZ3NBT3BGbjFHNzVLdk9TZTV5a2U3Wlg3VUpYOGlJbGxaeHJjQUpMR19EYWZ2dS1mNG1kakNteGJKa05TVTlpeEM3dVMtNm5rTHc?oc=5",
-      "investors": [
-        "Amplify"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Gradient Labs",
-      "amount_m": 13,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUnFGZ25KWDMxdnh4SkxCWmJKU3JfN0cxT3QtNmFkbWZPa0lSa1dYR3lBMUZSMjJHVWtNcV9pa1plc2wtbV9NdS15WW1ZV3lzNXd1cmdCYUQ1WEc4Z3VTamtaMFAxNUMxYWc?oc=5",
-      "investors": [
-        "Redpoint"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "SpeedLabs",
-      "amount_m": 6,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ1VPMjJrWUtZRmRTSkFZTkxGWmRaclVyR1FQd2JRbDZZWktSd0NGdnVFU3dOZHJGMzJZUEJoc2ROTTM3UUxERkd5Y2NuTTk5SnVEQnd3SXpiYXFyWTAwVEMxbHppbzJhOFI0OUNDNldVd1NEckwyUlZkZm5sQkE?oc=5",
-      "investors": [
-        "Bullpen Capital"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 116,
+      "count": 110,
       "examples": [
+        "fabricOS",
+        "Tessact",
         "DiscreteStack",
         "Clarity Systems",
         "CodeRabbit",
-        "Monty Mobile",
-        "Datapile.co",
-        "hiSofi"
+        "Monty Mobile"
       ]
     },
     {
@@ -2273,6 +2253,30 @@
       ]
     },
     {
+      "theme": "Applied AI agents",
+      "count": 6,
+      "examples": [
+        "Rapidflare",
+        "Fazeshift",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
+      ]
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 6,
+      "examples": [
+        "VINCUE",
+        "VALIS",
+        "ume",
+        "Pathway",
+        "Skan AI",
+        "Fabulate"
+      ]
+    },
+    {
       "theme": "Fintech & payments",
       "count": 6,
       "examples": [
@@ -2285,14 +2289,14 @@
       ]
     },
     {
-      "theme": "Applied AI agents",
+      "theme": "Logistics & supply chain",
       "count": 5,
       "examples": [
-        "Fazeshift",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
+        "Santé",
+        "graas",
+        "FreightFox",
+        "Tilla",
+        "MarginEdge"
       ]
     },
     {
@@ -2303,26 +2307,6 @@
         "Aloi",
         "Telamont",
         "Sandstone"
-      ]
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 4,
-      "examples": [
-        "graas",
-        "FreightFox",
-        "Tilla",
-        "MarginEdge"
-      ]
-    },
-    {
-      "theme": "Data infrastructure",
-      "count": 4,
-      "examples": [
-        "ume",
-        "Pathway",
-        "Skan AI",
-        "Fabulate"
       ]
     },
     {
@@ -2342,6 +2326,14 @@
         "Edgify",
         "Agave",
         "Scotch"
+      ]
+    },
+    {
+      "theme": "Financial back-office & compliance AI",
+      "count": 2,
+      "examples": [
+        "North",
+        "Sterling"
       ]
     },
     {
@@ -2369,17 +2361,17 @@
       ]
     },
     {
+      "theme": "Insurance / insurtech",
+      "count": 1,
+      "examples": [
+        "Rebuild"
+      ]
+    },
+    {
       "theme": "Marketing & creative AI",
       "count": 1,
       "examples": [
         "Calico AI"
-      ]
-    },
-    {
-      "theme": "Financial back-office & compliance AI",
-      "count": 1,
-      "examples": [
-        "Sterling"
       ]
     },
     {
@@ -2400,15 +2392,15 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 116,
-      "cap_m": 7321,
+      "count": 110,
+      "cap_m": 6798,
       "examples": [
+        "fabricOS",
+        "Tessact",
         "DiscreteStack",
         "Clarity Systems",
         "CodeRabbit",
-        "Monty Mobile",
-        "Datapile.co",
-        "hiSofi"
+        "Monty Mobile"
       ],
       "top_stage": "Venture"
     },
@@ -2469,6 +2461,34 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Applied AI agents",
+      "count": 6,
+      "cap_m": 121,
+      "examples": [
+        "Rapidflare",
+        "Fazeshift",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
+      ],
+      "top_stage": "Series A"
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 6,
+      "cap_m": 193,
+      "examples": [
+        "VINCUE",
+        "VALIS",
+        "ume",
+        "Pathway",
+        "Skan AI",
+        "Fabulate"
+      ],
+      "top_stage": "Seed"
+    },
+    {
       "theme": "Fintech & payments",
       "count": 6,
       "cap_m": 268,
@@ -2483,17 +2503,17 @@
       "top_stage": "Seed"
     },
     {
-      "theme": "Applied AI agents",
+      "theme": "Logistics & supply chain",
       "count": 5,
-      "cap_m": 121,
+      "cap_m": 98,
       "examples": [
-        "Fazeshift",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
+        "Santé",
+        "graas",
+        "FreightFox",
+        "Tilla",
+        "MarginEdge"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Seed"
     },
     {
       "theme": "Legal AI",
@@ -2506,30 +2526,6 @@
         "Sandstone"
       ],
       "top_stage": "Pre Seed"
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 4,
-      "cap_m": 98,
-      "examples": [
-        "graas",
-        "FreightFox",
-        "Tilla",
-        "MarginEdge"
-      ],
-      "top_stage": "Seed"
-    },
-    {
-      "theme": "Data infrastructure",
-      "count": 4,
-      "cap_m": 193,
-      "examples": [
-        "ume",
-        "Pathway",
-        "Skan AI",
-        "Fabulate"
-      ],
-      "top_stage": "Seed"
     },
     {
       "theme": "Cybersecurity",
@@ -3174,14 +3170,6 @@
           "theme": "Defense & national security"
         },
         {
-          "company": "Defense Tech Startup Breaker",
-          "stage": "Seed",
-          "amount_m": 6,
-          "date": "2026-02-17",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXNfSW0zMk9DVmdlRGNIbFUyQ3RkbzlkbmNTVVFHcC1jd0gtblBPRXBHeUNhZkU0aElBckZEVEJjZWNHRUFmSFJoVUlPR0tiWGZlazRRNTlJRnNnWXNiakpmOW03dXlKTEZIenVDTXR3eXFQOUJlSjlMZmRjV2E3N1J4X0tYT21fZnQ0UHVZbndqNUozd0dXZEd1eUtYRnJwYmhES1lkMVYxbURzdTdPNWQ5VlNqZw?oc=5",
-          "theme": "Defense & national security"
-        },
-        {
           "company": "AllHome",
           "stage": "Series B",
           "amount_m": null,
@@ -3196,9 +3184,17 @@
           "date": "2026-06-23",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQam1ZWTE2TGF6aDlvV0tlLVlPN09jR1NCY2JmM25XM0ZaandGdmVWTTlhWmxCNnJ4Y3ctSVBTSElqdkhEU19XOVpnRkRTLTBUUGpoV2dvczBwellGaWlpa0dkZ0lQRjZObnBtOWZvZGc2OTJJd2FRNk15dzU0cXRCa2dOTjFXek9ROXBlR1ZCeDBROXpqaGc1bFNQcEU1RXJoTVF3Y0pqa0dxUdIBrwFBVV95cUxQSDBFWGNNSG13aFViNkc4bUg2YkFRV1dnb1JmRGc3TmNWZ1lTdHM5T2laSW82eDFYLThqdmZRclIxQ2NURnFWOE5IcGtQSURDSF9qemRRTXg1NDdveElWRmFyV25xam9ENDViaXZkc19aX01uUjVfRkNUdVVxMmwtQkpuZHY1RVc2eDlidGVMREpWd21FeENsTHpCbnlkY2FRU3AzaUpkTXBmZkR1X3pn?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "Vetic",
+          "stage": "Venture",
+          "amount_m": 40,
+          "date": "2026-06-19",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2dlX2xwbUdWVDNuN0t1Qk5zSWlKS0luWmxtRTVQZVQtWDcyVnl3VWxXeWVZRkJLNi1WLVF0cFV1aDFJLXRqQ1JicWp2dkZPcWwyel9sc3ZYSkkweER2OHdyUldaS0ZwV2tWZGFnd1dIdVVoQWhUeENtZEZYemI0NUJIMHZMa2h3RmRFVDAyeUE3Wmo2dzh3c0ZGaGd2c09ob1JBcUdnU2lndEtB?oc=5",
+          "theme": "Healthcare & bio AI"
         }
       ],
-      "early": 8
+      "early": 7
     },
     {
       "fund": "Battery",
@@ -3560,17 +3556,17 @@
     }
   ],
   "momentum": {
-    "since": "2026-07-26",
+    "since": "2026-07-27",
     "tw": [
       {
         "name": "Logistics & supply chain",
-        "delta": 4,
-        "now": 4
+        "delta": 5,
+        "now": 5
       },
       {
-        "name": "Applied / horizontal AI",
+        "name": "Data infrastructure",
         "delta": 3,
-        "now": 116
+        "now": 6
       },
       {
         "name": "Healthcare & bio AI",
@@ -3578,9 +3574,14 @@
         "now": 19
       },
       {
-        "name": "Data infrastructure",
+        "name": "Financial back-office & compliance AI",
+        "delta": 2,
+        "now": 2
+      },
+      {
+        "name": "Insurance / insurtech",
         "delta": 1,
-        "now": 4
+        "now": 1
       },
       {
         "name": "Marketing & creative AI",
@@ -3588,14 +3589,14 @@
         "now": 1
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 1
-      },
-      {
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
+      },
+      {
+        "name": "Applied AI agents",
+        "delta": 0,
+        "now": 6
       },
       {
         "name": "Fintech & payments",
@@ -3606,11 +3607,6 @@
         "name": "Legal AI",
         "delta": 0,
         "now": 4
-      },
-      {
-        "name": "HR & workforce",
-        "delta": 0,
-        "now": 2
       },
       {
         "name": "Agent-native infra",
@@ -3628,14 +3624,14 @@
         "now": 7
       },
       {
-        "name": "Applied AI agents",
-        "delta": -1,
-        "now": 5
-      },
-      {
         "name": "Cybersecurity",
         "delta": -1,
         "now": 4
+      },
+      {
+        "name": "HR & workforce",
+        "delta": -1,
+        "now": 2
       },
       {
         "name": "AI compute & models",
@@ -3651,6 +3647,11 @@
         "name": "AI dev tooling",
         "delta": -1,
         "now": 1
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": -3,
+        "now": 110
       },
       {
         "name": "Vertical SaaS",
