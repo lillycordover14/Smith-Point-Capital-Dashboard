@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-18",
+  "generated": "2026-08-19",
   "mode": "full",
-  "count": 46,
+  "count": 38,
   "companies": [
     {
       "name": "Hadrian",
@@ -19,19 +19,34 @@
       "location": "Los Angeles, CA"
     },
     {
-      "name": "ModelML (YC W24)",
-      "domain": "modelml.com",
-      "desc": "The main product is a data integration and analysis platform that leverages AI to automate document processing, transcribe communications, and facilitate natural language queries for efficient data retrieval. It is desig",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 87396945.0,
+      "name": "Wispr Flow",
+      "domain": "wisprflow.ai",
+      "desc": "The main product is a voice dictation platform that enables users to convert speech into text across various applications and devices, enhancing communication and productivity. It utilizes advanced speech recognition tec",
+      "stage": "SERIES_B",
+      "last_amount": 280000000.0,
+      "total": 442600000.0,
       "investors": [
-        "FJ Labs",
-        "Y Combinator",
-        "13books Capital",
-        "LocalGlobe"
+        "Flight Fund",
+        "Palo Alto Networks",
+        "MVP Ventures",
+        "New Enterprise Associates (NEA)"
       ],
-      "location": "New York, NY"
+      "location": "Townsend St San Francisco, California 94107, US"
+    },
+    {
+      "name": "Trajectory",
+      "domain": "trajectory.ai",
+      "desc": "The company offers a platform for continual learning that utilizes AI technologies to improve performance based on real product usage and user interactions. It emphasizes model steerability and employs advanced training ",
+      "stage": "SERIES_A",
+      "last_amount": 40000000.0,
+      "total": 55000000.0,
+      "investors": [
+        "Conviction",
+        "NVIDIA",
+        "Radical Ventures",
+        "Sequoia Capital"
+      ],
+      "location": "San Francisco, CA"
     },
     {
       "name": "CodeRabbit",
@@ -49,21 +64,6 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Wispr Flow",
-      "domain": "wisprflow.ai",
-      "desc": "The main product is a voice dictation platform that enables users to convert speech into text across various applications and devices, enhancing communication and productivity. It utilizes advanced speech recognition tec",
-      "stage": "SERIES_B",
-      "last_amount": 280000000.0,
-      "total": 361600000.0,
-      "investors": [
-        "Flight Fund",
-        "Palo Alto Networks",
-        "MVP Ventures",
-        "New Enterprise Associates (NEA)"
-      ],
-      "location": "Townsend St San Francisco, California 94107, US"
-    },
-    {
       "name": "Greptile",
       "domain": "greptile.com",
       "desc": "The main product is an AI-driven code review tool that constructs a graph index of the codebase and utilizes a swarm of agents to review pull requests, identifying potential issues such as style violations and security r",
@@ -77,21 +77,6 @@
         "Benchmark"
       ],
       "location": "San Francisco, California"
-    },
-    {
-      "name": "Fazeshift",
-      "domain": "fazeshift.com",
-      "desc": "Fazeshift offers an AI-driven platform that automates accounts receivable processes, including cash application, invoicing, and collections, utilizing enterprise-grade AI agents to manage complex payment scenarios and en",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 21500000.0,
-      "investors": [
-        "Pioneer Fund",
-        "2048 Ventures",
-        "Y Combinator",
-        "Ritual Capital"
-      ],
-      "location": "San Francisco, CA"
     },
     {
       "name": "Skan AI",
@@ -153,21 +138,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "MarginEdge",
-      "domain": "marginedge.com",
-      "desc": "MarginEdge offers a restaurant management software platform that automates invoice processing, tracks inventory, and manages food costs, providing real-time insights into operational efficiency. The system integrates wit",
-      "stage": "SERIES_D",
-      "last_amount": 80000000.0,
-      "total": 179339438.0,
-      "investors": [
-        "Schooner Capital",
-        "IrishAngels",
-        "Nigel Morris",
-        "Relish Works"
-      ],
-      "location": "Arlington, Virginia"
-    },
-    {
       "name": "Santé",
       "domain": "santehq.com",
       "desc": "Santé provides a point-of-sale system tailored for liquor stores, consolidating checkout, inventory management, eCommerce, and delivery services into a unified platform. The system utilizes real-time data updates and AI-",
@@ -183,19 +153,19 @@
       "location": "Flatiron, NYC"
     },
     {
-      "name": "CONXAI",
-      "domain": "consai.tech",
-      "desc": "CONXAI is developing an AI platform tailored for the AEC industry, leveraging AI to provide decision support and streamline workflows by contextualizing diverse project lifecycle data from various sources. The core techn",
+      "name": "Palona AI",
+      "domain": "palona.ai",
+      "desc": "Palona provides a conversational AI platform designed specifically for the restaurant industry, enabling efficient customer interactions through voice and text-based ordering. The technology utilizes advanced voice cloni",
       "stage": "SERIES_A",
-      "last_amount": 5799390.0,
-      "total": 16817579.0,
+      "last_amount": 0,
+      "total": 38315000.0,
       "investors": [
-        "Earlybird Venture Capital",
-        "Zacua Ventures",
-        "Capricorn Partners",
-        "noa"
+        "NEO Investment Partners LLP",
+        "Neo",
+        "defy.vc",
+        "UpHonest Capital"
       ],
-      "location": "Munich"
+      "location": "Menlo Park, CA"
     },
     {
       "name": "Pathway",
@@ -211,6 +181,33 @@
         "TQ Ventures"
       ],
       "location": "Palo Alto, California"
+    },
+    {
+      "name": "Takt",
+      "domain": "takt.io",
+      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
+      "stage": "SERIES_A",
+      "last_amount": 9250000.0,
+      "total": 9250000.0,
+      "investors": [
+        "Ballast Point Partners"
+      ],
+      "location": "Reston, Virginia"
+    },
+    {
+      "name": "CONXAI",
+      "domain": "consai.tech",
+      "desc": "CONXAI is developing an AI platform tailored for the AEC industry, leveraging AI to provide decision support and streamline workflows by contextualizing diverse project lifecycle data from various sources. The core techn",
+      "stage": "SERIES_A",
+      "last_amount": 5799390.0,
+      "total": 16817579.0,
+      "investors": [
+        "Earlybird Venture Capital",
+        "Zacua Ventures",
+        "Capricorn Partners",
+        "noa"
+      ],
+      "location": "Munich"
     },
     {
       "name": "VERO",
@@ -242,19 +239,19 @@
       "location": "Kansas City, Missouri"
     },
     {
-      "name": "Palona AI",
-      "domain": "palona.ai",
-      "desc": "Palona provides a conversational AI platform designed specifically for the restaurant industry, enabling efficient customer interactions through voice and text-based ordering. The technology utilizes advanced voice cloni",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 38315000.0,
+      "name": "Sterling",
+      "domain": "histerling.com",
+      "desc": "The main product is an AI-driven accounting assistant that automates financial processes such as accounts payable, accounts receivable, payroll, and reconciliations, while seamlessly integrating with existing financial s",
+      "stage": "SEED",
+      "last_amount": 2238960.0,
+      "total": 2238960.0,
       "investors": [
-        "NEO Investment Partners LLP",
-        "Neo",
-        "defy.vc",
-        "UpHonest Capital"
+        "Blackbird",
+        "Trade Me",
+        "Hoku Group",
+        "Pushpay"
       ],
-      "location": "Menlo Park, CA"
+      "location": "Wellington"
     },
     {
       "name": "amber",
@@ -272,36 +269,6 @@
       "location": "Aachen, Nordrhein-Westfalen"
     },
     {
-      "name": "Fisent Technologies",
-      "domain": "fisent.com",
-      "desc": "Fisent Technologies offers an AI-enabled solution that automates content processing tasks across various business functions, particularly in the financial sector, utilizing Generative AI and Business Process Management t",
-      "stage": "SERIES_A",
-      "last_amount": 4300000.0,
-      "total": 7150000.0,
-      "investors": [
-        "Pega Service Ventures",
-        "PitchBook",
-        "FINTOP",
-        "Pegasystems"
-      ],
-      "location": "Toronto"
-    },
-    {
-      "name": "Palette",
-      "domain": "palette.team",
-      "desc": "Palette Desktop is a collaboration tool that integrates AI models with shared folders, enabling non-technical users to efficiently manage tasks, research, and planning. It employs machine learning and a signal engine to ",
-      "stage": "PRE_SEED",
-      "last_amount": 3462612.0,
-      "total": 3462612.0,
-      "investors": [
-        "Emblem",
-        "Acadian Ventures",
-        "Ugly Duckling Ventures",
-        "Peter Holm"
-      ],
-      "location": "Copenhagen, Capital Region of Denmark"
-    },
-    {
       "name": "Dentalcall",
       "domain": "dentalcall.kr",
       "desc": "The main product is an AI phone coordinator designed for dental practices, automating patient interactions such as appointment scheduling and follow-up communications while integrating with electronic medical records (EM",
@@ -311,52 +278,39 @@
       "investors": [
         "TAIL Ventures",
         "CNTTECH CO., LTD.",
-        "Antler - Korea",
-        "AI엔젤클럽"
+        "Antler - Korea"
       ],
       "location": "New York, New York"
     },
     {
-      "name": "Takt",
-      "domain": "takt.io",
-      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
-      "stage": "SERIES_A",
-      "last_amount": 9250000.0,
-      "total": 9250000.0,
-      "investors": [
-        "Ballast Point Partners"
-      ],
-      "location": "Reston, Virginia"
-    },
-    {
-      "name": "Sterling",
-      "domain": "histerling.com",
-      "desc": "The main product is an AI-driven accounting assistant that automates financial processes such as accounts payable, accounts receivable, payroll, and reconciliations, while seamlessly integrating with existing financial s",
+      "name": "xpander.ai",
+      "domain": "xpander.ai",
+      "desc": "The company offers an AI agent platform that facilitates the creation and management of customizable workflows and multi-agent orchestration, integrating with various enterprise systems. It employs large language models ",
       "stage": "SEED",
-      "last_amount": 2238960.0,
-      "total": 2238960.0,
+      "last_amount": 7500000.0,
+      "total": 10500000.0,
       "investors": [
-        "Blackbird",
-        "Trade Me",
-        "Hoku Group",
-        "Pushpay"
+        "PICO Venture Partners",
+        "Samsung Next",
+        "SeedIL Ventures",
+        "Emerge Ventures"
       ],
-      "location": "Wellington"
+      "location": "San Francisco"
     },
     {
-      "name": "Calico AI",
-      "domain": "calicoai.com",
-      "desc": "Calico offers a supply chain management platform tailored for fashion brands, utilizing AI-driven workflows to streamline production processes and enhance operational efficiency. Key features include automated lead time ",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 17150000.0,
+      "name": "VastAdvisor",
+      "domain": "vastadvisor.ai",
+      "desc": "VastAdvisor – The Governed AI Growth Operating System for Financial Advisors VastAdvisor is redefining how financial advisors grow. Built as the industry’s first AI Growth Operating System, we empower Registered Investme",
+      "stage": "PRE_SEED",
+      "last_amount": 1000000.0,
+      "total": 1000000.0,
       "investors": [
-        "Inovia Capital",
-        "Wittington Ventures",
-        "Serena Ventures",
-        "Forum Ventures"
+        "Carson Group",
+        "Dani Fava",
+        "Jason M. Pereira",
+        "Sally George"
       ],
-      "location": "169 Gore Vale Avenue, Toronto, Ontario M6J 2R5, Canada"
+      "location": "Austin, TX"
     },
     {
       "name": "VALIS",
@@ -374,118 +328,60 @@
       "location": "Worcester, Massachusetts"
     },
     {
-      "name": "Genera",
-      "domain": "genera.sh",
-      "desc": "Genera is an AI-driven platform, that specializes in managing autonomous and hybrid human-AI processes across multiple industries such as marketing, sales, education, and healthcare. The platform allows organizations to ",
-      "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "Success Venture Partners",
-        "First Round Capital",
-        "WndrCo",
-        "BoxGroup"
-      ],
-      "location": "Plantation, Florida"
-    },
-    {
-      "name": "River",
-      "domain": "rivereditor.com",
-      "desc": "River is an AI-driven workspace that enables real-time collaboration by integrating directly with users' documents and tools, allowing for seamless drafting and editing without manual data transfer. It utilizes advanced ",
+      "name": "Gandr",
+      "domain": "gandr.ai",
+      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that requires only about ten seconds of audio for replication. The system operates on a f",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
       "investors": [
         "Y Combinator"
       ],
-      "location": "Palo Ato, California"
+      "location": "San Francisco , CA"
     },
     {
-      "name": "Tilla",
-      "domain": "tilla.tech",
-      "desc": "Tilla offers a crew change management platform that facilitates the planning, collaboration, and execution of crew logistics in the shipping industry. The platform utilizes real-time decision support, integrates with tra",
+      "name": "Provenance",
+      "domain": "provenancexl.com",
+      "desc": "The product is an Excel add-in that enhances the review process of financial models by providing immediate visibility into changes in assumptions, formulas, and outputs, thereby reducing review time significantly. It fea",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 535000.0,
+      "investors": [
+        "Glasswing Ventures",
+        "NVIDIA",
+        "QNB Group",
+        "NVIDIA Inception"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Queue-it",
+      "domain": "queue-it.com",
+      "desc": "Queue-it offers a virtual waiting room solution designed to manage high-traffic events by regulating user access and reducing bot interference, thereby ensuring equitable access for all users. The platform is compatible ",
       "stage": "SEED",
       "last_amount": 0,
-      "total": 3306222.0,
+      "total": 12600000.0,
       "investors": [
-        "STARTHUB VENTURES",
-        "Motion Ventures",
-        "Flagship Founders",
-        "Exmar"
+        "GRO",
+        "Innovation Fund Denmark",
+        "THL Partners",
+        "Ubiquity Ventures"
       ],
-      "location": "Berlin"
+      "location": "Copenhagen, Capital Region"
     },
     {
-      "name": "Aloi",
-      "domain": "aloi.law",
-      "desc": "Aloi provides an AI-driven platform that transforms fragmented legal data into structured, decision-grade intelligence, enabling legal teams to draft and negotiate contracts more effectively. The technology continuously ",
-      "stage": "SEED",
-      "last_amount": 7000000.0,
-      "total": 16790000.0,
+      "name": "Rezolv",
+      "domain": "rezolv.com",
+      "desc": "Rezolv offers an AI-powered debt collection platform that utilizes advanced analytics and machine learning to streamline the collections lifecycle, facilitating management across various communication channels and operat",
+      "stage": "SERIES_A",
+      "last_amount": 12500000.0,
+      "total": 16000000.0,
       "investors": [
-        "Johan Karlsson",
-        "Fredrik Jung Abbou",
-        "Erik Engellau-Nilsson",
-        "Victor Jacobsson"
+        "Norwest",
+        "3one4 Capital",
+        "Vertex Ventures Southeast Asia and India"
       ],
-      "location": "Stockholm"
-    },
-    {
-      "name": "Legio Software",
-      "domain": "getlegio.com",
-      "desc": "Legio — Safety & Security Operations Platform Safety and security teams spend an estimated 30–40% of officer time on documentation, reporting, and compliance work that follows every safety event. Legio is built to elimin",
-      "stage": "SEED",
-      "last_amount": 5000000.0,
-      "total": 5000000.0,
-      "investors": [
-        "Klass Capital"
-      ],
-      "location": "Toronto, Ontario"
-    },
-    {
-      "name": "Astraeus",
-      "domain": "astraeuswealth.com",
-      "desc": "Astraeus offers an AI-native infrastructure that integrates data, compliance, and decision-making processes within wealth management firms, effectively addressing the issues caused by fragmented systems. This architectur",
-      "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "Plug and Play",
-        "FinTech Collective",
-        "Walkabout Ventures",
-        "F-Prime"
-      ],
-      "location": "New York, NY, United States"
-    },
-    {
-      "name": "Cobi",
-      "domain": "hellocobi.com",
-      "desc": "Cobi is a personal finance application that utilizes artificial intelligence to analyze user spending patterns, facilitating effective budgeting and personalized saving strategies. The platform incorporates real-time ana",
-      "stage": "PRE_SEED",
-      "last_amount": 1000000.0,
-      "total": 1000000.0,
-      "investors": [
-        "Plug and Play",
-        "Annex Investments",
-        "Salica Investments",
-        "Lunara Partners"
-      ],
-      "location": "Dubai"
-    },
-    {
-      "name": "xpander.ai",
-      "domain": "xpander.ai",
-      "desc": "The company offers an AI agent platform that facilitates the creation and management of customizable workflows and multi-agent orchestration, integrating with various enterprise systems. It employs large language models ",
-      "stage": "SEED",
-      "last_amount": 7500000.0,
-      "total": 10500000.0,
-      "investors": [
-        "PICO Venture Partners",
-        "Samsung Next",
-        "SeedIL Ventures",
-        "Emerge Ventures"
-      ],
-      "location": "San Francisco"
+      "location": "Mumbai, Maharashtra"
     },
     {
       "name": "Fabulate",
@@ -532,56 +428,32 @@
       "location": "Outram, Singapore"
     },
     {
-      "name": "Monty Mobile",
-      "domain": "montymobile.com",
-      "desc": "Monty Mobile offers telecommunications solutions that encompass advanced messaging services, A2P messaging, and eSIM technology tailored for mobile operators and service providers. Their products utilize AI-driven credit",
-      "stage": "",
-      "last_amount": 12000000.0,
-      "total": 12000000.0,
+      "name": "Oceanloop",
+      "domain": "oceanloop.com",
+      "desc": "Oceanloop specializes in sustainable, land-based aquaculture, utilizing patented recirculating aquaculture systems (RAS) technology for the efficient farming of shrimp and fish. Their operations incorporate advanced soft",
+      "stage": "SERIES_B",
+      "last_amount": 7523405.0,
+      "total": 82149045.0,
       "investors": [
-        "BluePeak Private Capital Fund II"
+        "Stolt Ventures",
+        "Hatch Blue",
+        "European Investment Bank (EIB)"
       ],
-      "location": "London, England, United Kingdom"
+      "location": "Munich, Bavaria"
     },
     {
-      "name": "VastAdvisor",
-      "domain": "vastadvisor.ai",
-      "desc": "VastAdvisor – The Governed AI Growth Operating System for Financial Advisors VastAdvisor is redefining how financial advisors grow. Built as the industry’s first AI Growth Operating System, we empower Registered Investme",
-      "stage": "PRE_SEED",
-      "last_amount": 1000000.0,
-      "total": 1000000.0,
-      "investors": [
-        "Carson Group",
-        "Dani Fava",
-        "Jason M. Pereira",
-        "Sally George"
-      ],
-      "location": "Austin, TX"
-    },
-    {
-      "name": "FreightFox",
-      "domain": "freightfox.ai",
-      "desc": "FreightFox provides a cloud-based transportation management platform that enhances freight procurement, management, and deployment for large supply chain operators through the use of predictive insights and real-time ana",
+      "name": "DiscreteStack",
+      "domain": "discretestack.com",
+      "desc": "DiscreteStack provides a private AI operating system that enables enterprises to deploy AI on their own infrastructure, ensuring data remains on-premises. The technology features a single-server architecture optimized fo",
       "stage": "SEED",
-      "last_amount": 524200.0,
-      "total": 1424200.0,
+      "last_amount": 925386.0,
+      "total": 925386.0,
       "investors": [
-        "Aeravti Ventures",
-        "Nikhil Prasad",
-        "Varun Jain",
-        "Mitul Bid"
+        "CleverPine Ventures",
+        "Milen Manev",
+        "Stoil Vasilev"
       ],
-      "location": "Bengaluru, Karnataka"
-    },
-    {
-      "name": "fabricOS",
-      "domain": "fabricos.com",
-      "desc": ".",
-      "stage": "SEED",
-      "last_amount": 3600000.0,
-      "total": 3600000.0,
-      "investors": [],
-      "location": "Los Angeles"
+      "location": ""
     },
     {
       "name": "ume - #1 fund distribution due diligence platform",
@@ -599,16 +471,19 @@
       "location": "Luxembourg, Luxembourg"
     },
     {
-      "name": "Gandr",
-      "domain": "gandr.ai",
-      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that requires only about ten seconds of audio for replication. The system operates on a f",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "Jem",
+      "domain": "jemhr.com",
+      "desc": "Jem provides a platform that enables the distribution of payroll documents, such as payslips and timesheets, to deskless workers via WhatsApp, enhancing communication and payroll management. The solution integrates with ",
+      "stage": "SERIES_A",
+      "last_amount": 8400000.0,
+      "total": 12388000.0,
       "investors": [
-        "Y Combinator"
+        "Fitech Ventures",
+        "NEXT176",
+        "Dimension Data",
+        "Standard Bank South Africa"
       ],
-      "location": "San Francisco , CA"
+      "location": "Cape Town, Western Cape"
     },
     {
       "name": "Lightfield",
@@ -623,30 +498,29 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "DiscreteStack",
-      "domain": "discretestack.com",
-      "desc": "DiscreteStack provides a private AI operating system that enables enterprises to deploy AI on their own infrastructure, ensuring data remains on-premises. The technology features a single-server architecture optimized fo",
-      "stage": "SEED",
-      "last_amount": 925386.0,
-      "total": 925386.0,
+      "name": "DEEPFINE",
+      "domain": "deepfine.com",
+      "desc": "The primary offering is a platform that utilizes smart glasses, extended reality (XR), visual positioning systems (VPS), and artificial intelligence (AI) to generate three-dimensional spatial data and facilitate contactl",
+      "stage": "SERIES_B",
+      "last_amount": 7070000.0,
+      "total": 12124163.0,
       "investors": [
-        "CleverPine Ventures",
-        "Milen Manev",
-        "Stoil Vasilev"
+        "Smilegate Investment",
+        "Industrial Bank of Korea",
+        "효성벤처스 (Hyosung Ventures)",
+        "POSCO CAPITAL"
       ],
-      "location": ""
+      "location": "Seoul"
     },
     {
-      "name": "Kalpi",
-      "domain": "kalpi.ai",
-      "desc": "Kalpi offers a platform for building, backtesting, and managing rule-based stock portfolios, utilizing a no-code strategy builder that supports both custom and pre-designed templates. The technology includes features for",
+      "name": "Tax Star",
+      "domain": "taxstar.app",
+      "desc": "The product is a corporate tax software that automates tax calculations, manages client approval workflows, and tracks deadlines to improve compliance and operational efficiency. It also integrates with existing accounti",
       "stage": "SEED",
-      "last_amount": 0,
-      "total": 388350.0,
-      "investors": [
-        "Rainmatter by Zerodha"
-      ],
-      "location": ""
+      "last_amount": 1750000.0,
+      "total": 1750000.0,
+      "investors": [],
+      "location": "Dubai"
     },
     {
       "name": "Naran General Trading Co LLC",
@@ -659,6 +533,16 @@
         "Landel"
       ],
       "location": "Dubai, Dubai"
+    },
+    {
+      "name": "Rozenama",
+      "domain": "rozenama.com",
+      "desc": "Roznama is an innovative e-commerce management system that aims to organize the work of merchants effectively. It provides them with an easy-to-use user interface and advanced organization tools to manage products, proce",
+      "stage": "PRE_SEED",
+      "last_amount": 150000.0,
+      "total": 150000.0,
+      "investors": [],
+      "location": "Baghdad, Karada"
     }
   ]
 }
