@@ -1,24 +1,132 @@
 {
-  "generated": "2026-08-20",
+  "generated": "2026-08-21",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 79,
-    "total_cap_m": 13021,
-    "early_cap_m": 2391,
+    "early_raises": 78,
+    "total_cap_m": 12637,
+    "early_cap_m": 2332,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 32,
-      "Series A": 44,
+      "Seed": 29,
+      "Series A": 46,
       "Series B": 22,
       "Series C": 9,
-      "Series D": 3,
-      "Venture": 75
+      "Series D": 4,
+      "Venture": 74
     }
   },
   "raises": [
+    {
+      "company": "Nexus IT",
+      "amount_m": 60,
+      "date": "2026-08-21",
+      "link": "https://nexusitc.net",
+      "investors": [],
+      "theme": "Cybersecurity",
+      "stage": "Venture"
+    },
+    {
+      "company": "Rundoo",
+      "amount_m": 30,
+      "date": "2026-08-21",
+      "link": "https://rundoo.ai",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Series B"
+    },
+    {
+      "company": "Flash",
+      "amount_m": 29,
+      "date": "2026-08-21",
+      "link": "https://flashapp.com.br",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series D"
+    },
+    {
+      "company": "Twin-1 AI",
+      "amount_m": 20,
+      "date": "2026-08-21",
+      "link": "https://twin1.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Velatir",
+      "amount_m": 6,
+      "date": "2026-08-21",
+      "link": "https://velatir.com",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Quantizr",
+      "amount_m": 5,
+      "date": "2026-08-21",
+      "link": "https://quantizr.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Bower",
+      "amount_m": 2,
+      "date": "2026-08-21",
+      "link": "https://bowerlabs.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Guideless",
+      "amount_m": 1,
+      "date": "2026-08-21",
+      "link": "https://guideless.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "InfinityBox",
+      "amount_m": 1,
+      "date": "2026-08-21",
+      "link": "https://infinityboxkgp.com",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Series A"
+    },
+    {
+      "company": "bitdrift",
+      "amount_m": null,
+      "date": "2026-08-21",
+      "link": "https://bitdrift.io",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Series A"
+    },
+    {
+      "company": "TravelX",
+      "amount_m": null,
+      "date": "2026-08-21",
+      "link": "https://travelx.io",
+      "investors": [],
+      "theme": "Consumer & marketplace",
+      "stage": "Series A"
+    },
+    {
+      "company": "Paralo",
+      "amount_m": null,
+      "date": "2026-08-21",
+      "link": "https://getparalo.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Rillet",
       "amount_m": 100,
@@ -110,13 +218,22 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Qodia",
-      "amount_m": 1,
+      "company": "Capveon",
+      "amount_m": null,
       "date": "2026-08-20",
-      "link": "https://qodia.de",
+      "link": "https://capveon.ai",
       "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Seed"
+      "theme": "Physical AI & robotics",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Zenalyst.AI",
+      "amount_m": null,
+      "date": "2026-08-20",
+      "link": "https://zenalyst.ai",
+      "investors": [],
+      "theme": "HR & workforce",
+      "stage": "Pre Seed"
     },
     {
       "company": "ClaimKit",
@@ -134,24 +251,6 @@
       "link": "https://adalat.ai",
       "investors": [],
       "theme": "AI compute & models",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Zenalyst.AI",
-      "amount_m": null,
-      "date": "2026-08-20",
-      "link": "https://zenalyst.ai",
-      "investors": [],
-      "theme": "HR & workforce",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Capveon",
-      "amount_m": null,
-      "date": "2026-08-20",
-      "link": "https://capveon.ai",
-      "investors": [],
-      "theme": "Physical AI & robotics",
       "stage": "Pre Seed"
     },
     {
@@ -216,15 +315,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
-    },
-    {
-      "company": "Rozenama",
-      "amount_m": null,
-      "date": "2026-08-19",
-      "link": "https://rozenama.com",
-      "investors": [],
-      "theme": "Consumer & marketplace",
-      "stage": "Pre Seed"
     },
     {
       "company": "Palona AI",
@@ -317,24 +407,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "VINCUE",
-      "amount_m": null,
-      "date": "2026-08-17",
-      "link": "https://vincue.com",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Seed"
-    },
-    {
-      "company": "VALIS",
-      "amount_m": null,
-      "date": "2026-08-17",
-      "link": "https://valisinsights.com",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Seed"
-    },
-    {
       "company": "DiscreteStack",
       "amount_m": 1,
       "date": "2026-08-16",
@@ -353,15 +425,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Naran General Trading Co LLC",
-      "amount_m": 10,
-      "date": "2026-08-15",
-      "link": "https://naran-group.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Seed"
-    },
-    {
       "company": "Sterling",
       "amount_m": 2,
       "date": "2026-08-15",
@@ -377,15 +440,6 @@
       "link": "https://dentalcall.kr",
       "investors": [],
       "theme": "Healthcare & bio AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Pathway",
-      "amount_m": 30,
-      "date": "2026-08-14",
-      "link": "https://pathway.com",
-      "investors": [],
-      "theme": "Data infrastructure",
       "stage": "Seed"
     },
     {
@@ -2141,99 +2195,31 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
-    },
-    {
-      "company": "DriveNets",
-      "amount_m": 410,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZjc0MzZfbXFOTklwWTVEQXdINEp0RzhyaHVPWm84aF9pQl9HYlQ3bFNnYlBkVEZfYjBkVDByWXkzYXBsSU5heEJFV3FlUU4zYXhKVW9odjI3ZUQ0YmdVN2RxMml5UHc?oc=5",
-      "investors": [
-        "Bessemer"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "Sekai",
-      "amount_m": 26,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RM05jb0RkbkRTZHM2TUItQ0JRQlM0UGZZQWNwQzdlWExmcWpydFc0dU5PWkVENFl0cDg5MlpmNkh3XzlYc3NycDhLdlR2VUtHNW11R2F1T3NBYTJrWlMyUUdZTzlwcW95cUxhcmZDa00?oc=5",
-      "investors": [
-        "Khosla Ventures",
-        "MVP Ventures",
-        "New Enterprise Associates"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Unastella",
-      "amount_m": 22,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5dlJNMGFyWnVzREF0NDRkMHRjcWsyQXpGLWQ5ZERYblFjTjlEWWR1Ujc5bzNKZ2ozYS0tdGhOLTZBRWRmQV9iR2Z5NGwxMERUQWFBRFVjRlFqWTgzSmhsaQ?oc=5",
-      "investors": [
-        "Altos Ventures"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series B"
-    },
-    {
-      "company": "Waypoint Bio",
-      "amount_m": 20,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUHUzRUljQzlrQl9YLXNwNUllZkY3WUlLLVJZNm9CbmN5c3p2Ty1qbzk5UzNXcnpZZC1RZlhPM2JCV2pibGMzNDNwNmFUZGhscGJKUlBEWUJPVDA4blRkSldOZVBJeG5OZEJZSEFwM3RtS1h6Z3FLTjliZ0IzQUo5V19UVDEtdDdMTmN4ZFlNZTlReUJ1akF1SnhiY0ZGejNLQTBETnJuZjZFSFY4YjVXd1hIQ0dDZFZTZ3NBT3BGbjFHNzVLdk9TZTV5a2U3Wlg3VUpYOGlJbGxaeHJjQUpMR19EYWZ2dS1mNG1kakNteGJKa05TVTlpeEM3dVMtNm5rTHc?oc=5",
-      "investors": [
-        "Amplify"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Gradient Labs",
-      "amount_m": 13,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zUnFGZ25KWDMxdnh4SkxCWmJKU3JfN0cxT3QtNmFkbWZPa0lSa1dYR3lBMUZSMjJHVWtNcV9pa1plc2wtbV9NdS15WW1ZV3lzNXd1cmdCYUQ1WEc4Z3VTamtaMFAxNUMxYWc?oc=5",
-      "investors": [
-        "Redpoint"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "SpeedLabs",
-      "amount_m": 6,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ1VPMjJrWUtZRmRTSkFZTkxGWmRaclVyR1FQd2JRbDZZWktSd0NGdnVFU3dOZHJGMzJZUEJoc2ROTTM3UUxERkd5Y2NuTTk5SnVEQnd3SXpiYXFyWTAwVEMxbHppbzJhOFI0OUNDNldVd1NEckwyUlZkZm5sQkE?oc=5",
-      "investors": [
-        "Bullpen Capital"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 111,
+      "count": 110,
       "examples": [
-        "Rillet",
-        "Flip",
-        "Boom",
-        "Hypercubic",
-        "Oceanloop",
-        "DEEPFINE"
+        "Twin-1 AI",
+        "Quantizr",
+        "Bower",
+        "Guideless",
+        "Paralo",
+        "Rillet"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
+      "count": 18,
       "examples": [
         "Aisel Health",
-        "Qodia",
         "Dentalcall",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ]
     },
     {
@@ -2274,32 +2260,21 @@
     },
     {
       "theme": "Cybersecurity",
-      "count": 6,
+      "count": 7,
       "examples": [
+        "Nexus IT",
         "Prevalent AI",
         "1VALET",
         "VERO",
         "Twenty",
-        "A Security",
-        "Opal Security"
-      ]
-    },
-    {
-      "theme": "Data infrastructure",
-      "count": 5,
-      "examples": [
-        "ARQA",
-        "Rezolv",
-        "VINCUE",
-        "VALIS",
-        "Pathway"
+        "A Security"
       ]
     },
     {
       "theme": "Fintech & payments",
       "count": 5,
       "examples": [
-        "Naran General Trading Co LLC",
+        "Flash",
         "Float",
         "Fomo",
         "Crypto trading app Fomo",
@@ -2327,12 +2302,21 @@
       ]
     },
     {
-      "theme": "AI compute & models",
+      "theme": "Financial back-office & compliance AI",
       "count": 3,
       "examples": [
-        "Adalat AI",
-        "Oratomic",
-        "Prime Intellect"
+        "Velatir",
+        "Tax Star",
+        "Sterling"
+      ]
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 3,
+      "examples": [
+        "bitdrift",
+        "ARQA",
+        "Rezolv"
       ]
     },
     {
@@ -2345,6 +2329,15 @@
       ]
     },
     {
+      "theme": "AI compute & models",
+      "count": 3,
+      "examples": [
+        "Adalat AI",
+        "Oratomic",
+        "Prime Intellect"
+      ]
+    },
+    {
       "theme": "Vertical SaaS",
       "count": 3,
       "examples": [
@@ -2354,11 +2347,11 @@
       ]
     },
     {
-      "theme": "Financial back-office & compliance AI",
+      "theme": "Logistics & supply chain",
       "count": 2,
       "examples": [
-        "Tax Star",
-        "Sterling"
+        "Rundoo",
+        "InfinityBox"
       ]
     },
     {
@@ -2378,17 +2371,17 @@
       ]
     },
     {
+      "theme": "Consumer & marketplace",
+      "count": 1,
+      "examples": [
+        "TravelX"
+      ]
+    },
+    {
       "theme": "Insurance / insurtech",
       "count": 1,
       "examples": [
         "ClaimKit"
-      ]
-    },
-    {
-      "theme": "Consumer & marketplace",
-      "count": 1,
-      "examples": [
-        "Rozenama"
       ]
     },
     {
@@ -2402,29 +2395,29 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 111,
-      "cap_m": 7239,
+      "count": 110,
+      "cap_m": 6770,
       "examples": [
-        "Rillet",
-        "Flip",
-        "Boom",
-        "Hypercubic",
-        "Oceanloop",
-        "DEEPFINE"
+        "Twin-1 AI",
+        "Quantizr",
+        "Bower",
+        "Guideless",
+        "Paralo",
+        "Rillet"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
-      "cap_m": 1099,
+      "count": 18,
+      "cap_m": 1098,
       "examples": [
         "Aisel Health",
-        "Qodia",
         "Dentalcall",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ],
       "top_stage": "Venture"
     },
@@ -2472,37 +2465,24 @@
     },
     {
       "theme": "Cybersecurity",
-      "count": 6,
-      "cap_m": 197,
+      "count": 7,
+      "cap_m": 257,
       "examples": [
+        "Nexus IT",
         "Prevalent AI",
         "1VALET",
         "VERO",
         "Twenty",
-        "A Security",
-        "Opal Security"
+        "A Security"
       ],
       "top_stage": "Venture"
     },
     {
-      "theme": "Data infrastructure",
-      "count": 5,
-      "cap_m": 47,
-      "examples": [
-        "ARQA",
-        "Rezolv",
-        "VINCUE",
-        "VALIS",
-        "Pathway"
-      ],
-      "top_stage": "Seed"
-    },
-    {
       "theme": "Fintech & payments",
       "count": 5,
-      "cap_m": 258,
+      "cap_m": 277,
       "examples": [
-        "Naran General Trading Co LLC",
+        "Flash",
         "Float",
         "Fomo",
         "Crypto trading app Fomo",
@@ -2535,13 +2515,24 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "AI compute & models",
+      "theme": "Financial back-office & compliance AI",
       "count": 3,
-      "cap_m": 430,
+      "cap_m": 10,
       "examples": [
-        "Adalat AI",
-        "Oratomic",
-        "Prime Intellect"
+        "Velatir",
+        "Tax Star",
+        "Sterling"
+      ],
+      "top_stage": "Seed"
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 3,
+      "cap_m": 17,
+      "examples": [
+        "bitdrift",
+        "ARQA",
+        "Rezolv"
       ],
       "top_stage": "Series A"
     },
@@ -3562,22 +3553,17 @@
     }
   ],
   "momentum": {
-    "since": "2026-07-30",
+    "since": "2026-07-31",
     "tw": [
       {
         "name": "Physical AI & robotics",
-        "delta": 2,
+        "delta": 3,
         "now": 9
       },
       {
         "name": "Cybersecurity",
         "delta": 2,
-        "now": 6
-      },
-      {
-        "name": "Data infrastructure",
-        "delta": 2,
-        "now": 5
+        "now": 7
       },
       {
         "name": "Agent-native infra",
@@ -3585,14 +3571,24 @@
         "now": 4
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 1,
-        "now": 19
+        "name": "Logistics & supply chain",
+        "delta": 2,
+        "now": 2
       },
       {
         "name": "Energy & climate",
         "delta": 1,
         "now": 10
+      },
+      {
+        "name": "Data infrastructure",
+        "delta": 1,
+        "now": 3
+      },
+      {
+        "name": "HR & workforce",
+        "delta": 1,
+        "now": 3
       },
       {
         "name": "Legal AI",
@@ -3615,34 +3611,39 @@
         "now": 3
       },
       {
-        "name": "HR & workforce",
-        "delta": 0,
-        "now": 3
-      },
-      {
-        "name": "Vertical SaaS",
-        "delta": 0,
-        "now": 3
-      },
-      {
         "name": "Insurance / insurtech",
         "delta": 0,
         "now": 1
       },
       {
-        "name": "Defense & national security",
-        "delta": 0,
-        "now": 1
+        "name": "Healthcare & bio AI",
+        "delta": -1,
+        "now": 18
       },
       {
         "name": "Financial back-office & compliance AI",
         "delta": -1,
-        "now": 2
+        "now": 3
       },
       {
-        "name": "AI dev tooling",
+        "name": "Vertical SaaS",
         "delta": -1,
-        "now": 2
+        "now": 3
+      },
+      {
+        "name": "Defense & national security",
+        "delta": -1,
+        "now": 1
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": -2,
+        "now": 110
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": -2,
+        "now": 5
       },
       {
         "name": "Applied AI agents",
@@ -3650,14 +3651,9 @@
         "now": 4
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": -3,
-        "now": 111
-      },
-      {
-        "name": "Fintech & payments",
-        "delta": -3,
-        "now": 5
+        "name": "AI dev tooling",
+        "delta": -2,
+        "now": 2
       }
     ]
   }

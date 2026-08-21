@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-20",
+  "generated": "2026-08-21",
   "mode": "full",
-  "count": 44,
+  "count": 50,
   "companies": [
     {
       "name": "Rillet",
@@ -9,7 +9,7 @@
       "desc": "Rillet provides an AI-native ERP platform designed to automate various accounting functions, including revenue recognition and multi-entity accounting, while utilizing a perpetual general ledger to enhance the month-end ",
       "stage": "SERIES_C",
       "last_amount": 100000000.0,
-      "total": 214000000.0,
+      "total": 208500000.0,
       "investors": [
         "Andreessen Horowitz",
         "Scale Venture Partners",
@@ -17,21 +17,6 @@
         "First Round Capital"
       ],
       "location": "New York, NY, US"
-    },
-    {
-      "name": "Trajectory",
-      "domain": "trajectory.ai",
-      "desc": "The company offers a platform for continual learning that utilizes AI technologies to improve performance based on real product usage and user interactions. It emphasizes model steerability and employs advanced training ",
-      "stage": "SERIES_A",
-      "last_amount": 40000000.0,
-      "total": 55000000.0,
-      "investors": [
-        "Conviction",
-        "NVIDIA",
-        "Radical Ventures",
-        "Sequoia Capital"
-      ],
-      "location": "San Francisco, CA"
     },
     {
       "name": "Hadrian",
@@ -47,6 +32,21 @@
         "XYZ Venture Capital"
       ],
       "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Trajectory",
+      "domain": "trajectory.ai",
+      "desc": "The company offers a platform for continual learning that utilizes AI technologies to improve performance based on real product usage and user interactions. It emphasizes model steerability and employs advanced training ",
+      "stage": "SERIES_A",
+      "last_amount": 40000000.0,
+      "total": 55000000.0,
+      "investors": [
+        "Conviction",
+        "NVIDIA",
+        "Radical Ventures",
+        "Sequoia Capital"
+      ],
+      "location": "San Francisco, CA"
     },
     {
       "name": "Wispr Flow",
@@ -79,6 +79,33 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Rundoo",
+      "domain": "rundoo.ai",
+      "desc": "Rundoo offers an integrated software platform for independent supply stores that includes point of sale (POS), inventory management, and payment processing capabilities. The platform utilizes AI technologies to enhance o",
+      "stage": "SERIES_B",
+      "last_amount": 30000000.0,
+      "total": 48000000.0,
+      "investors": [
+        "Plug and Play",
+        "CRV",
+        "Battery Ventures",
+        "Quiet Capital"
+      ],
+      "location": "Redwood City, California"
+    },
+    {
+      "name": "Takt",
+      "domain": "takt.io",
+      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
+      "stage": "SERIES_A",
+      "last_amount": 9250000.0,
+      "total": 9250000.0,
+      "investors": [
+        "Ballast Point Partners"
+      ],
+      "location": "Reston, Virginia"
+    },
+    {
       "name": "Flip",
       "domain": "getflip.com",
       "desc": "The main product is an AI-powered employee experience platform tailored for frontline workers, offering a centralized app that connects them to essential tools, knowledge, and workflows. It employs AI for workflow automa",
@@ -92,6 +119,21 @@
         "Volkswagen Group"
       ],
       "location": "Stuttgart, Baden-Württemberg"
+    },
+    {
+      "name": "Boom",
+      "domain": "boompay.app",
+      "desc": "Boom provides modern rental financial services that enhance the rental experience for both renters and property managers, offering solutions such as tenant screening and rent reporting. The platform employs technologies ",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 25500000.0,
+      "investors": [
+        "S3 Ventures",
+        "Gilgamesh Ventures",
+        "Clocktower Ventures",
+        "Mischief"
+      ],
+      "location": "Austin, TX"
     },
     {
       "name": "Palona AI",
@@ -109,31 +151,19 @@
       "location": "Menlo Park, CA"
     },
     {
-      "name": "Pathway",
-      "domain": "pathway.com",
-      "desc": "The main product is a data processing framework that facilitates real-time analytics and the development of live AI systems, leveraging a high-performance Rust engine to efficiently manage both structured and unstructure",
+      "name": "Velatir",
+      "domain": "velatir.com",
+      "desc": "Velatir provides a suite of tools that integrate human oversight into AI-driven workflows, focusing on compliance with regulations and enhancing decision-making. The platform employs specialized agents that monitor AI in",
       "stage": "SEED",
-      "last_amount": 30000000.0,
-      "total": 171730000.0,
+      "last_amount": 5845285.0,
+      "total": 7431965.0,
       "investors": [
-        "Market One Capital",
-        "Id4 ventures",
-        "Inovo.vc",
-        "TQ Ventures"
+        "EIFO",
+        "Spintop Ventures",
+        "Ugly Duckling Ventures",
+        "Norrsken Evolve"
       ],
-      "location": "Palo Alto, California"
-    },
-    {
-      "name": "Takt",
-      "domain": "takt.io",
-      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
-      "stage": "SERIES_A",
-      "last_amount": 9250000.0,
-      "total": 9250000.0,
-      "investors": [
-        "Ballast Point Partners"
-      ],
-      "location": "Reston, Virginia"
+      "location": "Odense"
     },
     {
       "name": "CONXAI",
@@ -149,21 +179,6 @@
         "noa"
       ],
       "location": "Munich"
-    },
-    {
-      "name": "Boom",
-      "domain": "boompay.app",
-      "desc": "Boom provides modern rental financial services that enhance the rental experience for both renters and property managers, offering solutions such as tenant screening and rent reporting. The platform employs technologies ",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 25500000.0,
-      "investors": [
-        "S3 Ventures",
-        "Gilgamesh Ventures",
-        "Clocktower Ventures",
-        "Mischief"
-      ],
-      "location": "Austin, TX"
     },
     {
       "name": "Hypercubic",
@@ -196,9 +211,39 @@
       "location": "New York, NY"
     },
     {
+      "name": "HeyBreezAI",
+      "domain": "heybreez.ai",
+      "desc": "Breez provides a real-time voice infrastructure that integrates low-latency streaming, intelligent turn-taking, and multi-agent orchestration to manage complex conversations and execute workflows. The platform is designe",
+      "stage": "SEED",
+      "last_amount": 2500000.0,
+      "total": 3800000.0,
+      "investors": [
+        "Jabbar Internet Group",
+        "DASH Ventures",
+        "Wamda ومضة",
+        "FENA Holdings"
+      ],
+      "location": "Wilmington, Delaware"
+    },
+    {
+      "name": "Flash",
+      "domain": "flashapp.com.br",
+      "desc": "The company offers a centralized platform for managing corporate benefits, expenses, and HR processes, utilizing a multi-benefit prepaid corporate card alongside integrated expense management tools. It employs mobile app",
+      "stage": "SERIES_D",
+      "last_amount": 28967550.0,
+      "total": 158967550.0,
+      "investors": [
+        "Global Founders Capital",
+        "Citius",
+        "Endeavor Brasil",
+        "Kauffman Fellows"
+      ],
+      "location": "São Paulo, SP"
+    },
+    {
       "name": "xpander.ai",
       "domain": "xpander.ai",
-      "desc": "The company provides an AI agent platform that enables the development and management of customizable workflows and multi-agent orchestration, integrating seamlessly with various enterprise systems. It utilizes large lan",
+      "desc": "The company offers an AI agent platform that facilitates the creation and management of customizable workflows and multi-agent orchestration, integrating with various enterprise systems. It employs large language models ",
       "stage": "SEED",
       "last_amount": 7500000.0,
       "total": 10500000.0,
@@ -211,18 +256,34 @@
       "location": "San Francisco"
     },
     {
-      "name": "VINCUE",
-      "domain": "vincue.com",
-      "desc": "VINCUE provides an automotive inventory management platform that focuses on vehicle lifecycle management, integrating operations for intelligent buying and market analytics. The platform employs real-time data and advanc",
-      "stage": "SEED",
+      "name": "bitdrift",
+      "domain": "bitdrift.io",
+      "desc": "Bitdrift provides a mobile observability platform that enables real-time monitoring and debugging of mobile applications using a lightweight SDK and a patented local storage ring buffer, which allows for the capture of u",
+      "stage": "SERIES_A",
       "last_amount": 0,
-      "total": 6160435.0,
+      "total": 17600000.0,
       "investors": [
-        "Cypress Growth Capital",
-        "Autotech Ventures",
-        "Automotive Ventures"
+        "Mango Capital",
+        "PrimeSet",
+        "Lyft",
+        "01 Advisors"
       ],
-      "location": "Kansas City, Missouri"
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Rezolv",
+      "domain": "rezolv.com",
+      "desc": "Rezolv offers an AI-powered debt collection platform that utilizes advanced analytics and machine learning to streamline the collections lifecycle, facilitating management across various communication channels and operat",
+      "stage": "SERIES_A",
+      "last_amount": 12500000.0,
+      "total": 16000000.0,
+      "investors": [
+        "Norwest",
+        "3one4 Capital",
+        "Vertex Ventures SE Asia & India",
+        "Vertex Ventures Southeast Asia and India"
+      ],
+      "location": "Mumbai, Maharashtra"
     },
     {
       "name": "Dentalcall",
@@ -269,19 +330,34 @@
       "location": "Aachen, Nordrhein-Westfalen"
     },
     {
-      "name": "Rezolv",
-      "domain": "rezolv.com",
-      "desc": "Rezolv offers an AI-powered debt collection platform that utilizes advanced analytics and machine learning to streamline the collections lifecycle, facilitating management across various communication channels and operat",
+      "name": "TravelX",
+      "domain": "travelx.io",
+      "desc": "TravelX provides a post-booking revenue management solution that enables airlines to transition from static to dynamic inventory management, utilizing machine learning to optimize seat buybacks and flight swaps based on ",
       "stage": "SERIES_A",
-      "last_amount": 12500000.0,
-      "total": 16000000.0,
+      "last_amount": 0,
+      "total": 10000000.0,
       "investors": [
-        "Norwest",
-        "3one4 Capital",
-        "Vertex Ventures SE Asia & India",
-        "Vertex Ventures Southeast Asia and India"
+        "KASZEK",
+        "Algorand Technologies",
+        "Monday Capital",
+        "Borderless"
       ],
-      "location": "Mumbai, Maharashtra"
+      "location": "Miami"
+    },
+    {
+      "name": "Aisel Health",
+      "domain": "aisel.co",
+      "desc": "The main product is an AI platform designed for psychiatric clinics that automates the intake process and organizes patient data through AI-driven pre-assessments and real-time documentation. It employs technologies such",
+      "stage": "PRE_SEED",
+      "last_amount": 1984498.0,
+      "total": 2091498.0,
+      "investors": [
+        "Innofounder",
+        "LifeX",
+        "EIFO",
+        "Angel Invest"
+      ],
+      "location": "Copenhagen"
     },
     {
       "name": "ARQA",
@@ -292,21 +368,6 @@
       "total": 9895000.0,
       "investors": [],
       "location": "Miami, Florida"
-    },
-    {
-      "name": "HeyBreezAI",
-      "domain": "heybreez.ai",
-      "desc": "Breez provides a real-time voice infrastructure that integrates low-latency streaming, intelligent turn-taking, and multi-agent orchestration to manage complex conversations and execute workflows. The platform is designe",
-      "stage": "SEED",
-      "last_amount": 2500000.0,
-      "total": 3800000.0,
-      "investors": [
-        "DASH Ventures",
-        "Wamda ومضة",
-        "FENA Holdings",
-        "Lunara Partners"
-      ],
-      "location": "Wilmington, Delaware"
     },
     {
       "name": "VastAdvisor",
@@ -324,21 +385,6 @@
       "location": "Austin, TX"
     },
     {
-      "name": "VALIS",
-      "domain": "valisinsights.com",
-      "desc": "The main product is a software solution that optimizes scrap metal sorting and enhances quality analysis in the recycling industry, utilizing AI-driven technology and data analytics to improve operational efficiency. It ",
-      "stage": "SEED",
-      "last_amount": 100000.0,
-      "total": 1080000.0,
-      "investors": [
-        "GS Futures",
-        "Worcester Polytechnic Institute",
-        "Closed Loop Partners",
-        "REFASHIOND Ventures: The Industrial Transformation Fund"
-      ],
-      "location": "Worcester, Massachusetts"
-    },
-    {
       "name": "1VALET",
       "domain": "1valet.com",
       "desc": "1VALET offers a smart building operating system that combines video intercom, facial recognition access control, and package delivery management to enhance security and operational efficiency in multifamily properties. T",
@@ -351,7 +397,7 @@
     {
       "name": "Gandr",
       "domain": "gandr.ai",
-      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that requires only about ten seconds of audio for replication. The system operates on a f",
+      "desc": "Gandr provides a text-to-speech service that supports unlimited speech generation in 23 languages, leveraging voice cloning technology that can replicate a voice using just ten seconds of audio. The system is designed fo",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
@@ -359,6 +405,18 @@
         "Y Combinator"
       ],
       "location": "San Francisco , CA"
+    },
+    {
+      "name": "Prevalent AI",
+      "domain": "prevalent.ai",
+      "desc": "Prevalent AI offers a platform that integrates a Security Data Fabric with AI-driven Exposure Management, providing organizations with enhanced visibility and control over their cyber risks. The technology employs advanc",
+      "stage": "",
+      "last_amount": 22000000.0,
+      "total": 22000000.0,
+      "investors": [
+        "Integrity Growth Partners"
+      ],
+      "location": "London"
     },
     {
       "name": "Provenance",
@@ -406,41 +464,19 @@
       "location": "Reykjavik"
     },
     {
-      "name": "Prevalent AI",
-      "domain": "prevalent.ai",
-      "desc": "Prevalent AI offers a platform that integrates a Security Data Fabric with AI-driven Exposure Management, providing organizations with enhanced visibility and control over their cyber risks. The technology employs advanc",
-      "stage": "",
-      "last_amount": 22000000.0,
-      "total": 22000000.0,
-      "investors": [
-        "Integrity Growth Partners"
-      ],
-      "location": "London"
-    },
-    {
-      "name": "Aisel Health",
-      "domain": "aisel.co",
-      "desc": "The main product is an AI platform designed for psychiatric clinics that automates the intake process and organizes patient data through AI-driven pre-assessments and real-time documentation. It employs technologies such",
-      "stage": "PRE_SEED",
-      "last_amount": 1972912.0,
-      "total": 2091498.0,
-      "investors": [
-        "Innofounder",
-        "LifeX",
-        "EIFO",
-        "Angel Invest"
-      ],
-      "location": "Copenhagen"
-    },
-    {
-      "name": "Qodia",
-      "domain": "qodia.de",
-      "desc": "QODIA offers AI-based doctoral bill for fast, precise and GOÄ-compliant invoicing for private medical billing points.",
+      "name": "Twin-1 AI",
+      "domain": "twin1.ai",
+      "desc": "We are solving the siloed knowledge problem for business by building the context and privacy layer. More to come…",
       "stage": "SEED",
-      "last_amount": 1384118.0,
-      "total": 1384118.0,
-      "investors": [],
-      "location": "Hamburg, Hamburg"
+      "last_amount": 20000000.0,
+      "total": 20000000.0,
+      "investors": [
+        "Notion Capital",
+        "Tribeca Venture Partners",
+        "Orrick",
+        "Neo"
+      ],
+      "location": "San Francisco"
     },
     {
       "name": "Sophiie AI",
@@ -458,6 +494,33 @@
       "location": "Gold Coast, Queensland"
     },
     {
+      "name": "Capveon",
+      "domain": "capveon.ai",
+      "desc": "Public-infrastructure work, cited, while it is still forming. For government contractors and manufacturers.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Quantizr",
+      "domain": "quantizr.com",
+      "desc": "The main product is an AI-powered platform designed for the entertainment industry that automates the parsing and structuring of financial documents and deal terms, thereby streamlining workflows and enhancing decision-m",
+      "stage": "SEED",
+      "last_amount": 5000000.0,
+      "total": 5000000.0,
+      "investors": [
+        "TTV Capital",
+        "Jonathan Azu",
+        "Andy Levine",
+        "Chris Kappy"
+      ],
+      "location": ""
+    },
+    {
       "name": "Jem",
       "domain": "jemhr.com",
       "desc": "Jem provides a platform that enables the distribution of payroll documents, such as payslips and timesheets, to deskless workers via WhatsApp, enhancing communication and payroll management. The solution integrates with ",
@@ -471,6 +534,48 @@
         "Standard Bank South Africa"
       ],
       "location": "Cape Town, Western Cape"
+    },
+    {
+      "name": "Zenalyst.AI",
+      "domain": "zenalyst.ai",
+      "desc": "Zenalyst | Building the AI Workforce for Modern Business Zenalyst is an AI powered enterprise intelligence platform that helps organizations transform fragmented data into faster, smarter decisions. By connecting ERP, CR",
+      "stage": "PRE_SEED",
+      "last_amount": 314160.0,
+      "total": 314160.0,
+      "investors": [
+        "Cabi by SKIL",
+        "Day7 IT Services LLC",
+        "Siddarth Razdan (Mum Toronto Dxb)",
+        "Anurag Jain"
+      ],
+      "location": "Bengaluru South, Karnataka"
+    },
+    {
+      "name": "Oceanloop",
+      "domain": "oceanloop.com",
+      "desc": "Oceanloop specializes in sustainable, land-based aquaculture, utilizing patented recirculating aquaculture systems (RAS) technology for the efficient farming of shrimp and fish. Their operations incorporate advanced soft",
+      "stage": "SERIES_B",
+      "last_amount": 7523405.0,
+      "total": 82149045.0,
+      "investors": [
+        "Stolt Ventures",
+        "Hatch Blue",
+        "European Investment Bank (EIB)"
+      ],
+      "location": "Munich, Bavaria"
+    },
+    {
+      "name": "Nexus IT",
+      "domain": "nexusitc.net",
+      "desc": "Nexus IT Consultants offers managed IT services that encompass cybersecurity, cloud solutions including Microsoft Office 365 and Azure, and large facility Wi-Fi, tailored for small and medium-sized businesses in regulate",
+      "stage": "",
+      "last_amount": 60000000.0,
+      "total": 120000000.0,
+      "investors": [
+        "Metropolitan Partners Group",
+        "Diatonic Healthcare"
+      ],
+      "location": "Salt Lake City, UT"
     },
     {
       "name": "DiscreteStack",
@@ -487,18 +592,19 @@
       "location": ""
     },
     {
-      "name": "Oceanloop",
-      "domain": "oceanloop.com",
-      "desc": "Oceanloop specializes in sustainable, land-based aquaculture, utilizing patented recirculating aquaculture systems (RAS) technology for the efficient farming of shrimp and fish. Their operations incorporate advanced soft",
-      "stage": "SERIES_B",
-      "last_amount": 7523405.0,
-      "total": 82149045.0,
+      "name": "Guideless",
+      "domain": "guideless.ai",
+      "desc": "Guideless solves outdated employee training and customer onboarding across various industries. Companies still waste days creating content that quickly becomes outdated. Docs with screenshots don’t work. People don’t rea",
+      "stage": "PRE_SEED",
+      "last_amount": 1169057.0,
+      "total": 1168703.0,
       "investors": [
-        "Stolt Ventures",
-        "Hatch Blue",
-        "European Investment Bank (EIB)"
+        "Superhero Capital",
+        "FIRSTPICK",
+        "Thomas Plantenga",
+        "Mantas Mikuckas"
       ],
-      "location": "Munich, Bavaria"
+      "location": "Vilnius"
     },
     {
       "name": "Lightfield",
@@ -538,6 +644,21 @@
       "location": "Dubai"
     },
     {
+      "name": "InfinityBox",
+      "domain": "infinityboxkgp.com",
+      "desc": "The company provides sustainable food packaging containers that are engineered for reuse and recycling, supporting a circular economy. It employs materials engineering and supply chain management to facilitate eco-friend",
+      "stage": "SERIES_A",
+      "last_amount": 1476552.0,
+      "total": 2371760.0,
+      "investors": [
+        "Kolte Patil Family Office",
+        "Rainmatter",
+        "Rainmatter by Zerodha",
+        "WEH Ventures"
+      ],
+      "location": "Bengaluru East, Karnataka"
+    },
+    {
       "name": "ClaimKit",
       "domain": "claimkit.co",
       "desc": "ClaimKit provides an automated platform designed to facilitate the management and documentation of R&D tax claims for technology companies, significantly decreasing the time required for submission. The service utilizes ",
@@ -563,50 +684,24 @@
       "location": "New Delhi"
     },
     {
-      "name": "Zenalyst.AI",
-      "domain": "zenalyst.ai",
-      "desc": "Zenalyst | Building the AI Workforce for Modern Business Zenalyst is an AI powered enterprise intelligence platform that helps organizations transform fragmented data into faster, smarter decisions. By connecting ERP, CR",
-      "stage": "PRE_SEED",
-      "last_amount": 313320.0,
-      "total": 314160.0,
-      "investors": [
-        "P H Corp"
-      ],
-      "location": "Bengaluru South, Karnataka"
-    },
-    {
-      "name": "Capveon",
-      "domain": "capveon.ai",
-      "desc": "Public-infrastructure work, cited, while it is still forming. For government contractors and manufacturers.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Naran General Trading Co LLC",
-      "domain": "naran-group.com",
-      "desc": "Naran is a renowned diversified service providing company that is internationally acclaimed for its quality output to the suppliers and customers. The impact of the company is strong in the deep business regions such as ",
+      "name": "Bower",
+      "domain": "bowerlabs.ai",
+      "desc": "Bower is the operating system for research. We augment scientific work with ambient intelligence delivered through smart glasses; capturing research as it happens, automating research admin, and making an organisation’s ",
       "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "Landel"
-      ],
-      "location": "Dubai, Dubai"
+      "last_amount": 2000000.0,
+      "total": 2000000.0,
+      "investors": [],
+      "location": "Byron Bay, NSW"
     },
     {
-      "name": "Rozenama",
-      "domain": "rozenama.com",
-      "desc": "Roznama is an innovative e-commerce management system that aims to organize the work of merchants effectively. It provides them with an easy-to-use user interface and advanced organization tools to manage products, proce",
+      "name": "Paralo",
+      "domain": "getparalo.com",
+      "desc": "Paralo is building the next generation of golf club software, designed around how golf should feel. For too long, everyday golfers have interacted with systems that treat them like transactions, not members. At the same ",
       "stage": "PRE_SEED",
-      "last_amount": 150000.0,
-      "total": 150000.0,
+      "last_amount": 368140.0,
+      "total": 368140.0,
       "investors": [],
-      "location": "Baghdad, Karada"
+      "location": "London"
     }
   ]
 }
