@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21",
+  "generated": "2026-08-22",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -17,21 +17,6 @@
         "First Round Capital"
       ],
       "location": "New York, NY, US"
-    },
-    {
-      "name": "Hadrian",
-      "domain": "hadrian.co",
-      "desc": "Hadrian specializes in precision manufacturing, utilizing its AI-powered platform, Opus, to automate production and inspection processes, thereby enhancing operational efficiency and throughput. The company offers flexib",
-      "stage": "SERIES_D",
-      "last_amount": 360000000.0,
-      "total": 2338807547.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Morgan Stanley",
-        "Baillie Gifford",
-        "XYZ Venture Capital"
-      ],
-      "location": "Los Angeles, CA"
     },
     {
       "name": "Trajectory",
@@ -64,19 +49,19 @@
       "location": "Townsend St San Francisco, California 94107, US"
     },
     {
-      "name": "Greptile",
-      "domain": "greptile.com",
-      "desc": "The main product is an AI-driven code review tool that constructs a graph index of the codebase and utilizes a swarm of agents to review pull requests, identifying potential issues such as style violations and security r",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 29600000.0,
+      "name": "Arintra",
+      "domain": "arintra.com",
+      "desc": "Arintra provides an autonomous medical coding platform that leverages advanced AI and clinical expertise to accurately code medical charts without human intervention, integrating directly with electronic health record (E",
+      "stage": "SERIES_B",
+      "last_amount": 25000000.0,
+      "total": 46650000.0,
       "investors": [
-        "Drive Capital",
-        "Georgia Tech CREATE-X",
-        "Y Combinator",
-        "Benchmark"
+        "Spider Capital",
+        "Peak XV Partners",
+        "Google for Startups",
+        "TEN13"
       ],
-      "location": "San Francisco, California"
+      "location": "Austin"
     },
     {
       "name": "Rundoo",
@@ -151,12 +136,27 @@
       "location": "Menlo Park, CA"
     },
     {
+      "name": "Hypercubic",
+      "domain": "hypercubic.ai",
+      "desc": "Hypercubic provides a domain-specific AI platform designed for mainframe modernization, enabling the transformation of legacy systems into modern architectures while preserving critical operational knowledge. The technol",
+      "stage": "SEED",
+      "last_amount": 5300000.0,
+      "total": 5800000.0,
+      "investors": [
+        "Plug and Play",
+        "Pioneer Fund",
+        "Unpopular Ventures",
+        "Y Combinator"
+      ],
+      "location": "San Francisco, CA, USA"
+    },
+    {
       "name": "Velatir",
       "domain": "velatir.com",
       "desc": "Velatir provides a suite of tools that integrate human oversight into AI-driven workflows, focusing on compliance with regulations and enhancing decision-making. The platform employs specialized agents that monitor AI in",
       "stage": "SEED",
-      "last_amount": 5845285.0,
-      "total": 7431965.0,
+      "last_amount": 5843515.0,
+      "total": 7430195.0,
       "investors": [
         "EIFO",
         "Spintop Ventures",
@@ -181,19 +181,19 @@
       "location": "Munich"
     },
     {
-      "name": "Hypercubic",
-      "domain": "hypercubic.ai",
-      "desc": "Hypercubic provides a domain-specific AI platform designed for mainframe modernization, enabling the transformation of legacy systems into modern architectures while preserving critical operational knowledge. The technol",
-      "stage": "SEED",
-      "last_amount": 5300000.0,
-      "total": 5800000.0,
+      "name": "FSH Technologies",
+      "domain": "fsh.org",
+      "desc": "The company provides an AI-native software platform designed to enhance municipal operations, integrating solutions for food management, waste routing, and human resources while ensuring compatibility with legacy systems",
+      "stage": "SERIES_A",
+      "last_amount": 20000000.0,
+      "total": 25000000.0,
       "investors": [
-        "Plug and Play",
-        "Pioneer Fund",
-        "Unpopular Ventures",
-        "Y Combinator"
+        "Envision Accelerator",
+        "Scribble Ventures",
+        "Basis Set",
+        "Operator Partners"
       ],
-      "location": "San Francisco, CA, USA"
+      "location": "Philadelphia, Pennsylvania"
     },
     {
       "name": "VERO",
@@ -243,7 +243,7 @@
     {
       "name": "xpander.ai",
       "domain": "xpander.ai",
-      "desc": "The company offers an AI agent platform that facilitates the creation and management of customizable workflows and multi-agent orchestration, integrating with various enterprise systems. It employs large language models ",
+      "desc": "The company provides an AI agent platform that enables the development and management of customizable workflows and multi-agent orchestration, integrating seamlessly with various enterprise systems. It utilizes large lan",
       "stage": "SEED",
       "last_amount": 7500000.0,
       "total": 10500000.0,
@@ -286,33 +286,19 @@
       "location": "Mumbai, Maharashtra"
     },
     {
-      "name": "Dentalcall",
-      "domain": "dentalcall.kr",
-      "desc": "The main product is an AI phone coordinator designed for dental practices, automating patient interactions such as appointment scheduling and follow-up communications while integrating with electronic medical records (EM",
+      "name": "SnerpaPower",
+      "domain": "snerpapower.com",
+      "desc": "The company provides an energy management platform tailored for power-intensive industries, utilizing automation, load forecasting, scheduling, and bid generation technologies to optimize electricity consumption and oper",
       "stage": "SEED",
-      "last_amount": 0,
-      "total": 67800.0,
+      "last_amount": 464231.0,
+      "total": 5886499.0,
       "investors": [
-        "TAIL Ventures",
-        "CNTTECH CO., LTD.",
-        "Antler - Korea"
+        "Encevo",
+        "Crowberry Capital",
+        "Rannís - Icelandic Centre for Research",
+        "BackingMinds"
       ],
-      "location": "New York, New York"
-    },
-    {
-      "name": "Sterling",
-      "domain": "histerling.com",
-      "desc": "The main product is an AI-driven accounting assistant that automates financial processes such as accounts payable, accounts receivable, payroll, and reconciliations, while seamlessly integrating with existing financial s",
-      "stage": "SEED",
-      "last_amount": 2238960.0,
-      "total": 2238960.0,
-      "investors": [
-        "Blackbird",
-        "Trade Me",
-        "Hoku Group",
-        "Pushpay"
-      ],
-      "location": "Wellington"
+      "location": "Reykjavik"
     },
     {
       "name": "amber",
@@ -332,10 +318,10 @@
     {
       "name": "TravelX",
       "domain": "travelx.io",
-      "desc": "TravelX provides a post-booking revenue management solution that enables airlines to transition from static to dynamic inventory management, utilizing machine learning to optimize seat buybacks and flight swaps based on ",
+      "desc": "TravelX offers a post-booking revenue management solution that enables airlines to shift from static to dynamic inventory management, utilizing machine learning to optimize seat buybacks and flight swaps based on demand ",
       "stage": "SERIES_A",
       "last_amount": 0,
-      "total": 10000000.0,
+      "total": 45000000.0,
       "investors": [
         "KASZEK",
         "Algorand Technologies",
@@ -358,16 +344,6 @@
         "Angel Invest"
       ],
       "location": "Copenhagen"
-    },
-    {
-      "name": "ARQA",
-      "domain": "arqa.ai",
-      "desc": "ARQA offers an AI-native wealth management platform that integrates various tools for portfolio management, including automated data extraction, advanced analytics, and customizable workflows. Its modular architecture fa",
-      "stage": "SEED",
-      "last_amount": 5200000.0,
-      "total": 9895000.0,
-      "investors": [],
-      "location": "Miami, Florida"
     },
     {
       "name": "VastAdvisor",
@@ -409,7 +385,7 @@
     {
       "name": "Prevalent AI",
       "domain": "prevalent.ai",
-      "desc": "Prevalent AI offers a platform that integrates a Security Data Fabric with AI-driven Exposure Management, providing organizations with enhanced visibility and control over their cyber risks. The technology employs advanc",
+      "desc": "Prevalent AI provides a platform that combines a Security Data Fabric with AI-powered Exposure Management, enabling organizations to gain comprehensive visibility and control over their cyber risks. The technology utiliz",
       "stage": "",
       "last_amount": 22000000.0,
       "total": 22000000.0,
@@ -417,6 +393,21 @@
         "Integrity Growth Partners"
       ],
       "location": "London"
+    },
+    {
+      "name": "Intel Corp",
+      "domain": "intel.com",
+      "desc": "The company offers a range of processors and graphics technologies aimed at enhancing computing performance, particularly for AI applications, with a focus on advanced data processing and system security. These products ",
+      "stage": "SERIES_C",
+      "last_amount": 5843515000.0,
+      "total": 5843515000.0,
+      "investors": [
+        "Morgan Stanley",
+        "Giza Venture Capital",
+        "Artiman Ventures",
+        "Intel"
+      ],
+      "location": "339509"
     },
     {
       "name": "Provenance",
@@ -447,21 +438,6 @@
         "Ubiquity Ventures"
       ],
       "location": "Copenhagen, Capital Region"
-    },
-    {
-      "name": "SnerpaPower",
-      "domain": "snerpapower.com",
-      "desc": "The company provides an energy management platform tailored for power-intensive industries, utilizing automation, load forecasting, scheduling, and bid generation technologies to optimize electricity consumption and oper",
-      "stage": "SEED",
-      "last_amount": 3481734.0,
-      "total": 5886499.0,
-      "investors": [
-        "Encevo",
-        "Crowberry Capital",
-        "Rannís - Icelandic Centre for Research",
-        "BackingMinds"
-      ],
-      "location": "Reykjavik"
     },
     {
       "name": "Twin-1 AI",
@@ -578,25 +554,11 @@
       "location": "Salt Lake City, UT"
     },
     {
-      "name": "DiscreteStack",
-      "domain": "discretestack.com",
-      "desc": "DiscreteStack provides a private AI operating system that enables enterprises to deploy AI on their own infrastructure, ensuring data remains on-premises. The technology features a single-server architecture optimized fo",
-      "stage": "SEED",
-      "last_amount": 925386.0,
-      "total": 925386.0,
-      "investors": [
-        "CleverPine Ventures",
-        "Milen Manev",
-        "Stoil Vasilev"
-      ],
-      "location": ""
-    },
-    {
       "name": "Guideless",
       "domain": "guideless.ai",
       "desc": "Guideless solves outdated employee training and customer onboarding across various industries. Companies still waste days creating content that quickly becomes outdated. Docs with screenshots don’t work. People don’t rea",
       "stage": "PRE_SEED",
-      "last_amount": 1169057.0,
+      "last_amount": 1168703.0,
       "total": 1168703.0,
       "investors": [
         "Superhero Capital",
@@ -634,6 +596,18 @@
       "location": "Seoul"
     },
     {
+      "name": "Redfaire",
+      "domain": "redfaire.com",
+      "desc": "Redfaire provides consulting services for Oracle JD Edwards ERP, focusing on cloud migrations, software development, and data management to enhance system functionality. Their solutions utilize Oracle Cloud Infrastructur",
+      "stage": "",
+      "last_amount": 15193295.0,
+      "total": 15193295.0,
+      "investors": [
+        "BGF"
+      ],
+      "location": "Limerick"
+    },
+    {
       "name": "Tax Star",
       "domain": "taxstar.app",
       "desc": "The product is a corporate tax software that automates tax calculations, manages client approval workflows, and tracks deadlines to improve compliance and operational efficiency. It also integrates with existing accounti",
@@ -642,6 +616,21 @@
       "total": 1750000.0,
       "investors": [],
       "location": "Dubai"
+    },
+    {
+      "name": "ALSO Group",
+      "domain": "also.com",
+      "desc": "ALSO offers a range of IT solutions, including subscription-based cloud services and a cloud marketplace, utilizing technologies such as cybersecurity, virtualization, and artificial intelligence. The company also provid",
+      "stage": "SERIES_D",
+      "last_amount": 150000000.0,
+      "total": 150000000.0,
+      "investors": [
+        "MVP Ventures",
+        "Eclipse",
+        "Greenoaks",
+        "Prysm Capital"
+      ],
+      "location": "Emmen, Kanton Luzern"
     },
     {
       "name": "InfinityBox",
@@ -657,6 +646,21 @@
         "WEH Ventures"
       ],
       "location": "Bengaluru East, Karnataka"
+    },
+    {
+      "name": "NEXTPAYMENTS INC.",
+      "domain": "nextpayments.co.kr",
+      "desc": "The company provides a payment platform tailored for non-face-to-face transactions in smart retail environments, utilizing payment gateway services and smart banding technology. Its digital transformation offerings encom",
+      "stage": "SERIES_A",
+      "last_amount": 1086000.0,
+      "total": 3110000.0,
+      "investors": [
+        "NVESTOR",
+        "Korea Alternative Investment Asset Management",
+        "Ministry of SMEs and Startups, Republic of Korea, 대한민국 중소벤처기업부",
+        "New Paradigm Investment"
+      ],
+      "location": "서울시 , 강남구"
     },
     {
       "name": "ClaimKit",
@@ -687,10 +691,15 @@
       "name": "Bower",
       "domain": "bowerlabs.ai",
       "desc": "Bower is the operating system for research. We augment scientific work with ambient intelligence delivered through smart glasses; capturing research as it happens, automating research admin, and making an organisation’s ",
-      "stage": "SEED",
+      "stage": "PRE_SEED",
       "last_amount": 2000000.0,
       "total": 2000000.0,
-      "investors": [],
+      "investors": [
+        "TEN13",
+        "Edale Capital Pty Ltd",
+        "Admiralty Capital Group",
+        "Harry Uffindell"
+      ],
       "location": "Byron Bay, NSW"
     },
     {
