@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-22",
+  "generated": "2026-08-23",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -79,16 +79,19 @@
       "location": "Redwood City, California"
     },
     {
-      "name": "Takt",
-      "domain": "takt.io",
-      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
-      "stage": "SERIES_A",
-      "last_amount": 9250000.0,
-      "total": 9250000.0,
+      "name": "Velatir",
+      "domain": "velatir.com",
+      "desc": "Velatir provides a suite of tools that integrate human oversight into AI-driven workflows, focusing on compliance with regulations and enhancing decision-making. The platform employs specialized agents that monitor AI in",
+      "stage": "SEED",
+      "last_amount": 5843515.0,
+      "total": 7430195.0,
       "investors": [
-        "Ballast Point Partners"
+        "EIFO",
+        "Spintop Ventures",
+        "Ugly Duckling Ventures",
+        "Norrsken Evolve"
       ],
-      "location": "Reston, Virginia"
+      "location": "Odense"
     },
     {
       "name": "Flip",
@@ -106,6 +109,18 @@
       "location": "Stuttgart, Baden-Württemberg"
     },
     {
+      "name": "Takt",
+      "domain": "takt.io",
+      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
+      "stage": "SERIES_A",
+      "last_amount": 9250000.0,
+      "total": 9250000.0,
+      "investors": [
+        "Ballast Point Partners"
+      ],
+      "location": "Reston, Virginia"
+    },
+    {
       "name": "Boom",
       "domain": "boompay.app",
       "desc": "Boom provides modern rental financial services that enhance the rental experience for both renters and property managers, offering solutions such as tenant screening and rent reporting. The platform employs technologies ",
@@ -121,9 +136,24 @@
       "location": "Austin, TX"
     },
     {
+      "name": "Twin-1 AI",
+      "domain": "twin1.ai",
+      "desc": "We are solving the siloed knowledge problem for business by building the context and privacy layer. More to come…",
+      "stage": "SEED",
+      "last_amount": 20000000.0,
+      "total": 20000000.0,
+      "investors": [
+        "Notion Capital",
+        "Tribeca Venture Partners",
+        "Orrick",
+        "Neo"
+      ],
+      "location": "San Francisco"
+    },
+    {
       "name": "Palona AI",
       "domain": "palona.ai",
-      "desc": "Palona provides a conversational AI platform designed specifically for the restaurant industry, enabling efficient customer interactions through voice and text-based ordering. The technology utilizes advanced voice cloni",
+      "desc": "Palona offers a conversational AI platform tailored for the restaurant industry, facilitating efficient customer interactions through voice and text-based ordering. The technology employs advanced voice cloning, multi-ag",
       "stage": "SERIES_A",
       "last_amount": 20000000.0,
       "total": 58315000.0,
@@ -149,21 +179,6 @@
         "Y Combinator"
       ],
       "location": "San Francisco, CA, USA"
-    },
-    {
-      "name": "Velatir",
-      "domain": "velatir.com",
-      "desc": "Velatir provides a suite of tools that integrate human oversight into AI-driven workflows, focusing on compliance with regulations and enhancing decision-making. The platform employs specialized agents that monitor AI in",
-      "stage": "SEED",
-      "last_amount": 5843515.0,
-      "total": 7430195.0,
-      "investors": [
-        "EIFO",
-        "Spintop Ventures",
-        "Ugly Duckling Ventures",
-        "Norrsken Evolve"
-      ],
-      "location": "Odense"
     },
     {
       "name": "CONXAI",
@@ -194,6 +209,21 @@
         "Operator Partners"
       ],
       "location": "Philadelphia, Pennsylvania"
+    },
+    {
+      "name": "xpander.ai",
+      "domain": "xpander.ai",
+      "desc": "The company offers an AI agent platform that facilitates the creation and management of customizable workflows and multi-agent orchestration, integrating with various enterprise systems. It employs large language models ",
+      "stage": "SEED",
+      "last_amount": 7500000.0,
+      "total": 10500000.0,
+      "investors": [
+        "PICO Venture Partners",
+        "Samsung Next",
+        "SeedIL Ventures",
+        "Emerge Ventures"
+      ],
+      "location": "San Francisco"
     },
     {
       "name": "VERO",
@@ -241,34 +271,19 @@
       "location": "São Paulo, SP"
     },
     {
-      "name": "xpander.ai",
-      "domain": "xpander.ai",
-      "desc": "The company provides an AI agent platform that enables the development and management of customizable workflows and multi-agent orchestration, integrating seamlessly with various enterprise systems. It utilizes large lan",
+      "name": "SnerpaPower",
+      "domain": "snerpapower.com",
+      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to enhance electricity consumption and operati",
       "stage": "SEED",
-      "last_amount": 7500000.0,
-      "total": 10500000.0,
+      "last_amount": 3481734.0,
+      "total": 5886499.0,
       "investors": [
-        "PICO Venture Partners",
-        "Samsung Next",
-        "SeedIL Ventures",
-        "Emerge Ventures"
+        "Encevo",
+        "Crowberry Capital",
+        "Rannís - Icelandic Centre for Research",
+        "BackingMinds"
       ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "bitdrift",
-      "domain": "bitdrift.io",
-      "desc": "Bitdrift provides a mobile observability platform that enables real-time monitoring and debugging of mobile applications using a lightweight SDK and a patented local storage ring buffer, which allows for the capture of u",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 17600000.0,
-      "investors": [
-        "Mango Capital",
-        "PrimeSet",
-        "Lyft",
-        "01 Advisors"
-      ],
-      "location": "San Francisco, CA"
+      "location": "Reykjavik"
     },
     {
       "name": "Rezolv",
@@ -284,36 +299,6 @@
         "Vertex Ventures Southeast Asia and India"
       ],
       "location": "Mumbai, Maharashtra"
-    },
-    {
-      "name": "SnerpaPower",
-      "domain": "snerpapower.com",
-      "desc": "The company provides an energy management platform tailored for power-intensive industries, utilizing automation, load forecasting, scheduling, and bid generation technologies to optimize electricity consumption and oper",
-      "stage": "SEED",
-      "last_amount": 464231.0,
-      "total": 5886499.0,
-      "investors": [
-        "Encevo",
-        "Crowberry Capital",
-        "Rannís - Icelandic Centre for Research",
-        "BackingMinds"
-      ],
-      "location": "Reykjavik"
-    },
-    {
-      "name": "amber",
-      "domain": "ambersearch.de",
-      "desc": "The company provides an AI-driven enterprise search platform that enables efficient access to diverse internal content types, including text, images, and audio, while addressing data silos. It utilizes proprietary AI mod",
-      "stage": "SERIES_A",
-      "last_amount": 8117634.0,
-      "total": 10386345.0,
-      "investors": [
-        "Ventech",
-        "NRW.BANK",
-        "digitalHUB Aachen e.V.",
-        "BRYCK.COM"
-      ],
-      "location": "Aachen, Nordrhein-Westfalen"
     },
     {
       "name": "TravelX",
@@ -346,6 +331,63 @@
       "location": "Copenhagen"
     },
     {
+      "name": "bitdrift",
+      "domain": "bitdrift.io",
+      "desc": "Bitdrift provides a mobile observability platform that enables real-time monitoring and debugging of mobile applications using a lightweight SDK and a patented local storage ring buffer, which allows for the capture of u",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 17600000.0,
+      "investors": [
+        "Mango Capital",
+        "PrimeSet",
+        "Lyft",
+        "01 Advisors"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "amber",
+      "domain": "ambersearch.de",
+      "desc": "The company provides an AI-driven enterprise search platform that enables efficient access to diverse internal content types, including text, images, and audio, while addressing data silos. It utilizes proprietary AI mod",
+      "stage": "SERIES_A",
+      "last_amount": 8117634.0,
+      "total": 10386345.0,
+      "investors": [
+        "Ventech",
+        "NRW.BANK",
+        "digitalHUB Aachen e.V.",
+        "BRYCK.COM"
+      ],
+      "location": "Aachen, Nordrhein-Westfalen"
+    },
+    {
+      "name": "Intel Corp",
+      "domain": "intel.com",
+      "desc": "The company offers a range of processors and graphics technologies aimed at enhancing computing performance, particularly for AI applications, with a focus on advanced data processing and system security. These products ",
+      "stage": "SERIES_C",
+      "last_amount": 5843515000.0,
+      "total": 5843515000.0,
+      "investors": [
+        "Morgan Stanley",
+        "Giza Venture Capital",
+        "Artiman Ventures",
+        "Intel"
+      ],
+      "location": "339509"
+    },
+    {
+      "name": "Prevalent AI",
+      "domain": "prevalent.ai",
+      "desc": "Prevalent AI provides a platform that combines a Security Data Fabric with AI-powered Exposure Management, enabling organizations to gain comprehensive visibility and control over their cyber risks. The technology utiliz",
+      "stage": "",
+      "last_amount": 22000000.0,
+      "total": 22000000.0,
+      "investors": [
+        "Integrity Growth Partners"
+      ],
+      "location": "London"
+    },
+    {
       "name": "VastAdvisor",
       "domain": "vastadvisor.ai",
       "desc": "VastAdvisor – The Governed AI Growth Operating System for Financial Advisors VastAdvisor is redefining how financial advisors grow. Built as the industry’s first AI Growth Operating System, we empower Registered Investme",
@@ -371,9 +413,24 @@
       "location": "Gatineau, Québec"
     },
     {
+      "name": "Guideless",
+      "domain": "guideless.ai",
+      "desc": "Guideless solves outdated employee training and customer onboarding across various industries. Companies still waste days creating content that quickly becomes outdated. Docs with screenshots don’t work. People don’t rea",
+      "stage": "PRE_SEED",
+      "last_amount": 1168703.0,
+      "total": 1168703.0,
+      "investors": [
+        "Superhero Capital",
+        "FIRSTPICK",
+        "Thomas Plantenga",
+        "Mantas Mikuckas"
+      ],
+      "location": "Vilnius"
+    },
+    {
       "name": "Gandr",
       "domain": "gandr.ai",
-      "desc": "Gandr provides a text-to-speech service that supports unlimited speech generation in 23 languages, leveraging voice cloning technology that can replicate a voice using just ten seconds of audio. The system is designed fo",
+      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that can replicate a voice from just ten seconds of audio. The system is designed for low",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
@@ -381,33 +438,6 @@
         "Y Combinator"
       ],
       "location": "San Francisco , CA"
-    },
-    {
-      "name": "Prevalent AI",
-      "domain": "prevalent.ai",
-      "desc": "Prevalent AI provides a platform that combines a Security Data Fabric with AI-powered Exposure Management, enabling organizations to gain comprehensive visibility and control over their cyber risks. The technology utiliz",
-      "stage": "",
-      "last_amount": 22000000.0,
-      "total": 22000000.0,
-      "investors": [
-        "Integrity Growth Partners"
-      ],
-      "location": "London"
-    },
-    {
-      "name": "Intel Corp",
-      "domain": "intel.com",
-      "desc": "The company offers a range of processors and graphics technologies aimed at enhancing computing performance, particularly for AI applications, with a focus on advanced data processing and system security. These products ",
-      "stage": "SERIES_C",
-      "last_amount": 5843515000.0,
-      "total": 5843515000.0,
-      "investors": [
-        "Morgan Stanley",
-        "Giza Venture Capital",
-        "Artiman Ventures",
-        "Intel"
-      ],
-      "location": "339509"
     },
     {
       "name": "Provenance",
@@ -440,19 +470,27 @@
       "location": "Copenhagen, Capital Region"
     },
     {
-      "name": "Twin-1 AI",
-      "domain": "twin1.ai",
-      "desc": "We are solving the siloed knowledge problem for business by building the context and privacy layer. More to come…",
+      "name": "VISS.AI",
+      "domain": "viss.ai",
+      "desc": "The main product is an AI automation platform that allows users to create workflows using natural language commands, integrating with over 100 applications without the need for coding. It utilizes a multi-agent AI framew",
       "stage": "SEED",
-      "last_amount": 20000000.0,
-      "total": 20000000.0,
+      "last_amount": 2700000.0,
+      "total": 4212017.0,
       "investors": [
-        "Notion Capital",
-        "Tribeca Venture Partners",
-        "Orrick",
-        "Neo"
+        "Starbright Invest",
+        "Spintop Ventures"
       ],
-      "location": "San Francisco"
+      "location": "Huskvarnavägen 82, 554 66 Jönköping, Sweden"
+    },
+    {
+      "name": "Paralo",
+      "domain": "getparalo.com",
+      "desc": "Paralo is building the next generation of golf club software, designed around how golf should feel. For too long, everyday golfers have interacted with systems that treat them like transactions, not members. At the same ",
+      "stage": "PRE_SEED",
+      "last_amount": 368140.0,
+      "total": 368140.0,
+      "investors": [],
+      "location": "London"
     },
     {
       "name": "Sophiie AI",
@@ -531,8 +569,8 @@
       "domain": "oceanloop.com",
       "desc": "Oceanloop specializes in sustainable, land-based aquaculture, utilizing patented recirculating aquaculture systems (RAS) technology for the efficient farming of shrimp and fish. Their operations incorporate advanced soft",
       "stage": "SERIES_B",
-      "last_amount": 7523405.0,
-      "total": 82149045.0,
+      "last_amount": 7587788.0,
+      "total": 82213428.0,
       "investors": [
         "Stolt Ventures",
         "Hatch Blue",
@@ -554,19 +592,16 @@
       "location": "Salt Lake City, UT"
     },
     {
-      "name": "Guideless",
-      "domain": "guideless.ai",
-      "desc": "Guideless solves outdated employee training and customer onboarding across various industries. Companies still waste days creating content that quickly becomes outdated. Docs with screenshots don’t work. People don’t rea",
-      "stage": "PRE_SEED",
-      "last_amount": 1168703.0,
-      "total": 1168703.0,
+      "name": "Redfaire",
+      "domain": "redfaire.com",
+      "desc": "Redfaire provides consulting services for Oracle JD Edwards ERP, focusing on cloud migrations, software development, and data management to enhance system functionality. Their solutions utilize Oracle Cloud Infrastructur",
+      "stage": "",
+      "last_amount": 15193945.0,
+      "total": 15193945.0,
       "investors": [
-        "Superhero Capital",
-        "FIRSTPICK",
-        "Thomas Plantenga",
-        "Mantas Mikuckas"
+        "BGF"
       ],
-      "location": "Vilnius"
+      "location": "Limerick"
     },
     {
       "name": "Lightfield",
@@ -596,18 +631,6 @@
       "location": "Seoul"
     },
     {
-      "name": "Redfaire",
-      "domain": "redfaire.com",
-      "desc": "Redfaire provides consulting services for Oracle JD Edwards ERP, focusing on cloud migrations, software development, and data management to enhance system functionality. Their solutions utilize Oracle Cloud Infrastructur",
-      "stage": "",
-      "last_amount": 15193295.0,
-      "total": 15193295.0,
-      "investors": [
-        "BGF"
-      ],
-      "location": "Limerick"
-    },
-    {
       "name": "Tax Star",
       "domain": "taxstar.app",
       "desc": "The product is a corporate tax software that automates tax calculations, manages client approval workflows, and tracks deadlines to improve compliance and operational efficiency. It also integrates with existing accounti",
@@ -616,6 +639,21 @@
       "total": 1750000.0,
       "investors": [],
       "location": "Dubai"
+    },
+    {
+      "name": "Bower",
+      "domain": "bowerlabs.ai",
+      "desc": "Bower is the operating system for research. We augment scientific work with ambient intelligence delivered through smart glasses; capturing research as it happens, automating research admin, and making an organisation’s ",
+      "stage": "PRE_SEED",
+      "last_amount": 2000000.0,
+      "total": 2000000.0,
+      "investors": [
+        "TEN13",
+        "Edale Capital Pty Ltd",
+        "Admiralty Capital Group",
+        "Harry Uffindell"
+      ],
+      "location": "Byron Bay, NSW"
     },
     {
       "name": "ALSO Group",
@@ -673,44 +711,6 @@
         "Y Combinator"
       ],
       "location": "Brisbane, Queensland"
-    },
-    {
-      "name": "Adalat AI",
-      "domain": "adalat.ai",
-      "desc": "Adalat AI provides an AI-driven voice transcription solution that leverages Large Language Model (LLM) technology to enhance the accuracy of legal terminology across multiple languages, thereby improving the efficiency o",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator",
-        "Fast Forward"
-      ],
-      "location": "New Delhi"
-    },
-    {
-      "name": "Bower",
-      "domain": "bowerlabs.ai",
-      "desc": "Bower is the operating system for research. We augment scientific work with ambient intelligence delivered through smart glasses; capturing research as it happens, automating research admin, and making an organisation’s ",
-      "stage": "PRE_SEED",
-      "last_amount": 2000000.0,
-      "total": 2000000.0,
-      "investors": [
-        "TEN13",
-        "Edale Capital Pty Ltd",
-        "Admiralty Capital Group",
-        "Harry Uffindell"
-      ],
-      "location": "Byron Bay, NSW"
-    },
-    {
-      "name": "Paralo",
-      "domain": "getparalo.com",
-      "desc": "Paralo is building the next generation of golf club software, designed around how golf should feel. For too long, everyday golfers have interacted with systems that treat them like transactions, not members. At the same ",
-      "stage": "PRE_SEED",
-      "last_amount": 368140.0,
-      "total": 368140.0,
-      "investors": [],
-      "location": "London"
     }
   ]
 }
