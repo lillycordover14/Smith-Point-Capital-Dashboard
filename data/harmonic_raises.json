@@ -256,21 +256,6 @@
       "location": "São Paulo, SP"
     },
     {
-      "name": "SnerpaPower",
-      "domain": "snerpapower.com",
-      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to enhance electricity consumption and operati",
-      "stage": "SEED",
-      "last_amount": 3481734.0,
-      "total": 5886499.0,
-      "investors": [
-        "Encevo",
-        "Crowberry Capital",
-        "Rannís - Icelandic Centre for Research",
-        "BackingMinds"
-      ],
-      "location": "Reykjavik"
-    },
-    {
       "name": "Rezolv",
       "domain": "rezolv.com",
       "desc": "Rezolv offers an AI-powered debt collection platform that utilizes advanced analytics and machine learning to streamline the collections lifecycle, facilitating management across various communication channels and operat",
@@ -284,6 +269,21 @@
         "Vertex Ventures Southeast Asia and India"
       ],
       "location": "Mumbai, Maharashtra"
+    },
+    {
+      "name": "SnerpaPower",
+      "domain": "snerpapower.com",
+      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to enhance electricity consumption and operati",
+      "stage": "SEED",
+      "last_amount": 3481734.0,
+      "total": 5886499.0,
+      "investors": [
+        "Encevo",
+        "Crowberry Capital",
+        "Rannís - Icelandic Centre for Research",
+        "BackingMinds"
+      ],
+      "location": "Reykjavik"
     },
     {
       "name": "Aisel Health",
@@ -390,7 +390,7 @@
     {
       "name": "Prevalent AI",
       "domain": "prevalent.ai",
-      "desc": "Prevalent AI provides a platform that combines a Security Data Fabric with AI-powered Exposure Management, enabling organizations to gain comprehensive visibility and control over their cyber risks. The technology utiliz",
+      "desc": "Prevalent AI offers a platform that integrates a Security Data Fabric with AI-driven Exposure Management, enabling organizations to achieve comprehensive visibility and control over their cyber risks. The technology empl",
       "stage": "",
       "last_amount": 22000000.0,
       "total": 22000000.0,
@@ -493,6 +493,18 @@
       "location": "London"
     },
     {
+      "name": "Reconero",
+      "domain": "reconero.com",
+      "desc": "",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
       "name": "ClaimKit",
       "domain": "claimkit.co",
       "desc": "ClaimKit provides an automated platform designed to facilitate the management and documentation of R&D tax claims for technology companies, significantly decreasing the time required for submission. The service utilizes ",
@@ -503,6 +515,19 @@
         "Y Combinator"
       ],
       "location": "Brisbane, Queensland"
+    },
+    {
+      "name": "Adalat AI",
+      "domain": "adalat.ai",
+      "desc": "Adalat AI provides an AI-driven voice transcription solution that leverages Large Language Model (LLM) technology to enhance the accuracy of legal terminology across multiple languages, thereby improving the efficiency o",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator",
+        "Fast Forward"
+      ],
+      "location": "New Delhi"
     },
     {
       "name": "Capveon",
@@ -616,6 +641,21 @@
       "location": "Emmen, Kanton Luzern"
     },
     {
+      "name": "InfinityBox",
+      "domain": "infinityboxkgp.com",
+      "desc": "The company specializes in sustainable food packaging containers designed for reuse and recycling, contributing to a circular economy. It utilizes materials engineering and supply chain management to ensure eco-friendly ",
+      "stage": "SERIES_A",
+      "last_amount": 1476552.0,
+      "total": 2371760.0,
+      "investors": [
+        "Kolte Patil Family Office",
+        "Rainmatter",
+        "Rainmatter by Zerodha",
+        "WEH Ventures"
+      ],
+      "location": "Bengaluru East, Karnataka"
+    },
+    {
       "name": "Tax Star",
       "domain": "taxstar.app",
       "desc": "The product is a corporate tax software that automates tax calculations, manages client approval workflows, and tracks deadlines to improve compliance and operational efficiency. It also integrates with existing accounti",
@@ -641,21 +681,6 @@
       "location": "Byron Bay, NSW"
     },
     {
-      "name": "InfinityBox",
-      "domain": "infinityboxkgp.com",
-      "desc": "The company provides sustainable food packaging containers that are engineered for reuse and recycling, supporting a circular economy. It employs materials engineering and supply chain management to facilitate eco-friend",
-      "stage": "SERIES_A",
-      "last_amount": 1476552.0,
-      "total": 2371760.0,
-      "investors": [
-        "Kolte Patil Family Office",
-        "Rainmatter",
-        "Rainmatter by Zerodha",
-        "WEH Ventures"
-      ],
-      "location": "Bengaluru East, Karnataka"
-    },
-    {
       "name": "Shrink Software LLC",
       "domain": "shrinksoftware.com",
       "desc": "Shrink Software builds food safety execution software for institutional food service operations — hospitals, universities, and contract dining programs managing complex compliance requirements every day. Our flagship pro",
@@ -679,29 +704,6 @@
         "New Paradigm Investment"
       ],
       "location": "서울시 , 강남구"
-    },
-    {
-      "name": "Adalat AI",
-      "domain": "adalat.ai",
-      "desc": "Adalat AI provides an AI-driven voice transcription solution that leverages Large Language Model (LLM) technology to enhance the accuracy of legal terminology across multiple languages, thereby improving the efficiency o",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator",
-        "Fast Forward"
-      ],
-      "location": "New Delhi"
-    },
-    {
-      "name": "Soft Tehnica",
-      "domain": "soft-tehnica.com",
-      "desc": "Soft Tehnica specializes in developing custom software solutions that utilize Augmented Reality (AR), Artificial Intelligence (AI), and Virtual Reality (VR) technologies to improve user experiences and support digital tr",
-      "stage": "PRE_SEED",
-      "last_amount": 547000.0,
-      "total": 547000.0,
-      "investors": [],
-      "location": "Sectorul 4, Bucharest"
     }
   ]
 }

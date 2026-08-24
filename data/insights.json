@@ -6,7 +6,7 @@
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 73,
-    "total_cap_m": 12894,
+    "total_cap_m": 12893,
     "early_cap_m": 2346,
     "stage_counts": {
       "Pre-seed": 3,
@@ -20,10 +20,10 @@
   },
   "raises": [
     {
-      "company": "Soft Tehnica",
-      "amount_m": 1,
+      "company": "Reconero",
+      "amount_m": null,
       "date": "2026-08-24",
-      "link": "https://soft-tehnica.com",
+      "link": "https://reconero.com",
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
@@ -263,6 +263,15 @@
       "stage": "Pre Seed"
     },
     {
+      "company": "Adalat AI",
+      "amount_m": null,
+      "date": "2026-08-20",
+      "link": "https://adalat.ai",
+      "investors": [],
+      "theme": "AI compute & models",
+      "stage": "Pre Seed"
+    },
+    {
       "company": "Capveon",
       "amount_m": null,
       "date": "2026-08-20",
@@ -278,15 +287,6 @@
       "link": "https://zenalyst.ai",
       "investors": [],
       "theme": "HR & workforce",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Adalat AI",
-      "amount_m": null,
-      "date": "2026-08-20",
-      "link": "https://adalat.ai",
-      "investors": [],
-      "theme": "AI compute & models",
       "stage": "Pre Seed"
     },
     {
@@ -2208,7 +2208,7 @@
       "theme": "Applied / horizontal AI",
       "count": 112,
       "examples": [
-        "Soft Tehnica",
+        "Reconero",
         "Redfaire",
         "Twin-1 AI",
         "Quantizr",
@@ -2318,21 +2318,21 @@
       ]
     },
     {
-      "theme": "HR & workforce",
-      "count": 3,
-      "examples": [
-        "Zenalyst.AI",
-        "Jem",
-        "Factorial"
-      ]
-    },
-    {
       "theme": "AI compute & models",
       "count": 3,
       "examples": [
         "Adalat AI",
         "Oratomic",
         "Prime Intellect"
+      ]
+    },
+    {
+      "theme": "HR & workforce",
+      "count": 3,
+      "examples": [
+        "Zenalyst.AI",
+        "Jem",
+        "Factorial"
       ]
     },
     {
@@ -2400,9 +2400,9 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 112,
-      "cap_m": 7216,
+      "cap_m": 7215,
       "examples": [
-        "Soft Tehnica",
+        "Reconero",
         "Redfaire",
         "Twin-1 AI",
         "Quantizr",
@@ -2531,17 +2531,6 @@
       "top_stage": "Seed"
     },
     {
-      "theme": "HR & workforce",
-      "count": 3,
-      "cap_m": 158,
-      "examples": [
-        "Zenalyst.AI",
-        "Jem",
-        "Factorial"
-      ],
-      "top_stage": "Pre Seed"
-    },
-    {
       "theme": "AI compute & models",
       "count": 3,
       "cap_m": 430,
@@ -2551,6 +2540,17 @@
         "Prime Intellect"
       ],
       "top_stage": "Series A"
+    },
+    {
+      "theme": "HR & workforce",
+      "count": 3,
+      "cap_m": 158,
+      "examples": [
+        "Zenalyst.AI",
+        "Jem",
+        "Factorial"
+      ],
+      "top_stage": "Pre Seed"
     }
   ],
   "investor_signal": [

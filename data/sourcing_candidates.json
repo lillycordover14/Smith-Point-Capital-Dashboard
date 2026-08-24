@@ -3,7 +3,7 @@
   "window_days": 45,
   "counts": {
     "actionable": 4,
-    "watchlist": 12,
+    "watchlist": 11,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -238,23 +238,6 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Saudi AIoT Startup Rime",
-      "desc": "Saudi AIoT Startup Rime Raises $2 Million Seed Round",
-      "theme": "Edge Computing",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 2,
-      "investors": [],
-      "date": "2026-08-05",
-      "link": "https://cairoscene.com/Business/Saudi-AIoT-Startup-Rime-Raises-2-Million-Seed-Round",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
