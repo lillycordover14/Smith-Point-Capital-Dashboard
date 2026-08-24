@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-23",
+  "generated": "2026-08-24",
   "window_days": 45,
   "counts": {
     "actionable": 4,
-    "watchlist": 11,
+    "watchlist": 12,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -88,6 +88,23 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "Shrink Software LLC",
+      "desc": "Financial back-office & compliance AI",
+      "theme": "Precision Applications",
+      "vertical": "Compliance",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-24",
+      "link": "https://shrinksoftware.com",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Flash",
       "desc": "Fintech & payments",
@@ -225,19 +242,19 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Lightfield",
-      "desc": "Legal AI",
-      "theme": "Precision Applications",
-      "vertical": "Legal",
+      "company": "Saudi AIoT Startup Rime",
+      "desc": "Saudi AIoT Startup Rime Raises $2 Million Seed Round",
+      "theme": "Edge Computing",
+      "vertical": "",
       "stage": "Seed",
-      "amount_m": null,
+      "amount_m": 2,
       "investors": [],
-      "date": "2026-08-16",
-      "link": "https://trylightfield.ai",
-      "domain": "lightfieldlab.com",
+      "date": "2026-08-05",
+      "link": "https://cairoscene.com/Business/Saudi-AIoT-Startup-Rime-Raises-2-Million-Seed-Round",
+      "domain": "",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },

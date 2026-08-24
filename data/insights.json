@@ -1,24 +1,42 @@
 {
-  "generated": "2026-08-23",
+  "generated": "2026-08-24",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 75,
-    "total_cap_m": 12918,
-    "early_cap_m": 2371,
+    "early_raises": 73,
+    "total_cap_m": 12894,
+    "early_cap_m": 2346,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 26,
-      "Series A": 46,
+      "Seed": 25,
+      "Series A": 45,
       "Series B": 23,
       "Series C": 9,
       "Series D": 4,
-      "Venture": 76
+      "Venture": 77
     }
   },
   "raises": [
+    {
+      "company": "Soft Tehnica",
+      "amount_m": 1,
+      "date": "2026-08-24",
+      "link": "https://soft-tehnica.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Shrink Software LLC",
+      "amount_m": null,
+      "date": "2026-08-24",
+      "link": "https://shrinksoftware.com",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Venture"
+    },
     {
       "company": "VISS.AI",
       "amount_m": 3,
@@ -36,15 +54,6 @@
       "investors": [],
       "theme": "Cybersecurity",
       "stage": "Series D"
-    },
-    {
-      "company": "FSH Technologies",
-      "amount_m": 20,
-      "date": "2026-08-22",
-      "link": "https://fsh.org",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     },
     {
       "company": "Redfaire",
@@ -245,6 +254,15 @@
       "stage": "Pre Seed"
     },
     {
+      "company": "ClaimKit",
+      "amount_m": null,
+      "date": "2026-08-20",
+      "link": "https://claimkit.co",
+      "investors": [],
+      "theme": "Insurance / insurtech",
+      "stage": "Pre Seed"
+    },
+    {
       "company": "Capveon",
       "amount_m": null,
       "date": "2026-08-20",
@@ -263,12 +281,12 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "ClaimKit",
+      "company": "Adalat AI",
       "amount_m": null,
       "date": "2026-08-20",
-      "link": "https://claimkit.co",
+      "link": "https://adalat.ai",
       "investors": [],
-      "theme": "Insurance / insurtech",
+      "theme": "AI compute & models",
       "stage": "Pre Seed"
     },
     {
@@ -389,15 +407,6 @@
       "stage": "Series A"
     },
     {
-      "company": "Sophiie AI",
-      "amount_m": 5,
-      "date": "2026-08-18",
-      "link": "https://sophiie.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
       "company": "VastAdvisor",
       "amount_m": 1,
       "date": "2026-08-18",
@@ -422,15 +431,6 @@
       "link": "https://gandr.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Lightfield",
-      "amount_m": null,
-      "date": "2026-08-16",
-      "link": "https://trylightfield.ai",
-      "investors": [],
-      "theme": "Legal AI",
       "stage": "Pre Seed"
     },
     {
@@ -2206,9 +2206,9 @@
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
+      "count": 112,
       "examples": [
-        "FSH Technologies",
+        "Soft Tehnica",
         "Redfaire",
         "Twin-1 AI",
         "Quantizr",
@@ -2309,12 +2309,30 @@
       ]
     },
     {
+      "theme": "Financial back-office & compliance AI",
+      "count": 3,
+      "examples": [
+        "Shrink Software LLC",
+        "Velatir",
+        "Tax Star"
+      ]
+    },
+    {
       "theme": "HR & workforce",
       "count": 3,
       "examples": [
         "Zenalyst.AI",
         "Jem",
         "Factorial"
+      ]
+    },
+    {
+      "theme": "AI compute & models",
+      "count": 3,
+      "examples": [
+        "Adalat AI",
+        "Oratomic",
+        "Prime Intellect"
       ]
     },
     {
@@ -2335,35 +2353,11 @@
       ]
     },
     {
-      "theme": "Financial back-office & compliance AI",
-      "count": 2,
-      "examples": [
-        "Velatir",
-        "Tax Star"
-      ]
-    },
-    {
       "theme": "Data infrastructure",
       "count": 2,
       "examples": [
         "bitdrift",
         "Rezolv"
-      ]
-    },
-    {
-      "theme": "Legal AI",
-      "count": 2,
-      "examples": [
-        "Lightfield",
-        "Sandstone"
-      ]
-    },
-    {
-      "theme": "AI compute & models",
-      "count": 2,
-      "examples": [
-        "Oratomic",
-        "Prime Intellect"
       ]
     },
     {
@@ -2388,6 +2382,13 @@
       ]
     },
     {
+      "theme": "Legal AI",
+      "count": 1,
+      "examples": [
+        "Sandstone"
+      ]
+    },
+    {
       "theme": "AI dev tooling",
       "count": 1,
       "examples": [
@@ -2398,10 +2399,10 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 113,
-      "cap_m": 7240,
+      "count": 112,
+      "cap_m": 7216,
       "examples": [
-        "FSH Technologies",
+        "Soft Tehnica",
         "Redfaire",
         "Twin-1 AI",
         "Quantizr",
@@ -2519,6 +2520,17 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Financial back-office & compliance AI",
+      "count": 3,
+      "cap_m": 8,
+      "examples": [
+        "Shrink Software LLC",
+        "Velatir",
+        "Tax Star"
+      ],
+      "top_stage": "Seed"
+    },
+    {
       "theme": "HR & workforce",
       "count": 3,
       "cap_m": 158,
@@ -2530,25 +2542,15 @@
       "top_stage": "Pre Seed"
     },
     {
-      "theme": "Vertical SaaS",
+      "theme": "AI compute & models",
       "count": 3,
-      "cap_m": 55,
+      "cap_m": 430,
       "examples": [
-        "Palona AI",
-        "Agave",
-        "Scotch"
+        "Adalat AI",
+        "Oratomic",
+        "Prime Intellect"
       ],
       "top_stage": "Series A"
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 2,
-      "cap_m": 31,
-      "examples": [
-        "Rundoo",
-        "InfinityBox"
-      ],
-      "top_stage": "Series B"
     }
   ],
   "investor_signal": [
@@ -3076,14 +3078,6 @@
           "theme": "Applied / horizontal AI"
         },
         {
-          "company": "Xflow",
-          "stage": "Series A",
-          "amount_m": 17,
-          "date": "2026-02-24",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95d0ZWa3pnOHR6a1c3WWVRaXpQejNRNVpBeUlRWUtObHU1aFNDcWRGY3piYmI0OFpqcGxYVzZCU29YMzVLVEtqd3luX2pVQnRlRjZ3MFBraGJwSEVsRFdOZ0ZjeXZhOERGeGNSazVaa0szYWxIOFpPUA?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Helsing",
           "stage": "Venture",
           "amount_m": 1800,
@@ -3106,9 +3100,17 @@
           "date": "2026-06-09",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTnhuMGp4U2hWNW01emRJOGNaZW5OMjJnOWpSTW1pOEFNNTNhUHhWQWdKLS1iODRRVklQSlV4Yld2NG9kU2JqQ3lvem9YMDZIalpwTGQ0b0lUcmVBTThkdHRXdUw4MEZnWUN0NzQ4aWROMlIxdFVPQVFJaFVxUmtYSWhzakNaUkRDSVgyY08wTnBRVFlWOXlQUEdLN3lXSUtLQjU2M0ZIeG9wdGRMSl9KWE55M0YzMnVwWm1fMUt1RHI?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "A Security",
+          "stage": "Venture",
+          "amount_m": 37,
+          "date": "2026-06-08",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NWlFSYUIzSDRNUW02NEpVdjBJRlRRS1hFVU9YdmZ5bUZfWFZYTEg5RFJWcUhDZ2JkRGRBaUM5VTVmSk9ZOG00cXZHbmlZS1pFSFJvdFE5Vkk5RG1tTTNvMmFUT0VudERz?oc=5",
+          "theme": "Cybersecurity"
         }
       ],
-      "early": 7
+      "early": 6
     },
     {
       "fund": "Bessemer",
@@ -3372,14 +3374,6 @@
           "theme": "Healthcare & bio AI"
         },
         {
-          "company": "Hypercore",
-          "stage": "Series A",
-          "amount_m": 14,
-          "date": "2026-02-24",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFhjXzdmZkZFalpJQTFXQnhXY2JQYXR2VEFzbTVmQ0xqdjN0VXJlSjNCRG8zTjhJQlprWFRWeFNKTUFsOWJnLUJnODZoOVVvLWZlMzVXT3NtR1FGbUtXOS11WXNGYVJNbjJkdnpHMjdiQVVvUGZueXk4dzNZY0w4SlZidTlZX2s?oc=5",
-          "theme": "Fintech & payments"
-        },
-        {
           "company": "Gradial",
           "stage": "Series C",
           "amount_m": 65,
@@ -3434,9 +3428,17 @@
           "date": "2026-04-03",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUNxc1lyeUpQUmplR3FWa3Fidi00aEVuOHRGY1Uxa1J2WUdLYS1tQVUwTlN4OXFlUHA5RmxFZFN5Uy1BZE8yQjJmcVUyeTVDMTdVaEU3TXMxRTZCY24zUEZwTFIyN1hGSjNvcFVhQ29Hd3dvS1pEOFo5MjBKUHdwTWlndEsxLTdGdVhQMUFwNXB2NTh3Wms2N3E0WW5DZml2NEVRenJaZw?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "Linx Security",
+          "stage": "Series B",
+          "amount_m": 50,
+          "date": "2026-03-31",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4ejBQMHFBLWhVODFKeW5qWXNsWTkyZ285UFQwanpxNXRaSVdGV2tfY2l4MEpSWmVSeUl2Rmp3Yjh0OTJ6LW15V0cxemNsSFZOdTgzeC11TmZiQ3lINnE1UUlwMGkzS2RySVE?oc=5",
+          "theme": "Cybersecurity"
         }
       ],
-      "early": 3
+      "early": 2
     },
     {
       "fund": "Pear",
@@ -3556,17 +3558,17 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-02",
+    "since": "2026-08-03",
     "tw": [
+      {
+        "name": "Applied / horizontal AI",
+        "delta": 3,
+        "now": 112
+      },
       {
         "name": "Agent-native infra",
         "delta": 3,
         "now": 5
-      },
-      {
-        "name": "Applied / horizontal AI",
-        "delta": 2,
-        "now": 113
       },
       {
         "name": "Cybersecurity",
@@ -3614,11 +3616,6 @@
         "now": 2
       },
       {
-        "name": "Legal AI",
-        "delta": 0,
-        "now": 2
-      },
-      {
         "name": "Consumer & marketplace",
         "delta": 0,
         "now": 1
@@ -3634,29 +3631,34 @@
         "now": 1
       },
       {
-        "name": "Fintech & payments",
+        "name": "Financial back-office & compliance AI",
         "delta": -1,
-        "now": 5
+        "now": 3
       },
       {
         "name": "AI compute & models",
         "delta": -1,
-        "now": 2
+        "now": 3
       },
       {
-        "name": "Financial back-office & compliance AI",
+        "name": "Legal AI",
+        "delta": -1,
+        "now": 1
+      },
+      {
+        "name": "Fintech & payments",
         "delta": -2,
-        "now": 2
-      },
-      {
-        "name": "Applied AI agents",
-        "delta": -3,
-        "now": 4
+        "now": 5
       },
       {
         "name": "AI dev tooling",
         "delta": -3,
         "now": 1
+      },
+      {
+        "name": "Applied AI agents",
+        "delta": -4,
+        "now": 4
       }
     ]
   }

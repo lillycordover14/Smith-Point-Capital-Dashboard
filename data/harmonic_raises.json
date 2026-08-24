@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23",
+  "generated": "2026-08-24",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -79,6 +79,21 @@
       "location": "Redwood City, California"
     },
     {
+      "name": "Twin-1 AI",
+      "domain": "twin1.ai",
+      "desc": "We are solving the siloed knowledge problem for business by building the context and privacy layer. More to come…",
+      "stage": "SEED",
+      "last_amount": 20000000.0,
+      "total": 20000000.0,
+      "investors": [
+        "Notion Capital",
+        "Tribeca Venture Partners",
+        "Orrick",
+        "Neo"
+      ],
+      "location": "San Francisco"
+    },
+    {
       "name": "Velatir",
       "domain": "velatir.com",
       "desc": "Velatir provides a suite of tools that integrate human oversight into AI-driven workflows, focusing on compliance with regulations and enhancing decision-making. The platform employs specialized agents that monitor AI in",
@@ -92,6 +107,21 @@
         "Norrsken Evolve"
       ],
       "location": "Odense"
+    },
+    {
+      "name": "Boom",
+      "domain": "boompay.app",
+      "desc": "Boom provides modern rental financial services that enhance the rental experience for both renters and property managers, offering solutions such as tenant screening and rent reporting. The platform employs technologies ",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 25500000.0,
+      "investors": [
+        "S3 Ventures",
+        "Gilgamesh Ventures",
+        "Clocktower Ventures",
+        "Mischief"
+      ],
+      "location": "Austin, TX"
     },
     {
       "name": "Flip",
@@ -119,36 +149,6 @@
         "Ballast Point Partners"
       ],
       "location": "Reston, Virginia"
-    },
-    {
-      "name": "Boom",
-      "domain": "boompay.app",
-      "desc": "Boom provides modern rental financial services that enhance the rental experience for both renters and property managers, offering solutions such as tenant screening and rent reporting. The platform employs technologies ",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 25500000.0,
-      "investors": [
-        "S3 Ventures",
-        "Gilgamesh Ventures",
-        "Clocktower Ventures",
-        "Mischief"
-      ],
-      "location": "Austin, TX"
-    },
-    {
-      "name": "Twin-1 AI",
-      "domain": "twin1.ai",
-      "desc": "We are solving the siloed knowledge problem for business by building the context and privacy layer. More to come…",
-      "stage": "SEED",
-      "last_amount": 20000000.0,
-      "total": 20000000.0,
-      "investors": [
-        "Notion Capital",
-        "Tribeca Venture Partners",
-        "Orrick",
-        "Neo"
-      ],
-      "location": "San Francisco"
     },
     {
       "name": "Palona AI",
@@ -194,21 +194,6 @@
         "noa"
       ],
       "location": "Munich"
-    },
-    {
-      "name": "FSH Technologies",
-      "domain": "fsh.org",
-      "desc": "The company provides an AI-native software platform designed to enhance municipal operations, integrating solutions for food management, waste routing, and human resources while ensuring compatibility with legacy systems",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 25000000.0,
-      "investors": [
-        "Envision Accelerator",
-        "Scribble Ventures",
-        "Basis Set",
-        "Operator Partners"
-      ],
-      "location": "Philadelphia, Pennsylvania"
     },
     {
       "name": "xpander.ai",
@@ -301,21 +286,6 @@
       "location": "Mumbai, Maharashtra"
     },
     {
-      "name": "TravelX",
-      "domain": "travelx.io",
-      "desc": "TravelX offers a post-booking revenue management solution that enables airlines to shift from static to dynamic inventory management, utilizing machine learning to optimize seat buybacks and flight swaps based on demand ",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 45000000.0,
-      "investors": [
-        "KASZEK",
-        "Algorand Technologies",
-        "Monday Capital",
-        "Borderless"
-      ],
-      "location": "Miami"
-    },
-    {
       "name": "Aisel Health",
       "domain": "aisel.co",
       "desc": "The main product is an AI platform designed for psychiatric clinics that automates the intake process and organizes patient data through AI-driven pre-assessments and real-time documentation. It employs technologies such",
@@ -329,6 +299,21 @@
         "Angel Invest"
       ],
       "location": "Copenhagen"
+    },
+    {
+      "name": "TravelX",
+      "domain": "travelx.io",
+      "desc": "TravelX offers a post-booking revenue management solution that enables airlines to shift from static to dynamic inventory management, utilizing machine learning to optimize seat buybacks and flight swaps based on demand ",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 45000000.0,
+      "investors": [
+        "KASZEK",
+        "Algorand Technologies",
+        "Monday Capital",
+        "Borderless"
+      ],
+      "location": "Miami"
     },
     {
       "name": "bitdrift",
@@ -376,6 +361,33 @@
       "location": "339509"
     },
     {
+      "name": "Guideless",
+      "domain": "guideless.ai",
+      "desc": "Guideless solves outdated employee training and customer onboarding across various industries. Companies still waste days creating content that quickly becomes outdated. Docs with screenshots don’t work. People don’t rea",
+      "stage": "PRE_SEED",
+      "last_amount": 1168703.0,
+      "total": 1168703.0,
+      "investors": [
+        "Superhero Capital",
+        "FIRSTPICK",
+        "Thomas Plantenga",
+        "Mantas Mikuckas"
+      ],
+      "location": "Vilnius"
+    },
+    {
+      "name": "Gandr",
+      "domain": "gandr.ai",
+      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that can replicate a voice from just ten seconds of audio. The system is designed for low",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco , CA"
+    },
+    {
       "name": "Prevalent AI",
       "domain": "prevalent.ai",
       "desc": "Prevalent AI provides a platform that combines a Security Data Fabric with AI-powered Exposure Management, enabling organizations to gain comprehensive visibility and control over their cyber risks. The technology utiliz",
@@ -413,31 +425,19 @@
       "location": "Gatineau, Québec"
     },
     {
-      "name": "Guideless",
-      "domain": "guideless.ai",
-      "desc": "Guideless solves outdated employee training and customer onboarding across various industries. Companies still waste days creating content that quickly becomes outdated. Docs with screenshots don’t work. People don’t rea",
-      "stage": "PRE_SEED",
-      "last_amount": 1168703.0,
-      "total": 1168703.0,
+      "name": "Quantizr",
+      "domain": "quantizr.com",
+      "desc": "The main product is an AI-powered platform designed for the entertainment industry that automates the parsing and structuring of financial documents and deal terms, thereby streamlining workflows and enhancing decision-m",
+      "stage": "SEED",
+      "last_amount": 5000000.0,
+      "total": 5000000.0,
       "investors": [
-        "Superhero Capital",
-        "FIRSTPICK",
-        "Thomas Plantenga",
-        "Mantas Mikuckas"
+        "TTV Capital",
+        "Jonathan Azu",
+        "Andy Levine",
+        "Chris Kappy"
       ],
-      "location": "Vilnius"
-    },
-    {
-      "name": "Gandr",
-      "domain": "gandr.ai",
-      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that can replicate a voice from just ten seconds of audio. The system is designed for low",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco , CA"
+      "location": ""
     },
     {
       "name": "Provenance",
@@ -493,19 +493,16 @@
       "location": "London"
     },
     {
-      "name": "Sophiie AI",
-      "domain": "sophiie.ai",
-      "desc": "Sophiie AI is an automated virtual receptionist designed for service-based businesses, capable of managing calls, texts, and scheduling while providing features such as instant call summaries and lead capturing. Utilizin",
-      "stage": "SEED",
-      "last_amount": 5000000.0,
-      "total": 5000000.0,
+      "name": "ClaimKit",
+      "domain": "claimkit.co",
+      "desc": "ClaimKit provides an automated platform designed to facilitate the management and documentation of R&D tax claims for technology companies, significantly decreasing the time required for submission. The service utilizes ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "Archangel Ventures",
-        "Gandel Invest",
-        "Antler",
-        "Admiralty Capital Group"
+        "Y Combinator"
       ],
-      "location": "Gold Coast, Queensland"
+      "location": "Brisbane, Queensland"
     },
     {
       "name": "Capveon",
@@ -518,36 +515,6 @@
         "Y Combinator"
       ],
       "location": ""
-    },
-    {
-      "name": "Quantizr",
-      "domain": "quantizr.com",
-      "desc": "The main product is an AI-powered platform designed for the entertainment industry that automates the parsing and structuring of financial documents and deal terms, thereby streamlining workflows and enhancing decision-m",
-      "stage": "SEED",
-      "last_amount": 5000000.0,
-      "total": 5000000.0,
-      "investors": [
-        "TTV Capital",
-        "Jonathan Azu",
-        "Andy Levine",
-        "Chris Kappy"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Jem",
-      "domain": "jemhr.com",
-      "desc": "Jem provides a platform that enables the distribution of payroll documents, such as payslips and timesheets, to deskless workers via WhatsApp, enhancing communication and payroll management. The solution integrates with ",
-      "stage": "SERIES_A",
-      "last_amount": 8400000.0,
-      "total": 58988000.0,
-      "investors": [
-        "Fitech Ventures",
-        "NEXT176",
-        "Dimension Data",
-        "Standard Bank South Africa"
-      ],
-      "location": "Cape Town, Western Cape"
     },
     {
       "name": "Zenalyst.AI",
@@ -565,6 +532,34 @@
       "location": "Bengaluru South, Karnataka"
     },
     {
+      "name": "Nexus IT",
+      "domain": "nexusitc.net",
+      "desc": "Nexus IT Consultants offers managed IT services that encompass cybersecurity, cloud solutions including Microsoft Office 365 and Azure, and large facility Wi-Fi, tailored for small and medium-sized businesses in regulate",
+      "stage": "",
+      "last_amount": 60000000.0,
+      "total": 120000000.0,
+      "investors": [
+        "Metropolitan Partners Group",
+        "Diatonic Healthcare"
+      ],
+      "location": "Salt Lake City, UT"
+    },
+    {
+      "name": "Jem",
+      "domain": "jemhr.com",
+      "desc": "Jem provides a platform that enables the distribution of payroll documents, such as payslips and timesheets, to deskless workers via WhatsApp, enhancing communication and payroll management. The solution integrates with ",
+      "stage": "SERIES_A",
+      "last_amount": 8400000.0,
+      "total": 58988000.0,
+      "investors": [
+        "Fitech Ventures",
+        "NEXT176",
+        "Dimension Data",
+        "Standard Bank South Africa"
+      ],
+      "location": "Cape Town, Western Cape"
+    },
+    {
       "name": "Oceanloop",
       "domain": "oceanloop.com",
       "desc": "Oceanloop specializes in sustainable, land-based aquaculture, utilizing patented recirculating aquaculture systems (RAS) technology for the efficient farming of shrimp and fish. Their operations incorporate advanced soft",
@@ -579,19 +574,6 @@
       "location": "Munich, Bavaria"
     },
     {
-      "name": "Nexus IT",
-      "domain": "nexusitc.net",
-      "desc": "Nexus IT Consultants offers managed IT services that encompass cybersecurity, cloud solutions including Microsoft Office 365 and Azure, and large facility Wi-Fi, tailored for small and medium-sized businesses in regulate",
-      "stage": "",
-      "last_amount": 60000000.0,
-      "total": 120000000.0,
-      "investors": [
-        "Metropolitan Partners Group",
-        "Diatonic Healthcare"
-      ],
-      "location": "Salt Lake City, UT"
-    },
-    {
       "name": "Redfaire",
       "domain": "redfaire.com",
       "desc": "Redfaire provides consulting services for Oracle JD Edwards ERP, focusing on cloud migrations, software development, and data management to enhance system functionality. Their solutions utilize Oracle Cloud Infrastructur",
@@ -602,18 +584,6 @@
         "BGF"
       ],
       "location": "Limerick"
-    },
-    {
-      "name": "Lightfield",
-      "domain": "trylightfield.ai",
-      "desc": "Lightfield is an AI-powered legal intake and triage platform built for solo GCs and small in-house legal teams. Legal requests arrive over Slack, email, and everywhere in between. Lightfield captures every request, triag",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "DEEPFINE",
@@ -629,6 +599,21 @@
         "POSCO CAPITAL"
       ],
       "location": "Seoul"
+    },
+    {
+      "name": "ALSO Group",
+      "domain": "also.com",
+      "desc": "ALSO offers a range of IT solutions, including subscription-based cloud services and a cloud marketplace, utilizing technologies such as cybersecurity, virtualization, and artificial intelligence. The company also provid",
+      "stage": "SERIES_D",
+      "last_amount": 150000000.0,
+      "total": 150000000.0,
+      "investors": [
+        "MVP Ventures",
+        "Eclipse",
+        "Greenoaks",
+        "Prysm Capital"
+      ],
+      "location": "Emmen, Kanton Luzern"
     },
     {
       "name": "Tax Star",
@@ -656,21 +641,6 @@
       "location": "Byron Bay, NSW"
     },
     {
-      "name": "ALSO Group",
-      "domain": "also.com",
-      "desc": "ALSO offers a range of IT solutions, including subscription-based cloud services and a cloud marketplace, utilizing technologies such as cybersecurity, virtualization, and artificial intelligence. The company also provid",
-      "stage": "SERIES_D",
-      "last_amount": 150000000.0,
-      "total": 150000000.0,
-      "investors": [
-        "MVP Ventures",
-        "Eclipse",
-        "Greenoaks",
-        "Prysm Capital"
-      ],
-      "location": "Emmen, Kanton Luzern"
-    },
-    {
       "name": "InfinityBox",
       "domain": "infinityboxkgp.com",
       "desc": "The company provides sustainable food packaging containers that are engineered for reuse and recycling, supporting a circular economy. It employs materials engineering and supply chain management to facilitate eco-friend",
@@ -684,6 +654,16 @@
         "WEH Ventures"
       ],
       "location": "Bengaluru East, Karnataka"
+    },
+    {
+      "name": "Shrink Software LLC",
+      "domain": "shrinksoftware.com",
+      "desc": "Shrink Software builds food safety execution software for institutional food service operations — hospitals, universities, and contract dining programs managing complex compliance requirements every day. Our flagship pro",
+      "stage": "",
+      "last_amount": 30000.0,
+      "total": 30000.0,
+      "investors": [],
+      "location": "GRAND RAPIDS, Michigan"
     },
     {
       "name": "NEXTPAYMENTS INC.",
@@ -701,16 +681,27 @@
       "location": "서울시 , 강남구"
     },
     {
-      "name": "ClaimKit",
-      "domain": "claimkit.co",
-      "desc": "ClaimKit provides an automated platform designed to facilitate the management and documentation of R&D tax claims for technology companies, significantly decreasing the time required for submission. The service utilizes ",
+      "name": "Adalat AI",
+      "domain": "adalat.ai",
+      "desc": "Adalat AI provides an AI-driven voice transcription solution that leverages Large Language Model (LLM) technology to enhance the accuracy of legal terminology across multiple languages, thereby improving the efficiency o",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
       "investors": [
-        "Y Combinator"
+        "Y Combinator",
+        "Fast Forward"
       ],
-      "location": "Brisbane, Queensland"
+      "location": "New Delhi"
+    },
+    {
+      "name": "Soft Tehnica",
+      "domain": "soft-tehnica.com",
+      "desc": "Soft Tehnica specializes in developing custom software solutions that utilize Augmented Reality (AR), Artificial Intelligence (AI), and Virtual Reality (VR) technologies to improve user experiences and support digital tr",
+      "stage": "PRE_SEED",
+      "last_amount": 547000.0,
+      "total": 547000.0,
+      "investors": [],
+      "location": "Sectorul 4, Bucharest"
     }
   ]
 }
