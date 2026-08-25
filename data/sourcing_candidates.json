@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-24",
+  "generated": "2026-08-25",
   "window_days": 45,
   "counts": {
     "actionable": 4,
-    "watchlist": 11,
+    "watchlist": 12,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -42,6 +42,23 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
+      "company": "Standard Metrics",
+      "desc": "Data infrastructure",
+      "theme": "Data Management",
+      "vertical": "",
+      "stage": "Series B",
+      "amount_m": 20,
+      "investors": [],
+      "date": "2026-08-11",
+      "link": "https://standardmetrics.io",
+      "domain": "standardmetrics.io",
+      "tier": "actionable",
+      "fit_reason": "Series B ($20M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
       "company": "InstaLILY AI",
       "desc": "Applied AI agents",
       "theme": "Applied AI",
@@ -60,34 +77,60 @@
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "xCures",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Series B",
-      "amount_m": 46,
-      "investors": [
-        "Spark Capital",
-        "Spark Capital - Healthcare IT Today"
-      ],
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSU9pbC1paDZoX3Z1YWdlTFIyQklqQ0pBTW4yX1l4TGFpSVVqTFNNakRzQkxTdUNzcGUxeGdsSEE0SU5sa1h5UWlSRlZ4WHB2RkgybEtWb0dqMV9vb2kzb25yeXlONXpiUFBiUVVILUdmTE9Fd0RhNjJpc0twNm1JOTBhbTI5SEVRdUxiRXpjY09GYVpfM3BwSGxfUHJ4cFpzQmc3c3JPbE95a0RuTnN1aU4weGhfUkdtMGs5bjVQQldsMUh3U3BjQ3lXYnFUZGdCSk1IV2xR?oc=5",
-      "domain": "xcures.com",
-      "tier": "actionable",
-      "fit_reason": "Series B ($46M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [
-        {
-          "kind": "co-investor",
-          "detail": "Backed by Spark Capital — a fund SPC gets intros through"
-        }
-      ],
-      "connection_status": "prospective (web) — confirmed weekly via Affinity"
     }
   ],
   "watchlist": [
+    {
+      "company": "PayRewards",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Series E",
+      "amount_m": 28,
+      "investors": [],
+      "date": "2026-08-25",
+      "link": "https://payrewards.com",
+      "domain": "payrewards.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "ClearPath AI",
+      "desc": "Legal AI",
+      "theme": "Precision Applications",
+      "vertical": "Legal",
+      "stage": "Seed",
+      "amount_m": 1,
+      "investors": [],
+      "date": "2026-08-25",
+      "link": "https://clearpathgroup.ai",
+      "domain": "clearpath.ai",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Covera",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-25",
+      "link": "https://covera-agents.com",
+      "domain": "coveragebook.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Shrink Software LLC",
       "desc": "Financial back-office & compliance AI",
@@ -225,23 +268,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Tax Star",
-      "desc": "Financial back-office & compliance AI",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Seed",
-      "amount_m": 2,
-      "investors": [],
-      "date": "2026-08-19",
-      "link": "https://taxstar.app",
-      "domain": "taxstarztampa.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "Corner Health",
       "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
@@ -256,25 +282,6 @@
       "domain": "cornerhealthfood.com",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Healome Therapeutics",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Seed",
-      "amount_m": null,
-      "investors": [
-        "Matrix"
-      ],
-      "date": "2026-07-10",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0c0Y1JoRzZ4eUtWXzVIamJwX2pac2RCNUZzWjdVMDZsdE5vWEpLbTY0SGJMckVwWHpjSmVLbE9xN3JhM0RyYWo5NEZ0VExGbjdlSTBXZlFlVkFLMWNaeml2SGpfY1BKYXlKSEZyUF9lU2ZIODFBcUp0WmdVRjZZTnVzanNFZDZLd3VhVGJUdmdUVEFlWVRSaUFsWjFqdzJhRjF5SVdRdXRiTUpXd1d6Ml8wQUpoeHBPR0txQnBqUFBacUZwTG51czlJbk5aSTjSAdQBQVVfeXFMT21yeUFfQ2VpOUlfck00eXhneW95SnQ0X21jRWUxY21fRkpWR2U1TXY0dUpxSURfWXR3Wk15aVJaSEdoT3RRSmJiVzZuTFRXdnNyQ0NmWGVQSWI2VHI1WXBxMWJtellQN0VSY0VPa3RoUUM0WUlwX2xXZm84VmZwTWNheWEwSVZQSEFDUF9OMkdPOWtNWGFTN3BWWC02VXhUVXlmb21fOXNOUTBxZEJpQ1RPeFhmaHZKbzJDOUEtZmdnQUdTZE5MdFV4bC12Yk4xcEtJQUw?oc=5",
-      "domain": "healometx.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"

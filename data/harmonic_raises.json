@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-24",
+  "generated": "2026-08-25",
   "mode": "full",
-  "count": 50,
+  "count": 46,
   "companies": [
     {
       "name": "Rillet",
@@ -17,36 +17,6 @@
         "First Round Capital"
       ],
       "location": "New York, NY, US"
-    },
-    {
-      "name": "Trajectory",
-      "domain": "trajectory.ai",
-      "desc": "The company offers a platform for continual learning that utilizes AI technologies to improve performance based on real product usage and user interactions. It emphasizes model steerability and employs advanced training ",
-      "stage": "SERIES_A",
-      "last_amount": 40000000.0,
-      "total": 55000000.0,
-      "investors": [
-        "Conviction",
-        "NVIDIA",
-        "Radical Ventures",
-        "Sequoia Capital"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "Wispr Flow",
-      "domain": "wisprflow.ai",
-      "desc": "The main product is a voice dictation platform that enables users to convert speech into text across various applications and devices, enhancing communication and productivity. It utilizes advanced speech recognition tec",
-      "stage": "SERIES_B",
-      "last_amount": 280000000.0,
-      "total": 442600000.0,
-      "investors": [
-        "Flight Fund",
-        "Peak XV Partners",
-        "Palo Alto Networks",
-        "MVP Ventures"
-      ],
-      "location": "Townsend St San Francisco, California 94107, US"
     },
     {
       "name": "Arintra",
@@ -77,6 +47,21 @@
         "Quiet Capital"
       ],
       "location": "Redwood City, California"
+    },
+    {
+      "name": "Standard Metrics",
+      "domain": "standardmetrics.io",
+      "desc": "The main product is an automated data platform for portfolio management that centralizes performance data, facilitating enhanced analytics and reporting for startups and investors. It employs AI-driven analytics and inte",
+      "stage": "SERIES_B",
+      "last_amount": 20000000.0,
+      "total": 49526797.0,
+      "investors": [
+        "LeFrak",
+        "Spark Capital",
+        "Global Founders Capital",
+        "SAV (Scale Asia Ventures)"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "Twin-1 AI",
@@ -139,31 +124,19 @@
       "location": "Stuttgart, Baden-Württemberg"
     },
     {
-      "name": "Takt",
-      "domain": "takt.io",
-      "desc": "Takt offers a real-time warehouse intelligence platform that integrates labor management, automation, and robotics data to enhance operational efficiency in distribution centers. The system utilizes AI-powered insights, ",
-      "stage": "SERIES_A",
-      "last_amount": 9250000.0,
-      "total": 9250000.0,
+      "name": "Willow",
+      "domain": "willowvoice.com",
+      "desc": "The product is an AI-driven dictation tool that converts spoken language into text, utilizing machine learning to adapt to individual speech patterns and context. It processes data locally to enhance privacy and is desig",
+      "stage": "SEED",
+      "last_amount": 4200000.0,
+      "total": 4700000.0,
       "investors": [
-        "Ballast Point Partners"
+        "Seven Seven Six 7️⃣7️⃣6️⃣",
+        "Y Combinator",
+        "Blast Club",
+        "Burst Capital"
       ],
-      "location": "Reston, Virginia"
-    },
-    {
-      "name": "Palona AI",
-      "domain": "palona.ai",
-      "desc": "Palona offers a conversational AI platform tailored for the restaurant industry, facilitating efficient customer interactions through voice and text-based ordering. The technology employs advanced voice cloning, multi-ag",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 58315000.0,
-      "investors": [
-        "NEO Investment Partners LLP",
-        "Neo",
-        "defy.vc",
-        "UpHonest Capital"
-      ],
-      "location": "Menlo Park, CA"
+      "location": "San Francisco"
     },
     {
       "name": "Hypercubic",
@@ -181,49 +154,19 @@
       "location": "San Francisco, CA, USA"
     },
     {
-      "name": "CONXAI",
-      "domain": "consai.tech",
-      "desc": "CONXAI is developing an AI platform tailored for the AEC industry, leveraging AI to provide decision support and streamline workflows by contextualizing diverse project lifecycle data from various sources. The core techn",
+      "name": "Integrate",
+      "domain": "integrate.co",
+      "desc": "The main product is a project management platform tailored for collaborative hardware development, facilitating the management of complex projects across various organizations. It utilizes advanced scheduling technologie",
       "stage": "SERIES_A",
-      "last_amount": 5799390.0,
-      "total": 16817579.0,
+      "last_amount": 6000000.0,
+      "total": 27370000.0,
       "investors": [
-        "Earlybird Venture Capital",
-        "Zacua Ventures",
-        "Capricorn Partners",
-        "noa"
+        "Rsquared",
+        "Riot Ventures",
+        "Ravelin",
+        "FPV Ventures"
       ],
-      "location": "Munich"
-    },
-    {
-      "name": "xpander.ai",
-      "domain": "xpander.ai",
-      "desc": "The company offers an AI agent platform that facilitates the creation and management of customizable workflows and multi-agent orchestration, integrating with various enterprise systems. It employs large language models ",
-      "stage": "SEED",
-      "last_amount": 7500000.0,
-      "total": 10500000.0,
-      "investors": [
-        "PICO Venture Partners",
-        "Samsung Next",
-        "SeedIL Ventures",
-        "Emerge Ventures"
-      ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "VERO",
-      "domain": "sayvero.com",
-      "desc": "VERO provides a risk management platform tailored for multifamily leasing, integrating applicant screening processes such as identity, income, credit, and background verification into a single workflow. The platform util",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 18010000.0,
-      "investors": [
-        "LeFrak",
-        "Plug and Play",
-        "Square Peg Ventures",
-        "Cogito Ventures"
-      ],
-      "location": "New York, NY"
+      "location": "Seattle, Washington"
     },
     {
       "name": "HeyBreezAI",
@@ -273,7 +216,7 @@
     {
       "name": "SnerpaPower",
       "domain": "snerpapower.com",
-      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to enhance electricity consumption and operati",
+      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to optimize electricity consumption and operat",
       "stage": "SEED",
       "last_amount": 3481734.0,
       "total": 5886499.0,
@@ -331,21 +274,6 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "amber",
-      "domain": "ambersearch.de",
-      "desc": "The company provides an AI-driven enterprise search platform that enables efficient access to diverse internal content types, including text, images, and audio, while addressing data silos. It utilizes proprietary AI mod",
-      "stage": "SERIES_A",
-      "last_amount": 8117634.0,
-      "total": 10386345.0,
-      "investors": [
-        "Ventech",
-        "NRW.BANK",
-        "digitalHUB Aachen e.V.",
-        "BRYCK.COM"
-      ],
-      "location": "Aachen, Nordrhein-Westfalen"
-    },
-    {
       "name": "Intel Corp",
       "domain": "intel.com",
       "desc": "The company offers a range of processors and graphics technologies aimed at enhancing computing performance, particularly for AI applications, with a focus on advanced data processing and system security. These products ",
@@ -376,18 +304,6 @@
       "location": "Vilnius"
     },
     {
-      "name": "Gandr",
-      "domain": "gandr.ai",
-      "desc": "Gandr offers a text-to-speech service that enables unlimited speech generation in 23 languages, utilizing voice cloning technology that can replicate a voice from just ten seconds of audio. The system is designed for low",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco , CA"
-    },
-    {
       "name": "Prevalent AI",
       "domain": "prevalent.ai",
       "desc": "Prevalent AI offers a platform that integrates a Security Data Fabric with AI-driven Exposure Management, enabling organizations to achieve comprehensive visibility and control over their cyber risks. The technology empl",
@@ -398,21 +314,6 @@
         "Integrity Growth Partners"
       ],
       "location": "London"
-    },
-    {
-      "name": "VastAdvisor",
-      "domain": "vastadvisor.ai",
-      "desc": "VastAdvisor – The Governed AI Growth Operating System for Financial Advisors VastAdvisor is redefining how financial advisors grow. Built as the industry’s first AI Growth Operating System, we empower Registered Investme",
-      "stage": "PRE_SEED",
-      "last_amount": 1000000.0,
-      "total": 1000000.0,
-      "investors": [
-        "Carson Group",
-        "Woodgate Financial Inc.",
-        "Convergency Partners",
-        "Dani Fava"
-      ],
-      "location": "Austin, TX"
     },
     {
       "name": "1VALET",
@@ -438,21 +339,6 @@
         "Chris Kappy"
       ],
       "location": ""
-    },
-    {
-      "name": "Provenance",
-      "domain": "provenancexl.com",
-      "desc": "The product is an Excel add-in that enhances the review process of financial models by providing immediate visibility into changes in assumptions, formulas, and outputs, thereby reducing review time significantly. It fea",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 535000.0,
-      "investors": [
-        "Glasswing Ventures",
-        "NVIDIA",
-        "QNB Group",
-        "NVIDIA Inception"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "Queue-it",
@@ -493,18 +379,6 @@
       "location": "London"
     },
     {
-      "name": "Reconero",
-      "domain": "reconero.com",
-      "desc": "",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
       "name": "ClaimKit",
       "domain": "claimkit.co",
       "desc": "ClaimKit provides an automated platform designed to facilitate the management and documentation of R&D tax claims for technology companies, significantly decreasing the time required for submission. The service utilizes ",
@@ -542,6 +416,18 @@
       "location": ""
     },
     {
+      "name": "PAYLOAD Technologies Inc.",
+      "domain": "payload.com",
+      "desc": "The company offers a payment platform that automates inbound and outbound transactions, supporting various payment methods including ACH, card, and bank transfers. Its technology features integrated compliance tools, eff",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 9075001.0,
+      "investors": [
+        "Fifth Third Bank"
+      ],
+      "location": "Calgary, AB"
+    },
+    {
       "name": "Zenalyst.AI",
       "domain": "zenalyst.ai",
       "desc": "Zenalyst | Building the AI Workforce for Modern Business Zenalyst is an AI powered enterprise intelligence platform that helps organizations transform fragmented data into faster, smarter decisions. By connecting ERP, CR",
@@ -557,6 +443,18 @@
       "location": "Bengaluru South, Karnataka"
     },
     {
+      "name": "Sentient OS",
+      "domain": "sentient-os.ai",
+      "desc": "Your AIs don't know you, and structurally no one is fixing that. Sentient OS gives every AI you use full context on your entire digital life, and proactively acts on what it finds, so your AI finally works like it actual",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
       "name": "Nexus IT",
       "domain": "nexusitc.net",
       "desc": "Nexus IT Consultants offers managed IT services that encompass cybersecurity, cloud solutions including Microsoft Office 365 and Azure, and large facility Wi-Fi, tailored for small and medium-sized businesses in regulate",
@@ -568,21 +466,6 @@
         "Diatonic Healthcare"
       ],
       "location": "Salt Lake City, UT"
-    },
-    {
-      "name": "Jem",
-      "domain": "jemhr.com",
-      "desc": "Jem provides a platform that enables the distribution of payroll documents, such as payslips and timesheets, to deskless workers via WhatsApp, enhancing communication and payroll management. The solution integrates with ",
-      "stage": "SERIES_A",
-      "last_amount": 8400000.0,
-      "total": 58988000.0,
-      "investors": [
-        "Fitech Ventures",
-        "NEXT176",
-        "Dimension Data",
-        "Standard Bank South Africa"
-      ],
-      "location": "Cape Town, Western Cape"
     },
     {
       "name": "Oceanloop",
@@ -611,19 +494,14 @@
       "location": "Limerick"
     },
     {
-      "name": "DEEPFINE",
-      "domain": "deepfine.com",
-      "desc": "The primary offering is a platform that utilizes smart glasses, extended reality (XR), visual positioning systems (VPS), and artificial intelligence (AI) to generate three-dimensional spatial data and facilitate contactl",
-      "stage": "SERIES_B",
-      "last_amount": 7070000.0,
-      "total": 12124163.0,
-      "investors": [
-        "Smilegate Investment",
-        "Industrial Bank of Korea",
-        "효성벤처스 (Hyosung Ventures)",
-        "POSCO CAPITAL"
-      ],
-      "location": "Seoul"
+      "name": "PayRewards",
+      "domain": "payrewards.com",
+      "desc": "PayRewards is a payments platform that allows businesses to earn rewards on various transaction types, including credit card payments, ACH, and wire transfers, even for vendors that do not accept card payments. The platf",
+      "stage": "SERIES_E",
+      "last_amount": 28000000.0,
+      "total": 28000000.0,
+      "investors": [],
+      "location": "Dallas"
     },
     {
       "name": "ALSO Group",
@@ -654,16 +532,6 @@
         "WEH Ventures"
       ],
       "location": "Bengaluru East, Karnataka"
-    },
-    {
-      "name": "Tax Star",
-      "domain": "taxstar.app",
-      "desc": "The product is a corporate tax software that automates tax calculations, manages client approval workflows, and tracks deadlines to improve compliance and operational efficiency. It also integrates with existing accounti",
-      "stage": "SEED",
-      "last_amount": 1750000.0,
-      "total": 1750000.0,
-      "investors": [],
-      "location": "Dubai"
     },
     {
       "name": "Bower",
@@ -704,6 +572,66 @@
         "New Paradigm Investment"
       ],
       "location": "서울시 , 강남구"
+    },
+    {
+      "name": "現場Hub株式会社",
+      "domain": "gembahub.co.jp",
+      "desc": "Specialized media that supports DX promotion in the construction and equipment construction industry. Genba Hub Co., Ltd. disseminates practical information useful for improving workplace productivity, such as know-how o",
+      "stage": "SEED",
+      "last_amount": 439600.0,
+      "total": 1431952.0,
+      "investors": [
+        "FIRSTLIGHT Capital",
+        "D4V (Design for Ventures)"
+      ],
+      "location": "7th Floor Forum Shibuya Shinsen, 8-1 Shinsen-cho, Shibuya-ku, Tokyo, 150-0045, Japan"
+    },
+    {
+      "name": "Boldr",
+      "domain": "pro.boldrenergy.com",
+      "desc": "The main product is an energy management platform designed for HVAC systems, enabling homeowners to optimize energy usage, monitor consumption in real-time, and manage climate control across multiple rooms. It utilizes t",
+      "stage": "SERIES_A",
+      "last_amount": 4900660.0,
+      "total": 5000000.0,
+      "investors": [
+        "Techstars",
+        "Ada Ventures",
+        "DVC",
+        "Propelx"
+      ],
+      "location": "London"
+    },
+    {
+      "name": "Soft Tehnica",
+      "domain": "soft-tehnica.com",
+      "desc": "Soft Tehnica specializes in developing custom software solutions that utilize Augmented Reality (AR), Artificial Intelligence (AI), and Virtual Reality (VR) technologies to improve user experiences and support digital tr",
+      "stage": "PRE_SEED",
+      "last_amount": 547000.0,
+      "total": 547000.0,
+      "investors": [],
+      "location": "Sectorul 4, Bucharest"
+    },
+    {
+      "name": "Covera",
+      "domain": "covera-agents.com",
+      "desc": "Ready-to-use AI agents that handle submission intake, carrier quoting, quote comparison, claims, past-due collections, and account rounding. Less admin, more selling.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
+      "name": "ClearPath AI",
+      "domain": "clearpathgroup.ai",
+      "desc": "ClearPath - AI for Legal & Professional Services. ClearPath provides five AI platforms for law firms, conveyancers, estate agents, mortgage brokers, lenders and regulated businesses. Our AI works inside the matter or tra",
+      "stage": "PRE_SEED",
+      "last_amount": 1364349.0,
+      "total": 1364349.0,
+      "investors": [],
+      "location": "London, England"
     }
   ]
 }
