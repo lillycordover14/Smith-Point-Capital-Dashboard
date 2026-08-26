@@ -2668,5 +2668,65 @@
     "theme": "Applied AI agents",
     "domain": "",
     "clean": "Covera"
+  },
+  "paycomau": {
+    "theme": "Fintech & payments",
+    "domain": "",
+    "clean": "pay.com.au"
+  },
+  "newcodeai": {
+    "theme": "Legal AI",
+    "domain": "",
+    "clean": "Newcode.ai"
+  },
+  "repodo": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Repodo"
+  },
+  "neno": {
+    "theme": "HR & workforce",
+    "domain": "",
+    "clean": "neno"
+  },
+  "euler": {
+    "theme": "Agent-native infra",
+    "domain": "",
+    "clean": "EULER"
+  },
+  "volve": {
+    "theme": "Vertical SaaS",
+    "domain": "",
+    "clean": "Volve"
+  },
+  "vestbee": {
+    "theme": "AI compute & models",
+    "domain": "",
+    "clean": "Vestbee"
+  },
+  "solacecare": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Solace Care"
+  },
+  "pixyleai": {
+    "theme": "Consumer & marketplace",
+    "domain": "",
+    "clean": "Pixyle.ai"
+  },
+  "verascient": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Verascient"
+  },
+  "storehub": {
+    "theme": "Data infrastructure",
+    "domain": "",
+    "clean": "StoreHub"
+  },
+  "evohq": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "EVO HQ"
   }
 }

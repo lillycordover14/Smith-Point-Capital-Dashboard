@@ -1,23 +1,8 @@
 {
-  "generated": "2026-08-25",
+  "generated": "2026-08-26",
   "mode": "full",
-  "count": 46,
+  "count": 50,
   "companies": [
-    {
-      "name": "Rillet",
-      "domain": "rillet.com",
-      "desc": "Rillet provides an AI-native ERP platform designed to automate various accounting functions, including revenue recognition and multi-entity accounting, while utilizing a perpetual general ledger to enhance the month-end ",
-      "stage": "SERIES_C",
-      "last_amount": 100000000.0,
-      "total": 208500000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Scale Venture Partners",
-        "Oak HC/FT",
-        "First Round Capital"
-      ],
-      "location": "New York, NY, US"
-    },
     {
       "name": "Arintra",
       "domain": "arintra.com",
@@ -32,36 +17,6 @@
         "TEN13"
       ],
       "location": "Austin"
-    },
-    {
-      "name": "Rundoo",
-      "domain": "rundoo.ai",
-      "desc": "Rundoo offers an integrated software platform for independent supply stores that includes point of sale (POS), inventory management, and payment processing capabilities. The platform utilizes AI technologies to enhance o",
-      "stage": "SERIES_B",
-      "last_amount": 30000000.0,
-      "total": 48000000.0,
-      "investors": [
-        "Plug and Play",
-        "CRV",
-        "Battery Ventures",
-        "Quiet Capital"
-      ],
-      "location": "Redwood City, California"
-    },
-    {
-      "name": "Standard Metrics",
-      "domain": "standardmetrics.io",
-      "desc": "The main product is an automated data platform for portfolio management that centralizes performance data, facilitating enhanced analytics and reporting for startups and investors. It employs AI-driven analytics and inte",
-      "stage": "SERIES_B",
-      "last_amount": 20000000.0,
-      "total": 49526797.0,
-      "investors": [
-        "LeFrak",
-        "Spark Capital",
-        "Global Founders Capital",
-        "SAV (Scale Asia Ventures)"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "Twin-1 AI",
@@ -79,6 +34,21 @@
       "location": "San Francisco"
     },
     {
+      "name": "Rundoo",
+      "domain": "rundoo.ai",
+      "desc": "Rundoo offers an integrated software platform for independent supply stores that includes point of sale (POS), inventory management, and payment processing capabilities. The platform utilizes AI technologies to enhance o",
+      "stage": "SERIES_B",
+      "last_amount": 30000000.0,
+      "total": 48000000.0,
+      "investors": [
+        "Plug and Play",
+        "CRV",
+        "Battery Ventures",
+        "Quiet Capital"
+      ],
+      "location": "Redwood City, California"
+    },
+    {
       "name": "Velatir",
       "domain": "velatir.com",
       "desc": "Velatir provides a suite of tools that integrate human oversight into AI-driven workflows, focusing on compliance with regulations and enhancing decision-making. The platform employs specialized agents that monitor AI in",
@@ -94,9 +64,24 @@
       "location": "Odense"
     },
     {
+      "name": "Standard Metrics",
+      "domain": "standardmetrics.io",
+      "desc": "The main product is an automated data platform for portfolio management that centralizes performance data, facilitating enhanced analytics and reporting for startups and investors. It employs AI-driven analytics and inte",
+      "stage": "SERIES_B",
+      "last_amount": 20000000.0,
+      "total": 49526797.0,
+      "investors": [
+        "LeFrak",
+        "Spark Capital",
+        "Global Founders Capital",
+        "SAV (Scale Asia Ventures)"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
       "name": "Boom",
       "domain": "boompay.app",
-      "desc": "Boom provides modern rental financial services that enhance the rental experience for both renters and property managers, offering solutions such as tenant screening and rent reporting. The platform employs technologies ",
+      "desc": "Boom offers modern rental financial services designed to streamline the rental process for both renters and property managers, featuring solutions such as tenant screening and rent reporting. The platform utilizes techno",
       "stage": "SERIES_A",
       "last_amount": 15000000.0,
       "total": 25500000.0,
@@ -139,21 +124,6 @@
       "location": "San Francisco"
     },
     {
-      "name": "Hypercubic",
-      "domain": "hypercubic.ai",
-      "desc": "Hypercubic provides a domain-specific AI platform designed for mainframe modernization, enabling the transformation of legacy systems into modern architectures while preserving critical operational knowledge. The technol",
-      "stage": "SEED",
-      "last_amount": 5300000.0,
-      "total": 5800000.0,
-      "investors": [
-        "Plug and Play",
-        "Pioneer Fund",
-        "Unpopular Ventures",
-        "Y Combinator"
-      ],
-      "location": "San Francisco, CA, USA"
-    },
-    {
       "name": "Integrate",
       "domain": "integrate.co",
       "desc": "The main product is a project management platform tailored for collaborative hardware development, facilitating the management of complex projects across various organizations. It utilizes advanced scheduling technologie",
@@ -167,6 +137,21 @@
         "FPV Ventures"
       ],
       "location": "Seattle, Washington"
+    },
+    {
+      "name": "SnerpaPower",
+      "domain": "snerpapower.com",
+      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to optimize electricity consumption and operat",
+      "stage": "SEED",
+      "last_amount": 3481734.0,
+      "total": 5886499.0,
+      "investors": [
+        "Encevo",
+        "Crowberry Capital",
+        "Rannís - Icelandic Centre for Research",
+        "BackingMinds"
+      ],
+      "location": "Reykjavik"
     },
     {
       "name": "HeyBreezAI",
@@ -199,36 +184,6 @@
       "location": "São Paulo, SP"
     },
     {
-      "name": "Rezolv",
-      "domain": "rezolv.com",
-      "desc": "Rezolv offers an AI-powered debt collection platform that utilizes advanced analytics and machine learning to streamline the collections lifecycle, facilitating management across various communication channels and operat",
-      "stage": "SERIES_A",
-      "last_amount": 12500000.0,
-      "total": 16000000.0,
-      "investors": [
-        "Norwest",
-        "3one4 Capital",
-        "Vertex Ventures SE Asia & India",
-        "Vertex Ventures Southeast Asia and India"
-      ],
-      "location": "Mumbai, Maharashtra"
-    },
-    {
-      "name": "SnerpaPower",
-      "domain": "snerpapower.com",
-      "desc": "The company offers an energy management platform designed for power-intensive industries, employing automation, load forecasting, scheduling, and bid generation technologies to optimize electricity consumption and operat",
-      "stage": "SEED",
-      "last_amount": 3481734.0,
-      "total": 5886499.0,
-      "investors": [
-        "Encevo",
-        "Crowberry Capital",
-        "Rannís - Icelandic Centre for Research",
-        "BackingMinds"
-      ],
-      "location": "Reykjavik"
-    },
-    {
       "name": "Aisel Health",
       "domain": "aisel.co",
       "desc": "The main product is an AI platform designed for psychiatric clinics that automates the intake process and organizes patient data through AI-driven pre-assessments and real-time documentation. It employs technologies such",
@@ -242,6 +197,21 @@
         "Angel Invest"
       ],
       "location": "Copenhagen"
+    },
+    {
+      "name": "Volve",
+      "domain": "volvetech.com",
+      "desc": "The company provides an AI-powered document evaluation platform tailored for the construction industry, employing natural language processing and retrieval-augmented generation to analyze complex documents like tenders a",
+      "stage": "SEED",
+      "last_amount": 3000000.0,
+      "total": 3964270.0,
+      "investors": [
+        "J12",
+        "Startuplab",
+        "OBOS",
+        "Antler"
+      ],
+      "location": "Oslo"
     },
     {
       "name": "TravelX",
@@ -272,6 +242,21 @@
         "01 Advisors"
       ],
       "location": "San Francisco, CA"
+    },
+    {
+      "name": "Newcode.ai",
+      "domain": "newcode.ai",
+      "desc": "The main product is a platform that utilizes AI technologies to automate various legal document processing tasks, including review, summarization, translation, anonymization, and transcription, while allowing for customi",
+      "stage": "SERIES_A",
+      "last_amount": 13500000.0,
+      "total": 20000000.0,
+      "investors": [
+        "Alliance VC",
+        "The LegalTech Fund",
+        "Antiportfolio Ventures",
+        "OnDean Forward"
+      ],
+      "location": "New York, NY"
     },
     {
       "name": "Intel Corp",
@@ -316,16 +301,6 @@
       "location": "London"
     },
     {
-      "name": "1VALET",
-      "domain": "1valet.com",
-      "desc": "1VALET offers a smart building operating system that combines video intercom, facial recognition access control, and package delivery management to enhance security and operational efficiency in multifamily properties. T",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 38635380.0,
-      "investors": [],
-      "location": "Gatineau, Québec"
-    },
-    {
       "name": "Quantizr",
       "domain": "quantizr.com",
       "desc": "The main product is an AI-powered platform designed for the entertainment industry that automates the parsing and structuring of financial documents and deal terms, thereby streamlining workflows and enhancing decision-m",
@@ -341,32 +316,19 @@
       "location": ""
     },
     {
-      "name": "Queue-it",
-      "domain": "queue-it.com",
-      "desc": "Queue-it offers a virtual waiting room solution designed to manage high-traffic events by regulating user access and reducing bot interference, thereby ensuring equitable access for all users. The platform is compatible ",
+      "name": "neno",
+      "domain": "useneno.com",
+      "desc": "Neno is a full-stack AI financial services company merging financial technology with embedded professional payroll, accounting and tax services - everything an entrepreneur needs without the admin headache or high fees t",
       "stage": "SEED",
-      "last_amount": 0,
-      "total": 12600000.0,
+      "last_amount": 7700926.0,
+      "total": 7700926.0,
       "investors": [
-        "GRO",
-        "Innovation Fund Denmark",
-        "THL Partners",
-        "Ubiquity Ventures"
+        "PayPal",
+        "Juni",
+        "Hugging Face",
+        "Motive Partners"
       ],
-      "location": "Copenhagen, Capital Region"
-    },
-    {
-      "name": "VISS.AI",
-      "domain": "viss.ai",
-      "desc": "The main product is an AI automation platform that allows users to create workflows using natural language commands, integrating with over 100 applications without the need for coding. It utilizes a multi-agent AI framew",
-      "stage": "SEED",
-      "last_amount": 2700000.0,
-      "total": 4212017.0,
-      "investors": [
-        "Starbright Invest",
-        "Spintop Ventures"
-      ],
-      "location": "Huskvarnavägen 82, 554 66 Jönköping, Sweden"
+      "location": "Amsterdam, North Holland"
     },
     {
       "name": "Paralo",
@@ -377,6 +339,21 @@
       "total": 368140.0,
       "investors": [],
       "location": "London"
+    },
+    {
+      "name": "pay.com.au",
+      "domain": "pay.com.au",
+      "desc": "The company offers a payments platform that enables businesses to manage various expenses, such as payroll and taxes, while earning rewards points on these transactions. It utilizes payment processing and financial integ",
+      "stage": "SERIES_E",
+      "last_amount": 28000000.0,
+      "total": 76359000.0,
+      "investors": [
+        "Ophir Asset Management",
+        "Wilson Asset Management",
+        "Morgans Financial Limited",
+        "Thorney Investment Group"
+      ],
+      "location": "Melbourne"
     },
     {
       "name": "ClaimKit",
@@ -416,6 +393,34 @@
       "location": ""
     },
     {
+      "name": "Pixyle.ai",
+      "domain": "pixyle.ai",
+      "desc": "The company offers an AI-driven platform that automates the generation of product tags, descriptions, and attributes specifically for fashion e-commerce, facilitating enhanced catalog management and product visibility. I",
+      "stage": "SEED",
+      "last_amount": 1165841.0,
+      "total": 2331694.0,
+      "investors": [
+        "South Central Ventures",
+        "Rockstart"
+      ],
+      "location": "Amsterdam, North Holland"
+    },
+    {
+      "name": "Solace Care",
+      "domain": "solace.care",
+      "desc": "Solace Care provides a digital platform focused on end-of-life planning and bereavement support, utilizing AI-driven technologies to assist individuals and families in managing the emotional and logistical challenges of ",
+      "stage": "PRE_SEED",
+      "last_amount": 2450779.0,
+      "total": 2758366.0,
+      "investors": [
+        "Plug and Play",
+        "Wave Ventures",
+        "Spintop Ventures",
+        "Further Than Capital"
+      ],
+      "location": "Stockholm, Stockholm County"
+    },
+    {
       "name": "PAYLOAD Technologies Inc.",
       "domain": "payload.com",
       "desc": "The company offers a payment platform that automates inbound and outbound transactions, supporting various payment methods including ACH, card, and bank transfers. Its technology features integrated compliance tools, eff",
@@ -426,6 +431,21 @@
         "Fifth Third Bank"
       ],
       "location": "Calgary, AB"
+    },
+    {
+      "name": "StoreHub",
+      "domain": "storehub.com",
+      "desc": "StoreHub offers a cloud-based point-of-sale system designed for the food and beverage and retail industries, enabling remote management and QR code ordering. The platform features integrated reporting and analytics to en",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 50950000.0,
+      "investors": [
+        "500 Global",
+        "Cradle Seed Ventures",
+        "Eclectic Fund",
+        "Temasek"
+      ],
+      "location": "Petaling Jaya, Selangor"
     },
     {
       "name": "Zenalyst.AI",
@@ -441,6 +461,18 @@
         "Anurag Jain"
       ],
       "location": "Bengaluru South, Karnataka"
+    },
+    {
+      "name": "EULER",
+      "domain": "eulerhq.com",
+      "desc": "EULER offers agentic partner relationship management (PRM) software designed to automate partner operations and enhance revenue predictability. The platform utilizes advanced data analytics and integration capabilities t",
+      "stage": "SEED",
+      "last_amount": 4300000.0,
+      "total": 4300000.0,
+      "investors": [
+        "Channel Equity Partners"
+      ],
+      "location": ""
     },
     {
       "name": "Sentient OS",
@@ -482,6 +514,21 @@
       "location": "Munich, Bavaria"
     },
     {
+      "name": "Vestbee",
+      "domain": "vestbee.com",
+      "desc": "Vestbee offers a platform that connects startups, investors, accelerators, and corporates, employing virtual showroom technology to enhance networking and streamline application processes. The platform provides various t",
+      "stage": "PRE_SEED",
+      "last_amount": 2695324.0,
+      "total": 4584679.0,
+      "investors": [
+        "Moonstone Venture Capital",
+        "Cocoa",
+        "Italian Founders Fund",
+        "u.ventures"
+      ],
+      "location": "Warsaw, Mazovian"
+    },
+    {
       "name": "Redfaire",
       "domain": "redfaire.com",
       "desc": "Redfaire provides consulting services for Oracle JD Edwards ERP, focusing on cloud migrations, software development, and data management to enhance system functionality. Their solutions utilize Oracle Cloud Infrastructur",
@@ -492,16 +539,6 @@
         "BGF"
       ],
       "location": "Limerick"
-    },
-    {
-      "name": "PayRewards",
-      "domain": "payrewards.com",
-      "desc": "PayRewards is a payments platform that allows businesses to earn rewards on various transaction types, including credit card payments, ACH, and wire transfers, even for vendors that do not accept card payments. The platf",
-      "stage": "SERIES_E",
-      "last_amount": 28000000.0,
-      "total": 28000000.0,
-      "investors": [],
-      "location": "Dallas"
     },
     {
       "name": "ALSO Group",
@@ -517,6 +554,64 @@
         "Prysm Capital"
       ],
       "location": "Emmen, Kanton Luzern"
+    },
+    {
+      "name": "Repodo",
+      "domain": "repodo.com",
+      "desc": "AI-native audit platform for European SMEs, that connects to your client's ERP, prepares the complete audit workfile, and presents it for your review.",
+      "stage": "PRE_SEED",
+      "last_amount": 9562233.0,
+      "total": 9562233.0,
+      "investors": [
+        "Seed Capital",
+        "Hedosophia"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Verascient",
+      "domain": "verascient.com",
+      "desc": "Verascient provides a technology that functions as a trust layer to mitigate inaccuracies in AI-generated outputs, particularly in sectors where precision is critical. This solution aims to enhance the reliability of inf",
+      "stage": "SEED",
+      "last_amount": 1200000.0,
+      "total": 1200000.0,
+      "investors": [
+        "Cambridge Enterprise",
+        "Founder Collective",
+        "Alan Knott-Craig",
+        "Andrena Ventures"
+      ],
+      "location": "City of Cape Town, Western Cape, South Africa"
+    },
+    {
+      "name": "PayRewards",
+      "domain": "payrewards.com",
+      "desc": "PayRewards is a payments platform that allows businesses to earn rewards on various transaction types, including credit card payments, ACH, and wire transfers, even for vendors that do not accept card payments. The platf",
+      "stage": "SERIES_E",
+      "last_amount": 28000000.0,
+      "total": 44164000.0,
+      "investors": [
+        "Thorney",
+        "Ophir Asset Management",
+        "Wilson Asset Management",
+        "Morgans Financial Limited"
+      ],
+      "location": "Dallas"
+    },
+    {
+      "name": "HERP, Inc.",
+      "domain": "herp.co.jp",
+      "desc": "The company provides a suite of digital recruitment solutions, including a recruitment management system, a talent pool system, and an online reference check tool, which leverage automated data integration, artificial in",
+      "stage": "SERIES_C",
+      "last_amount": 11932000.0,
+      "total": 25035514.0,
+      "investors": [
+        "Yugo Osaka",
+        "DNX Ventures - US",
+        "Money Forward, Inc.",
+        "JIC Venture Growth Investments"
+      ],
+      "location": "品川区, 東京都"
     },
     {
       "name": "InfinityBox",
@@ -578,13 +673,25 @@
       "domain": "gembahub.co.jp",
       "desc": "Specialized media that supports DX promotion in the construction and equipment construction industry. Genba Hub Co., Ltd. disseminates practical information useful for improving workplace productivity, such as know-how o",
       "stage": "SEED",
-      "last_amount": 439600.0,
-      "total": 1431952.0,
+      "last_amount": 439880.0,
+      "total": 1432232.0,
       "investors": [
         "FIRSTLIGHT Capital",
         "D4V (Design for Ventures)"
       ],
       "location": "7th Floor Forum Shibuya Shinsen, 8-1 Shinsen-cho, Shibuya-ku, Tokyo, 150-0045, Japan"
+    },
+    {
+      "name": "EVO HQ",
+      "domain": "evo-hq.com",
+      "desc": "EVO offers a self-improving infrastructure that automates experimentation across various system components, optimizing code, agent performance, model configurations, and website A/B tests through AI-driven parallel exper",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
     },
     {
       "name": "Boldr",
@@ -600,38 +707,6 @@
         "Propelx"
       ],
       "location": "London"
-    },
-    {
-      "name": "Soft Tehnica",
-      "domain": "soft-tehnica.com",
-      "desc": "Soft Tehnica specializes in developing custom software solutions that utilize Augmented Reality (AR), Artificial Intelligence (AI), and Virtual Reality (VR) technologies to improve user experiences and support digital tr",
-      "stage": "PRE_SEED",
-      "last_amount": 547000.0,
-      "total": 547000.0,
-      "investors": [],
-      "location": "Sectorul 4, Bucharest"
-    },
-    {
-      "name": "Covera",
-      "domain": "covera-agents.com",
-      "desc": "Ready-to-use AI agents that handle submission intake, carrier quoting, quote comparison, claims, past-due collections, and account rounding. Less admin, more selling.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
-      "name": "ClearPath AI",
-      "domain": "clearpathgroup.ai",
-      "desc": "ClearPath - AI for Legal & Professional Services. ClearPath provides five AI platforms for law firms, conveyancers, estate agents, mortgage brokers, lenders and regulated businesses. Our AI works inside the matter or tra",
-      "stage": "PRE_SEED",
-      "last_amount": 1364349.0,
-      "total": 1364349.0,
-      "investors": [],
-      "location": "London, England"
     }
   ]
 }
