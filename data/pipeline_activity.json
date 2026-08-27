@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26",
+  "generated": "2026-08-27",
   "companies": [
     {
       "name": "Salient",
@@ -83,6 +83,13 @@
       "domain": "netboxlabs.com",
       "slug": "netbox-labs",
       "updates": [
+        {
+          "date": "2026-08-27",
+          "category": "Blog",
+          "title": "Public Preview: NetBox Agents Automate Infrastructure Workflows, With You in Control",
+          "link": "https://netboxlabs.com/blog/netbox-agents-public-preview/",
+          "source": "Blog"
+        },
         {
           "date": "2026-08-19",
           "category": "Blog",
