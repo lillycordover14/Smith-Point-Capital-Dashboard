@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-27",
+  "generated": "2026-08-28",
   "companies": [
     {
       "name": "Salient",
@@ -36,24 +36,21 @@
       "last_raise_source": "Harmonic (by domain)",
       "funding_total": 55000000.0,
       "cycle": "approaching",
-      "basis": "signal",
-      "status": "Entering window + momentum",
+      "basis": "cadence",
+      "status": "Potentially entering raise window",
       "likelihood": "Medium",
       "rank": 3,
       "strong_signals": 0,
-      "supporting_signals": 1,
+      "supporting_signals": 0,
       "finance_leadership_open": false,
-      "open_roles": 13,
+      "open_roles": 14,
       "signals": [
         "13 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
         "Last round: 2025-07-14 (Harmonic (by domain))",
-        "Conference/roadshow presence: y Meetup Sep 15, 2026 | 11:00 AM EST | 15:00 UTC Event Red Hat Summit: Connec",
-        "Basis: live signal"
+        "Basis: cadence only (no live signals yet)"
       ],
       "url": "https://netboxlabs.com",
-      "links": [
-        "https://netboxlabs.com/events"
-      ]
+      "links": []
     },
     {
       "name": "Bretton",
@@ -68,13 +65,14 @@
       "status": "Just raised — not soon",
       "likelihood": "Very low",
       "rank": 1,
-      "strong_signals": 0,
+      "strong_signals": 1,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 9,
+      "open_roles": 8,
       "signals": [
         "7 mo since last round (Series B) · typical Series B cadence ~15 mo · just raised",
         "Last round: 2026-02-10 (Harmonic (by domain))",
+        "Hiring cooled after a ramp — classic pre-close pattern (hiring cooled from peak 12 to 8)",
         "Conference/roadshow presence: :before { content: counter(activity-count) ' way to connect'; } .ev",
         "Basis: cadence only (no live signals yet)"
       ],
