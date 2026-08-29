@@ -1,22 +1,22 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "mode": "full",
   "count": 48,
   "companies": [
     {
-      "name": "Arintra",
-      "domain": "arintra.com",
-      "desc": "Arintra offers an autonomous coding platform that utilizes advanced AI to accurately code medical charts across various specialties and care settings, streamlining the revenue cycle by minimizing manual processes and red",
-      "stage": "SERIES_B",
-      "last_amount": 25000000.0,
-      "total": 46650000.0,
+      "name": "Linear",
+      "domain": "linear.app",
+      "desc": "Linear offers a purpose-built product development system designed for modern teams, integrating artificial intelligence to enhance workflows and facilitate collaboration between human users and automated agents. The plat",
+      "stage": "SERIES_C",
+      "last_amount": 99000000.0,
+      "total": 134200000.0,
       "investors": [
-        "Spider Capital",
-        "Peak XV Partners",
-        "Google for Startups",
-        "TEN13"
+        "INDIE ENTERPRISES",
+        "Designer Fund",
+        "Seven Seven Six 7️⃣7️⃣6️⃣",
+        "Index Ventures"
       ],
-      "location": "Austin"
+      "location": "San Francisco, California"
     },
     {
       "name": "Willow",
@@ -49,9 +49,24 @@
       "location": "San Diego, California"
     },
     {
+      "name": "Pennylane",
+      "domain": "pennylane.com",
+      "desc": "The main product is a comprehensive financial management and accounting software designed for European SMEs, integrating invoicing, expense management, and real-time cash flow monitoring into a single platform. It utiliz",
+      "stage": "SERIES_E",
+      "last_amount": 205000000.0,
+      "total": 660517998.0,
+      "investors": [
+        "Global Founders Capital",
+        "CapitalG",
+        "Discovery Ventures",
+        "Rocket Internet SE"
+      ],
+      "location": "Paris, Île-de-France"
+    },
+    {
       "name": "Volve",
       "domain": "volvetech.com",
-      "desc": "The main product is an AI-powered tender intelligence platform designed specifically for the construction industry, which transforms complex project document sets into structured, decision-ready outputs to enhance the te",
+      "desc": "The main product is an AI-powered tender intelligence platform designed specifically for the construction industry, which transforms complex project document sets into structured, decision-ready outputs. It utilizes adva",
       "stage": "SEED",
       "last_amount": 3000000.0,
       "total": 3964270.0,
@@ -62,6 +77,21 @@
         "Antler"
       ],
       "location": "Oslo"
+    },
+    {
+      "name": "Multiplier",
+      "domain": "usemultiplier.com",
+      "desc": "Multiplier offers a global platform that facilitates the hiring, management, and payment of international teams through its Employer of Record (EOR) and Contractor of Record (COR) services. The platform utilizes owned en",
+      "stage": "SEED",
+      "last_amount": 6000000.0,
+      "total": 118200000.0,
+      "investors": [
+        "Peak XV Partners",
+        "MS&AD Ventures",
+        "Ribbit Capital",
+        "Mercator Partners"
+      ],
+      "location": "New York"
     },
     {
       "name": "Trust AI",
@@ -78,19 +108,19 @@
       "location": "166 Geary Street, San Francisco, CA 94108, United States"
     },
     {
-      "name": "Multiplier",
-      "domain": "usemultiplier.com",
-      "desc": "Multiplier offers a global platform that facilitates hiring, managing, and paying international teams through its Employer of Record (EOR), Contractor of Record (COR), and Global Payroll services. The platform utilizes o",
+      "name": "Arga Labs",
+      "domain": "argalabs.com",
+      "desc": "Arga Labs provides a sandbox environment that allows users to test AI systems against realistic scenarios by utilizing twins of third-party services, enabling the simulation of production-like conditions without the risk",
       "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 83200000.0,
+      "last_amount": 10000000.0,
+      "total": 10500000.0,
       "investors": [
-        "Peak XV Partners",
-        "MS&AD Ventures",
-        "Mercator Partners",
-        "Rebel Fund"
+        "Y Combinator",
+        "Comma Capital",
+        "Emergence Capital",
+        "General Catalyst"
       ],
-      "location": "New York"
+      "location": "San Francisco, California"
     },
     {
       "name": "Integrate",
@@ -106,6 +136,21 @@
         "FPV Ventures"
       ],
       "location": "Seattle, Washington"
+    },
+    {
+      "name": "primero.com",
+      "domain": "primero.com",
+      "desc": "Primero AI develops and implements enterprise AI systems that integrate with existing data and workflows across various business functions such as finance, HR, and operations. The technology focuses on composable workflo",
+      "stage": "SEED",
+      "last_amount": 12000000.0,
+      "total": 12000000.0,
+      "investors": [
+        "KASZEK",
+        "Conviction",
+        "8VC",
+        "Definition"
+      ],
+      "location": ""
     },
     {
       "name": "Digs",
@@ -138,36 +183,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Arga Labs",
-      "domain": "argalabs.com",
-      "desc": "Arga Labs provides a sandbox environment that allows users to test AI systems against realistic scenarios by utilizing twins of third-party services, enabling the simulation of production-like conditions without the risk",
-      "stage": "SEED",
-      "last_amount": 10000000.0,
-      "total": 10500000.0,
-      "investors": [
-        "Y Combinator",
-        "Comma Capital",
-        "Emergence Capital",
-        "General Catalyst"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
-      "name": "neno",
-      "domain": "useneno.com",
-      "desc": "Neno is a full-stack AI financial services company merging financial technology with embedded professional payroll, accounting and tax services - everything an entrepreneur needs without the admin headache or high fees t",
-      "stage": "SEED",
-      "last_amount": 7700926.0,
-      "total": 7700926.0,
-      "investors": [
-        "PayPal",
-        "Juni",
-        "Hugging Face",
-        "Motive Partners"
-      ],
-      "location": "Amsterdam, North Holland"
-    },
-    {
       "name": "MiiHealth AI",
       "domain": "miihealth.ai",
       "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake processes, allowing providers to focus more on patient care by streamlining workflows and reducing administrative tasks. This tec",
@@ -180,78 +195,6 @@
         "Russell Glass"
       ],
       "location": "Phoenix, Arizona"
-    },
-    {
-      "name": "Runable",
-      "domain": "runable.com",
-      "desc": "Runable is a platform that utilizes AI technology to automate a variety of tasks, enabling users to create presentations, websites, reports, podcasts, images, and videos through AI agents. The service is designed to stre",
-      "stage": "SERIES_A",
-      "last_amount": 21000000.0,
-      "total": 21000000.0,
-      "investors": [
-        "Array Ventures",
-        "Nexus Venture Partners",
-        "Susquehanna Venture Capital",
-        "Together"
-      ],
-      "location": "Dover, Delaware"
-    },
-    {
-      "name": "Workweek",
-      "domain": "workweek.com",
-      "desc": "The main product is a platform that facilitates professional networks, specifically designed for business leaders to connect, share insights, and learn from verified peers within their industries. It employs a community-",
-      "stage": "SERIES_B",
-      "last_amount": 17000000.0,
-      "total": 39944537.0,
-      "investors": [
-        "Next Coast Ventures",
-        "Aperiam",
-        "LightShed Ventures",
-        "Corner3 Ventures"
-      ],
-      "location": "Austin, TX"
-    },
-    {
-      "name": "primero.com",
-      "domain": "primero.com",
-      "desc": "Primero AI develops and implements enterprise AI systems that integrate with existing data and workflows across various business functions such as finance, HR, and operations. The technology focuses on composable workflo",
-      "stage": "SEED",
-      "last_amount": 12000000.0,
-      "total": 12000000.0,
-      "investors": [
-        "KASZEK",
-        "Conviction",
-        "8VC",
-        "Definition"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Sentient OS",
-      "domain": "sentient-os.ai",
-      "desc": "The main product is an on-device AI operating system that utilizes a custom multimodal large language model to process and understand a user's entire digital life, including files, emails, and notes, while ensuring that ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "Levanta",
-      "domain": "levanta.io",
-      "desc": "Levanta offers a creator affiliate platform designed for e-commerce brands, enabling them to manage partnerships across multiple channels such as Amazon, Shopify, and Walmart. The platform utilizes AI technology to conne",
-      "stage": "SERIES_B",
-      "last_amount": 22000000.0,
-      "total": 43786463.0,
-      "investors": [
-        "OpenSky Ventures",
-        "Long Run Capital",
-        "Volition Capital",
-        "Open Sky Ventures (previously Open Sky Incubator)"
-      ],
-      "location": "Seattle, Washington"
     },
     {
       "name": "Atorie",
@@ -269,19 +212,19 @@
       "location": "Los Angeles, CA"
     },
     {
-      "name": "OroCommerce",
-      "domain": "oroinc.com",
-      "desc": "OroCommerce is a unified B2B sales enablement platform that integrates eCommerce, CRM, marketplace management, content management, AI, invoicing, and payment processing into a single system, facilitating a comprehensive ",
-      "stage": "SERIES_A",
-      "last_amount": 3000000.0,
-      "total": 28000000.0,
+      "name": "neno",
+      "domain": "useneno.com",
+      "desc": "Neno is a full-stack AI financial services company merging financial technology with embedded professional payroll, accounting and tax services - everything an entrepreneur needs without the admin headache or high fees t",
+      "stage": "SEED",
+      "last_amount": 7700926.0,
+      "total": 7700926.0,
       "investors": [
-        "Zubr Capital Investment Company",
-        "Highland Europe",
-        "Archer Capital Pty Ltd",
-        "Mapleblock Capital"
+        "PayPal",
+        "Juni",
+        "Hugging Face",
+        "Motive Partners"
       ],
-      "location": "1901 Avenue of the Stars Suite 1900 Los Angeles, California 90067, US"
+      "location": "Amsterdam, North Holland"
     },
     {
       "name": "Instinct",
@@ -299,32 +242,19 @@
       "location": ""
     },
     {
-      "name": "Repodo",
-      "domain": "repodo.com",
-      "desc": "Repodo is an AI-native audit platform designed for European SMEs that integrates with clients' ERP systems to automate the preparation of audit workfiles, enabling auditors to focus on review and judgment. The platform e",
-      "stage": "PRE_SEED",
-      "last_amount": 9573065.0,
-      "total": 9573065.0,
+      "name": "Runable",
+      "domain": "runable.com",
+      "desc": "Runable is a platform that utilizes AI technology to automate a variety of tasks, enabling users to create presentations, websites, reports, podcasts, images, and videos through AI agents. The service is designed to stre",
+      "stage": "SERIES_A",
+      "last_amount": 21000000.0,
+      "total": 21000000.0,
       "investors": [
-        "Seed Capital",
-        "Hedosophia"
+        "Array Ventures",
+        "Nexus Venture Partners",
+        "Susquehanna Venture Capital",
+        "Together"
       ],
-      "location": ""
-    },
-    {
-      "name": "wrtn technologies",
-      "domain": "wrtn.io",
-      "desc": "The company offers a generative AI service designed for everyday use, enabling users to easily access and utilize AI tools for various tasks. It employs technologies focused on user-friendly interfaces and ethical AI gui",
-      "stage": "SERIES_C",
-      "last_amount": 72100000.0,
-      "total": 161549800.0,
-      "investors": [
-        "N PARTNERS",
-        "Sui Generis Partners",
-        "Mashup Ventures",
-        "Industrial Bank of Korea"
-      ],
-      "location": "Seocho-gu, Seoul"
+      "location": "Dover, Delaware"
     },
     {
       "name": "Ringg AI",
@@ -342,16 +272,89 @@
       "location": "Bengaluru, Karnataka"
     },
     {
-      "name": "Covera",
-      "domain": "covera-agents.com",
-      "desc": "The company offers AI agents designed for insurance brokers that automate various tasks including submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. These a",
+      "name": "Levanta",
+      "domain": "levanta.io",
+      "desc": "Levanta offers a creator affiliate platform designed for e-commerce brands, enabling them to manage partnerships across multiple channels such as Amazon, Shopify, and Walmart. The platform utilizes AI technology to conne",
+      "stage": "SERIES_B",
+      "last_amount": 22030628.0,
+      "total": 43817091.0,
+      "investors": [
+        "OpenSky Ventures",
+        "Long Run Capital",
+        "Volition Capital",
+        "Open Sky Ventures (previously Open Sky Incubator)"
+      ],
+      "location": "Seattle, Washington"
+    },
+    {
+      "name": "Workweek",
+      "domain": "workweek.com",
+      "desc": "The main product is a platform that facilitates professional networks through verified communities where business leaders can engage in meaningful conversations and share insights. It leverages content creation by indust",
+      "stage": "SERIES_B",
+      "last_amount": 17000000.0,
+      "total": 39944537.0,
+      "investors": [
+        "Next Coast Ventures",
+        "Aperiam",
+        "LightShed Ventures",
+        "Corner3 Ventures"
+      ],
+      "location": "Austin, TX"
+    },
+    {
+      "name": "Repodo",
+      "domain": "repodo.com",
+      "desc": "Repodo is an AI-native audit platform designed for European SMEs that integrates with clients' ERP systems to automate the preparation of audit workfiles, enabling auditors to focus on review and judgment. The platform e",
+      "stage": "PRE_SEED",
+      "last_amount": 9573065.0,
+      "total": 9573065.0,
+      "investors": [
+        "Seed Capital",
+        "Hedosophia"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Sentient OS",
+      "domain": "sentient-os.ai",
+      "desc": "The main product is an on-device AI operating system that utilizes a custom multimodal large language model to process and understand a user's entire digital life, including files, emails, and notes, while ensuring that ",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
       "investors": [
         "Y Combinator"
       ],
-      "location": ""
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "OroCommerce",
+      "domain": "oroinc.com",
+      "desc": "OroCommerce is a unified B2B sales enablement platform that integrates eCommerce, CRM, marketplace management, content management, AI, invoicing, and payment processing into a single system, designed to streamline comple",
+      "stage": "SERIES_A",
+      "last_amount": 3000000.0,
+      "total": 28000000.0,
+      "investors": [
+        "Zubr Capital Investment Company",
+        "Highland Europe",
+        "Archer Capital Pty Ltd",
+        "Mapleblock Capital"
+      ],
+      "location": "1901 Avenue of the Stars Suite 1900 Los Angeles, California 90067, US"
+    },
+    {
+      "name": "wrtn technologies",
+      "domain": "wrtn.io",
+      "desc": "The company offers a generative AI service designed for everyday use, focusing on making AI accessible and user-friendly for a broad audience. It employs various AI technologies, including natural language processing and",
+      "stage": "SERIES_C",
+      "last_amount": 72100000.0,
+      "total": 161549800.0,
+      "investors": [
+        "N PARTNERS",
+        "Sui Generis Partners",
+        "Mashup Ventures",
+        "Industrial Bank of Korea"
+      ],
+      "location": "Seocho-gu, Seoul"
     },
     {
       "name": "EULER",
@@ -364,6 +367,19 @@
         "Channel Equity Partners"
       ],
       "location": ""
+    },
+    {
+      "name": "Pixyle.ai",
+      "domain": "pixyle.ai",
+      "desc": "The company offers an AI-powered platform designed for fashion e-commerce, which transforms product images into structured data, enabling automatic generation of attributes, SEO-friendly tags, and descriptions. Utilizing",
+      "stage": "SEED",
+      "last_amount": 1165841.0,
+      "total": 2331694.0,
+      "investors": [
+        "South Central Ventures",
+        "Rockstart"
+      ],
+      "location": "Amsterdam, North Holland"
     },
     {
       "name": "Concordare Trials",
@@ -396,24 +412,24 @@
       "location": "New York, Delaware"
     },
     {
-      "name": "pay.com.au",
-      "domain": "pay.com.au",
-      "desc": "The company offers a payments platform that enables businesses to manage various expenses, such as payroll and taxes, while earning rewards points on these transactions. It utilizes payment processing and financial integ",
-      "stage": "SERIES_E",
-      "last_amount": 28000000.0,
-      "total": 76359000.0,
+      "name": "EZ Newswire",
+      "domain": "eznewswire.com",
+      "desc": "EZ Newswire offers a news distribution platform optimized for AI visibility, enabling businesses to create and publish news releases that are structured for easy consumption by AI engines. The service includes features s",
+      "stage": "SERIES_B",
+      "last_amount": 37300000.0,
+      "total": 43598249.0,
       "investors": [
-        "Thorney",
-        "Ophir Asset Management",
-        "Wilson Asset Management",
-        "Morgans Financial Limited"
+        "Reformation Partners",
+        "Zetta Venture Partners",
+        "PTX Capital",
+        "Contour Venture Partners"
       ],
-      "location": "Melbourne"
+      "location": "New York, NY"
     },
     {
       "name": "PayRewards",
       "domain": "payrewards.com",
-      "desc": "PayRewards is a payments platform that allows businesses to earn rewards on various transaction types, including credit card payments, ACH, and wire transfers, even for vendors that do not accept card payments. The platf",
+      "desc": "PayRewards offers a payments platform that allows U.S. businesses to earn rewards on various payment methods, including credit cards, ACH, and wire transfers, even for vendors that do not accept cards. The system utilize",
       "stage": "SERIES_E",
       "last_amount": 28000000.0,
       "total": 44164000.0,
@@ -426,17 +442,31 @@
       "location": "Dallas"
     },
     {
-      "name": "Pixyle.ai",
-      "domain": "pixyle.ai",
-      "desc": "The company offers an AI-driven platform that automates the generation of product tags, descriptions, and attributes specifically for fashion e-commerce, facilitating enhanced catalog management and product visibility. I",
-      "stage": "SEED",
-      "last_amount": 1165841.0,
-      "total": 2331694.0,
+      "name": "pay.com.au",
+      "domain": "pay.com.au",
+      "desc": "The main product is a unified payments platform that enables businesses to make various payments, such as payroll and taxes, while earning rewards points on each transaction. It integrates with bank accounts and credit c",
+      "stage": "SERIES_E",
+      "last_amount": 28000000.0,
+      "total": 76359000.0,
       "investors": [
-        "South Central Ventures",
-        "Rockstart"
+        "Thorney",
+        "Ophir Asset Management",
+        "Wilson Asset Management",
+        "Morgans Financial Limited"
       ],
-      "location": "Amsterdam, North Holland"
+      "location": "Melbourne"
+    },
+    {
+      "name": "EVO HQ",
+      "domain": "evo-hq.com",
+      "desc": "EVO provides a self-improving infrastructure that optimizes various aspects of software systems, including code performance, agent task success, model evaluation, configuration settings, website A/B testing, and message ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
     },
     {
       "name": "Legato AI",
@@ -484,16 +514,19 @@
       "location": "品川区, 東京都"
     },
     {
-      "name": "Redfaire",
-      "domain": "redfaire.com",
-      "desc": "Redfaire provides consulting services for Oracle JD Edwards ERP, focusing on cloud migrations, software development, and data management to enhance system functionality. Their solutions utilize Oracle Cloud Infrastructur",
-      "stage": "",
-      "last_amount": 15193945.0,
-      "total": 15193945.0,
+      "name": "OORJAA",
+      "domain": "oorjaa.tech",
+      "desc": "OORJAA offers logistics solutions specifically designed for intra-city supply chains, utilizing technologies such as network optimization, demand aggregation, intelligent routing, big data analytics, AI, IoT, and machine",
+      "stage": "SERIES_A",
+      "last_amount": 1015978.0,
+      "total": 6250368.0,
       "investors": [
-        "BGF"
+        "Inflection Point Ventures",
+        "Soonicorn Ventures",
+        "Java Capital",
+        "FirstPort Capital"
       ],
-      "location": "Limerick"
+      "location": "Mumbai, Maharashtra"
     },
     {
       "name": "現場Hub株式会社",
@@ -539,6 +572,21 @@
       "location": "Warsaw, Mazovian"
     },
     {
+      "name": "Shikomel",
+      "domain": "shikomel.com",
+      "desc": "The company offers a service that provides pre-prepared ingredients aimed at replicating the flavors of popular dishes, which allows food businesses to reduce preparation time and labor costs significantly. This service ",
+      "stage": "SERIES_B",
+      "last_amount": 8350000.0,
+      "total": 22907230.0,
+      "investors": [
+        "株式会社ミダスキャピタル",
+        "SIG -China",
+        "Pegasus Tech Ventures",
+        "HOUSE FOODS GROUP INC."
+      ],
+      "location": "MFPR Shibuya Building B, 1st Floor, 1-2-5 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan"
+    },
+    {
       "name": "Raff Holdings Limited",
       "domain": "tryraff.com",
       "desc": "Raff offers a platform that connects sellers with retailers, streamlining the management of distribution channels and inventory. The platform utilizes technologies such as automated payment systems, detailed sales report",
@@ -581,29 +629,19 @@
       "location": "London"
     },
     {
-      "name": "Shrink Software LLC",
-      "domain": "shrinksoftware.com",
-      "desc": "Shrink Software builds food safety execution software for institutional food service operations — hospitals, universities, and contract dining programs managing complex compliance requirements every day. Our flagship pro",
-      "stage": "",
-      "last_amount": 30000.0,
-      "total": 30000.0,
-      "investors": [],
-      "location": "GRAND RAPIDS, Michigan"
-    },
-    {
-      "name": "NEXTPAYMENTS INC.",
-      "domain": "nextpayments.co.kr",
-      "desc": "The company provides a payment platform tailored for non-face-to-face transactions in smart retail environments, utilizing payment gateway services and smart banding technology. Its digital transformation offerings encom",
-      "stage": "SERIES_A",
-      "last_amount": 1086000.0,
-      "total": 3110000.0,
+      "name": "Wrtnlabs",
+      "domain": "wrtnlabs.io",
+      "desc": "The Foundation for Every Business Agent",
+      "stage": "SERIES_C",
+      "last_amount": 72400000.0,
+      "total": 161275350.0,
       "investors": [
-        "NVESTOR",
-        "Korea Alternative Investment Asset Management",
-        "Ministry of SMEs and Startups, Republic of Korea, 대한민국 중소벤처기업부",
-        "New Paradigm Investment"
+        "Sui Generis Partners",
+        "Industrial Bank of Korea",
+        "Korea Credit Guarantee Fund",
+        "Hana Bank"
       ],
-      "location": "서울시 , 강남구"
+      "location": ""
     },
     {
       "name": "Searchdoc",
@@ -630,33 +668,6 @@
         "Platanus"
       ],
       "location": "Vitacura Avenue 4380, Local 2, Santiago, 7630275, Chile"
-    },
-    {
-      "name": "EVO HQ",
-      "domain": "evo-hq.com",
-      "desc": "EVO offers a self-improving infrastructure that automates experimentation across various system components, optimizing code, agent performance, model configurations, and website A/B tests through AI-driven parallel exper",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
-      "name": "OORJAA",
-      "domain": "oorjaa.tech",
-      "desc": "OORJAA offers logistics solutions specifically designed for intra-city supply chains, utilizing technologies such as network optimization, demand aggregation, intelligent routing, big data analytics, AI, IoT, and machine",
-      "stage": "SERIES_A",
-      "last_amount": 1015978.0,
-      "total": 6250368.0,
-      "investors": [
-        "Inflection Point Ventures",
-        "Soonicorn Ventures",
-        "Java Capital",
-        "FirstPort Capital"
-      ],
-      "location": "Mumbai, Maharashtra"
     },
     {
       "name": "Honeycomb Interconnect",

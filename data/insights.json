@@ -1,24 +1,69 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 76,
-    "total_cap_m": 13173,
-    "early_cap_m": 2367,
+    "early_raises": 75,
+    "total_cap_m": 13528,
+    "early_cap_m": 2341,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 30,
+      "Seed": 29,
       "Series A": 43,
-      "Series B": 23,
-      "Series C": 10,
+      "Series B": 24,
+      "Series C": 12,
       "Series D": 2,
-      "Venture": 76
+      "Venture": 74
     }
   },
   "raises": [
+    {
+      "company": "Pennylane",
+      "amount_m": 205,
+      "date": "2026-08-29",
+      "link": "https://pennylane.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series E"
+    },
+    {
+      "company": "Linear",
+      "amount_m": 99,
+      "date": "2026-08-29",
+      "link": "https://linear.app",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series C"
+    },
+    {
+      "company": "Wrtnlabs",
+      "amount_m": 72,
+      "date": "2026-08-29",
+      "link": "https://wrtnlabs.io",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series C"
+    },
+    {
+      "company": "EZ Newswire",
+      "amount_m": 37,
+      "date": "2026-08-29",
+      "link": "https://eznewswire.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series B"
+    },
+    {
+      "company": "Shikomel",
+      "amount_m": 8,
+      "date": "2026-08-29",
+      "link": "https://shikomel.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series B"
+    },
     {
       "company": "Honeycomb Interconnect",
       "amount_m": 178,
@@ -65,21 +110,21 @@
       "stage": "Seed"
     },
     {
-      "company": "Trust AI",
-      "amount_m": 6,
-      "date": "2026-08-28",
-      "link": "https://trustdentistry.ai",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Multiplier",
       "amount_m": 6,
       "date": "2026-08-28",
       "link": "https://usemultiplier.com",
       "investors": [],
       "theme": "HR & workforce",
+      "stage": "Seed"
+    },
+    {
+      "company": "Trust AI",
+      "amount_m": 6,
+      "date": "2026-08-28",
+      "link": "https://trustdentistry.ai",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
       "stage": "Seed"
     },
     {
@@ -191,15 +236,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Kapso",
-      "amount_m": 1,
-      "date": "2026-08-27",
-      "link": "https://kapso.com",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "OORJAA",
       "amount_m": 1,
       "date": "2026-08-27",
@@ -207,6 +243,15 @@
       "investors": [],
       "theme": "Logistics & supply chain",
       "stage": "Series A"
+    },
+    {
+      "company": "Kapso",
+      "amount_m": 1,
+      "date": "2026-08-27",
+      "link": "https://kapso.com",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Pre Seed"
     },
     {
       "company": "Concordare Trials",
@@ -299,15 +344,6 @@
       "stage": "Seed"
     },
     {
-      "company": "StoreHub",
-      "amount_m": null,
-      "date": "2026-08-26",
-      "link": "https://storehub.com",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Venture Unknown"
-    },
-    {
       "company": "EVO HQ",
       "amount_m": null,
       "date": "2026-08-26",
@@ -315,6 +351,15 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
+    },
+    {
+      "company": "StoreHub",
+      "amount_m": null,
+      "date": "2026-08-26",
+      "link": "https://storehub.com",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Venture Unknown"
     },
     {
       "company": "PayRewards",
@@ -371,15 +416,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Covera",
-      "amount_m": null,
-      "date": "2026-08-25",
-      "link": "https://covera-agents.com",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "現場Hub株式会社",
       "amount_m": null,
       "date": "2026-08-25",
@@ -387,33 +423,6 @@
       "investors": [],
       "theme": "Vertical SaaS",
       "stage": "Seed"
-    },
-    {
-      "company": "Shrink Software LLC",
-      "amount_m": null,
-      "date": "2026-08-24",
-      "link": "https://shrinksoftware.com",
-      "investors": [],
-      "theme": "Financial back-office & compliance AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "Redfaire",
-      "amount_m": 15,
-      "date": "2026-08-22",
-      "link": "https://redfaire.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
-    },
-    {
-      "company": "Arintra",
-      "amount_m": 25,
-      "date": "2026-08-18",
-      "link": "https://arintra.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series B"
     },
     {
       "company": "MiiHealth AI",
@@ -2188,44 +2197,31 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Sekai",
-      "amount_m": 26,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RM05jb0RkbkRTZHM2TUItQ0JRQlM0UGZZQWNwQzdlWExmcWpydFc0dU5PWkVENFl0cDg5MlpmNkh3XzlYc3NycDhLdlR2VUtHNW11R2F1T3NBYTJrWlMyUUdZTzlwcW95cUxhcmZDa00?oc=5",
-      "investors": [
-        "Khosla Ventures",
-        "MVP Ventures",
-        "New Enterprise Associates"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 106,
+      "count": 109,
       "examples": [
-        "Workweek",
-        "Searchdoc",
-        "Instinct",
-        "wrtn technologies",
-        "Runable",
-        "primero.com"
+        "Pennylane",
+        "Linear",
+        "Wrtnlabs",
+        "EZ Newswire",
+        "Shikomel",
+        "Workweek"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 20,
+      "count": 19,
       "examples": [
         "Trust AI",
         "Concordare Trials",
-        "Arintra",
         "MiiHealth AI",
         "Corner Health",
-        "xCures"
+        "xCures",
+        "Healome Therapeutics"
       ]
     },
     {
@@ -2266,14 +2262,14 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 8,
+      "count": 7,
       "examples": [
         "Legato AI",
         "Kapso",
-        "Covera",
         "Faro",
         "InstaLILY AI",
-        "Pocket"
+        "Pocket",
+        "Sail Research"
       ]
     },
     {
@@ -2372,10 +2368,9 @@
     },
     {
       "theme": "Financial back-office & compliance AI",
-      "count": 2,
+      "count": 1,
       "examples": [
-        "Repodo",
-        "Shrink Software LLC"
+        "Repodo"
       ]
     },
     {
@@ -2403,29 +2398,29 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 106,
-      "cap_m": 7401,
+      "count": 109,
+      "cap_m": 7781,
       "examples": [
-        "Workweek",
-        "Searchdoc",
-        "Instinct",
-        "wrtn technologies",
-        "Runable",
-        "primero.com"
+        "Pennylane",
+        "Linear",
+        "Wrtnlabs",
+        "EZ Newswire",
+        "Shikomel",
+        "Workweek"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 20,
-      "cap_m": 1127,
+      "count": 19,
+      "cap_m": 1102,
       "examples": [
         "Trust AI",
         "Concordare Trials",
-        "Arintra",
         "MiiHealth AI",
         "Corner Health",
-        "xCures"
+        "xCures",
+        "Healome Therapeutics"
       ],
       "top_stage": "Venture"
     },
@@ -2473,17 +2468,17 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 8,
+      "count": 7,
       "cap_m": 171,
       "examples": [
         "Legato AI",
         "Kapso",
-        "Covera",
         "Faro",
         "InstaLILY AI",
-        "Pocket"
+        "Pocket",
+        "Sail Research"
       ],
-      "top_stage": "Pre Seed"
+      "top_stage": "Series B"
     },
     {
       "theme": "Fintech & payments",
@@ -3555,17 +3550,12 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-07",
+    "since": "2026-08-08",
     "tw": [
-      {
-        "name": "Healthcare & bio AI",
-        "delta": 3,
-        "now": 20
-      },
       {
         "name": "Applied AI agents",
         "delta": 3,
-        "now": 8
+        "now": 7
       },
       {
         "name": "Logistics & supply chain",
@@ -3588,14 +3578,14 @@
         "now": 2
       },
       {
+        "name": "Healthcare & bio AI",
+        "delta": 1,
+        "now": 19
+      },
+      {
         "name": "Energy & climate",
         "delta": 1,
         "now": 10
-      },
-      {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 2
       },
       {
         "name": "Crypto & digital assets",
@@ -3608,9 +3598,19 @@
         "now": 4
       },
       {
+        "name": "Cybersecurity",
+        "delta": 0,
+        "now": 3
+      },
+      {
         "name": "Sales & GTM AI",
         "delta": 0,
         "now": 2
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 0,
+        "now": 1
       },
       {
         "name": "Data infrastructure",
@@ -3619,11 +3619,6 @@
       },
       {
         "name": "Legal AI",
-        "delta": -1,
-        "now": 3
-      },
-      {
-        "name": "Cybersecurity",
         "delta": -1,
         "now": 3
       },
@@ -3654,8 +3649,8 @@
       },
       {
         "name": "Applied / horizontal AI",
-        "delta": -7,
-        "now": 106
+        "delta": -5,
+        "now": 109
       }
     ]
   }

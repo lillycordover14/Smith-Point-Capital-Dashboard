@@ -1,29 +1,12 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "window_days": 45,
   "counts": {
-    "actionable": 3,
-    "watchlist": 17,
+    "actionable": 1,
+    "watchlist": 15,
     "excluded_off_thesis": 0
   },
   "actionable": [
-    {
-      "company": "Arintra",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Series B",
-      "amount_m": 25,
-      "investors": [],
-      "date": "2026-08-18",
-      "link": "https://arintra.com",
-      "domain": "arintra.com",
-      "tier": "actionable",
-      "fit_reason": "Series B ($25M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
     {
       "company": "Faro",
       "desc": "Applied AI agents",
@@ -37,26 +20,6 @@
       "domain": "faroutmagazine.co.uk",
       "tier": "actionable",
       "fit_reason": "Series B ($37M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "InstaLILY AI",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Series B",
-      "amount_m": null,
-      "investors": [
-        "Energize Capital",
-        "Energize Capital - TradingView"
-      ],
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV1Y4VDF5SXdHWnZzX2pPSU5VWWNxUTFsTXpNbUtHT2JjdTBGR290aS1MNXlxQlBJOVJ4T1VmMWNkQTZHTzNUeUhVUjB5bTBCR0ZWSTZBTndmel8tQUdnQVZmaWdGLU9nOTRUXzYxcWVIS3NEWGxVbGhKdXRfbmE5anNIUTNjZkRiVE82VHhUX3MwZTItSGVjX0dpLVdxdWNZYzZ4akpJZzJEcG1mczg4Z09saThqdTdoT0ViUmMzV0pVNlJ6MHNfZlRmaS10dTJx?oc=5",
-      "domain": "",
-      "tier": "actionable",
-      "fit_reason": "Series B — growth-stage sweet spot",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -132,23 +95,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Kapso",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 1,
-      "investors": [],
-      "date": "2026-08-27",
-      "link": "https://kapso.com",
-      "domain": "kapso.in",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "OORJAA",
       "desc": "Logistics & supply chain",
       "theme": "Precision Applications",
@@ -161,6 +107,23 @@
       "domain": "oorjaa.in",
       "tier": "watchlist",
       "fit_reason": "Series A ($1M) — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Kapso",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": 1,
+      "investors": [],
+      "date": "2026-08-27",
+      "link": "https://kapso.com",
+      "domain": "kapso.in",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -285,40 +248,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Covera",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-08-25",
-      "link": "https://covera-agents.com",
-      "domain": "coveragebook.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Shrink Software LLC",
-      "desc": "Financial back-office & compliance AI",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Venture",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-08-24",
-      "link": "https://shrinksoftware.com",
-      "domain": "",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "MiiHealth AI",
       "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
@@ -336,21 +265,19 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Corner Health",
-      "desc": "Healthcare & bio AI",
+      "company": "Freehand",
+      "desc": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies",
       "theme": "Precision Applications",
-      "vertical": "Healthcare",
+      "vertical": "Supply Chain",
       "stage": "Venture",
-      "amount_m": 33,
-      "investors": [
-        "Oak HC/FT"
-      ],
-      "date": "2026-07-14",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM014Nk9POTFFb3p0SXhlOU5WaGoxaFFGdElQVkR3Z0ZkTkx4WnFjS2hKdVR5UHFtX1B5SGt3bWozTnYtc1NweE82eWlnYVdyNEg4NnNlWVQ5UjdOOHJlX1YtbmcyY3FZWlcxVllDckJkVjJSMzI5QTh0NTZBZUJaanp2QzEzMlkyaXplTE51b29ZUzBET0M3UEdaQ2xidW5KM1JKZXNOVkV6YThzN1M5andNajJ4bDdaaDMtSEdsOTc?oc=5",
-      "domain": "cornerhealthfood.com",
+      "amount_m": 75,
+      "investors": [],
+      "date": "2026-07-29",
+      "link": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/freehand-raises-75m-to-scale-ai-teams-managing-supply-chain-spend-for-fortune-500-companies/2394083",
+      "domain": "freehandhotels.com",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }

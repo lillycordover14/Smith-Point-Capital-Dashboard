@@ -1,6 +1,34 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "companies": [
+    {
+      "name": "NetBox Labs",
+      "domain": "netboxlabs.com",
+      "stage": "Series B",
+      "months_since": 14,
+      "last_raise_date": "2025-07-14",
+      "last_raise_source": "Harmonic (by domain)",
+      "funding_total": 55000000.0,
+      "cycle": "approaching",
+      "basis": "signal",
+      "status": "Entering window + momentum",
+      "likelihood": "Medium",
+      "rank": 3,
+      "strong_signals": 0,
+      "supporting_signals": 1,
+      "finance_leadership_open": false,
+      "open_roles": 14,
+      "signals": [
+        "14 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
+        "Last round: 2025-07-14 (Harmonic (by domain))",
+        "Conference/roadshow presence: Dallas, TX Sep 24, 2026 | 6:00 p.m - 8:00 p.m Event Red Hat Summit: Connec",
+        "Basis: live signal"
+      ],
+      "url": "https://netboxlabs.com",
+      "links": [
+        "https://netboxlabs.com/events"
+      ]
+    },
     {
       "name": "Salient",
       "domain": "trysalient.com",
@@ -25,31 +53,6 @@
         "Basis: live signal"
       ],
       "url": "https://trysalient.com",
-      "links": []
-    },
-    {
-      "name": "NetBox Labs",
-      "domain": "netboxlabs.com",
-      "stage": "Series B",
-      "months_since": 13,
-      "last_raise_date": "2025-07-14",
-      "last_raise_source": "Harmonic (by domain)",
-      "funding_total": 55000000.0,
-      "cycle": "approaching",
-      "basis": "cadence",
-      "status": "Potentially entering raise window",
-      "likelihood": "Medium",
-      "rank": 3,
-      "strong_signals": 0,
-      "supporting_signals": 0,
-      "finance_leadership_open": false,
-      "open_roles": 14,
-      "signals": [
-        "13 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
-        "Last round: 2025-07-14 (Harmonic (by domain))",
-        "Basis: cadence only (no live signals yet)"
-      ],
-      "url": "https://netboxlabs.com",
       "links": []
     },
     {

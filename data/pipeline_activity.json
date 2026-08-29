@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28",
+  "generated": "2026-08-29",
   "companies": [
     {
       "name": "Salient",
@@ -82,8 +82,94 @@
       "name": "NetBox Labs",
       "domain": "netboxlabs.com",
       "slug": "netbox-labs",
-      "updates": [],
-      "conferences": [],
+      "updates": [
+        {
+          "date": "2026-08-27",
+          "category": "Blog",
+          "title": "Public Preview: NetBox Agents Automate Infrastructure Workflows, With You in Control",
+          "link": "https://netboxlabs.com/blog/netbox-agents-public-preview/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-08-19",
+          "category": "Blog",
+          "title": "Meet Riley Lewis, the AE Who Came for the People and Stayed for the Pace",
+          "link": "https://netboxlabs.com/blog/meet-riley-lewis-the-ae-who-came-for-the-people-and-stayed-for-the-pace/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-08-13",
+          "category": "Blog",
+          "title": "Your Infrastructure Record, Now Native in Jira Service Management Assets",
+          "link": "https://netboxlabs.com/blog/your-infrastructure-record-now-native-in-jira-service-management-assets/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-08-06",
+          "category": "Blog",
+          "title": "Public Preview: NetBox Analytics Puts Your Infrastructure Record to Work",
+          "link": "https://netboxlabs.com/blog/netbox-analytics-public-preview/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-08-05",
+          "category": "Blog",
+          "title": "Meet Amanda Rodrigues, the Engineer Building Confidence in Observability",
+          "link": "https://netboxlabs.com/blog/meet-amanda-rodrigues-the-engineer-building-confidence-in-observability/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-07-23",
+          "category": "Blog",
+          "title": "Multi-Vendor by Design: Seven New Integrations for the Stack You Actually Run",
+          "link": "https://netboxlabs.com/blog/multi-vendor-new-integrations/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-07-22",
+          "category": "Blog",
+          "title": "Meet Natalie Pastrof, the AE Who Leads With Trust",
+          "link": "https://netboxlabs.com/blog/meet-natalie-pastrof-the-ae-who-leads-with-trust/",
+          "source": "Blog"
+        }
+      ],
+      "conferences": [
+        {
+          "date": "",
+          "title": "Dallas, TX Sep 24, 2026 | 6:00 p.m - 8:00 p.m Event Red Hat Summit: Connec",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "Hat Summit: Connect 2026 London Oct 8, 2026 Event NetBox Labs Partner Summit 2026 Oc",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": ":00 PM Event NetBox Evolve 2026 Oct 13, 2026 Event Cisco Live 2026 Me",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "webinars. Browse dates, topics, and formats, and register to join live or on d",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "026 banner\"},\"acf\":{\"event_details\":{\"type\":\"Conference\",\"locat",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        }
+      ],
       "new_customers": [],
       "linkedin": "https://www.linkedin.com/company/netboxlabs",
       "linkedin_posts": [
