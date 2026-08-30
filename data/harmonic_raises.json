@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "mode": "full",
   "count": 48,
   "companies": [
@@ -47,21 +47,6 @@
         "S32"
       ],
       "location": "San Diego, California"
-    },
-    {
-      "name": "Pennylane",
-      "domain": "pennylane.com",
-      "desc": "The main product is a comprehensive financial management and accounting software designed for European SMEs, integrating invoicing, expense management, and real-time cash flow monitoring into a single platform. It utiliz",
-      "stage": "SERIES_E",
-      "last_amount": 205000000.0,
-      "total": 660517998.0,
-      "investors": [
-        "Global Founders Capital",
-        "CapitalG",
-        "Discovery Ventures",
-        "Rocket Internet SE"
-      ],
-      "location": "Paris, Île-de-France"
     },
     {
       "name": "Volve",
@@ -123,21 +108,6 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Integrate",
-      "domain": "integrate.co",
-      "desc": "Integrate offers an AI-enabled project management platform designed for ultra-secure, real-time collaboration across multiple organizations, particularly in defense and critical infrastructure sectors. The platform featu",
-      "stage": "SERIES_A",
-      "last_amount": 6000000.0,
-      "total": 27370000.0,
-      "investors": [
-        "Rsquared",
-        "Riot Ventures",
-        "Ravelin",
-        "FPV Ventures"
-      ],
-      "location": "Seattle, Washington"
-    },
-    {
       "name": "primero.com",
       "domain": "primero.com",
       "desc": "Primero AI develops and implements enterprise AI systems that integrate with existing data and workflows across various business functions such as finance, HR, and operations. The technology focuses on composable workflo",
@@ -153,19 +123,48 @@
       "location": ""
     },
     {
-      "name": "Digs",
-      "domain": "digs.com",
-      "desc": "Digs offers an AI-powered platform designed for residential home builders, facilitating processes from pre-construction to aftercare through features like automated trade-specific takeoffs, collaborative planning tools, ",
+      "name": "Integrate",
+      "domain": "integrate.co",
+      "desc": "Integrate offers an AI-enabled project management platform designed for ultra-secure, real-time collaboration across multiple organizations, particularly in defense and critical infrastructure sectors. The platform featu",
       "stage": "SERIES_A",
-      "last_amount": 25300000.0,
-      "total": 44300000.0,
+      "last_amount": 6000000.0,
+      "total": 27370000.0,
       "investors": [
-        "GFR Fund",
-        "Legacy Capital Ventures",
-        "Flying Fish Partners",
-        "Oregon Venture Fund"
+        "Rsquared",
+        "Riot Ventures",
+        "Ravelin",
+        "FPV Ventures"
       ],
-      "location": "Vancouver, Washington"
+      "location": "Seattle, Washington"
+    },
+    {
+      "name": "MiiHealth AI",
+      "domain": "miihealth.ai",
+      "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake processes, allowing providers to focus more on patient care by streamlining workflows and reducing administrative tasks. This tec",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 3350000.0,
+      "investors": [
+        "Opportunity Through Entrepreneurship Foundation",
+        "Arteria Capital",
+        "Russell Glass"
+      ],
+      "location": "Phoenix, Arizona"
+    },
+    {
+      "name": "Instinct",
+      "domain": "instinct.co",
+      "desc": "Instinct is a personal assistant that understands what you're working on and what's important to you. It connects to your applications and devices - email, messaging, screen, audio, location, and more. The interface is s",
+      "stage": "SERIES_B",
+      "last_amount": 250000000.0,
+      "total": 250000000.0,
+      "investors": [
+        "Conviction",
+        "Index Ventures",
+        "Greenoaks",
+        "Benchmark"
+      ],
+      "location": ""
     },
     {
       "name": "Newcode.ai",
@@ -183,18 +182,19 @@
       "location": "New York, NY"
     },
     {
-      "name": "MiiHealth AI",
-      "domain": "miihealth.ai",
-      "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake processes, allowing providers to focus more on patient care by streamlining workflows and reducing administrative tasks. This tec",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 3350000.0,
+      "name": "Digs",
+      "domain": "digs.com",
+      "desc": "Digs offers an AI-powered platform designed for residential home builders, facilitating processes from pre-construction to aftercare through features like automated trade-specific takeoffs, collaborative planning tools, ",
+      "stage": "SERIES_A",
+      "last_amount": 25300000.0,
+      "total": 44300000.0,
       "investors": [
-        "Opportunity Through Entrepreneurship Foundation",
-        "Arteria Capital",
-        "Russell Glass"
+        "GFR Fund",
+        "Legacy Capital Ventures",
+        "Flying Fish Partners",
+        "Oregon Venture Fund"
       ],
-      "location": "Phoenix, Arizona"
+      "location": "Vancouver, Washington"
     },
     {
       "name": "Atorie",
@@ -227,21 +227,6 @@
       "location": "Amsterdam, North Holland"
     },
     {
-      "name": "Instinct",
-      "domain": "instinct.co",
-      "desc": "Instinct is a personal assistant that understands what you're working on and what's important to you. It connects to your applications and devices - email, messaging, screen, audio, location, and more. The interface is s",
-      "stage": "SERIES_B",
-      "last_amount": 250000000.0,
-      "total": 250000000.0,
-      "investors": [
-        "Conviction",
-        "Index Ventures",
-        "Greenoaks",
-        "Benchmark"
-      ],
-      "location": ""
-    },
-    {
       "name": "Runable",
       "domain": "runable.com",
       "desc": "Runable is a platform that utilizes AI technology to automate a variety of tasks, enabling users to create presentations, websites, reports, podcasts, images, and videos through AI agents. The service is designed to stre",
@@ -257,21 +242,6 @@
       "location": "Dover, Delaware"
     },
     {
-      "name": "Ringg AI",
-      "domain": "ringg.ai",
-      "desc": "The company offers an AI-driven voice and chat agent platform that facilitates intelligent conversations across various channels, including voice, chat, WhatsApp, and web, enabling businesses to manage customer interacti",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 31520000.0,
-      "investors": [
-        "Peak XV Partners",
-        "Groww",
-        "Arkam Ventures",
-        "Capital 2B"
-      ],
-      "location": "Bengaluru, Karnataka"
-    },
-    {
       "name": "Levanta",
       "domain": "levanta.io",
       "desc": "Levanta offers a creator affiliate platform designed for e-commerce brands, enabling them to manage partnerships across multiple channels such as Amazon, Shopify, and Walmart. The platform utilizes AI technology to conne",
@@ -285,6 +255,21 @@
         "Open Sky Ventures (previously Open Sky Incubator)"
       ],
       "location": "Seattle, Washington"
+    },
+    {
+      "name": "Ringg AI",
+      "domain": "ringg.ai",
+      "desc": "The company offers an AI-driven voice and chat agent platform that facilitates intelligent conversations across various channels, including voice, chat, WhatsApp, and web, enabling businesses to manage customer interacti",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 31520000.0,
+      "investors": [
+        "Peak XV Partners",
+        "Groww",
+        "Arkam Ventures",
+        "Capital 2B"
+      ],
+      "location": "Bengaluru, Karnataka"
     },
     {
       "name": "Workweek",
@@ -315,21 +300,9 @@
       "location": ""
     },
     {
-      "name": "Sentient OS",
-      "domain": "sentient-os.ai",
-      "desc": "The main product is an on-device AI operating system that utilizes a custom multimodal large language model to process and understand a user's entire digital life, including files, emails, and notes, while ensuring that ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
       "name": "OroCommerce",
       "domain": "oroinc.com",
-      "desc": "OroCommerce is a unified B2B sales enablement platform that integrates eCommerce, CRM, marketplace management, content management, AI, invoicing, and payment processing into a single system, designed to streamline comple",
+      "desc": "OroCommerce is a unified B2B sales enablement platform that integrates eCommerce, CRM, marketplace management, content management, AI, invoicing, and payments, designed to streamline complex sales processes for manufactu",
       "stage": "SERIES_A",
       "last_amount": 3000000.0,
       "total": 28000000.0,
@@ -342,9 +315,31 @@
       "location": "1901 Avenue of the Stars Suite 1900 Los Angeles, California 90067, US"
     },
     {
+      "name": "Sentient OS",
+      "domain": "sentient-os.ai",
+      "desc": "The main product is an on-device AI operating system that utilizes a custom multimodal large language model to process and understand a user's entire digital life, including files, emails, and notes, while ensuring that ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "ClearPath AI",
+      "domain": "clearpathgroup.ai",
+      "desc": "ClearPath offers five specialized AI platforms designed for legal, property, finance, and compliance sectors, enabling professionals to automate document analysis, workflow management, and reporting processes. These plat",
+      "stage": "PRE_SEED",
+      "last_amount": 1364349.0,
+      "total": 1364349.0,
+      "investors": [],
+      "location": "London, England"
+    },
+    {
       "name": "wrtn technologies",
       "domain": "wrtn.io",
-      "desc": "The company offers a generative AI service designed for everyday use, focusing on making AI accessible and user-friendly for a broad audience. It employs various AI technologies, including natural language processing and",
+      "desc": "The company offers a generative AI service designed for everyday use, enabling users to easily access and utilize AI tools for various tasks. It employs technologies focused on user-friendly interfaces and ethical AI gui",
       "stage": "SERIES_C",
       "last_amount": 72100000.0,
       "total": 161549800.0,
@@ -397,21 +392,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Discernis",
-      "domain": "discernis.ai",
-      "desc": "Discernis provides an AI-driven document review solution that automates the tagging of documents during the discovery process, leveraging advanced algorithms for efficient content analysis and real-time operation. The te",
-      "stage": "SEED",
-      "last_amount": 2500000.0,
-      "total": 2650000.0,
-      "investors": [
-        "Newfund",
-        "Triple Impact Capital",
-        "C2 Ventures",
-        "Remarkable Ventures"
-      ],
-      "location": "New York, Delaware"
-    },
-    {
       "name": "EZ Newswire",
       "domain": "eznewswire.com",
       "desc": "EZ Newswire offers a news distribution platform optimized for AI visibility, enabling businesses to create and publish news releases that are structured for easy consumption by AI engines. The service includes features s",
@@ -427,19 +407,32 @@
       "location": "New York, NY"
     },
     {
-      "name": "PayRewards",
-      "domain": "payrewards.com",
-      "desc": "PayRewards offers a payments platform that allows U.S. businesses to earn rewards on various payment methods, including credit cards, ACH, and wire transfers, even for vendors that do not accept cards. The system utilize",
-      "stage": "SERIES_E",
-      "last_amount": 28000000.0,
-      "total": 44164000.0,
+      "name": "Discernis",
+      "domain": "discernis.ai",
+      "desc": "Discernis provides an AI-driven document review solution that automates the tagging of documents during the discovery process, leveraging advanced algorithms for efficient content analysis and real-time operation. The te",
+      "stage": "SEED",
+      "last_amount": 2500000.0,
+      "total": 2650000.0,
       "investors": [
-        "Thorney",
-        "Ophir Asset Management",
-        "Wilson Asset Management",
-        "Morgans Financial Limited"
+        "Newfund",
+        "Triple Impact Capital",
+        "C2 Ventures",
+        "Remarkable Ventures"
       ],
-      "location": "Dallas"
+      "location": "New York, Delaware"
+    },
+    {
+      "name": "The Subvocal Company",
+      "domain": "subvocal.company",
+      "desc": "The company offers a discreet under-chin wearable device that translates subvocalized speech into text and commands, enabling users to interact with their computers silently. This technology utilizes real-time biosignal ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator",
+        "Afore Capital"
+      ],
+      "location": "United States"
     },
     {
       "name": "pay.com.au",
@@ -457,6 +450,21 @@
       "location": "Melbourne"
     },
     {
+      "name": "PayRewards",
+      "domain": "payrewards.com",
+      "desc": "PayRewards offers a payments platform that allows U.S. businesses to earn rewards on various payment methods, including credit cards, ACH, and wire transfers, even for vendors that do not accept cards. The system utilize",
+      "stage": "SERIES_E",
+      "last_amount": 28000000.0,
+      "total": 44164000.0,
+      "investors": [
+        "Thorney",
+        "Ophir Asset Management",
+        "Wilson Asset Management",
+        "Morgans Financial Limited"
+      ],
+      "location": "Dallas"
+    },
+    {
       "name": "EVO HQ",
       "domain": "evo-hq.com",
       "desc": "EVO provides a self-improving infrastructure that optimizes various aspects of software systems, including code performance, agent task success, model evaluation, configuration settings, website A/B testing, and message ",
@@ -467,6 +475,21 @@
         "Y Combinator"
       ],
       "location": ""
+    },
+    {
+      "name": "StoreHub",
+      "domain": "storehub.com",
+      "desc": "StoreHub offers an all-in-one platform designed for retailers and restaurants, featuring a cloud-based POS system, QR-based table ordering, and customer engagement tools. The technology integrates various functionalities",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 50950000.0,
+      "investors": [
+        "500 Global",
+        "Cradle Seed Ventures",
+        "Eclectic Fund",
+        "Temasek"
+      ],
+      "location": "Petaling Jaya, Selangor"
     },
     {
       "name": "Legato AI",
@@ -484,19 +507,19 @@
       "location": "Israel"
     },
     {
-      "name": "StoreHub",
-      "domain": "storehub.com",
-      "desc": "StoreHub offers a cloud-based point-of-sale system designed for the food and beverage and retail industries, enabling remote management and QR code ordering. The platform features integrated reporting and analytics to en",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 50950000.0,
+      "name": "Shikomel",
+      "domain": "shikomel.com",
+      "desc": "The company offers a service that provides pre-prepared ingredients aimed at replicating the flavors of popular dishes, which allows food businesses to reduce preparation time and labor costs significantly. This service ",
+      "stage": "SERIES_B",
+      "last_amount": 8350000.0,
+      "total": 22907230.0,
       "investors": [
-        "500 Global",
-        "Cradle Seed Ventures",
-        "Eclectic Fund",
-        "Temasek"
+        "株式会社ミダスキャピタル",
+        "SIG -China",
+        "Pegasus Tech Ventures",
+        "HOUSE FOODS GROUP INC."
       ],
-      "location": "Petaling Jaya, Selangor"
+      "location": "MFPR Shibuya Building B, 1st Floor, 1-2-5 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan"
     },
     {
       "name": "HERP, Inc.",
@@ -572,21 +595,6 @@
       "location": "Warsaw, Mazovian"
     },
     {
-      "name": "Shikomel",
-      "domain": "shikomel.com",
-      "desc": "The company offers a service that provides pre-prepared ingredients aimed at replicating the flavors of popular dishes, which allows food businesses to reduce preparation time and labor costs significantly. This service ",
-      "stage": "SERIES_B",
-      "last_amount": 8350000.0,
-      "total": 22907230.0,
-      "investors": [
-        "株式会社ミダスキャピタル",
-        "SIG -China",
-        "Pegasus Tech Ventures",
-        "HOUSE FOODS GROUP INC."
-      ],
-      "location": "MFPR Shibuya Building B, 1st Floor, 1-2-5 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan"
-    },
-    {
       "name": "Raff Holdings Limited",
       "domain": "tryraff.com",
       "desc": "Raff offers a platform that connects sellers with retailers, streamlining the management of distribution channels and inventory. The platform utilizes technologies such as automated payment systems, detailed sales report",
@@ -633,8 +641,8 @@
       "domain": "wrtnlabs.io",
       "desc": "The Foundation for Every Business Agent",
       "stage": "SERIES_C",
-      "last_amount": 72400000.0,
-      "total": 161275350.0,
+      "last_amount": 72200000.0,
+      "total": 161075350.0,
       "investors": [
         "Sui Generis Partners",
         "Industrial Bank of Korea",
@@ -657,19 +665,6 @@
       "location": "Seoul, South Korea"
     },
     {
-      "name": "Kapso",
-      "domain": "kapso.com",
-      "desc": "WhatsApp AI Agents for developers.",
-      "stage": "PRE_SEED",
-      "last_amount": 1400000.0,
-      "total": 1600000.0,
-      "investors": [
-        "Norte Ventures",
-        "Platanus"
-      ],
-      "location": "Vitacura Avenue 4380, Local 2, Santiago, 7630275, Chile"
-    },
-    {
       "name": "Honeycomb Interconnect",
       "domain": "honeycombtech.com",
       "desc": "The main product is an industrial internet platform that combines industrial and information technologies to facilitate digital transformation in manufacturing. It offers solutions aimed at enhancing value-added services",
@@ -680,14 +675,16 @@
       "location": "Room 4002, Building 4, Phase II, Tianan Cloud Valley, Bantian Subdistrict, Longgang District, Shenzhen, Guangdong 518000, China"
     },
     {
-      "name": "ClearPath AI",
-      "domain": "clearpathgroup.ai",
-      "desc": "ClearPath - AI for Legal & Professional Services. ClearPath provides five AI platforms for law firms, conveyancers, estate agents, mortgage brokers, lenders and regulated businesses. Our AI works inside the matter or tra",
+      "name": "Lark",
+      "domain": "trylark.ai",
+      "desc": "Lark is a team of AI data analysts that never runs out of hours. It watches your metrics, investigates what changes, and brings you the answer before you ask.",
       "stage": "PRE_SEED",
-      "last_amount": 1364349.0,
-      "total": 1364349.0,
-      "investors": [],
-      "location": "London, England"
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
     }
   ]
 }

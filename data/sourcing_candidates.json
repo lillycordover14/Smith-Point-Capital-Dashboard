@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "window_days": 45,
   "counts": {
     "actionable": 1,
-    "watchlist": 15,
+    "watchlist": 14,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -107,23 +107,6 @@
       "domain": "oorjaa.in",
       "tier": "watchlist",
       "fit_reason": "Series A ($1M) — track for the next round",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Kapso",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 1,
-      "investors": [],
-      "date": "2026-08-27",
-      "link": "https://kapso.com",
-      "domain": "kapso.in",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -265,16 +248,16 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Freehand",
-      "desc": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies",
+      "company": "Hadrius",
+      "desc": "Hadrius raises USD $27 million to boost AI compliance",
       "theme": "Precision Applications",
-      "vertical": "Supply Chain",
+      "vertical": "Compliance",
       "stage": "Venture",
-      "amount_m": 75,
+      "amount_m": 27,
       "investors": [],
-      "date": "2026-07-29",
-      "link": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/freehand-raises-75m-to-scale-ai-teams-managing-supply-chain-spend-for-fortune-500-companies/2394083",
-      "domain": "freehandhotels.com",
+      "date": "2026-07-20",
+      "link": "https://itbrief.co.nz/story/hadrius-raises-usd-27-million-to-boost-ai-compliance",
+      "domain": "hadrius.com",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
       "source": "news",

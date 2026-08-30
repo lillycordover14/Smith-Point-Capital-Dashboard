@@ -1,12 +1,12 @@
 {
-  "generated": "2026-08-29",
+  "generated": "2026-08-30",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 75,
-    "total_cap_m": 13528,
+    "total_cap_m": 13322,
     "early_cap_m": 2341,
     "stage_counts": {
       "Pre-seed": 3,
@@ -20,13 +20,22 @@
   },
   "raises": [
     {
-      "company": "Pennylane",
-      "amount_m": 205,
-      "date": "2026-08-29",
-      "link": "https://pennylane.com",
+      "company": "The Subvocal Company",
+      "amount_m": null,
+      "date": "2026-08-30",
+      "link": "https://subvocal.company",
+      "investors": [],
+      "theme": "AI compute & models",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Lark",
+      "amount_m": null,
+      "date": "2026-08-30",
+      "link": "https://trylark.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Series E"
+      "stage": "Pre Seed"
     },
     {
       "company": "Linear",
@@ -243,15 +252,6 @@
       "investors": [],
       "theme": "Logistics & supply chain",
       "stage": "Series A"
-    },
-    {
-      "company": "Kapso",
-      "amount_m": 1,
-      "date": "2026-08-27",
-      "link": "https://kapso.com",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Pre Seed"
     },
     {
       "company": "Concordare Trials",
@@ -2204,7 +2204,7 @@
       "theme": "Applied / horizontal AI",
       "count": 109,
       "examples": [
-        "Pennylane",
+        "Lark",
         "Linear",
         "Wrtnlabs",
         "EZ Newswire",
@@ -2262,14 +2262,14 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 7,
+      "count": 6,
       "examples": [
         "Legato AI",
-        "Kapso",
         "Faro",
         "InstaLILY AI",
         "Pocket",
-        "Sail Research"
+        "Sail Research",
+        "Prosper AI"
       ]
     },
     {
@@ -2293,6 +2293,16 @@
         "現場Hub株式会社",
         "Agave",
         "Scotch"
+      ]
+    },
+    {
+      "theme": "AI compute & models",
+      "count": 4,
+      "examples": [
+        "The Subvocal Company",
+        "Vestbee",
+        "Oratomic",
+        "Prime Intellect"
       ]
     },
     {
@@ -2330,15 +2340,6 @@
         "Newcode.ai",
         "ClearPath AI",
         "Sandstone"
-      ]
-    },
-    {
-      "theme": "AI compute & models",
-      "count": 3,
-      "examples": [
-        "Vestbee",
-        "Oratomic",
-        "Prime Intellect"
       ]
     },
     {
@@ -2399,9 +2400,9 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 109,
-      "cap_m": 7781,
+      "cap_m": 7576,
       "examples": [
-        "Pennylane",
+        "Lark",
         "Linear",
         "Wrtnlabs",
         "EZ Newswire",
@@ -2468,15 +2469,15 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 7,
-      "cap_m": 171,
+      "count": 6,
+      "cap_m": 170,
       "examples": [
         "Legato AI",
-        "Kapso",
         "Faro",
         "InstaLILY AI",
         "Pocket",
-        "Sail Research"
+        "Sail Research",
+        "Prosper AI"
       ],
       "top_stage": "Series B"
     },
@@ -2506,6 +2507,18 @@
         "Scotch"
       ],
       "top_stage": "Series A"
+    },
+    {
+      "theme": "AI compute & models",
+      "count": 4,
+      "cap_m": 433,
+      "examples": [
+        "The Subvocal Company",
+        "Vestbee",
+        "Oratomic",
+        "Prime Intellect"
+      ],
+      "top_stage": "Pre Seed"
     },
     {
       "theme": "Agent-native infra",
@@ -2540,17 +2553,6 @@
         "Factorial"
       ],
       "top_stage": "Seed"
-    },
-    {
-      "theme": "Legal AI",
-      "count": 3,
-      "cap_m": 45,
-      "examples": [
-        "Newcode.ai",
-        "ClearPath AI",
-        "Sandstone"
-      ],
-      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3156,14 +3158,6 @@
           "theme": "Applied / horizontal AI"
         },
         {
-          "company": "MeltPlan",
-          "stage": "Seed",
-          "amount_m": 10,
-          "date": "2026-03-02",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RamxEV3NITXFKSm00X2Y3NDk3UVdWcFFGUkZRNTAyWVFlMEIwLVlFTkRDZTg2MFZVVEZpTW1qMHNnaDZNWVFuUm5pOHJ5UjdTQzZBZWFxelJJN1Ztd04xXzF2TGo0WTZFdTZoSjQ3UWVILWtjYnVRZnJXQXg?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "AllHome",
           "stage": "Series B",
           "amount_m": null,
@@ -3194,9 +3188,17 @@
           "date": "2026-06-15",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yNHVwdUQwMWl6Sk9rRmVrM2ZkWWtTdkR1ckdzNE1QQm10bDJNcGZMT1BKUnBVR292QnJiTzRjWTV5SU8ybGpOUW0ybkN3NUpRUm5v?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "DriveNets",
+          "stage": "Venture",
+          "amount_m": 410,
+          "date": "2026-06-01",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZjc0MzZfbXFOTklwWTVEQXdINEp0RzhyaHVPWm84aF9pQl9HYlQ3bFNnYlBkVEZfYjBkVDByWXkzYXBsSU5heEJFV3FlUU4zYXhKVW9odjI3ZUQ0YmdVN2RxMml5UHc?oc=5",
+          "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 6
+      "early": 5
     },
     {
       "fund": "Battery",
@@ -3550,22 +3552,22 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-08",
+    "since": "2026-08-09",
     "tw": [
       {
         "name": "Applied AI agents",
-        "delta": 3,
-        "now": 7
-      },
-      {
-        "name": "Logistics & supply chain",
-        "delta": 3,
-        "now": 3
+        "delta": 2,
+        "now": 6
       },
       {
         "name": "Vertical SaaS",
         "delta": 2,
         "now": 5
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": 2,
+        "now": 3
       },
       {
         "name": "HR & workforce",
@@ -3618,6 +3620,16 @@
         "now": 1
       },
       {
+        "name": "Fintech & payments",
+        "delta": -1,
+        "now": 6
+      },
+      {
+        "name": "AI compute & models",
+        "delta": -1,
+        "now": 4
+      },
+      {
         "name": "Legal AI",
         "delta": -1,
         "now": 3
@@ -3638,18 +3650,8 @@
         "now": 8
       },
       {
-        "name": "Fintech & payments",
-        "delta": -2,
-        "now": 6
-      },
-      {
-        "name": "AI compute & models",
-        "delta": -2,
-        "now": 3
-      },
-      {
         "name": "Applied / horizontal AI",
-        "delta": -5,
+        "delta": -4,
         "now": 109
       }
     ]
