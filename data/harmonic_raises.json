@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "mode": "full",
-  "count": 48,
+  "count": 50,
   "companies": [
     {
       "name": "Linear",
@@ -49,6 +49,21 @@
       "location": "San Diego, California"
     },
     {
+      "name": "Multiplier",
+      "domain": "usemultiplier.com",
+      "desc": "Multiplier offers a global platform that facilitates hiring, managing, and paying international teams through its Employer of Record (EOR) and Contractor of Record (COR) services. The platform utilizes owned entities, na",
+      "stage": "SEED",
+      "last_amount": 6000000.0,
+      "total": 118200000.0,
+      "investors": [
+        "Peak XV Partners",
+        "MS&AD Ventures",
+        "Ribbit Capital",
+        "Mercator Partners"
+      ],
+      "location": "New York"
+    },
+    {
       "name": "Volve",
       "domain": "volvetech.com",
       "desc": "The main product is an AI-powered tender intelligence platform designed specifically for the construction industry, which transforms complex project document sets into structured, decision-ready outputs. It utilizes adva",
@@ -62,21 +77,6 @@
         "Antler"
       ],
       "location": "Oslo"
-    },
-    {
-      "name": "Multiplier",
-      "domain": "usemultiplier.com",
-      "desc": "Multiplier offers a global platform that facilitates the hiring, management, and payment of international teams through its Employer of Record (EOR) and Contractor of Record (COR) services. The platform utilizes owned en",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 118200000.0,
-      "investors": [
-        "Peak XV Partners",
-        "MS&AD Ventures",
-        "Ribbit Capital",
-        "Mercator Partners"
-      ],
-      "location": "New York"
     },
     {
       "name": "Trust AI",
@@ -123,9 +123,39 @@
       "location": ""
     },
     {
+      "name": "Instinct",
+      "domain": "instinct.co",
+      "desc": "Instinct is a personal assistant that understands what you're working on and what's important to you. It connects to your applications and devices - email, messaging, screen, audio, location, and more. The interface is s",
+      "stage": "SERIES_B",
+      "last_amount": 250000000.0,
+      "total": 250000000.0,
+      "investors": [
+        "Conviction",
+        "Index Ventures",
+        "Greenoaks",
+        "Benchmark"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Atorie",
+      "domain": "atorie.com",
+      "desc": "Atorie offers a platform that connects high-end factories directly to consumers, utilizing AI to predict trends, test demand, and optimize inventory management, thereby reducing waste and eliminating middlemen. The techn",
+      "stage": "SEED",
+      "last_amount": 9500000.0,
+      "total": 10250000.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Jeremy Liew",
+        "Lightspeed Venture Partners",
+        "Night Capital"
+      ],
+      "location": "Los Angeles, CA"
+    },
+    {
       "name": "Integrate",
       "domain": "integrate.co",
-      "desc": "Integrate offers an AI-enabled project management platform designed for ultra-secure, real-time collaboration across multiple organizations, particularly in defense and critical infrastructure sectors. The platform featu",
+      "desc": "Integrate offers a project management platform designed for real-time collaboration across multiple organizations, utilizing advanced security measures to protect sensitive data and ensure compliance with regulatory stan",
       "stage": "SERIES_A",
       "last_amount": 6000000.0,
       "total": 27370000.0,
@@ -150,21 +180,6 @@
         "Russell Glass"
       ],
       "location": "Phoenix, Arizona"
-    },
-    {
-      "name": "Instinct",
-      "domain": "instinct.co",
-      "desc": "Instinct is a personal assistant that understands what you're working on and what's important to you. It connects to your applications and devices - email, messaging, screen, audio, location, and more. The interface is s",
-      "stage": "SERIES_B",
-      "last_amount": 250000000.0,
-      "total": 250000000.0,
-      "investors": [
-        "Conviction",
-        "Index Ventures",
-        "Greenoaks",
-        "Benchmark"
-      ],
-      "location": ""
     },
     {
       "name": "Newcode.ai",
@@ -195,21 +210,6 @@
         "Oregon Venture Fund"
       ],
       "location": "Vancouver, Washington"
-    },
-    {
-      "name": "Atorie",
-      "domain": "atorie.com",
-      "desc": "Atorie offers a platform that connects high-end factories directly to consumers, utilizing AI to predict trends, test demand, and optimize inventory management, thereby reducing waste and eliminating middlemen. The techn",
-      "stage": "SEED",
-      "last_amount": 9500000.0,
-      "total": 10250000.0,
-      "investors": [
-        "Lightspeed Venture Partners",
-        "Night Capital",
-        "Blue Wire Capital",
-        "Flex Capital"
-      ],
-      "location": "Los Angeles, CA"
     },
     {
       "name": "neno",
@@ -287,6 +287,33 @@
       "location": "Austin, TX"
     },
     {
+      "name": "Sentient OS",
+      "domain": "sentient-os.ai",
+      "desc": "The main product is an on-device AI operating system that utilizes a custom multimodal large language model to process and understand a user's entire digital life, including files, emails, and notes, while ensuring that ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "OroCommerce",
+      "domain": "oroinc.com",
+      "desc": "OroCommerce is a unified B2B sales enablement platform that integrates eCommerce, CRM, marketplace management, content management, AI, invoicing, and payment processing into a single system, designed to streamline comple",
+      "stage": "SERIES_A",
+      "last_amount": 3000000.0,
+      "total": 28000000.0,
+      "investors": [
+        "Zubr Capital Investment Company",
+        "Highland Europe",
+        "Archer Capital Pty Ltd",
+        "Mapleblock Capital"
+      ],
+      "location": "1901 Avenue of the Stars Suite 1900 Los Angeles, California 90067, US"
+    },
+    {
       "name": "Repodo",
       "domain": "repodo.com",
       "desc": "Repodo is an AI-native audit platform designed for European SMEs that integrates with clients' ERP systems to automate the preparation of audit workfiles, enabling auditors to focus on review and judgment. The platform e",
@@ -300,46 +327,9 @@
       "location": ""
     },
     {
-      "name": "OroCommerce",
-      "domain": "oroinc.com",
-      "desc": "OroCommerce is a unified B2B sales enablement platform that integrates eCommerce, CRM, marketplace management, content management, AI, invoicing, and payments, designed to streamline complex sales processes for manufactu",
-      "stage": "SERIES_A",
-      "last_amount": 3000000.0,
-      "total": 28000000.0,
-      "investors": [
-        "Zubr Capital Investment Company",
-        "Highland Europe",
-        "Archer Capital Pty Ltd",
-        "Mapleblock Capital"
-      ],
-      "location": "1901 Avenue of the Stars Suite 1900 Los Angeles, California 90067, US"
-    },
-    {
-      "name": "Sentient OS",
-      "domain": "sentient-os.ai",
-      "desc": "The main product is an on-device AI operating system that utilizes a custom multimodal large language model to process and understand a user's entire digital life, including files, emails, and notes, while ensuring that ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "ClearPath AI",
-      "domain": "clearpathgroup.ai",
-      "desc": "ClearPath offers five specialized AI platforms designed for legal, property, finance, and compliance sectors, enabling professionals to automate document analysis, workflow management, and reporting processes. These plat",
-      "stage": "PRE_SEED",
-      "last_amount": 1364349.0,
-      "total": 1364349.0,
-      "investors": [],
-      "location": "London, England"
-    },
-    {
       "name": "wrtn technologies",
       "domain": "wrtn.io",
-      "desc": "The company offers a generative AI service designed for everyday use, enabling users to easily access and utilize AI tools for various tasks. It employs technologies focused on user-friendly interfaces and ethical AI gui",
+      "desc": "The company offers a generative AI service designed for everyday use, focusing on making AI accessible and user-friendly for a broad audience. It employs various AI technologies, including autonomous agents and ethical g",
       "stage": "SERIES_C",
       "last_amount": 72100000.0,
       "total": 161549800.0,
@@ -352,6 +342,16 @@
       "location": "Seocho-gu, Seoul"
     },
     {
+      "name": "ClearPath AI",
+      "domain": "clearpathgroup.ai",
+      "desc": "ClearPath offers five specialized AI platforms designed for legal, property, finance, and compliance sectors, enabling professionals to automate document analysis, workflow management, and reporting processes. These plat",
+      "stage": "PRE_SEED",
+      "last_amount": 1364349.0,
+      "total": 1364349.0,
+      "investors": [],
+      "location": "London, England"
+    },
+    {
       "name": "EULER",
       "domain": "eulerhq.com",
       "desc": "EULER provides partner relationship management (PRM) software that automates partner operations and aims to enhance revenue predictability. The platform employs advanced data analytics and integration capabilities to str",
@@ -362,19 +362,6 @@
         "Channel Equity Partners"
       ],
       "location": ""
-    },
-    {
-      "name": "Pixyle.ai",
-      "domain": "pixyle.ai",
-      "desc": "The company offers an AI-powered platform designed for fashion e-commerce, which transforms product images into structured data, enabling automatic generation of attributes, SEO-friendly tags, and descriptions. Utilizing",
-      "stage": "SEED",
-      "last_amount": 1165841.0,
-      "total": 2331694.0,
-      "investors": [
-        "South Central Ventures",
-        "Rockstart"
-      ],
-      "location": "Amsterdam, North Holland"
     },
     {
       "name": "Concordare Trials",
@@ -390,6 +377,19 @@
         "Surface Ventures"
       ],
       "location": "New York, NY"
+    },
+    {
+      "name": "Pixyle.ai",
+      "domain": "pixyle.ai",
+      "desc": "The company offers an AI-powered platform designed for fashion e-commerce, which transforms product images into structured data, enabling automatic generation of attributes, SEO-friendly tags, and descriptions. Utilizing",
+      "stage": "SEED",
+      "last_amount": 1165841.0,
+      "total": 2331694.0,
+      "investors": [
+        "South Central Ventures",
+        "Rockstart"
+      ],
+      "location": "Amsterdam, North Holland"
     },
     {
       "name": "EZ Newswire",
@@ -422,17 +422,19 @@
       "location": "New York, Delaware"
     },
     {
-      "name": "The Subvocal Company",
-      "domain": "subvocal.company",
-      "desc": "The company offers a discreet under-chin wearable device that translates subvocalized speech into text and commands, enabling users to interact with their computers silently. This technology utilizes real-time biosignal ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "Swvl",
+      "domain": "swvl.com",
+      "desc": "Swvl offers tech-enabled mass transit solutions that focus on enhancing safety, reliability, and convenience in emerging markets, utilizing a proprietary technology stack for dynamic routing of high-capacity vehicles. Th",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 13000000.0,
+      "total": 149800000.0,
       "investors": [
-        "Y Combinator",
-        "Afore Capital"
+        "Oman Technology Fund",
+        "DiGAME Investment Company",
+        "Autotech Ventures",
+        "Agility"
       ],
-      "location": "United States"
+      "location": "Dubai"
     },
     {
       "name": "pay.com.au",
@@ -477,19 +479,32 @@
       "location": ""
     },
     {
-      "name": "StoreHub",
-      "domain": "storehub.com",
-      "desc": "StoreHub offers an all-in-one platform designed for retailers and restaurants, featuring a cloud-based POS system, QR-based table ordering, and customer engagement tools. The technology integrates various functionalities",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 50950000.0,
+      "name": "The Subvocal Company",
+      "domain": "subvocal.company",
+      "desc": "The company offers a discreet under-chin wearable device that translates subvocalized speech into text and commands, enabling users to interact with their computers silently. This technology utilizes real-time biosignal ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "500 Global",
-        "Cradle Seed Ventures",
-        "Eclectic Fund",
-        "Temasek"
+        "Y Combinator",
+        "Afore Capital"
       ],
-      "location": "Petaling Jaya, Selangor"
+      "location": "United States"
+    },
+    {
+      "name": "Verascient",
+      "domain": "verascient.com",
+      "desc": "Verascient offers a platform that integrates a temporal knowledge graph to consolidate and manage a company's collective knowledge, making it accessible to various AI agents. The system employs an agent-to-agent protocol",
+      "stage": "SEED",
+      "last_amount": 1200000.0,
+      "total": 1200000.0,
+      "investors": [
+        "Cambridge Enterprise",
+        "Founder Collective",
+        "Alan Knott-Craig",
+        "Andrena Ventures"
+      ],
+      "location": "City of Cape Town, Western Cape, South Africa"
     },
     {
       "name": "Legato AI",
@@ -507,6 +522,21 @@
       "location": "Israel"
     },
     {
+      "name": "StoreHub",
+      "domain": "storehub.com",
+      "desc": "StoreHub offers an all-in-one platform designed for retailers and restaurants, featuring a cloud-based POS system, QR-based table ordering, and customer engagement tools. The technology integrates various functionalities",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 50950000.0,
+      "investors": [
+        "500 Global",
+        "Cradle Seed Ventures",
+        "Eclectic Fund",
+        "Temasek"
+      ],
+      "location": "Petaling Jaya, Selangor"
+    },
+    {
       "name": "Shikomel",
       "domain": "shikomel.com",
       "desc": "The company offers a service that provides pre-prepared ingredients aimed at replicating the flavors of popular dishes, which allows food businesses to reduce preparation time and labor costs significantly. This service ",
@@ -520,6 +550,33 @@
         "HOUSE FOODS GROUP INC."
       ],
       "location": "MFPR Shibuya Building B, 1st Floor, 1-2-5 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan"
+    },
+    {
+      "name": "os.energy",
+      "domain": "os.energy",
+      "desc": "The main product is a digital operating system designed for energy providers, which automates operational processes, manages customer relationships, and integrates various energy assets such as heat pumps and solar inver",
+      "stage": "PRE_SEED",
+      "last_amount": 1165460.0,
+      "total": 1165460.0,
+      "investors": [
+        "PSV"
+      ],
+      "location": "Copenhagen"
+    },
+    {
+      "name": "Raff Holdings Limited",
+      "domain": "tryraff.com",
+      "desc": "Raff provides a B2B retail platform that integrates various functionalities to manage the retail cycle, including partner management, order processing, inventory synchronization, and financial settlements. The platform u",
+      "stage": "PRE_SEED",
+      "last_amount": 1700000.0,
+      "total": 1800000.0,
+      "investors": [
+        "Vision Ventures (VV)",
+        "500 Global",
+        "OQAL Angel Investors Network| مجموعة عقال للمستثمرين الملائكيين",
+        "Palm Ventures"
+      ],
+      "location": "Riyadh"
     },
     {
       "name": "HERP, Inc.",
@@ -537,24 +594,9 @@
       "location": "品川区, 東京都"
     },
     {
-      "name": "OORJAA",
-      "domain": "oorjaa.tech",
-      "desc": "OORJAA offers logistics solutions specifically designed for intra-city supply chains, utilizing technologies such as network optimization, demand aggregation, intelligent routing, big data analytics, AI, IoT, and machine",
-      "stage": "SERIES_A",
-      "last_amount": 1015978.0,
-      "total": 6250368.0,
-      "investors": [
-        "Inflection Point Ventures",
-        "Soonicorn Ventures",
-        "Java Capital",
-        "FirstPort Capital"
-      ],
-      "location": "Mumbai, Maharashtra"
-    },
-    {
       "name": "現場Hub株式会社",
       "domain": "gembahub.co.jp",
-      "desc": "Specialized media that supports DX promotion in the construction and equipment construction industry. Genba Hub Co., Ltd. disseminates practical information useful for improving workplace productivity, such as know-how o",
+      "desc": "The main product is a centralized management tool designed for construction companies, which aims to enhance operational efficiency through features like real-time information sharing, automated data collection, and comp",
       "stage": "SEED",
       "last_amount": 439880.0,
       "total": 1432232.0,
@@ -565,19 +607,19 @@
       "location": "7th Floor Forum Shibuya Shinsen, 8-1 Shinsen-cho, Shibuya-ku, Tokyo, 150-0045, Japan"
     },
     {
-      "name": "Verascient",
-      "domain": "verascient.com",
-      "desc": "Verascient provides a technology that functions as a trust layer to mitigate inaccuracies in AI-generated outputs, particularly in sectors where precision is critical. This solution aims to enhance the reliability of inf",
-      "stage": "SEED",
-      "last_amount": 1200000.0,
-      "total": 1200000.0,
+      "name": "OORJAA",
+      "domain": "oorjaa.tech",
+      "desc": "OORJAA Tech provides a technology-driven mid-mile logistics solution designed to optimize urban cargo movement across India, utilizing AI-powered routing and a nationwide vendor network to enhance efficiency and reliabil",
+      "stage": "SERIES_A",
+      "last_amount": 1015978.0,
+      "total": 6250368.0,
       "investors": [
-        "Cambridge Enterprise",
-        "Founder Collective",
-        "Alan Knott-Craig",
-        "Andrena Ventures"
+        "Inflection Point Ventures",
+        "Soonicorn Ventures",
+        "Java Capital",
+        "FirstPort Capital"
       ],
-      "location": "City of Cape Town, Western Cape, South Africa"
+      "location": "Mumbai, Maharashtra"
     },
     {
       "name": "Vestbee",
@@ -595,19 +637,32 @@
       "location": "Warsaw, Mazovian"
     },
     {
-      "name": "Raff Holdings Limited",
-      "domain": "tryraff.com",
-      "desc": "Raff offers a platform that connects sellers with retailers, streamlining the management of distribution channels and inventory. The platform utilizes technologies such as automated payment systems, detailed sales report",
-      "stage": "PRE_SEED",
-      "last_amount": 1700000.0,
-      "total": 1800000.0,
+      "name": "Roma AI",
+      "domain": "teamroma.ai",
+      "desc": "Roma AI provides intelligent virtual assistants designed to automate customer interactions and enhance business processes using advanced AI algorithms. The technology allows for seamless integration with existing systems",
+      "stage": "SEED",
+      "last_amount": 1200000.0,
+      "total": 1200000.0,
       "investors": [
-        "Vision Ventures (VV)",
-        "500 Global",
-        "OQAL Angel Investors Network| مجموعة عقال للمستثمرين الملائكيين",
-        "Palm Ventures"
+        "Invexor Venture Partners",
+        "INGENIO Incubadora de Empresas"
       ],
-      "location": "Riyadh"
+      "location": "Uruguay"
+    },
+    {
+      "name": "Wrtnlabs",
+      "domain": "wrtnlabs.io",
+      "desc": "The Foundation for Every Business Agent",
+      "stage": "SERIES_C",
+      "last_amount": 72200000.0,
+      "total": 161075350.0,
+      "investors": [
+        "Sui Generis Partners",
+        "Industrial Bank of Korea",
+        "Korea Credit Guarantee Fund",
+        "Hana Bank"
+      ],
+      "location": ""
     },
     {
       "name": "Senior Sistemas",
@@ -637,21 +692,6 @@
       "location": "London"
     },
     {
-      "name": "Wrtnlabs",
-      "domain": "wrtnlabs.io",
-      "desc": "The Foundation for Every Business Agent",
-      "stage": "SERIES_C",
-      "last_amount": 72200000.0,
-      "total": 161075350.0,
-      "investors": [
-        "Sui Generis Partners",
-        "Industrial Bank of Korea",
-        "Korea Credit Guarantee Fund",
-        "Hana Bank"
-      ],
-      "location": ""
-    },
-    {
       "name": "Searchdoc",
       "domain": "searchdoc.ai",
       "desc": "SEARCHDOC enhances generative AI with advanced search technology to solve complex user challenges efficiently. By combining powerful search capabilities with AI-driven intelligence, we maximize data value and deliver act",
@@ -665,26 +705,19 @@
       "location": "Seoul, South Korea"
     },
     {
-      "name": "Honeycomb Interconnect",
-      "domain": "honeycombtech.com",
-      "desc": "The main product is an industrial internet platform that combines industrial and information technologies to facilitate digital transformation in manufacturing. It offers solutions aimed at enhancing value-added services",
-      "stage": "SERIES_C",
-      "last_amount": 178000000.0,
-      "total": 178000000.0,
-      "investors": [],
-      "location": "Room 4002, Building 4, Phase II, Tianan Cloud Valley, Bantian Subdistrict, Longgang District, Shenzhen, Guangdong 518000, China"
-    },
-    {
-      "name": "Lark",
-      "domain": "trylark.ai",
-      "desc": "Lark is a team of AI data analysts that never runs out of hours. It watches your metrics, investigates what changes, and brings you the answer before you ask.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "ABLE Labs (에이블랩스)",
+      "domain": "ablelabsinc.com",
+      "desc": "ABLE Labs develops robotic systems for automating liquid handling in biological research, allowing researchers to streamline workflows and reduce manual errors. Their technology features a user-friendly interface for qui",
+      "stage": "SERIES_A",
+      "last_amount": 8808800.0,
+      "total": 12294371.0,
       "investors": [
-        "Y Combinator"
+        "NAU IB Capital",
+        "Industrial Bank of Korea",
+        "Wonik Investment Partners Co. Ltd.",
+        "Mirae Asset Global Investments"
       ],
-      "location": ""
+      "location": "Incheon"
     }
   ]
 }

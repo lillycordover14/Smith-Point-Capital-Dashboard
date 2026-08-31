@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "window_days": 45,
   "counts": {
     "actionable": 1,
-    "watchlist": 14,
+    "watchlist": 13,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -244,23 +244,6 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Hadrius",
-      "desc": "Hadrius raises USD $27 million to boost AI compliance",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Venture",
-      "amount_m": 27,
-      "investors": [],
-      "date": "2026-07-20",
-      "link": "https://itbrief.co.nz/story/hadrius-raises-usd-27-million-to-boost-ai-compliance",
-      "domain": "hadrius.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }

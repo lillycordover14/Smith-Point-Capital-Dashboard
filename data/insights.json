@@ -1,24 +1,51 @@
 {
-  "generated": "2026-08-30",
+  "generated": "2026-08-31",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 75,
-    "total_cap_m": 13322,
+    "early_raises": 76,
+    "total_cap_m": 12748,
     "early_cap_m": 2341,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 29,
-      "Series A": 43,
+      "Series A": 44,
       "Series B": 24,
-      "Series C": 12,
+      "Series C": 11,
       "Series D": 2,
-      "Venture": 74
+      "Venture": 73
     }
   },
   "raises": [
+    {
+      "company": "ABLE Labs (에이블랩스)",
+      "amount_m": 9,
+      "date": "2026-08-31",
+      "link": "https://ablelabsinc.com",
+      "investors": [],
+      "theme": "Physical AI & robotics",
+      "stage": "Series A"
+    },
+    {
+      "company": "os.energy",
+      "amount_m": 1,
+      "date": "2026-08-31",
+      "link": "https://os.energy",
+      "investors": [],
+      "theme": "Energy & climate",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Roma AI",
+      "amount_m": 1,
+      "date": "2026-08-31",
+      "link": "https://teamroma.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
     {
       "company": "The Subvocal Company",
       "amount_m": null,
@@ -26,15 +53,6 @@
       "link": "https://subvocal.company",
       "investors": [],
       "theme": "AI compute & models",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Lark",
-      "amount_m": null,
-      "date": "2026-08-30",
-      "link": "https://trylark.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
     },
     {
@@ -72,15 +90,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series B"
-    },
-    {
-      "company": "Honeycomb Interconnect",
-      "amount_m": 178,
-      "date": "2026-08-28",
-      "link": "https://honeycombtech.com",
-      "investors": [],
-      "theme": "Physical AI & robotics",
-      "stage": "Series C"
     },
     {
       "company": "Senior Sistemas",
@@ -198,6 +207,15 @@
       "investors": [],
       "theme": "Agent-native infra",
       "stage": "Series A"
+    },
+    {
+      "company": "Swvl",
+      "amount_m": 13,
+      "date": "2026-08-27",
+      "link": "https://swvl.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Venture Unknown"
     },
     {
       "company": "primero.com",
@@ -2175,36 +2193,14 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Plot",
-      "amount_m": 10,
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZWV4Ymoxb2hPM3lUSGhNUFZGYVJubEtJWFVnV09ueGZWVFRtVEFiWkdnbUJWclVHNjlkTHlnNzRaMVJQZzNRU2UwblFPc3ZmbTFzd09SWVQ1alhqT0U0Tm51MWY5ZlZQUkdCWTFUcTc4bkRmN05r?oc=5",
-      "investors": [
-        "XYZ Venture Capital"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "DriveNets",
-      "amount_m": 410,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZjc0MzZfbXFOTklwWTVEQXdINEp0RzhyaHVPWm84aF9pQl9HYlQ3bFNnYlBkVEZfYjBkVDByWXkzYXBsSU5heEJFV3FlUU4zYXhKVW9odjI3ZUQ0YmdVN2RxMml5UHc?oc=5",
-      "investors": [
-        "Bessemer"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 109,
+      "count": 108,
       "examples": [
-        "Lark",
+        "Roma AI",
         "Linear",
         "Wrtnlabs",
         "EZ Newswire",
@@ -2226,14 +2222,14 @@
     },
     {
       "theme": "Energy & climate",
-      "count": 10,
+      "count": 11,
       "examples": [
+        "os.energy",
         "Boldr",
         "Axle Energy",
         "Vergennes battery project",
         "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
+        "Endurance Energy"
       ]
     },
     {
@@ -2252,7 +2248,7 @@
       "theme": "Physical AI & robotics",
       "count": 8,
       "examples": [
-        "Honeycomb Interconnect",
+        "ABLE Labs (에이블랩스)",
         "Integrate",
         "Monumental",
         "Nous Research",
@@ -2399,10 +2395,10 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 109,
-      "cap_m": 7576,
+      "count": 108,
+      "cap_m": 7170,
       "examples": [
-        "Lark",
+        "Roma AI",
         "Linear",
         "Wrtnlabs",
         "EZ Newswire",
@@ -2427,15 +2423,15 @@
     },
     {
       "theme": "Energy & climate",
-      "count": 10,
-      "cap_m": 1146,
+      "count": 11,
+      "cap_m": 1147,
       "examples": [
+        "os.energy",
         "Boldr",
         "Axle Energy",
         "Vergennes battery project",
         "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
+        "Endurance Energy"
       ],
       "top_stage": "Venture"
     },
@@ -2456,9 +2452,9 @@
     {
       "theme": "Physical AI & robotics",
       "count": 8,
-      "cap_m": 328,
+      "cap_m": 159,
       "examples": [
-        "Honeycomb Interconnect",
+        "ABLE Labs (에이블랩스)",
         "Integrate",
         "Monumental",
         "Nous Research",
@@ -2732,14 +2728,6 @@
       "fund": "Redpoint",
       "picks": [
         {
-          "company": "JetStream Security",
-          "stage": "Seed",
-          "amount_m": 34,
-          "date": "2026-03-03",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTW84STlxRVVkWUpUbmVzVWxNcDl2S1J0SlBTQmlWZWZwY2JfdWg3Z0F6Vmg3dmVvWE1JTWNLc3V5VmJUR0FLQTFQajRzVWNYSGV4MVk2R2pyLS1qbGtJX1FEVkZJR1g1MUpSanNZbjFXV3lFZFhwOG1XUmpRMXE1MUhqSWpsRGI1U3NpUWlVZVdfR1FlZWg1Wlp5M3lHNk4zNklULQ?oc=5",
-          "theme": "Cybersecurity"
-        },
-        {
           "company": "Collate",
           "stage": "Venture",
           "amount_m": 95,
@@ -2756,7 +2744,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 1
+      "early": 0
     },
     {
       "fund": "Felicis",
@@ -3336,22 +3324,6 @@
           "date": "2026-03-23",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkVDbFBYTW1wR19DeGFLYVNCVHBJOWJkNGg3SXZvS2JQOG8wNm9uSU16c2lqSGRkekV5M1lRaVlSYWpvUmtTR3pybVdsLXFZcUdRNkxpNGhwWWRWSGFLVHhHTkR3ZVc2dThvLXNkZEdMdzJTbkY4X2k3RkpiUGpiRWZWNTN1WUZzUmY0aVNwczJ2RmJSRjZ2dnNR?oc=5",
           "theme": "AI compute & models"
-        },
-        {
-          "company": "Grow Therapy",
-          "stage": "Venture",
-          "amount_m": null,
-          "date": "2026-03-03",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHBrVWNCVFlQdHFycVB2bFJxelJZWUVpN1VSQk5YUFhBR0lUR1JJZnQ3cTlQZWFYMnVrM1YtZE5DTWZDbENkdEtKdlBCc2pSWDN0NXpoYTBQcXZhSEVIRUdtYTYyZkV6NWVhN1lVVEZqWC1SSnpVV0MxT19MUjBLOW94TUZodEwtaUZ2SVNBN0hEdEV3cTB1c3pRTnE3VVBwc21ZQ0JFam9Selc3SXF6Tg?oc=5",
-          "theme": "Healthcare & bio AI"
-        },
-        {
-          "company": "NationGraph",
-          "stage": "Venture",
-          "amount_m": 18,
-          "date": "2026-03-03",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZTlFTkZ6bWxRR05KT20zM05fWldhWTRGVzNVUG5YQ1dNLUdaVFRnMko4QlJRS3lQM1hvZXdaSW1lY1Bxb0U0Rm9PVXYwc1N2VnpOTGlOeEtkZ2FyRGw4QTlMQnRUdnE1MlpjTVAtNXVBTjZUZFBSdXNSc2xpMTktcWc3U1h5cnQ2SjY5QnoxMk5lVkNiaVF4c003T3RBYk13RGtNNnBoSXFTY2xPV2c?oc=5",
-          "theme": "Legal AI"
         }
       ],
       "early": 2
@@ -3552,8 +3524,13 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-09",
+    "since": "2026-08-10",
     "tw": [
+      {
+        "name": "Energy & climate",
+        "delta": 2,
+        "now": 11
+      },
       {
         "name": "Applied AI agents",
         "delta": 2,
@@ -3583,11 +3560,6 @@
         "name": "Healthcare & bio AI",
         "delta": 1,
         "now": 19
-      },
-      {
-        "name": "Energy & climate",
-        "delta": 1,
-        "now": 10
       },
       {
         "name": "Crypto & digital assets",
@@ -3646,13 +3618,13 @@
       },
       {
         "name": "Physical AI & robotics",
-        "delta": -2,
+        "delta": -3,
         "now": 8
       },
       {
         "name": "Applied / horizontal AI",
         "delta": -4,
-        "now": 109
+        "now": 108
       }
     ]
   }
