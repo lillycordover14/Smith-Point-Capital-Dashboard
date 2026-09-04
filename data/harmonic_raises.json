@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-03",
+  "generated": "2026-09-04",
   "mode": "full",
-  "count": 47,
+  "count": 50,
   "companies": [
     {
-      "name": "HiBob",
-      "domain": "hibob.com",
-      "desc": "HiBob offers a comprehensive HR platform that automates and streamlines various HR processes, including onboarding, payroll, and performance management, while providing real-time analytics and customizable workflows. The",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 166000000.0,
-      "total": 740000000.0,
+      "name": "Reducto",
+      "domain": "reducto.ai",
+      "desc": "Reducto offers a document processing platform designed for AI teams, enabling automated workflows that encompass document classification, extraction, editing, and orchestration. The technology utilizes custom in-house mo",
+      "stage": "SERIES_B",
+      "last_amount": 51000000.0,
+      "total": 159025002.0,
       "investors": [
-        "SEEK",
-        "Entrée Capital",
-        "Alpha Wave Global",
-        "Israel Growth Partners"
+        "Andreessen Horowitz",
+        "First Round Capital",
+        "Y Combinator",
+        "Benchmark"
       ],
-      "location": "New York"
+      "location": "San Francisco, CA"
     },
     {
       "name": "Wonderful",
@@ -34,19 +34,19 @@
       "location": "Amsterdam, North Holland"
     },
     {
-      "name": "Atorie",
-      "domain": "atorie.com",
-      "desc": "Atorie offers a platform that connects high-end factories directly to consumers, utilizing AI to predict trends, test demand, and optimize inventory management, thereby reducing waste and eliminating middlemen. The techn",
-      "stage": "SEED",
-      "last_amount": 9500000.0,
-      "total": 10250000.0,
+      "name": "HiBob",
+      "domain": "hibob.com",
+      "desc": "HiBob offers a comprehensive HR platform that automates and streamlines various HR processes, including onboarding, payroll, and performance management, while providing real-time analytics and customizable workflows. The",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 166000000.0,
+      "total": 740000000.0,
       "investors": [
-        "Lightbank",
-        "Lightspeed Venture Partners",
-        "Night Capital",
-        "Blue Wire Capital"
+        "SEEK",
+        "Entrée Capital",
+        "Alpha Wave Global",
+        "Israel Growth Partners"
       ],
-      "location": "Los Angeles, CA"
+      "location": "New York"
     },
     {
       "name": "Conveo",
@@ -77,20 +77,6 @@
         "Govtech Ventures"
       ],
       "location": "Boston, MA"
-    },
-    {
-      "name": "MiiHealth AI",
-      "domain": "miihealth.ai",
-      "desc": "The main product is an AI-driven intake and navigation agent that automates patient intake processes, allowing providers to focus more on patient care by streamlining workflows and reducing administrative tasks. This tec",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 3350000.0,
-      "investors": [
-        "Opportunity Through Entrepreneurship Foundation",
-        "Arteria Capital",
-        "Russell Glass"
-      ],
-      "location": "Phoenix, Arizona"
     },
     {
       "name": "Trust AI",
@@ -152,19 +138,6 @@
       "location": "Berlin, BE"
     },
     {
-      "name": "Motion1",
-      "domain": "motion.one",
-      "desc": "The company offers a service that deploys humanoid robots tailored for various industrial applications, including logistics and warehouse operations, with a focus on integration, leasing, and management through a unified",
-      "stage": "PRE_SEED",
-      "last_amount": 2000000.0,
-      "total": 2000000.0,
-      "investors": [
-        "Extantia",
-        "Norrsken Evolve"
-      ],
-      "location": "Brussels"
-    },
-    {
       "name": "Tripo AI",
       "domain": "tripo3d.ai",
       "desc": "The main product is an AI-powered platform that generates high-quality 3D models from text, images, or sketches, featuring automatic rigging and intelligent segmentation for improved model organization. It employs advanc",
@@ -178,6 +151,21 @@
         "Geely Capital"
       ],
       "location": "San Francisco"
+    },
+    {
+      "name": "Flamingo",
+      "domain": "flamingo.run",
+      "desc": "Flamingo offers an open-source platform designed for Managed Service Providers (MSPs), integrating essential IT and security workflows into a unified system that includes monitoring, ticketing, and automation capabilitie",
+      "stage": "SEED",
+      "last_amount": 4500000.0,
+      "total": 6700000.0,
+      "investors": [
+        "Array Ventures",
+        "Focal",
+        "Vertex Holdings",
+        "ANIMO Ventures"
+      ],
+      "location": "Miami, Florida"
     },
     {
       "name": "Archive",
@@ -210,21 +198,6 @@
       "location": "Los Angeles, California"
     },
     {
-      "name": "Ringg AI",
-      "domain": "ringg.ai",
-      "desc": "The company offers an AI-driven voice and chat agent platform that facilitates intelligent conversations across various channels, including voice, chat, WhatsApp, and web, enabling businesses to manage customer interacti",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 31520000.0,
-      "investors": [
-        "Peak XV Partners",
-        "Groww",
-        "Arkam Ventures",
-        "Capital 2B"
-      ],
-      "location": "Bengaluru, Karnataka"
-    },
-    {
       "name": "Contents",
       "domain": "contents.com",
       "desc": "Contents offers a SaaS platform that utilizes AI technologies for marketing content orchestration, facilitating processes from ideation to distribution. This platform aims to enhance digital content management for enterp",
@@ -255,18 +228,19 @@
       "location": "New York"
     },
     {
-      "name": "GetWhy",
-      "domain": "getwhy.io",
-      "desc": "GetWhy offers an AI research platform that facilitates the design, recruitment, and execution of AI-moderated video interviews, delivering insights rapidly and efficiently. The technology employs advanced AI to conduct i",
-      "stage": "SERIES_A",
-      "last_amount": 8400000.0,
-      "total": 71191272.0,
+      "name": "AI Score",
+      "domain": "aiscore.ai",
+      "desc": "AI Score offers a governance and risk management platform designed to provide strategic visibility and control over AI innovation, unifying data-driven insights and compliance monitoring across an organization’s AI ecosy",
+      "stage": "SEED",
+      "last_amount": 5411992.0,
+      "total": 6411992.0,
       "investors": [
-        "PeakSpan Capital",
-        "CIBC Innovation Banking",
-        "AL Sydbank"
+        "Ventura Capital",
+        "GALLOS Technologies",
+        "MMC Ventures",
+        "FUEL Ventures"
       ],
-      "location": "Copenhagen, Capital Region of Denmark"
+      "location": "London"
     },
     {
       "name": "GRIDSIGHT",
@@ -284,46 +258,116 @@
       "location": "Sydney, NSW"
     },
     {
-      "name": "Lark",
-      "domain": "trylark.ai",
-      "desc": "Lark provides AI agents designed for wholesale distributors, integrating with existing systems to enhance inventory, purchasing, and order operations. The technology captures operational rules and exceptions, validates d",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "GetWhy",
+      "domain": "getwhy.io",
+      "desc": "GetWhy offers an AI research platform that facilitates the design, recruitment, and execution of AI-moderated video interviews, delivering insights rapidly and efficiently. The technology employs advanced AI to conduct i",
+      "stage": "SERIES_A",
+      "last_amount": 8400000.0,
+      "total": 71191272.0,
       "investors": [
-        "Y Combinator"
+        "PeakSpan Capital",
+        "CIBC Innovation Banking",
+        "AL Sydbank"
+      ],
+      "location": "Copenhagen, Capital Region of Denmark"
+    },
+    {
+      "name": "Zeit AI (YC S24)",
+      "domain": "zeit-ai.com",
+      "desc": "Zeit AI offers an autonomous data engineering solution that integrates various business systems, such as ERP and CRM, to automate data analytics and generate operational applications using natural language. This technolo",
+      "stage": "SEED",
+      "last_amount": 5814025.0,
+      "total": 6314025.0,
+      "investors": [
+        "Oxford University Innovation",
+        "Y Combinator",
+        "ACE Ventures",
+        "HPI Ventures"
+      ],
+      "location": "Munich"
+    },
+    {
+      "name": "emberos",
+      "domain": "emberos.ai",
+      "desc": "Emberos offers a platform designed for automated brand control in the context of AI-driven visibility, utilizing a multi-agent architecture to monitor brand mentions, predict visibility improvements, and automate governa",
+      "stage": "SEED",
+      "last_amount": 5500000.0,
+      "total": 6700000.0,
+      "investors": [],
+      "location": "Los Angeles, California"
+    },
+    {
+      "name": "Hi Rasmus",
+      "domain": "hirasmus.com",
+      "desc": "The main product is a customizable platform designed for data collection, outcomes tracking, and clinical collaboration in behavioral health, particularly for autism care. It utilizes a robust data system that supports v",
+      "stage": "SEED",
+      "last_amount": 50000000.0,
+      "total": 50055926.0,
+      "investors": [
+        "Updata Partners",
+        "EIT Health"
+      ],
+      "location": "Nashville, Tennessee"
+    },
+    {
+      "name": "Immediate",
+      "domain": "joinimmediate.com",
+      "desc": "Immediate offers an on-demand payment platform that enables employees to access their earned wages, off-cycle payments, and digital tips, integrating seamlessly with existing payroll and time tracking systems. The techno",
+      "stage": "SERIES_B",
+      "last_amount": 13000000.0,
+      "total": 51356542.0,
+      "investors": [
+        "Alabama Capital Network",
+        "Launchpad Capital",
+        "BankSouth",
+        "BankTech Ventures"
+      ],
+      "location": "Birmingham, AL"
+    },
+    {
+      "name": "Empirik.ai",
+      "domain": "empirik.ai",
+      "desc": "The main product is an AI agent that captures engineer intent from various sources, such as pull requests and change tickets, to assess the potential impact of changes on live infrastructure, including calculating a \"bla",
+      "stage": "SEED",
+      "last_amount": 21000000.0,
+      "total": 21000000.0,
+      "investors": [
+        "Alumni Ventures",
+        "S32",
+        "Sequoia Capital",
+        "Canapi Ventures"
       ],
       "location": ""
     },
     {
-      "name": "EZ Newswire",
-      "domain": "eznewswire.com",
-      "desc": "EZ Newswire offers a news distribution platform optimized for AI visibility, enabling businesses to create and publish news releases that are structured for easy consumption by AI engines. The service includes features s",
-      "stage": "SERIES_B",
-      "last_amount": 37300000.0,
-      "total": 43598249.0,
+      "name": "Atira",
+      "domain": "atira.ai",
+      "desc": "Atira provides an AI-driven solution designed to streamline complex sales processes for industrial companies, focusing on tasks such as requirement extraction, bid/no-bid decision-making, and technical documentation gene",
+      "stage": "SEED",
+      "last_amount": 15000000.0,
+      "total": 17500000.0,
       "investors": [
-        "Reformation Partners",
-        "Zetta Venture Partners",
-        "PTX Capital",
-        "Contour Venture Partners"
+        "UVC Partners",
+        "Accel",
+        "BOOOM💥",
+        "Fortino Capital"
       ],
-      "location": "New York, NY"
+      "location": "Munich"
     },
     {
-      "name": "Swvl",
-      "domain": "swvl.com",
-      "desc": "Swvl offers tech-enabled mass transit solutions that focus on enhancing safety, reliability, and convenience in emerging markets, utilizing a proprietary technology stack for dynamic routing of high-capacity vehicles. Th",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 13000000.0,
-      "total": 149800000.0,
+      "name": "Bull",
+      "domain": "bullcredtech.com",
+      "desc": "The primary offering is a modular, white-label credit platform that streamlines the provision of Workers' Credit by integrating technology with risk management and operational processes. This platform allows for quick de",
+      "stage": "SEED",
+      "last_amount": 3880000.0,
+      "total": 13880000.0,
       "investors": [
-        "Oman Technology Fund",
-        "DiGAME Investment Company",
-        "Autotech Ventures",
-        "Agility"
+        "Canary",
+        "Doug Scherrer",
+        "Carlos Lopes",
+        "Ênio Arêa Leão"
       ],
-      "location": "Dubai"
+      "location": "São Paulo"
     },
     {
       "name": "The Subvocal Company",
@@ -370,8 +414,8 @@
       "domain": "pharosyn.ai",
       "desc": "Pharosyn offers an AI-powered competitive intelligence platform designed for the biopharma sector, which continuously monitors a wide array of clinical, regulatory, and commercial data sources to generate tailored strate",
       "stage": "SEED",
-      "last_amount": 2896502.0,
-      "total": 2896502.0,
+      "last_amount": 2896265.0,
+      "total": 2896265.0,
       "investors": [
         "Transpose Platform",
         "General Advance",
@@ -380,19 +424,19 @@
       "location": "San Francisco, California, United States"
     },
     {
-      "name": "Shikomel",
-      "domain": "shikomel.com",
-      "desc": "The company offers a service that provides pre-prepared ingredients aimed at replicating the flavors of popular dishes, which allows food businesses to reduce preparation time and labor costs significantly. This service ",
-      "stage": "SERIES_B",
-      "last_amount": 8350000.0,
-      "total": 22907230.0,
+      "name": "Advanced Symbolics Inc.",
+      "domain": "askpolly.ai",
+      "desc": "The company offers a market research platform that employs proprietary artificial intelligence to create randomized samples from a variety of online demographics, facilitating behavioral analysis and trend forecasting. T",
+      "stage": "SEED",
+      "last_amount": 3000000.0,
+      "total": 3100000.0,
       "investors": [
-        "株式会社ミダスキャピタル",
-        "SIG -China",
-        "Pegasus Tech Ventures",
-        "HOUSE FOODS GROUP INC."
+        "The 98",
+        "Plug and Play",
+        "Forum Ventures",
+        "Differential Ventures"
       ],
-      "location": "MFPR Shibuya Building B, 1st Floor, 1-2-5 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan"
+      "location": "Ottawa, Ontario"
     },
     {
       "name": "Unlock",
@@ -435,34 +479,76 @@
       "location": "Uruguay"
     },
     {
-      "name": "Mojro",
-      "domain": "mojro-prod-website.azureedge.net",
-      "desc": "Mojro offers a logistics management SaaS platform designed to optimize, automate, and digitize logistics processes, enhancing operational efficiency and visibility. The platform utilizes predictive analytics and data-dri",
+      "name": "Hivebotics",
+      "domain": "hivebotics.tech",
+      "desc": "Hivebotics develops AI-powered autonomous cleaning robots designed to transform facilities management, with its primary product, a fully autonomous bathroom cleaning robot, capable of real-time cleanliness verification a",
       "stage": "SERIES_A",
-      "last_amount": 5500000.0,
-      "total": 15460000.0,
+      "last_amount": 6000000.0,
+      "total": 17505260.0,
       "investors": [
-        "1Crowd",
-        "Dallas Venture Capital",
-        "Naga Limited",
-        "IAN Alpha Fund"
+        "Feedback Ventures",
+        "NUS GRIP",
+        "Vertex Ventures SE Asia & India",
+        "Rigel"
       ],
-      "location": "Bengaluru, Karnataka"
+      "location": "Singapore"
     },
     {
-      "name": "OORJAA",
-      "domain": "oorjaa.tech",
-      "desc": "OORJAA Tech provides a technology-driven mid-mile logistics solution designed to optimize urban cargo movement across India, utilizing AI-powered routing and a nationwide vendor network to enhance efficiency and reliabil",
-      "stage": "SERIES_A",
-      "last_amount": 1015978.0,
-      "total": 6250368.0,
+      "name": "Oppex AI",
+      "domain": "oppex.ai",
+      "desc": "The main product is an AI-powered incident management system that utilizes intelligent agents to streamline incident response by reducing alert fatigue and diagnosing issues quickly through a Knowledge Graph. It integrat",
+      "stage": "PRE_SEED",
+      "last_amount": 442302.0,
+      "total": 442302.0,
       "investors": [
-        "Inflection Point Ventures",
-        "Soonicorn Ventures",
-        "Java Capital",
-        "FirstPort Capital"
+        "Info Edge Ventures"
       ],
-      "location": "Mumbai, Maharashtra"
+      "location": "Bengaluru South, Karnataka"
+    },
+    {
+      "name": "ZenHR",
+      "domain": "zenhr.com",
+      "desc": "ZenHR offers an AI-powered HR software solution designed for the MENA region, featuring fully localized functionalities that comply with local labor laws, social insurance regulations, and tax requirements. The platform ",
+      "stage": "SERIES_B",
+      "last_amount": 6000000.0,
+      "total": 16000000.0,
+      "investors": [
+        "500 Global",
+        "Rua Growth Fund",
+        "Endeavor Catalyst",
+        "bossa invest"
+      ],
+      "location": "Riyadh"
+    },
+    {
+      "name": "Catch",
+      "domain": "catchagent.ai",
+      "desc": "Catch offers an AI-powered executive assistant that manages various administrative tasks such as scheduling, inbox management, follow-ups, and meeting preparation through existing communication platforms like Slack and W",
+      "stage": "SEED",
+      "last_amount": 5000000.0,
+      "total": 5000000.0,
+      "investors": [
+        "Entrée Capital",
+        "Factorial Capital",
+        "Pitango",
+        "Factorial Funds"
+      ],
+      "location": "New York, NY, United States"
+    },
+    {
+      "name": "株式会社PeopleX",
+      "domain": "peoplex.jp",
+      "desc": "PeopleX offers an AI-driven HR platform that automates various processes from recruitment to employee development, utilizing technologies such as conversational AI for interviews, role-playing simulations, and employee f",
+      "stage": "SERIES_A",
+      "last_amount": 34300000.0,
+      "total": 49945970.0,
+      "investors": [
+        "FIRSTLIGHT Capital",
+        "GO",
+        "Angel Bridge株式会社",
+        "WiL (World Innovation Lab)"
+      ],
+      "location": "24th floor, Shinjuku Sumitomo Building, 2-6-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo, 160-0023, Japan"
     },
     {
       "name": "Sharpi",
@@ -480,6 +566,21 @@
       "location": "São Paulo"
     },
     {
+      "name": "Arabic.AI",
+      "domain": "arabic.ai",
+      "desc": "Arabic.AI provides an AI operating layer specifically designed for Arabic-speaking enterprises, featuring a suite of tools that includes AI assistants, translation services, OCR capabilities, and speech recognition acros",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 15000000.0,
+      "investors": [
+        "Global Ventures",
+        "TA Ventures",
+        "Endeavor Catalyst",
+        "Phaze Ventures"
+      ],
+      "location": ""
+    },
+    {
       "name": "Enhance",
       "domain": "enhancefitness.com",
       "desc": "Enhance Fitness offers a personalized fitness app that connects users with certified personal trainers for tailored one-on-one sessions, accessible at home, in the gym, or outdoors. The platform utilizes a SaaS solution ",
@@ -494,19 +595,31 @@
       "location": "Ibn Batuta , Dubai"
     },
     {
-      "name": "Arabic.AI",
-      "domain": "arabic.ai",
-      "desc": "Arabic.AI provides an AI operating layer specifically designed for Arabic-speaking enterprises, featuring a suite of tools that includes AI assistants, translation services, OCR capabilities, and speech recognition acros",
+      "name": "RoutingBox",
+      "domain": "routingbox.com",
+      "desc": "RoutingBox offers an all-in-one software solution for non-emergency medical transportation (NEMT) that facilitates scheduling, dispatching, and billing through an intuitive interface. The platform utilizes automation for",
       "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 15000000.0,
+      "last_amount": 22000000.0,
+      "total": 22000000.0,
       "investors": [
-        "Global Ventures",
-        "TA Ventures",
-        "Endeavor Catalyst",
-        "Phaze Ventures"
+        "Phase Line Growth Partners"
       ],
-      "location": ""
+      "location": "Buffalo, NY"
+    },
+    {
+      "name": "FlyAkeed",
+      "domain": "flyakeed.com",
+      "desc": "The main product is a travel booking tool designed for corporate use, enabling employees to book travel quickly while adhering to company policies through an integrated electronic system. It utilizes automation for reser",
+      "stage": "SERIES_A",
+      "last_amount": 15200000.0,
+      "total": 40350000.0,
+      "investors": [
+        "AlJazira Capital الجزيرة كابيتال",
+        "Elm Company",
+        "AlRajhi Partners",
+        "Sanabil Investments"
+      ],
+      "location": "Al Rabie, Riyadh"
     },
     {
       "name": "Searchdoc",
@@ -537,93 +650,17 @@
       "location": "Dubai"
     },
     {
-      "name": "Senior Sistemas",
-      "domain": "senior.com.br",
-      "desc": "The company specializes in developing management software that encompasses a comprehensive portfolio of solutions, including ERP, people management, access and security, and corporate performance tools such as business i",
-      "stage": "",
-      "last_amount": 46740051.0,
-      "total": 46740051.0,
-      "investors": [
-        "BNDES"
-      ],
-      "location": "Blumenau, SC"
-    },
-    {
-      "name": "Oppex AI",
-      "domain": "oppex.ai",
-      "desc": "The main product is an AI-powered incident management system that utilizes intelligent agents to streamline incident response by reducing alert fatigue and diagnosing issues quickly through a Knowledge Graph. It integrat",
+      "name": "Provan AI",
+      "domain": "provanai.com",
+      "desc": "ProvanAI offers an AI-powered platform specifically designed for high-volume staffing, featuring capabilities such as 24/7 AI phone and chat support, automated candidate screening, and intelligent job matching that integ",
       "stage": "PRE_SEED",
-      "last_amount": 442302.0,
-      "total": 442302.0,
+      "last_amount": 1200000.0,
+      "total": 1200000.0,
       "investors": [
-        "Info Edge Ventures"
+        "BioGenerator",
+        "Missouri Technology Corporation"
       ],
-      "location": "Bengaluru South, Karnataka"
-    },
-    {
-      "name": "Empirik.ai",
-      "domain": "empirik.ai",
-      "desc": "The main product is an AI agent that captures engineer intent from various sources, such as pull requests and change tickets, to assess the potential impact of changes on live infrastructure, including calculating a \"bla",
-      "stage": "SEED",
-      "last_amount": 21000000.0,
-      "total": 21000000.0,
-      "investors": [
-        "Alumni Ventures",
-        "S32",
-        "Sequoia Capital",
-        "Canapi Ventures"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Remedium Network",
-      "domain": "remedium.sa",
-      "desc": "Remedium is the Kingdom's leading homegrown platform for automated sustainability data analytics and understandable Scope 1, 2, and 3 greenhouse gas emissions accounting. Officially certified as Saudi Tech and fully loca",
-      "stage": "PRE_SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [
-        "Kaltaire",
-        "Kaltaire Investments"
-      ],
-      "location": ""
-    },
-    {
-      "name": "DataAgents",
-      "domain": "dataagents.io",
-      "desc": "The main product is an operational intelligence platform that facilitates the ingestion, modeling, and analysis of data from over 550 sources, employing automated ingestion, AI-assisted transformations, and real-time ano",
-      "stage": "PRE_SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "MizMaa Ventures",
-        "Alicorn Venture Partners"
-      ],
-      "location": "Biot, Provence-Alpes-Côte d'Azur"
-    },
-    {
-      "name": "PassHub",
-      "domain": "passhub.net",
-      "desc": "Password manager for teams with strong multifactor authentication. Securely store and share accounts, files, and notes. Use as SaaS or on premise.",
-      "stage": "PRE_SEED",
-      "last_amount": 1446982.0,
-      "total": 1446982.0,
-      "investors": [
-        "Parceiro Ventures"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Passhub",
-      "domain": "passhub.com.br",
-      "desc": "PassHub is the B2B platform that centralizes air, road and insurance issuance for travel agencies. Direct commissions, fast quotes and dedicated support.",
-      "stage": "PRE_SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [
-        "Parceiro Ventures"
-      ],
-      "location": ""
+      "location": "Princeton, New Jersey"
     },
     {
       "name": "SciFin",
@@ -641,26 +678,41 @@
       "location": "San Jose, California"
     },
     {
-      "name": "Bayworks",
-      "domain": "bayworks.app",
-      "desc": "Voice AI to automate any admin work in automotive",
+      "name": "Remedium Network",
+      "domain": "remedium.sa",
+      "desc": "Remedium is the Kingdom's leading homegrown platform for automated sustainability data analytics and understandable Scope 1, 2, and 3 greenhouse gas emissions accounting. Officially certified as Saudi Tech and fully loca",
       "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "last_amount": 1500000.0,
+      "total": 1500000.0,
       "investors": [
-        "Y Combinator"
+        "Kaltaire",
+        "Kaltaire Investments"
       ],
-      "location": "San Francisco, CA, USA"
+      "location": ""
     },
     {
-      "name": "Praxis",
-      "domain": "runpraxis.ai",
-      "desc": "Win more clients and onboard in hours, not weeks. Praxis books the consultation, runs conflict checks, collects documents, and gets the engagement letter signed, while you supervise and approve.",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "Enhance Interactive",
+      "domain": "enhance.com",
+      "desc": "The main product is a next-generation hosting control panel that offers advanced automation, flexible customization, and clustering capabilities for website and server management. It utilizes technologies such as Rust fo",
+      "stage": "SERIES_A",
+      "last_amount": 18200000.0,
+      "total": 18200000.0,
       "investors": [
-        "Y Combinator"
+        "Global Ventures"
+      ],
+      "location": "American Fork, UT"
+    },
+    {
+      "name": "Souk — Your AI Partner Development Manager",
+      "domain": "joinsouk.com",
+      "desc": "Souk provides an automated platform for managing partnerships, which includes functionalities for identifying new referral and affiliate partners, conducting outreach, tracking deals, and processing commission payments. ",
+      "stage": "PRE_SEED",
+      "last_amount": 1600000.0,
+      "total": 1763000.0,
+      "investors": [
+        "SVV (Sure Valley Ventures)",
+        "Antler",
+        "FUEL Ventures"
       ],
       "location": ""
     }
