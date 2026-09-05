@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-04",
+  "generated": "2026-09-05",
   "window_days": 45,
   "counts": {
     "actionable": 3,
-    "watchlist": 15,
+    "watchlist": 14,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -60,6 +60,23 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "Cascadium",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-09-05",
+      "link": "https://cascadium.ai",
+      "domain": "cascadium.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Hi Rasmus",
       "desc": "Healthcare & bio AI",
@@ -278,40 +295,6 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Trust AI",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Seed",
-      "amount_m": 6,
-      "investors": [],
-      "date": "2026-08-28",
-      "link": "https://trustdentistry.ai",
-      "domain": "trustacs.ca",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Hadrius",
-      "desc": "Hadrius raises USD $27 million to boost AI compliance",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Venture",
-      "amount_m": 27,
-      "investors": [],
-      "date": "2026-07-20",
-      "link": "https://itbrief.co.nz/story/hadrius-raises-usd-27-million-to-boost-ai-compliance",
-      "domain": "hadrius.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }
