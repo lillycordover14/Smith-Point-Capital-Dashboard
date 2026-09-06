@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-05",
+  "generated": "2026-09-06",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 79,
-    "total_cap_m": 13406,
-    "early_cap_m": 2620,
+    "early_raises": 81,
+    "total_cap_m": 13393,
+    "early_cap_m": 2608,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 28,
-      "Series A": 48,
+      "Seed": 29,
+      "Series A": 49,
       "Series B": 23,
       "Series C": 8,
       "Series D": 2,
@@ -20,21 +20,30 @@
   },
   "raises": [
     {
+      "company": "AUDER",
+      "amount_m": 4,
+      "date": "2026-09-06",
+      "link": "https://auder.dev",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Series A"
+    },
+    {
+      "company": "UIN",
+      "amount_m": 2,
+      "date": "2026-09-06",
+      "link": "https://uin.tech",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
       "company": "Elimentary",
       "amount_m": null,
       "date": "2026-09-05",
       "link": "https://elimentary.com",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Cascadium",
-      "amount_m": null,
-      "date": "2026-09-05",
-      "link": "https://cascadium.ai",
-      "investors": [],
-      "theme": "Applied AI agents",
       "stage": "Pre Seed"
     },
     {
@@ -62,15 +71,6 @@
       "link": "https://routingbox.com",
       "investors": [],
       "theme": "Healthcare & bio AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Enhance Interactive",
-      "amount_m": 18,
-      "date": "2026-09-04",
-      "link": "https://enhance.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
       "stage": "Series A"
     },
     {
@@ -189,6 +189,15 @@
       "investors": [],
       "theme": "HR & workforce",
       "stage": "Pre Seed"
+    },
+    {
+      "company": "Enhance Interactive",
+      "amount_m": null,
+      "date": "2026-09-04",
+      "link": "https://enhance.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
     },
     {
       "company": "Capacity",
@@ -333,15 +342,6 @@
       "investors": [],
       "theme": "Physical AI & robotics",
       "stage": "Seed"
-    },
-    {
-      "company": "PassHub",
-      "amount_m": 1,
-      "date": "2026-09-02",
-      "link": "https://passhub.net",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
     },
     {
       "company": "Unlock",
@@ -2204,12 +2204,12 @@
       "theme": "Applied / horizontal AI",
       "count": 107,
       "examples": [
+        "UIN",
         "Elimentary",
-        "Enhance Interactive",
         "Catch",
+        "Enhance Interactive",
         "Capacity",
-        "Enhance",
-        "Cellbyte"
+        "Enhance"
       ]
     },
     {
@@ -2222,18 +2222,6 @@
         "Corner Health",
         "xCures",
         "Healome Therapeutics"
-      ]
-    },
-    {
-      "theme": "Applied AI agents",
-      "count": 10,
-      "examples": [
-        "Cascadium",
-        "SciFin",
-        "Empirik.ai",
-        "Metal",
-        "Arabic.AI",
-        "Oppex AI"
       ]
     },
     {
@@ -2258,6 +2246,18 @@
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse"
+      ]
+    },
+    {
+      "theme": "Applied AI agents",
+      "count": 9,
+      "examples": [
+        "SciFin",
+        "Empirik.ai",
+        "Metal",
+        "Arabic.AI",
+        "Oppex AI",
+        "InstaLILY AI"
       ]
     },
     {
@@ -2364,6 +2364,13 @@
       ]
     },
     {
+      "theme": "Logistics & supply chain",
+      "count": 1,
+      "examples": [
+        "AUDER"
+      ]
+    },
+    {
       "theme": "Sales & GTM AI",
       "count": 1,
       "examples": [
@@ -2403,14 +2410,14 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 107,
-      "cap_m": 7541,
+      "cap_m": 7524,
       "examples": [
+        "UIN",
         "Elimentary",
-        "Enhance Interactive",
         "Catch",
+        "Enhance Interactive",
         "Capacity",
-        "Enhance",
-        "Cellbyte"
+        "Enhance"
       ],
       "top_stage": "Venture"
     },
@@ -2427,20 +2434,6 @@
         "Healome Therapeutics"
       ],
       "top_stage": "Venture"
-    },
-    {
-      "theme": "Applied AI agents",
-      "count": 10,
-      "cap_m": 190,
-      "examples": [
-        "Cascadium",
-        "SciFin",
-        "Empirik.ai",
-        "Metal",
-        "Arabic.AI",
-        "Oppex AI"
-      ],
-      "top_stage": "Seed"
     },
     {
       "theme": "Energy & climate",
@@ -2469,6 +2462,20 @@
         "Dexterous Robotics Benchmark DexVerse"
       ],
       "top_stage": "Venture"
+    },
+    {
+      "theme": "Applied AI agents",
+      "count": 9,
+      "cap_m": 190,
+      "examples": [
+        "SciFin",
+        "Empirik.ai",
+        "Metal",
+        "Arabic.AI",
+        "Oppex AI",
+        "InstaLILY AI"
+      ],
+      "top_stage": "Seed"
     },
     {
       "theme": "Crypto & digital assets",
@@ -3513,17 +3520,12 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-15",
+    "since": "2026-08-16",
     "tw": [
       {
         "name": "Applied AI agents",
-        "delta": 5,
-        "now": 10
-      },
-      {
-        "name": "Marketing & creative AI",
-        "delta": 3,
-        "now": 3
+        "delta": 4,
+        "now": 9
       },
       {
         "name": "Physical AI & robotics",
@@ -3534,6 +3536,11 @@
         "name": "HR & workforce",
         "delta": 2,
         "now": 4
+      },
+      {
+        "name": "Marketing & creative AI",
+        "delta": 2,
+        "now": 3
       },
       {
         "name": "Consumer & marketplace",
@@ -3591,6 +3598,11 @@
         "now": 2
       },
       {
+        "name": "Defense & national security",
+        "delta": 0,
+        "now": 1
+      },
+      {
         "name": "AI dev tooling",
         "delta": 0,
         "now": 1
@@ -3601,18 +3613,18 @@
         "now": 3
       },
       {
-        "name": "Defense & national security",
-        "delta": -1,
-        "now": 1
-      },
-      {
         "name": "Vertical SaaS",
-        "delta": -2,
+        "delta": -1,
         "now": 2
       },
       {
+        "name": "Logistics & supply chain",
+        "delta": -3,
+        "now": 1
+      },
+      {
         "name": "Legal AI",
-        "delta": -2,
+        "delta": -3,
         "now": 1
       },
       {

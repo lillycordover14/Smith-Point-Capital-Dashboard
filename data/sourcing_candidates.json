@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-05",
+  "generated": "2026-09-06",
   "window_days": 45,
   "counts": {
     "actionable": 3,
-    "watchlist": 14,
+    "watchlist": 15,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -61,18 +61,18 @@
   ],
   "watchlist": [
     {
-      "company": "Cascadium",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": null,
+      "company": "AUDER",
+      "desc": "Logistics & supply chain",
+      "theme": "Precision Applications",
+      "vertical": "Supply Chain",
+      "stage": "Series A",
+      "amount_m": 4,
       "investors": [],
-      "date": "2026-09-05",
-      "link": "https://cascadium.ai",
-      "domain": "cascadium.com",
+      "date": "2026-09-06",
+      "link": "https://auder.dev",
+      "domain": "audera.fr",
       "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
+      "fit_reason": "Series A ($4M) — track for the next round",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -295,6 +295,23 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Freehand",
+      "desc": "Freehand Raises $75M to Scale AI Teams Managing Supply Chain Spend for Fortune 500 Companies",
+      "theme": "Precision Applications",
+      "vertical": "Supply Chain",
+      "stage": "Venture",
+      "amount_m": 75,
+      "investors": [],
+      "date": "2026-07-29",
+      "link": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/freehand-raises-75m-to-scale-ai-teams-managing-supply-chain-spend-for-fortune-500-companies/2394083",
+      "domain": "freehandhotels.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }
