@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06",
+  "generated": "2026-09-07",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -49,21 +49,6 @@
       "location": "London, England"
     },
     {
-      "name": "Blue Voice Inc.",
-      "domain": "bluevoice.io",
-      "desc": "The company offers a CJIS-compliant AI platform designed for law enforcement, providing officers with immediate access to legal, policy, and community resources to enhance decision-making and efficiency in the field. Thi",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 8980000.0,
-      "investors": [
-        "Las Olas Venture Capital",
-        "PAR Capital Management",
-        "SignalFire",
-        "Govtech Ventures"
-      ],
-      "location": "Boston, MA"
-    },
-    {
       "name": "Zeit AI (YC S24)",
       "domain": "zeit-ai.com",
       "desc": "Zeit AI offers an autonomous data engineering solution that integrates various business systems, such as ERP and CRM, to automate data analytics and generate operational applications using natural language. This technolo",
@@ -77,6 +62,21 @@
         "HPI Ventures"
       ],
       "location": "Munich"
+    },
+    {
+      "name": "Blue Voice Inc.",
+      "domain": "bluevoice.io",
+      "desc": "The company offers a CJIS-compliant AI platform designed for law enforcement, providing officers with immediate access to legal, policy, and community resources to enhance decision-making and efficiency in the field. Thi",
+      "stage": "SEED",
+      "last_amount": 6000000.0,
+      "total": 8980000.0,
+      "investors": [
+        "Las Olas Venture Capital",
+        "PAR Capital Management",
+        "SignalFire",
+        "Govtech Ventures"
+      ],
+      "location": "Boston, MA"
     },
     {
       "name": "Empirik.ai",
@@ -109,6 +109,36 @@
       "location": "University City, Missouri"
     },
     {
+      "name": "Atira",
+      "domain": "atira.ai",
+      "desc": "Atira provides an AI-driven solution designed to streamline complex sales processes for industrial companies, focusing on tasks such as requirement extraction, bid/no-bid decision-making, and technical documentation gene",
+      "stage": "SEED",
+      "last_amount": 15000000.0,
+      "total": 17500000.0,
+      "investors": [
+        "UVC Partners",
+        "Accel",
+        "BOOOM💥",
+        "Fortino Capital"
+      ],
+      "location": "Munich"
+    },
+    {
+      "name": "AI Score",
+      "domain": "aiscore.ai",
+      "desc": "AI Score offers a governance and risk management platform designed to provide strategic visibility and control over AI innovation, unifying data-driven insights and compliance monitoring across an organization’s AI ecosy",
+      "stage": "SEED",
+      "last_amount": 5411992.0,
+      "total": 6411992.0,
+      "investors": [
+        "Ventura Capital",
+        "GALLOS Technologies",
+        "MMC Ventures",
+        "FUEL Ventures"
+      ],
+      "location": "London"
+    },
+    {
       "name": "Cellbyte",
       "domain": "cellbyte.com",
       "desc": "The main product is a collaborative AI workspace designed for Pricing and Market Access teams, featuring tools like Drug Explorer for accessing global regulatory and pricing data, Document Intelligence for extracting ins",
@@ -139,34 +169,19 @@
       "location": "Berlin, BE"
     },
     {
-      "name": "AI Score",
-      "domain": "aiscore.ai",
-      "desc": "AI Score offers a governance and risk management platform designed to provide strategic visibility and control over AI innovation, unifying data-driven insights and compliance monitoring across an organization’s AI ecosy",
+      "name": "Flamingo",
+      "domain": "flamingo.run",
+      "desc": "Flamingo offers an open-source platform designed for Managed Service Providers (MSPs), integrating essential IT and security workflows into a unified system that includes monitoring, ticketing, and automation capabilitie",
       "stage": "SEED",
-      "last_amount": 5411992.0,
-      "total": 6411992.0,
+      "last_amount": 4500000.0,
+      "total": 6700000.0,
       "investors": [
-        "Ventura Capital",
-        "GALLOS Technologies",
-        "MMC Ventures",
-        "FUEL Ventures"
+        "Array Ventures",
+        "Focal",
+        "Vertex Holdings",
+        "ANIMO Ventures"
       ],
-      "location": "London"
-    },
-    {
-      "name": "Atira",
-      "domain": "atira.ai",
-      "desc": "Atira provides an AI-driven solution designed to streamline complex sales processes for industrial companies, focusing on tasks such as requirement extraction, bid/no-bid decision-making, and technical documentation gene",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 17500000.0,
-      "investors": [
-        "UVC Partners",
-        "Accel",
-        "BOOOM💥",
-        "Fortino Capital"
-      ],
-      "location": "Munich"
+      "location": "Miami, Florida"
     },
     {
       "name": "Metal",
@@ -182,21 +197,6 @@
         "Y Combinator"
       ],
       "location": "Los Angeles, California"
-    },
-    {
-      "name": "Flamingo",
-      "domain": "flamingo.run",
-      "desc": "Flamingo offers an open-source platform designed for Managed Service Providers (MSPs), integrating essential IT and security workflows into a unified system that includes monitoring, ticketing, and automation capabilitie",
-      "stage": "SEED",
-      "last_amount": 4500000.0,
-      "total": 6700000.0,
-      "investors": [
-        "Array Ventures",
-        "Focal",
-        "Vertex Holdings",
-        "ANIMO Ventures"
-      ],
-      "location": "Miami, Florida"
     },
     {
       "name": "Tripo AI",
@@ -274,6 +274,21 @@
       "location": "New York"
     },
     {
+      "name": "Catch",
+      "domain": "catchagent.ai",
+      "desc": "Catch offers an AI-powered executive assistant that manages various administrative tasks such as scheduling, inbox management, follow-ups, and meeting preparation through existing communication platforms like Slack and W",
+      "stage": "SEED",
+      "last_amount": 5000000.0,
+      "total": 5000000.0,
+      "investors": [
+        "Entrée Capital",
+        "Factorial Capital",
+        "Pitango",
+        "Factorial Funds"
+      ],
+      "location": "New York, NY, United States"
+    },
+    {
       "name": "GetWhy",
       "domain": "getwhy.io",
       "desc": "GetWhy offers an AI research platform that facilitates the design, recruitment, and execution of AI-moderated video interviews, delivering insights rapidly and efficiently. The technology employs advanced AI to conduct i",
@@ -311,6 +326,21 @@
       "location": "Los Angeles, California"
     },
     {
+      "name": "Cato AI",
+      "domain": "get-cato.com",
+      "desc": "The company provides an AI-native platform designed to automate the tender management process, streamlining tasks from identifying opportunities to preparing offers. It utilizes technologies such as real-time alerts, int",
+      "stage": "SEED",
+      "last_amount": 6973902.0,
+      "total": 8859737.0,
+      "investors": [
+        "IAG",
+        "Moonstone Venture Capital",
+        "Italian Founders Fund",
+        "Keen Venture Partners"
+      ],
+      "location": "Milan, Lombardy"
+    },
+    {
       "name": "Immediate",
       "domain": "joinimmediate.com",
       "desc": "Immediate offers an on-demand payment platform that enables employees to access their earned wages, off-cycle payments, and digital tips, integrating seamlessly with existing payroll and time tracking systems. The techno",
@@ -326,21 +356,6 @@
       "location": "Birmingham, AL"
     },
     {
-      "name": "Catch",
-      "domain": "catchagent.ai",
-      "desc": "Catch offers an AI-powered executive assistant that manages various administrative tasks such as scheduling, inbox management, follow-ups, and meeting preparation through existing communication platforms like Slack and W",
-      "stage": "SEED",
-      "last_amount": 5000000.0,
-      "total": 5000000.0,
-      "investors": [
-        "Entrée Capital",
-        "Factorial Capital",
-        "Pitango",
-        "Factorial Funds"
-      ],
-      "location": "New York, NY, United States"
-    },
-    {
       "name": "Advanced Symbolics Inc.",
       "domain": "askpolly.ai",
       "desc": "The company offers a market research platform that employs proprietary artificial intelligence to create randomized samples from a variety of online demographics, facilitating behavioral analysis and trend forecasting. T",
@@ -354,6 +369,18 @@
         "Differential Ventures"
       ],
       "location": "Ottawa, Ontario"
+    },
+    {
+      "name": "Perit AI",
+      "domain": "",
+      "desc": "Models are only as good as the judgment they learn from. Perit sources and structures that judgment - assembling vetted experts to produce the training data frontier labs can't generate on their own.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "Pharosyn",
@@ -385,19 +412,6 @@
       "location": "São Paulo"
     },
     {
-      "name": "The Subvocal Company",
-      "domain": "subvocal.company",
-      "desc": "The company offers a discreet under-chin wearable device that translates subvocalized speech into text and commands, enabling users to interact with their computers silently. This technology utilizes real-time biosignal ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator",
-        "Afore Capital"
-      ],
-      "location": "United States"
-    },
-    {
       "name": "Asakana — 24/7 Sales Rep for Seafood Wholesalers",
       "domain": "asakana.co",
       "desc": "Asakana offers an automated order processing system that integrates communications from text, voicemail, WhatsApp, and email, specifically designed for seafood operators. The technology streamlines order management by co",
@@ -408,6 +422,18 @@
         "Y Combinator"
       ],
       "location": ""
+    },
+    {
+      "name": "Bayworks",
+      "domain": "bayworks.app",
+      "desc": "Bayworks offers a voice-to-warranty solution that enables auto technicians to record repair details verbally, which are then transformed into OEM-compliant warranty documentation. The technology utilizes voice recognitio",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "San Francisco, CA, USA"
     },
     {
       "name": "ABLE Labs (에이블랩스)",
@@ -466,6 +492,18 @@
       "location": "Berlin, BE"
     },
     {
+      "name": "Oppex AI",
+      "domain": "oppex.ai",
+      "desc": "The main product is an AI-powered incident management system that utilizes intelligent agents to streamline incident response by reducing alert fatigue and diagnosing issues quickly through a Knowledge Graph. It integrat",
+      "stage": "PRE_SEED",
+      "last_amount": 442302.0,
+      "total": 442302.0,
+      "investors": [
+        "Info Edge Ventures"
+      ],
+      "location": "Bengaluru South, Karnataka"
+    },
+    {
       "name": "Hivebotics",
       "domain": "hivebotics.tech",
       "desc": "Hivebotics develops AI-powered autonomous cleaning robots designed to transform facilities management, with its primary product, a fully autonomous bathroom cleaning robot, capable of real-time cleanliness verification a",
@@ -496,18 +534,6 @@
       "location": "Al Rabie, Riyadh"
     },
     {
-      "name": "Oppex AI",
-      "domain": "oppex.ai",
-      "desc": "The main product is an AI-powered incident management system that utilizes intelligent agents to streamline incident response by reducing alert fatigue and diagnosing issues quickly through a Knowledge Graph. It integrat",
-      "stage": "PRE_SEED",
-      "last_amount": 442302.0,
-      "total": 442302.0,
-      "investors": [
-        "Info Edge Ventures"
-      ],
-      "location": "Bengaluru South, Karnataka"
-    },
-    {
       "name": "ZenHR",
       "domain": "zenhr.com",
       "desc": "ZenHR offers an AI-powered HR software solution designed for the MENA region, featuring fully localized functionalities that comply with local labor laws, social insurance regulations, and tax requirements. The platform ",
@@ -523,12 +549,24 @@
       "location": "Riyadh"
     },
     {
+      "name": "Cascadium",
+      "domain": "cascadium.ai",
+      "desc": "Cascadium combines AI agents and senior regulatory expertise to organize sponsor evidence and prepare source-linked pre-IND meeting packages.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
       "name": "株式会社PeopleX",
       "domain": "peoplex.jp",
       "desc": "PeopleX offers an AI-driven HR platform that automates various processes from recruitment to employee development, utilizing technologies such as conversational AI for interviews, role-playing simulations, and employee f",
       "stage": "SERIES_A",
-      "last_amount": 34300000.0,
-      "total": 49945970.0,
+      "last_amount": 0,
+      "total": 49937370.0,
       "investors": [
         "FIRSTLIGHT Capital",
         "GO",
@@ -536,6 +574,19 @@
         "WiL (World Innovation Lab)"
       ],
       "location": "24th floor, Shinjuku Sumitomo Building, 2-6-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo, 160-0023, Japan"
+    },
+    {
+      "name": "Fluencify.io",
+      "domain": "fluencify.io",
+      "desc": "Fluencify offers a comprehensive software platform that automates the management of creator marketing campaigns, handling everything from briefing and sourcing to quality control, posting, and payouts, allowing brands to",
+      "stage": "PRE_SEED",
+      "last_amount": 4300000.0,
+      "total": 4300000.0,
+      "investors": [
+        "Wave Ventures",
+        "byFounders"
+      ],
+      "location": "Stockholm, Sweden"
     },
     {
       "name": "Arabic.AI",
@@ -551,6 +602,18 @@
         "Phaze Ventures"
       ],
       "location": ""
+    },
+    {
+      "name": "Elimentary",
+      "domain": "elimentary.com",
+      "desc": "Elimentary provides an AI-native services engine designed for the private credit market, facilitating the operational processes involved in deal management by integrating data across various stakeholders. The technology ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "Bengaluru, Karnataka, India"
     },
     {
       "name": "Enhance",
@@ -594,18 +657,6 @@
       "location": "Dubai"
     },
     {
-      "name": "Elimentary",
-      "domain": "elimentary.com",
-      "desc": "Elimentary provides an AI-native services engine designed for the private credit market, facilitating the operational processes involved in deal management by integrating data across various stakeholders. The technology ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "Bengaluru, Karnataka, India"
-    },
-    {
       "name": "Praxis",
       "domain": "runpraxis.ai",
       "desc": "Praxis offers an AI-driven solution that manages the entire client journey for law firms, automating processes such as consultation booking, conflict checks, document collection, and engagement signing. The technology is",
@@ -646,62 +697,14 @@
       "location": "San Jose, California"
     },
     {
-      "name": "Remedium Network",
-      "domain": "remedium.sa",
-      "desc": "Remedium is the Kingdom's leading homegrown platform for automated sustainability data analytics and understandable Scope 1, 2, and 3 greenhouse gas emissions accounting. Officially certified as Saudi Tech and fully loca",
-      "stage": "PRE_SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [
-        "Kaltaire",
-        "Kaltaire Investments"
-      ],
-      "location": ""
-    },
-    {
-      "name": "AUDER",
-      "domain": "auder.dev",
-      "desc": "AUDER株式会社 offers a digital infrastructure solution for logistics, focusing on automating order processing and supply chain visualization through a multi-device management system. The technology leverages AI for optical c",
-      "stage": "SERIES_A",
-      "last_amount": 3580000.0,
-      "total": 4373000.0,
-      "investors": [
-        "BEENEXT"
-      ],
-      "location": "Room 9, 17th Floor, Sumitomo Fudosan Toranomon Tower, 2-2-1 Toranomon, Minato-ku, Tokyo, 105-0001, Japan"
-    },
-    {
-      "name": "UIN",
-      "domain": "uin.tech",
-      "desc": "The main product is a behavior orchestration system that utilizes real-time data, intelligent triggers, and personalized engagement loops to transform user interactions into habitual behaviors, thereby enhancing user ret",
-      "stage": "SEED",
-      "last_amount": 2000000.0,
-      "total": 2000000.0,
-      "investors": [],
-      "location": "Buenos Aires, Argentina"
-    },
-    {
-      "name": "Bayworks",
-      "domain": "bayworks.app",
-      "desc": "Voice AI to automate any admin work in automotive",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "San Francisco, CA, USA"
-    },
-    {
       "name": "Enhance Interactive",
       "domain": "enhance.com",
       "desc": "The main product is a next-generation hosting control panel that offers advanced automation, flexible customization, and clustering capabilities for website and server management. It utilizes technologies such as Rust fo",
       "stage": "SERIES_A",
-      "last_amount": 0,
+      "last_amount": 18200000.0,
       "total": 18200000.0,
       "investors": [
-        "Global Ventures",
-        "Stride Ventures"
+        "Global Ventures"
       ],
       "location": "American Fork, UT"
     }

@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-06",
+  "generated": "2026-09-07",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 81,
-    "total_cap_m": 13393,
-    "early_cap_m": 2608,
+    "early_raises": 80,
+    "total_cap_m": 13380,
+    "early_cap_m": 2593,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 29,
-      "Series A": 49,
+      "Series A": 48,
       "Series B": 23,
       "Series C": 8,
       "Series D": 2,
@@ -20,22 +20,40 @@
   },
   "raises": [
     {
-      "company": "AUDER",
-      "amount_m": 4,
-      "date": "2026-09-06",
-      "link": "https://auder.dev",
-      "investors": [],
-      "theme": "Logistics & supply chain",
-      "stage": "Series A"
-    },
-    {
-      "company": "UIN",
-      "amount_m": 2,
-      "date": "2026-09-06",
-      "link": "https://uin.tech",
+      "company": "Cato AI",
+      "amount_m": 7,
+      "date": "2026-09-07",
+      "link": "https://get-cato.com",
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
+    },
+    {
+      "company": "Fluencify.io",
+      "amount_m": 4,
+      "date": "2026-09-07",
+      "link": "https://fluencify.io",
+      "investors": [],
+      "theme": "Marketing & creative AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Perit AI",
+      "amount_m": null,
+      "date": "2026-09-07",
+      "link": "",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Cascadium",
+      "amount_m": null,
+      "date": "2026-09-05",
+      "link": "https://cascadium.ai",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Pre Seed"
     },
     {
       "company": "Elimentary",
@@ -56,21 +74,21 @@
       "stage": "Seed"
     },
     {
-      "company": "株式会社PeopleX",
-      "amount_m": 34,
-      "date": "2026-09-04",
-      "link": "https://peoplex.jp",
-      "investors": [],
-      "theme": "HR & workforce",
-      "stage": "Series A"
-    },
-    {
       "company": "RoutingBox",
       "amount_m": 22,
       "date": "2026-09-04",
       "link": "https://routingbox.com",
       "investors": [],
       "theme": "Healthcare & bio AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Enhance Interactive",
+      "amount_m": 18,
+      "date": "2026-09-04",
+      "link": "https://enhance.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
       "stage": "Series A"
     },
     {
@@ -191,12 +209,12 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Enhance Interactive",
+      "company": "株式会社PeopleX",
       "amount_m": null,
       "date": "2026-09-04",
-      "link": "https://enhance.com",
+      "link": "https://peoplex.jp",
       "investors": [],
-      "theme": "Applied / horizontal AI",
+      "theme": "HR & workforce",
       "stage": "Series A"
     },
     {
@@ -254,15 +272,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Remedium Network",
-      "amount_m": 2,
-      "date": "2026-09-03",
-      "link": "https://remedium.sa",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Archive",
       "amount_m": null,
       "date": "2026-09-03",
@@ -281,19 +290,19 @@
       "stage": "Series A"
     },
     {
-      "company": "Praxis",
+      "company": "Bayworks",
       "amount_m": null,
       "date": "2026-09-03",
-      "link": "https://runpraxis.ai",
+      "link": "https://bayworks.app",
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
     },
     {
-      "company": "Bayworks",
+      "company": "Praxis",
       "amount_m": null,
       "date": "2026-09-03",
-      "link": "https://bayworks.app",
+      "link": "https://runpraxis.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
@@ -423,15 +432,6 @@
       "investors": [],
       "theme": "Physical AI & robotics",
       "stage": "Series A"
-    },
-    {
-      "company": "The Subvocal Company",
-      "amount_m": null,
-      "date": "2026-08-30",
-      "link": "https://subvocal.company",
-      "investors": [],
-      "theme": "AI compute & models",
-      "stage": "Pre Seed"
     },
     {
       "company": "Khosla leads $310 million",
@@ -2202,14 +2202,14 @@
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 107,
+      "count": 108,
       "examples": [
-        "UIN",
+        "Cato AI",
+        "Perit AI",
         "Elimentary",
-        "Catch",
         "Enhance Interactive",
-        "Capacity",
-        "Enhance"
+        "Catch",
+        "Capacity"
       ]
     },
     {
@@ -2222,6 +2222,18 @@
         "Corner Health",
         "xCures",
         "Healome Therapeutics"
+      ]
+    },
+    {
+      "theme": "Applied AI agents",
+      "count": 10,
+      "examples": [
+        "Cascadium",
+        "SciFin",
+        "Empirik.ai",
+        "Metal",
+        "Arabic.AI",
+        "Oppex AI"
       ]
     },
     {
@@ -2249,18 +2261,6 @@
       ]
     },
     {
-      "theme": "Applied AI agents",
-      "count": 9,
-      "examples": [
-        "SciFin",
-        "Empirik.ai",
-        "Metal",
-        "Arabic.AI",
-        "Oppex AI",
-        "InstaLILY AI"
-      ]
-    },
-    {
       "theme": "Crypto & digital assets",
       "count": 9,
       "examples": [
@@ -2285,13 +2285,13 @@
       ]
     },
     {
-      "theme": "HR & workforce",
+      "theme": "Marketing & creative AI",
       "count": 4,
       "examples": [
-        "株式会社PeopleX",
-        "Provan AI",
-        "GetWhy",
-        "Factorial"
+        "Fluencify.io",
+        "emberos",
+        "Archive",
+        "Contents"
       ]
     },
     {
@@ -2305,30 +2305,13 @@
       ]
     },
     {
-      "theme": "Data infrastructure",
-      "count": 3,
+      "theme": "HR & workforce",
+      "count": 4,
       "examples": [
-        "Zeit AI (YC S24)",
-        "Remedium Network",
-        "HiBob"
-      ]
-    },
-    {
-      "theme": "Marketing & creative AI",
-      "count": 3,
-      "examples": [
-        "emberos",
-        "Archive",
-        "Contents"
-      ]
-    },
-    {
-      "theme": "AI compute & models",
-      "count": 3,
-      "examples": [
-        "The Subvocal Company",
-        "Oratomic",
-        "Prime Intellect"
+        "Provan AI",
+        "株式会社PeopleX",
+        "GetWhy",
+        "Factorial"
       ]
     },
     {
@@ -2340,11 +2323,27 @@
       ]
     },
     {
+      "theme": "Data infrastructure",
+      "count": 2,
+      "examples": [
+        "Zeit AI (YC S24)",
+        "HiBob"
+      ]
+    },
+    {
       "theme": "Financial back-office & compliance AI",
       "count": 2,
       "examples": [
         "AI Score",
         "Bull"
+      ]
+    },
+    {
+      "theme": "AI compute & models",
+      "count": 2,
+      "examples": [
+        "Oratomic",
+        "Prime Intellect"
       ]
     },
     {
@@ -2361,13 +2360,6 @@
       "examples": [
         "Straiker",
         "Trase"
-      ]
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 1,
-      "examples": [
-        "AUDER"
       ]
     },
     {
@@ -2409,15 +2401,15 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 107,
-      "cap_m": 7524,
+      "count": 108,
+      "cap_m": 7547,
       "examples": [
-        "UIN",
+        "Cato AI",
+        "Perit AI",
         "Elimentary",
-        "Catch",
         "Enhance Interactive",
-        "Capacity",
-        "Enhance"
+        "Catch",
+        "Capacity"
       ],
       "top_stage": "Venture"
     },
@@ -2434,6 +2426,20 @@
         "Healome Therapeutics"
       ],
       "top_stage": "Venture"
+    },
+    {
+      "theme": "Applied AI agents",
+      "count": 10,
+      "cap_m": 190,
+      "examples": [
+        "Cascadium",
+        "SciFin",
+        "Empirik.ai",
+        "Metal",
+        "Arabic.AI",
+        "Oppex AI"
+      ],
+      "top_stage": "Seed"
     },
     {
       "theme": "Energy & climate",
@@ -2464,20 +2470,6 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "Applied AI agents",
-      "count": 9,
-      "cap_m": 190,
-      "examples": [
-        "SciFin",
-        "Empirik.ai",
-        "Metal",
-        "Arabic.AI",
-        "Oppex AI",
-        "InstaLILY AI"
-      ],
-      "top_stage": "Seed"
-    },
-    {
       "theme": "Crypto & digital assets",
       "count": 9,
       "cap_m": 1080,
@@ -2506,16 +2498,16 @@
       "top_stage": "Series B"
     },
     {
-      "theme": "HR & workforce",
+      "theme": "Marketing & creative AI",
       "count": 4,
-      "cap_m": 193,
+      "cap_m": 10,
       "examples": [
-        "株式会社PeopleX",
-        "Provan AI",
-        "GetWhy",
-        "Factorial"
+        "Fluencify.io",
+        "emberos",
+        "Archive",
+        "Contents"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Seed"
     },
     {
       "theme": "Cybersecurity",
@@ -2530,37 +2522,36 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "HR & workforce",
+      "count": 4,
+      "cap_m": 159,
+      "examples": [
+        "Provan AI",
+        "株式会社PeopleX",
+        "GetWhy",
+        "Factorial"
+      ],
+      "top_stage": "Series A"
+    },
+    {
+      "theme": "Consumer & marketplace",
+      "count": 2,
+      "cap_m": 60,
+      "examples": [
+        "FlyAkeed",
+        "Conveo"
+      ],
+      "top_stage": "Series A"
+    },
+    {
       "theme": "Data infrastructure",
-      "count": 3,
-      "cap_m": 174,
+      "count": 2,
+      "cap_m": 172,
       "examples": [
         "Zeit AI (YC S24)",
-        "Remedium Network",
         "HiBob"
       ],
       "top_stage": "Seed"
-    },
-    {
-      "theme": "Marketing & creative AI",
-      "count": 3,
-      "cap_m": 6,
-      "examples": [
-        "emberos",
-        "Archive",
-        "Contents"
-      ],
-      "top_stage": "Seed"
-    },
-    {
-      "theme": "AI compute & models",
-      "count": 3,
-      "cap_m": 430,
-      "examples": [
-        "The Subvocal Company",
-        "Oratomic",
-        "Prime Intellect"
-      ],
-      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3520,12 +3511,17 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-16",
+    "since": "2026-08-17",
     "tw": [
       {
         "name": "Applied AI agents",
         "delta": 4,
-        "now": 9
+        "now": 10
+      },
+      {
+        "name": "Marketing & creative AI",
+        "delta": 3,
+        "now": 4
       },
       {
         "name": "Physical AI & robotics",
@@ -3538,11 +3534,6 @@
         "now": 4
       },
       {
-        "name": "Marketing & creative AI",
-        "delta": 2,
-        "now": 3
-      },
-      {
         "name": "Consumer & marketplace",
         "delta": 2,
         "now": 2
@@ -3553,22 +3544,7 @@
         "now": 10
       },
       {
-        "name": "AI compute & models",
-        "delta": 1,
-        "now": 3
-      },
-      {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 2
-      },
-      {
         "name": "Sales & GTM AI",
-        "delta": 1,
-        "now": 1
-      },
-      {
-        "name": "Insurance / insurtech",
         "delta": 1,
         "now": 1
       },
@@ -3593,9 +3569,24 @@
         "now": 4
       },
       {
+        "name": "Financial back-office & compliance AI",
+        "delta": 0,
+        "now": 2
+      },
+      {
+        "name": "AI compute & models",
+        "delta": 0,
+        "now": 2
+      },
+      {
         "name": "Agent-native infra",
         "delta": 0,
         "now": 2
+      },
+      {
+        "name": "Insurance / insurtech",
+        "delta": 0,
+        "now": 1
       },
       {
         "name": "Defense & national security",
@@ -3608,19 +3599,14 @@
         "now": 1
       },
       {
-        "name": "Data infrastructure",
-        "delta": -1,
-        "now": 3
-      },
-      {
         "name": "Vertical SaaS",
         "delta": -1,
         "now": 2
       },
       {
-        "name": "Logistics & supply chain",
-        "delta": -3,
-        "now": 1
+        "name": "Applied / horizontal AI",
+        "delta": -2,
+        "now": 108
       },
       {
         "name": "Legal AI",
@@ -3628,9 +3614,9 @@
         "now": 1
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": -9,
-        "now": 107
+        "name": "Data infrastructure",
+        "delta": -4,
+        "now": 2
       }
     ]
   }
