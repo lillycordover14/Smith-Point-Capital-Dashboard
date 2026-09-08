@@ -3178,5 +3178,25 @@
     "theme": "Applied / horizontal AI",
     "domain": "",
     "clean": "Perit AI"
+  },
+  "mistral": {
+    "theme": "Physical AI & robotics",
+    "domain": "",
+    "clean": "Mistral"
+  },
+  "veridue": {
+    "theme": "Energy & climate",
+    "domain": "",
+    "clean": "Veridue."
+  },
+  "scait": {
+    "theme": "Vertical SaaS",
+    "domain": "",
+    "clean": "Scait"
+  },
+  "hesperai": {
+    "theme": "Insurance / insurtech",
+    "domain": "",
+    "clean": "Hesper AI"
   }
 }

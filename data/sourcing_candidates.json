@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-07",
+  "generated": "2026-09-08",
   "window_days": 45,
   "counts": {
     "actionable": 3,
-    "watchlist": 13,
+    "watchlist": 14,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -60,6 +60,23 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "Hesper AI",
+      "desc": "Insurance / insurtech",
+      "theme": "Precision Applications",
+      "vertical": "Insurance",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-09-08",
+      "link": "https://gethesperai.com",
+      "domain": "hesperainternational.nl",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Cascadium",
       "desc": "Applied AI agents",

@@ -1,8 +1,23 @@
 {
-  "generated": "2026-09-07",
+  "generated": "2026-09-08",
   "mode": "full",
   "count": 50,
   "companies": [
+    {
+      "name": "Mistral",
+      "domain": "mistral.ai",
+      "desc": "Mistral develops full-stack AI solutions tailored for enterprises and governments, focusing on high-stakes industries such as finance, manufacturing, and defense. Their offerings include frontier models, developer tools,",
+      "stage": "SERIES_D",
+      "last_amount": 3482985000.0,
+      "total": 7492769925.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "CMA CGM",
+        "New Wave",
+        "Advent"
+      ],
+      "location": "Paris, France"
+    },
     {
       "name": "Wonderful",
       "domain": "wonderful.ai",
@@ -17,21 +32,6 @@
         "Vine Ventures"
       ],
       "location": "Amsterdam, North Holland"
-    },
-    {
-      "name": "HiBob",
-      "domain": "hibob.com",
-      "desc": "HiBob offers a comprehensive HR platform that automates and streamlines various HR processes, including onboarding, payroll, and performance management, while providing real-time analytics and customizable workflows. The",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 166000000.0,
-      "total": 740000000.0,
-      "investors": [
-        "SEEK",
-        "Entrée Capital",
-        "Alpha Wave Global",
-        "Israel Growth Partners"
-      ],
-      "location": "New York"
     },
     {
       "name": "Conveo",
@@ -49,6 +49,21 @@
       "location": "London, England"
     },
     {
+      "name": "HiBob",
+      "domain": "hibob.com",
+      "desc": "HiBob offers a comprehensive HR platform that automates and streamlines various HR processes, including onboarding, payroll, and performance management, while providing real-time analytics and customizable workflows. The",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 166000000.0,
+      "total": 740000000.0,
+      "investors": [
+        "SEEK",
+        "Entrée Capital",
+        "Alpha Wave Global",
+        "Israel Growth Partners"
+      ],
+      "location": "New York"
+    },
+    {
       "name": "Zeit AI (YC S24)",
       "domain": "zeit-ai.com",
       "desc": "Zeit AI offers an autonomous data engineering solution that integrates various business systems, such as ERP and CRM, to automate data analytics and generate operational applications using natural language. This technolo",
@@ -64,19 +79,19 @@
       "location": "Munich"
     },
     {
-      "name": "Blue Voice Inc.",
-      "domain": "bluevoice.io",
-      "desc": "The company offers a CJIS-compliant AI platform designed for law enforcement, providing officers with immediate access to legal, policy, and community resources to enhance decision-making and efficiency in the field. Thi",
+      "name": "Atira",
+      "domain": "atira.ai",
+      "desc": "Atira provides an AI-driven solution designed to streamline complex sales processes for industrial companies, focusing on tasks such as requirement extraction, bid/no-bid decision-making, and technical documentation gene",
       "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 8980000.0,
+      "last_amount": 15000000.0,
+      "total": 17500000.0,
       "investors": [
-        "Las Olas Venture Capital",
-        "PAR Capital Management",
-        "SignalFire",
-        "Govtech Ventures"
+        "UVC Partners",
+        "Accel",
+        "BOOOM💥",
+        "Fortino Capital"
       ],
-      "location": "Boston, MA"
+      "location": "Munich"
     },
     {
       "name": "Empirik.ai",
@@ -107,21 +122,6 @@
         "Rice Park Capital Management"
       ],
       "location": "University City, Missouri"
-    },
-    {
-      "name": "Atira",
-      "domain": "atira.ai",
-      "desc": "Atira provides an AI-driven solution designed to streamline complex sales processes for industrial companies, focusing on tasks such as requirement extraction, bid/no-bid decision-making, and technical documentation gene",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 17500000.0,
-      "investors": [
-        "UVC Partners",
-        "Accel",
-        "BOOOM💥",
-        "Fortino Capital"
-      ],
-      "location": "Munich"
     },
     {
       "name": "AI Score",
@@ -244,21 +244,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Contents",
-      "domain": "contents.com",
-      "desc": "Contents offers a SaaS platform that utilizes AI technologies for marketing content orchestration, facilitating processes from ideation to distribution. This platform aims to enhance digital content management for enterp",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 32957245.0,
-      "investors": [
-        "SIDE Angels",
-        "Azimut Holding",
-        "Sinergia Venture Fund",
-        "Invictus Capital"
-      ],
-      "location": "Milano, Lombardy"
-    },
-    {
       "name": "Remesh",
       "domain": "remesh.ai",
       "desc": "Remesh offers a hybrid insights platform that facilitates real-time and asynchronous conversations with audiences, utilizing AI technologies to enhance research processes. The platform supports live video interactions an",
@@ -272,6 +257,20 @@
         "Symbol"
       ],
       "location": "New York"
+    },
+    {
+      "name": "Pharosyn",
+      "domain": "pharosyn.ai",
+      "desc": "Pharosyn offers an AI-powered competitive intelligence platform designed for the biopharma sector, which continuously monitors a wide array of clinical, regulatory, and commercial data sources to generate tailored strate",
+      "stage": "SEED",
+      "last_amount": 2896265.0,
+      "total": 2896265.0,
+      "investors": [
+        "Transpose Platform",
+        "General Advance",
+        "Moonfire"
+      ],
+      "location": "San Francisco, California, United States"
     },
     {
       "name": "Catch",
@@ -330,8 +329,8 @@
       "domain": "get-cato.com",
       "desc": "The company provides an AI-native platform designed to automate the tender management process, streamlining tasks from identifying opportunities to preparing offers. It utilizes technologies such as real-time alerts, int",
       "stage": "SEED",
-      "last_amount": 6973902.0,
-      "total": 8859737.0,
+      "last_amount": 6976416.0,
+      "total": 8862251.0,
       "investors": [
         "IAG",
         "Moonstone Venture Capital",
@@ -383,18 +382,19 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Pharosyn",
-      "domain": "pharosyn.ai",
-      "desc": "Pharosyn offers an AI-powered competitive intelligence platform designed for the biopharma sector, which continuously monitors a wide array of clinical, regulatory, and commercial data sources to generate tailored strate",
-      "stage": "SEED",
-      "last_amount": 2896265.0,
-      "total": 2896265.0,
+      "name": "Veridue.",
+      "domain": "veridue.ai",
+      "desc": "The company offers an AI-native due diligence and M&A platform specifically designed for renewable energy and data centers, enabling users to screen a significantly larger number of investment opportunities and complete ",
+      "stage": "PRE_SEED",
+      "last_amount": 4000000.0,
+      "total": 4000000.0,
       "investors": [
-        "Transpose Platform",
-        "General Advance",
-        "Moonfire"
+        "Episode 1 Ventures",
+        "HTGF | High-Tech Gründerfonds",
+        "Pi Labs",
+        "rule30"
       ],
-      "location": "San Francisco, California, United States"
+      "location": "Amsterdam, North Holland, Netherlands"
     },
     {
       "name": "Bull",
@@ -412,18 +412,6 @@
       "location": "São Paulo"
     },
     {
-      "name": "Asakana — 24/7 Sales Rep for Seafood Wholesalers",
-      "domain": "asakana.co",
-      "desc": "Asakana offers an automated order processing system that integrates communications from text, voicemail, WhatsApp, and email, specifically designed for seafood operators. The technology streamlines order management by co",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
       "name": "Bayworks",
       "domain": "bayworks.app",
       "desc": "Bayworks offers a voice-to-warranty solution that enables auto technicians to record repair details verbally, which are then transformed into OEM-compliant warranty documentation. The technology utilizes voice recognitio",
@@ -436,21 +424,6 @@
       "location": "San Francisco, CA, USA"
     },
     {
-      "name": "ABLE Labs (에이블랩스)",
-      "domain": "ablelabsinc.com",
-      "desc": "ABLE Labs specializes in lab automation solutions, particularly through the development of liquid handling robots designed for researchers. Their technology includes a no-code graphical user interface for easy setup and ",
-      "stage": "SERIES_A",
-      "last_amount": 8808800.0,
-      "total": 12294371.0,
-      "investors": [
-        "NAU IB Capital",
-        "Industrial Bank of Korea",
-        "Wonik Investment Partners Co. Ltd.",
-        "Mirae Asset Global Investments"
-      ],
-      "location": "Incheon"
-    },
-    {
       "name": "Unlock",
       "domain": "ourunlock.com",
       "desc": "The main product is a relationship intelligence platform that integrates various data sources, such as CRMs, emails, and calendars, to help businesses identify and prioritize key relationships with customers, investors, ",
@@ -461,6 +434,19 @@
         "TEDCO"
       ],
       "location": "Washington DC - Baltimore"
+    },
+    {
+      "name": "Scait",
+      "domain": "scait.ch",
+      "desc": "The main product is an AI platform designed to streamline the tendering process for construction companies by processing complex documents and identifying critical risks quickly. It utilizes advanced algorithms to analyz",
+      "stage": "SEED",
+      "last_amount": 185409.0,
+      "total": 185409.0,
+      "investors": [
+        "Venture Kick",
+        "Joachim Sorba"
+      ],
+      "location": "Rotkreuz, Zug"
     },
     {
       "name": "Souk — Your AI Partner Development Manager",
@@ -642,6 +628,18 @@
       "location": "Buffalo, NY"
     },
     {
+      "name": "Hesper AI",
+      "domain": "gethesperai.com",
+      "desc": "Hesper AI offers an AI-driven claims investigation platform that automates the entire lifecycle of claims, from intake to recovery, significantly reducing the time required for investigations from days to hours. The tech",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "Germany"
+    },
+    {
       "name": "Tarjama&",
       "domain": "tarjama.com",
       "desc": "The company offers a comprehensive suite of language technology solutions, including AI-powered translation, localization, and content management systems designed to enhance enterprise communication across multiple langu",
@@ -699,7 +697,7 @@
     {
       "name": "Enhance Interactive",
       "domain": "enhance.com",
-      "desc": "The main product is a next-generation hosting control panel that offers advanced automation, flexible customization, and clustering capabilities for website and server management. It utilizes technologies such as Rust fo",
+      "desc": "The main product is a next-generation hosting control panel that offers advanced automation, flexible customization, and clustering capabilities, allowing users to manage websites and servers efficiently. It utilizes tec",
       "stage": "SERIES_A",
       "last_amount": 18200000.0,
       "total": 18200000.0,
