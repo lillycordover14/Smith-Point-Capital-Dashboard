@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-09-10",
+          "category": "Blog",
+          "title": "NetBox Assurance Adds Fleet Management and a New Way to Clear Drift",
+          "link": "https://netboxlabs.com/blog/netbox-assurance-adds-fleet-management-and-a-new-way-to-clear-drift/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-09-03",
           "category": "Blog",
           "title": "NetBox 4.7 is GA: Cooling Joins the Power Model",
@@ -136,7 +143,7 @@
         },
         {
           "date": "",
-          "title": "Hat Summit: Connect 2026 London Oct 8, 2026 Event NetBox Labs Partner Summit 2026 Oc",
+          "title": "n Partner Happy Hour Oct 8, 2026 | 6:00 p.m. Event NetBox Labs Partner Summit 2026 Oc",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
