@@ -1,24 +1,60 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-12",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 76,
-    "total_cap_m": 18330,
-    "early_cap_m": 2505,
+    "early_raises": 77,
+    "total_cap_m": 18322,
+    "early_cap_m": 2493,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 26,
-      "Series A": 47,
-      "Series B": 23,
+      "Seed": 25,
+      "Series A": 49,
+      "Series B": 22,
       "Series C": 10,
       "Series D": 4,
       "Venture": 74
     }
   },
   "raises": [
+    {
+      "company": "GenHealth.ai",
+      "amount_m": 16,
+      "date": "2026-09-12",
+      "link": "https://genhealth.ai",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Series A"
+    },
+    {
+      "company": "UrgentIQ",
+      "amount_m": 15,
+      "date": "2026-09-12",
+      "link": "https://urgentiq.com",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Ultimarii Ltd.",
+      "amount_m": 13,
+      "date": "2026-09-12",
+      "link": "https://ultimarii.com",
+      "investors": [],
+      "theme": "Energy & climate",
+      "stage": "Series A"
+    },
+    {
+      "company": "Metacognition",
+      "amount_m": 10,
+      "date": "2026-09-12",
+      "link": "https://metacognitionai.com",
+      "investors": [],
+      "theme": "Physical AI & robotics",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Motive",
       "amount_m": 1300,
@@ -369,42 +405,6 @@
       "investors": [],
       "theme": "Marketing & creative AI",
       "stage": "Pre Seed"
-    },
-    {
-      "company": "Elimentary",
-      "amount_m": null,
-      "date": "2026-09-05",
-      "link": "https://elimentary.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Hi Rasmus",
-      "amount_m": 50,
-      "date": "2026-09-04",
-      "link": "https://hirasmus.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "Hivebotics",
-      "amount_m": 6,
-      "date": "2026-09-04",
-      "link": "https://hivebotics.tech",
-      "investors": [],
-      "theme": "Physical AI & robotics",
-      "stage": "Series A"
-    },
-    {
-      "company": "ZenHR",
-      "amount_m": 6,
-      "date": "2026-09-04",
-      "link": "https://zenhr.com",
-      "investors": [],
-      "theme": "Insurance / insurtech",
-      "stage": "Series B"
     },
     {
       "company": "Lightfield",
@@ -2206,7 +2206,7 @@
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 110,
+      "count": 109,
       "examples": [
         "Xapien",
         "Biorsaf",
@@ -2220,7 +2220,7 @@
       "theme": "Healthcare & bio AI",
       "count": 17,
       "examples": [
-        "Hi Rasmus",
+        "UrgentIQ",
         "Corner Health",
         "xCures",
         "Healome Therapeutics",
@@ -2230,23 +2230,23 @@
     },
     {
       "theme": "Energy & climate",
-      "count": 11,
+      "count": 12,
       "examples": [
+        "Ultimarii Ltd.",
         "Green Eagle Solutions",
         "Veridue.",
         "Axle Energy",
         "Vergennes battery project",
-        "SolarSquare",
-        "Endurance Energy"
+        "SolarSquare"
       ]
     },
     {
       "theme": "Physical AI & robotics",
       "count": 9,
       "examples": [
+        "Metacognition",
         "Motive",
         "Mistral",
-        "Hivebotics",
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse"
@@ -2266,14 +2266,14 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 6,
+      "count": 7,
       "examples": [
+        "GenHealth.ai",
         "Euno",
         "Gaia",
         "InstaLILY AI",
         "Pocket",
-        "Sail Research",
-        "Prosper AI"
+        "Sail Research"
       ]
     },
     {
@@ -2385,13 +2385,6 @@
       ]
     },
     {
-      "theme": "Insurance / insurtech",
-      "count": 1,
-      "examples": [
-        "ZenHR"
-      ]
-    },
-    {
       "theme": "Defense & national security",
       "count": 1,
       "examples": [
@@ -2402,7 +2395,7 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 110,
+      "count": 109,
       "cap_m": 7836,
       "examples": [
         "Xapien",
@@ -2417,9 +2410,9 @@
     {
       "theme": "Healthcare & bio AI",
       "count": 17,
-      "cap_m": 1146,
+      "cap_m": 1111,
       "examples": [
-        "Hi Rasmus",
+        "UrgentIQ",
         "Corner Health",
         "xCures",
         "Healome Therapeutics",
@@ -2430,26 +2423,26 @@
     },
     {
       "theme": "Energy & climate",
-      "count": 11,
-      "cap_m": 1145,
+      "count": 12,
+      "cap_m": 1158,
       "examples": [
+        "Ultimarii Ltd.",
         "Green Eagle Solutions",
         "Veridue.",
         "Axle Energy",
         "Vergennes battery project",
-        "SolarSquare",
-        "Endurance Energy"
+        "SolarSquare"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Physical AI & robotics",
       "count": 9,
-      "cap_m": 4938,
+      "cap_m": 4942,
       "examples": [
+        "Metacognition",
         "Motive",
         "Mistral",
-        "Hivebotics",
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse"
@@ -2472,15 +2465,15 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 6,
-      "cap_m": 146,
+      "count": 7,
+      "cap_m": 162,
       "examples": [
+        "GenHealth.ai",
         "Euno",
         "Gaia",
         "InstaLILY AI",
         "Pocket",
-        "Sail Research",
-        "Prosper AI"
+        "Sail Research"
       ],
       "top_stage": "Series A"
     },
@@ -3506,8 +3499,13 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-21",
+    "since": "2026-08-22",
     "tw": [
+      {
+        "name": "Applied AI agents",
+        "delta": 3,
+        "now": 7
+      },
       {
         "name": "Legal AI",
         "delta": 3,
@@ -3519,9 +3517,14 @@
         "now": 3
       },
       {
-        "name": "Applied AI agents",
+        "name": "Energy & climate",
         "delta": 2,
-        "now": 6
+        "now": 12
+      },
+      {
+        "name": "AI dev tooling",
+        "delta": 2,
+        "now": 3
       },
       {
         "name": "Sales & GTM AI",
@@ -3529,9 +3532,9 @@
         "now": 2
       },
       {
-        "name": "Energy & climate",
+        "name": "Physical AI & robotics",
         "delta": 1,
-        "now": 11
+        "now": 9
       },
       {
         "name": "Fintech & payments",
@@ -3544,34 +3547,14 @@
         "now": 4
       },
       {
-        "name": "AI dev tooling",
+        "name": "Financial back-office & compliance AI",
         "delta": 1,
         "now": 3
-      },
-      {
-        "name": "Applied / horizontal AI",
-        "delta": 0,
-        "now": 110
-      },
-      {
-        "name": "Physical AI & robotics",
-        "delta": 0,
-        "now": 9
       },
       {
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
-      },
-      {
-        "name": "Financial back-office & compliance AI",
-        "delta": 0,
-        "now": 3
-      },
-      {
-        "name": "Insurance / insurtech",
-        "delta": 0,
-        "now": 1
       },
       {
         "name": "Defense & national security",
@@ -3594,18 +3577,23 @@
         "now": 2
       },
       {
+        "name": "Data infrastructure",
+        "delta": -1,
+        "now": 1
+      },
+      {
         "name": "Agent-native infra",
         "delta": -2,
         "now": 2
       },
       {
-        "name": "Data infrastructure",
-        "delta": -2,
-        "now": 1
+        "name": "Applied / horizontal AI",
+        "delta": -4,
+        "now": 109
       },
       {
         "name": "Cybersecurity",
-        "delta": -4,
+        "delta": -5,
         "now": 3
       }
     ]

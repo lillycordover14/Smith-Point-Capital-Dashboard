@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-11",
+  "generated": "2026-09-12",
   "window_days": 45,
   "counts": {
-    "actionable": 4,
-    "watchlist": 12,
+    "actionable": 3,
+    "watchlist": 11,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -42,23 +42,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "ZenHR",
-      "desc": "Insurance / insurtech",
-      "theme": "Precision Applications",
-      "vertical": "Insurance",
-      "stage": "Series B",
-      "amount_m": 6,
-      "investors": [],
-      "date": "2026-09-04",
-      "link": "https://zenhr.com",
-      "domain": "zenhr.com",
-      "tier": "actionable",
-      "fit_reason": "Series B ($6M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "Lightfield",
       "desc": "Legal AI",
       "theme": "Precision Applications",
@@ -77,6 +60,40 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "GenHealth.ai",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": 16,
+      "investors": [],
+      "date": "2026-09-12",
+      "link": "https://genhealth.ai",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "Series A ($16M) — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "UrgentIQ",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Series A",
+      "amount_m": 15,
+      "investors": [],
+      "date": "2026-09-12",
+      "link": "https://urgentiq.com",
+      "domain": "urgentiq.com",
+      "tier": "watchlist",
+      "fit_reason": "Series A ($15M) — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Graph AI",
       "desc": "Financial back-office & compliance AI",
@@ -163,23 +180,6 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Harvey",
-      "desc": "Harvey Closes $550M for Legal AI Model That Keeps Client Documents in Firm Control",
-      "theme": "Precision Applications",
-      "vertical": "Legal",
-      "stage": "Venture",
-      "amount_m": 550,
-      "investors": [],
-      "date": "2026-09-09",
-      "link": "https://www.techtimes.com/articles/327111/20260909/harvey-closes-550m-legal-ai-model-that-keeps-client-documents-firm-control.htm",
-      "domain": "harveynorman.com.au",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
       "company": "Limetax",
       "desc": "Legal AI",
       "theme": "Precision Applications",
@@ -193,23 +193,6 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Blee",
-      "desc": "Blee raises USD $27 million to scale compliance software",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Venture",
-      "amount_m": 27,
-      "investors": [],
-      "date": "2026-09-09",
-      "link": "https://itbrief.co.nz/story/blee-raises-usd-27-million-to-scale-compliance-software",
-      "domain": "bleedingcool.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
@@ -260,23 +243,6 @@
       "domain": "helloclever.co",
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Hi Rasmus",
-      "desc": "Healthcare & bio AI",
-      "theme": "Precision Applications",
-      "vertical": "Healthcare",
-      "stage": "Seed",
-      "amount_m": 50,
-      "investors": [],
-      "date": "2026-09-04",
-      "link": "https://hirasmus.com",
-      "domain": "hirasmus.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
