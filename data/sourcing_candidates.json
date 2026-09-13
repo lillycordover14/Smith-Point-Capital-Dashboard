@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-12",
+  "generated": "2026-09-13",
   "window_days": 45,
   "counts": {
     "actionable": 3,
-    "watchlist": 11,
+    "watchlist": 12,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -60,6 +60,40 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "fundcraft",
+      "desc": "Financial back-office & compliance AI",
+      "theme": "Precision Applications",
+      "vertical": "Compliance",
+      "stage": "Series A",
+      "amount_m": 14,
+      "investors": [],
+      "date": "2026-09-13",
+      "link": "https://fundcraft.lu",
+      "domain": "fundcraft.com",
+      "tier": "watchlist",
+      "fit_reason": "Series A ($14M) — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Insaio",
+      "desc": "Applied AI agents",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Seed",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-09-13",
+      "link": "https://insaio.com",
+      "domain": "insaio.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "GenHealth.ai",
       "desc": "Applied AI agents",
@@ -156,23 +190,6 @@
       "date": "2026-09-10",
       "link": "https://concordahq.com",
       "domain": "concordand9th.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Gaia",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": 2,
-      "investors": [],
-      "date": "2026-09-10",
-      "link": "https://gaia.sa",
-      "domain": "gaiaonline.com",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",

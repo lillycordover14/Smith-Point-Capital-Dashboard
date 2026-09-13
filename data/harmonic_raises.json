@@ -1,23 +1,8 @@
 {
-  "generated": "2026-09-12",
+  "generated": "2026-09-13",
   "mode": "full",
   "count": 50,
   "companies": [
-    {
-      "name": "Harvey",
-      "domain": "harvey.ai",
-      "desc": "Harvey offers a suite of AI-driven tools designed for legal and professional services, including document management, complex legal research, and workflow automation. The platform utilizes generative AI technologies to s",
-      "stage": "SERIES_H",
-      "last_amount": 550000000.0,
-      "total": 1774559173.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Inertia Ventures",
-        "Conviction",
-        "EQT Group"
-      ],
-      "location": "San Francisco, California, US"
-    },
     {
       "name": "Clay",
       "domain": "clay.com",
@@ -81,10 +66,10 @@
     {
       "name": "Motive",
       "domain": "gomotive.com",
-      "desc": "The company offers a comprehensive suite of hardware and software solutions designed for fleet management, driver safety, equipment monitoring, and spend management, utilizing AI-powered applications to enhance operation",
+      "desc": "The company offers an integrated fleet management and driver safety platform that utilizes AI to enhance operational efficiency, safety, and profitability across various industries. Key technologies include real-time AI ",
       "stage": "VENTURE_UNKNOWN",
       "last_amount": 1300000000.0,
-      "total": 2077300000.0,
+      "total": 3377300000.0,
       "investors": [
         "BBQ Capital",
         "G2 Venture Partners",
@@ -122,6 +107,21 @@
       "location": "Pleasanton, California"
     },
     {
+      "name": "Luminary",
+      "domain": "withluminary.com",
+      "desc": "The main product is an AI-powered platform that transforms static trust and estate documents into structured data, enabling wealth, legal, and tax advisors to model, visualize, and report on wealth transfer scenarios eff",
+      "stage": "SERIES_A",
+      "last_amount": 22000000.0,
+      "total": 31500000.0,
+      "investors": [
+        "Gilgamesh Ventures",
+        "10X Capital",
+        "Lightbank",
+        "8VC"
+      ],
+      "location": "New York, NY"
+    },
+    {
       "name": "Blee",
       "domain": "blee.com",
       "desc": "The main product is an AI-driven marketing compliance platform that streamlines the review and approval process for marketing content, ensuring alignment with regulatory standards and brand guidelines. It utilizes advanc",
@@ -137,19 +137,19 @@
       "location": "New York, NY"
     },
     {
-      "name": "Luminary",
-      "domain": "withluminary.com",
-      "desc": "The main product is an AI-powered platform that transforms static trust and estate documents into structured data, enabling wealth, legal, and tax advisors to model, visualize, and report on wealth transfer scenarios eff",
+      "name": "Arlequin AI",
+      "domain": "arlq.ai",
+      "desc": "Arlequin AI offers a modular AI platform designed for large-scale data analysis, utilizing advanced unsupervised AI techniques to provide transparent and unbiased insights. The technology focuses on comprehending pattern",
       "stage": "SERIES_A",
-      "last_amount": 22000000.0,
-      "total": 31500000.0,
+      "last_amount": 32507117.0,
+      "total": 37550502.0,
       "investors": [
-        "Gilgamesh Ventures",
-        "10X Capital",
-        "Lightbank",
-        "8VC"
+        "Google for Startups",
+        "redalpine",
+        "Better Angle",
+        "ZEBOX"
       ],
-      "location": "New York, NY"
+      "location": "229 rue Saint-Honoré, 75001 Paris, France"
     },
     {
       "name": "Sapien",
@@ -182,6 +182,21 @@
       "location": "Palo Alto, CA"
     },
     {
+      "name": "HelmGuard AI",
+      "domain": "helmguard.ai",
+      "desc": "HelmGuard offers an AI-driven platform designed to enhance enterprise risk management by integrating governance, risk, and compliance processes through specialized AI agents that perform risk identification, assessment, ",
+      "stage": "SEED",
+      "last_amount": 7300000.0,
+      "total": 7300000.0,
+      "investors": [
+        "Entrepreneur First",
+        "FinTech Collective",
+        "Stage 2 Capital",
+        "Sequoia Capital"
+      ],
+      "location": "London"
+    },
+    {
       "name": "Tripo AI",
       "domain": "tripo3d.ai",
       "desc": "The main product is an AI-powered platform that generates high-quality 3D models from text, images, or sketches, featuring automatic rigging and intelligent segmentation for improved model organization. It employs advanc",
@@ -210,21 +225,6 @@
       "location": "526 S Main St Suite 809 Akron, Ohio 44311, US"
     },
     {
-      "name": "HelmGuard AI",
-      "domain": "helmguard.ai",
-      "desc": "HelmGuard offers an AI-driven platform designed to enhance enterprise risk management by integrating governance, risk, and compliance processes through specialized AI agents that perform risk identification, assessment, ",
-      "stage": "SEED",
-      "last_amount": 7300000.0,
-      "total": 7300000.0,
-      "investors": [
-        "Entrepreneur First",
-        "FinTech Collective",
-        "Stage 2 Capital",
-        "Sequoia Capital"
-      ],
-      "location": "London"
-    },
-    {
       "name": "GenHealth.ai",
       "domain": "genhealth.ai",
       "desc": "GenHealth.ai develops generative AI solutions aimed at automating healthcare operations, specifically targeting administrative tasks within provider and payer workflows. The technology utilizes AI agents to streamline pr",
@@ -238,36 +238,6 @@
         "Eniac Ventures"
       ],
       "location": "520 Lewis Street North West, Vienna, VA 22180, United States"
-    },
-    {
-      "name": "Arlequin AI",
-      "domain": "arlq.ai",
-      "desc": "Arlequin AI offers a modular AI platform designed for large-scale data analysis, utilizing advanced unsupervised AI techniques to provide transparent and unbiased insights. The technology focuses on comprehending pattern",
-      "stage": "SERIES_A",
-      "last_amount": 32507117.0,
-      "total": 37550502.0,
-      "investors": [
-        "Google for Startups",
-        "redalpine",
-        "Better Angle",
-        "ZEBOX"
-      ],
-      "location": "229 rue Saint-Honoré, 75001 Paris, France"
-    },
-    {
-      "name": "Euno",
-      "domain": "euno.ai",
-      "desc": "Euno offers an AI Context Platform designed to provide AI agents with the necessary context to operate effectively across enterprise data, focusing on analytics, engineering, and governance. The platform automates data g",
-      "stage": "SERIES_A",
-      "last_amount": 23000000.0,
-      "total": 29250000.0,
-      "investors": [
-        "INT3",
-        "10D",
-        "N47",
-        "Mark Nelson"
-      ],
-      "location": "Sunnyvale, California"
     },
     {
       "name": "UrgentIQ",
@@ -285,19 +255,19 @@
       "location": "New York City, NY"
     },
     {
-      "name": "Xapien",
-      "domain": "xapien.com",
-      "desc": "Xapien offers an AI-powered due diligence platform that conducts comprehensive risk assessments of third-party relationships, providing visibility into potential reputational and regulatory risks. The platform utilizes a",
-      "stage": "SERIES_B",
-      "last_amount": 56000000.0,
-      "total": 73448964.0,
+      "name": "Euno",
+      "domain": "euno.ai",
+      "desc": "Euno offers an AI Context Platform designed to provide AI agents with the necessary context to operate effectively across enterprise data, focusing on analytics, engineering, and governance. The platform automates data g",
+      "stage": "SERIES_A",
+      "last_amount": 23000000.0,
+      "total": 29250000.0,
       "investors": [
-        "D2 Fund",
-        "Founders Factory",
-        "YFM Equity Partners",
-        "Deeptech Labs"
+        "INT3",
+        "10D",
+        "N47",
+        "Mark Nelson"
       ],
-      "location": "London, Greater London"
+      "location": "Sunnyvale, California"
     },
     {
       "name": "Aqua",
@@ -313,6 +283,21 @@
         "Y Combinator"
       ],
       "location": "New York City"
+    },
+    {
+      "name": "Xapien",
+      "domain": "xapien.com",
+      "desc": "Xapien offers an AI-powered due diligence platform that conducts comprehensive risk assessments of third-party relationships, providing visibility into potential reputational and regulatory risks. The platform utilizes a",
+      "stage": "SERIES_B",
+      "last_amount": 56000000.0,
+      "total": 73448964.0,
+      "investors": [
+        "D2 Fund",
+        "Founders Factory",
+        "YFM Equity Partners",
+        "Deeptech Labs"
+      ],
+      "location": "London, Greater London"
     },
     {
       "name": "CloudNC",
@@ -372,21 +357,6 @@
       "location": "San Francisco, CA, United States"
     },
     {
-      "name": "Hello Clever",
-      "domain": "helloclever.co",
-      "desc": "Hello Clever offers an AI-powered payments and loyalty platform that integrates real-time payment processing with instant cashback and rewards features. The technology leverages proprietary data and artificial intelligen",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 4636984.0,
-      "investors": [
-        "CrossFund",
-        "Boson Ventures",
-        "Yolo Investments",
-        "Vectr Ventures"
-      ],
-      "location": "Sydney, New South Wales"
-    },
-    {
       "name": "Wyre AI",
       "domain": "wyreai.io",
       "desc": "Wyre AI offers an AI-powered platform designed for preconstruction risk management, which automates the generation of structured scopes and identifies conflicts within construction documents, including drawings and speci",
@@ -402,6 +372,21 @@
       "location": "Washington DC"
     },
     {
+      "name": "Hello Clever",
+      "domain": "helloclever.co",
+      "desc": "Hello Clever offers an AI-powered payments and loyalty platform that integrates real-time payment processing with instant cashback and rewards features. The technology leverages proprietary data and artificial intelligen",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 4636984.0,
+      "investors": [
+        "CrossFund",
+        "Boson Ventures",
+        "Yolo Investments",
+        "Vectr Ventures"
+      ],
+      "location": "Sydney, New South Wales"
+    },
+    {
       "name": "Ultimarii Ltd.",
       "domain": "ultimarii.com",
       "desc": "The company offers AI-powered solutions designed to streamline regulatory processes in highly regulated industries such as energy, utilities, and mining, focusing on creating tailored tools that address the specific need",
@@ -415,6 +400,21 @@
         "Alpaca VC"
       ],
       "location": "Calgary, Alberta"
+    },
+    {
+      "name": "fundcraft",
+      "domain": "fundcraft.lu",
+      "desc": "The company offers a digital platform that centralizes and automates back-office operations for alternative investment funds, including functions such as transfer agency, accounting, portfolio and risk management, and co",
+      "stage": "SERIES_A",
+      "last_amount": 13960314.0,
+      "total": 25870250.0,
+      "investors": [
+        "Riverside Acceleration Capital",
+        "Aperture Capital",
+        "MiddleGame Ventures",
+        "CCAP Investments & Advisory"
+      ],
+      "location": "Bertrange"
     },
     {
       "name": "Kapital Grupo Financiero",
@@ -536,6 +536,33 @@
       "location": "Berlin, BE"
     },
     {
+      "name": "Sona8",
+      "domain": "sona8.com",
+      "desc": "Sona8 provides AI-driven voice interviews that facilitate comprehensive organizational intelligence by engaging every employee in personalized conversations, allowing for the collection of critical insights on operationa",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "Cambridge, Massachusetts, United States"
+    },
+    {
+      "name": "Minoa",
+      "domain": "minoa.io",
+      "desc": "Minoa offers an AI-powered platform designed to enhance value selling for B2B go-to-market teams by enabling them to identify, track, and maximize customer impact throughout the sales lifecycle. The technology integrates",
+      "stage": "SEED",
+      "last_amount": 6200000.0,
+      "total": 8900000.0,
+      "investors": [
+        "AirAngels",
+        "FiDi Ventures",
+        "Alumni Ventures",
+        "10X Capital"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
       "name": "herdr",
       "domain": "herdr.dev",
       "desc": "Herdr provides a runtime environment for coding agents that maintains active terminal sessions on various devices, allowing users to reconnect seamlessly from any keyboard-enabled device. The platform utilizes technologi",
@@ -551,21 +578,9 @@
       "location": "Ankara, Türkiye"
     },
     {
-      "name": "Sona8",
-      "domain": "sona8.com",
-      "desc": "Sona8 provides AI-driven voice interviews that facilitate comprehensive organizational intelligence by engaging every employee in personalized conversations, allowing for the collection of critical insights on operationa",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "Cambridge, Massachusetts, United States"
-    },
-    {
       "name": "Green Eagle Solutions",
       "domain": "greeneaglesolutions.com",
-      "desc": "Green Eagle Solutions offers a SaaS platform designed for autonomous renewable energy operations, known as ARSOS Suite, which facilitates the management of critical infrastructure for renewable energy assets. The platfor",
+      "desc": "The main product is an automation platform that integrates with various renewable energy assets to enhance operational efficiency and scalability through real-time monitoring and decision-making. It utilizes Robotic Proc",
       "stage": "SERIES_A",
       "last_amount": 0,
       "total": 9812370.0,
@@ -661,6 +676,41 @@
       "location": "Rotkreuz, Zug"
     },
     {
+      "name": "Insaio",
+      "domain": "insaio.com",
+      "desc": "Insaio provides an operating system designed for managing client interactions in the insurance and finance sectors, utilizing AI agents to handle calls, follow-ups, and appointment scheduling. The technology enables stru",
+      "stage": "PRE_SEED",
+      "last_amount": 220000.0,
+      "total": 220000.0,
+      "investors": [],
+      "location": "Hamburg, HH"
+    },
+    {
+      "name": "Shiftmate Corp",
+      "domain": "shiftmate.ai",
+      "desc": "The main product is an AI-driven growth and efficiency platform designed for credit unions, which provides real-time insights into member behaviors and automates personalized outreach strategies. It utilizes predictive a",
+      "stage": "SEED",
+      "last_amount": 500000.0,
+      "total": 1800000.0,
+      "investors": [],
+      "location": "Farmington Hills, Michigan"
+    },
+    {
+      "name": "DeepCtrls",
+      "domain": "deepctrls.com",
+      "desc": "The company offers an AI-powered energy efficiency platform that includes specialized software for managing HVAC systems and a control system for compressed air systems, utilizing advanced optimization algorithms and col",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 14331575.0,
+      "investors": [
+        "Yuanqi Capital",
+        "Shenzhen Capital Group Co., Ltd",
+        "Aramco Ventures",
+        "Forebright Capital"
+      ],
+      "location": "Singapore"
+    },
+    {
       "name": "Metacognition",
       "domain": "metacognitionai.com",
       "desc": "Metacognition develops advanced AI systems designed to enable intelligent agents and robots to operate effectively in dynamic environments by utilizing technologies such as continual learning, LLM adaptation, and explici",
@@ -671,62 +721,6 @@
         "Main Sequence"
       ],
       "location": "Adelaide, South Australia"
-    },
-    {
-      "name": "Eubrics AI",
-      "domain": "eubrics.com",
-      "desc": "The main product is an AI-driven sales roleplay platform that enables sales teams to practice realistic customer interactions throughout the sales cycle, utilizing tailored buyer personas to enhance training effectivenes",
-      "stage": "PRE_SEED",
-      "last_amount": 0,
-      "total": 325000.0,
-      "investors": [
-        "super{set}",
-        "Iterative — Founders Supporting Founders",
-        "nasscom startups"
-      ],
-      "location": "United States"
-    },
-    {
-      "name": "Positive",
-      "domain": "positivegroup.com",
-      "desc": "Positive offers a suite of marketing solutions designed to enhance customer engagement and connection, including an emailing platform, AI-powered SEO tools, email signature management, lead management, and email marketin",
-      "stage": "",
-      "last_amount": 36044816.0,
-      "total": 173044816.0,
-      "investors": [
-        "EMZ Partners",
-        "Banque Populaire du Nord",
-        "idi",
-        "Ardian"
-      ],
-      "location": "Hem"
-    },
-    {
-      "name": "Biorsaf",
-      "domain": "biorsaf.it",
-      "desc": "Biorsaf offers digital platforms designed to improve safety and quality management across sectors like food, workplace, and water quality. These platforms utilize technologies such as IoT, generative AI, cloud computing,",
-      "stage": "SEED",
-      "last_amount": 6037036.0,
-      "total": 7489995.0,
-      "investors": [
-        "P101",
-        "CDP Venture Capital SGR",
-        "Toscana Next Fund",
-        "Farming Future"
-      ],
-      "location": "Castell'Azzara, Grosseto"
-    },
-    {
-      "name": "Gaia",
-      "domain": "gaia.sa",
-      "desc": "Gaia is an AI platform designed for Saudi enterprises, functioning as a centralized intelligence layer that integrates various systems to provide context-aware answers and deploy specialized AI agents. It utilizes permis",
-      "stage": "PRE_SEED",
-      "last_amount": 1500000.0,
-      "total": 1500000.0,
-      "investors": [
-        "SEEDRA Ventures"
-      ],
-      "location": "Riyadh"
     }
   ]
 }
