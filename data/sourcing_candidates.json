@@ -1,12 +1,46 @@
 {
-  "generated": "2026-09-13",
+  "generated": "2026-09-14",
   "window_days": 45,
   "counts": {
-    "actionable": 3,
-    "watchlist": 12,
+    "actionable": 5,
+    "watchlist": 11,
     "excluded_off_thesis": 0
   },
   "actionable": [
+    {
+      "company": "Savvy Wealth",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Series C",
+      "amount_m": 100,
+      "investors": [],
+      "date": "2026-09-14",
+      "link": "https://savvywealth.com",
+      "domain": "savvywealth.com",
+      "tier": "actionable",
+      "fit_reason": "Series C ($100M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Archy",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Series C",
+      "amount_m": 50,
+      "investors": [],
+      "date": "2026-09-14",
+      "link": "https://archy.com",
+      "domain": "archyvai.lt",
+      "tier": "actionable",
+      "fit_reason": "Series C ($50M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Euno",
       "desc": "Applied AI agents",
@@ -73,23 +107,6 @@
       "domain": "fundcraft.com",
       "tier": "watchlist",
       "fit_reason": "Series A ($14M) — track for the next round",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Insaio",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Seed",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-09-13",
-      "link": "https://insaio.com",
-      "domain": "insaio.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"

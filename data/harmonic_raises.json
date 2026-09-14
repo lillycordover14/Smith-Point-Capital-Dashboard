@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13",
+  "generated": "2026-09-14",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -66,7 +66,7 @@
     {
       "name": "Motive",
       "domain": "gomotive.com",
-      "desc": "The company offers an integrated fleet management and driver safety platform that utilizes AI to enhance operational efficiency, safety, and profitability across various industries. Key technologies include real-time AI ",
+      "desc": "The company offers an integrated suite of hardware and software solutions designed for fleet management, driver safety, equipment monitoring, and maintenance, utilizing AI and machine learning technologies to enhance ope",
       "stage": "VENTURE_UNKNOWN",
       "last_amount": 1300000000.0,
       "total": 3377300000.0,
@@ -122,6 +122,21 @@
       "location": "New York, NY"
     },
     {
+      "name": "Savvy Wealth",
+      "domain": "savvywealth.com",
+      "desc": "Savvy offers a technology-driven wealth management service that combines personalized financial planning with investment management tailored to individual client goals and risk tolerance. The platform utilizes AI to auto",
+      "stage": "SERIES_C",
+      "last_amount": 100000000.0,
+      "total": 205800000.0,
+      "investors": [
+        "Global Founders Capital",
+        "Index Ventures",
+        "Jordan Park Group",
+        "Vestigo Ventures"
+      ],
+      "location": "New York, New York"
+    },
+    {
       "name": "Blee",
       "domain": "blee.com",
       "desc": "The main product is an AI-driven marketing compliance platform that streamlines the review and approval process for marketing content, ensuring alignment with regulatory standards and brand guidelines. It utilizes advanc",
@@ -135,6 +150,21 @@
         "Cardumen Capital"
       ],
       "location": "New York, NY"
+    },
+    {
+      "name": "Archy",
+      "domain": "archy.com",
+      "desc": "Archy offers a cloud-based dental practice management software that integrates various functionalities to streamline operations, utilizing AI technologies for tasks such as claim processing and clinical note generation. ",
+      "stage": "SERIES_C",
+      "last_amount": 50000000.0,
+      "total": 97000000.0,
+      "investors": [
+        "Entrée Capital",
+        "Diagram Collective",
+        "JMI Equity",
+        "Alven"
+      ],
+      "location": "San Jose, CA"
     },
     {
       "name": "Arlequin AI",
@@ -225,6 +255,21 @@
       "location": "526 S Main St Suite 809 Akron, Ohio 44311, US"
     },
     {
+      "name": "UrgentIQ",
+      "domain": "urgentiq.com",
+      "desc": "The main product is an AI-native operating system designed specifically for urgent care centers, featuring functionalities such as automated patient intake, real-time insurance verification, and AI-powered clinical docum",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 23699999.0,
+      "investors": [
+        "Sidekick Partners",
+        "Bienville",
+        "Fractal Software",
+        "Five Elms Capital"
+      ],
+      "location": "New York City, NY"
+    },
+    {
       "name": "GenHealth.ai",
       "domain": "genhealth.ai",
       "desc": "GenHealth.ai develops generative AI solutions aimed at automating healthcare operations, specifically targeting administrative tasks within provider and payer workflows. The technology utilizes AI agents to streamline pr",
@@ -240,19 +285,19 @@
       "location": "520 Lewis Street North West, Vienna, VA 22180, United States"
     },
     {
-      "name": "UrgentIQ",
-      "domain": "urgentiq.com",
-      "desc": "The main product is an AI-native operating system designed specifically for urgent care centers, featuring functionalities such as automated patient intake, real-time insurance verification, and AI-powered clinical docum",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 23699999.0,
+      "name": "Pennylane",
+      "domain": "pennylane.com",
+      "desc": "The main product is a comprehensive financial management and accounting software designed for European SMEs, integrating invoicing, expense management, and real-time cash flow monitoring into a single platform. It utiliz",
+      "stage": "SERIES_E",
+      "last_amount": 200000000.0,
+      "total": 655517998.0,
       "investors": [
-        "Sidekick Partners",
-        "Bienville",
-        "Fractal Software",
-        "Five Elms Capital"
+        "Global Founders Capital",
+        "CapitalG",
+        "Discovery Ventures",
+        "Blackstone"
       ],
-      "location": "New York City, NY"
+      "location": "Paris, Île-de-France"
     },
     {
       "name": "Euno",
@@ -285,6 +330,18 @@
       "location": "New York City"
     },
     {
+      "name": "KAVIA AI",
+      "domain": "kavia.ai",
+      "desc": "KAVIA AI offers an enterprise software engineering platform designed for managing complex codebases, facilitating code understanding, workflow automation, and artifact generation. The platform employs technologies for re",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 3000000.0,
+      "investors": [
+        "Tata Elxsi"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
       "name": "Xapien",
       "domain": "xapien.com",
       "desc": "Xapien offers an AI-powered due diligence platform that conducts comprehensive risk assessments of third-party relationships, providing visibility into potential reputational and regulatory risks. The platform utilizes a",
@@ -313,18 +370,6 @@
         "Join Capital GmbH"
       ],
       "location": "London, England"
-    },
-    {
-      "name": "KAVIA AI",
-      "domain": "kavia.ai",
-      "desc": "KAVIA AI offers an AI-powered coding platform designed to streamline the software development lifecycle, focusing on complex enterprise codebases and backend integration. The platform incorporates technologies such as co",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 3000000.0,
-      "investors": [
-        "Tata Elxsi"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "VideoGen",
@@ -357,6 +402,21 @@
       "location": "San Francisco, CA, United States"
     },
     {
+      "name": "Veridue.",
+      "domain": "veridue.ai",
+      "desc": "The company offers an AI-native due diligence and M&A platform specifically designed for renewable energy and data centers, enabling users to screen a significantly larger number of investment opportunities and complete ",
+      "stage": "PRE_SEED",
+      "last_amount": 4000000.0,
+      "total": 4000000.0,
+      "investors": [
+        "Episode 1 Ventures",
+        "HTGF | High-Tech Gründerfonds",
+        "Pi Labs",
+        "rule30"
+      ],
+      "location": "Amsterdam, North Holland, Netherlands"
+    },
+    {
       "name": "Wyre AI",
       "domain": "wyreai.io",
       "desc": "Wyre AI offers an AI-powered platform designed for preconstruction risk management, which automates the generation of structured scopes and identifies conflicts within construction documents, including drawings and speci",
@@ -372,36 +432,6 @@
       "location": "Washington DC"
     },
     {
-      "name": "Hello Clever",
-      "domain": "helloclever.co",
-      "desc": "Hello Clever offers an AI-powered payments and loyalty platform that integrates real-time payment processing with instant cashback and rewards features. The technology leverages proprietary data and artificial intelligen",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 4636984.0,
-      "investors": [
-        "CrossFund",
-        "Boson Ventures",
-        "Yolo Investments",
-        "Vectr Ventures"
-      ],
-      "location": "Sydney, New South Wales"
-    },
-    {
-      "name": "Ultimarii Ltd.",
-      "domain": "ultimarii.com",
-      "desc": "The company offers AI-powered solutions designed to streamline regulatory processes in highly regulated industries such as energy, utilities, and mining, focusing on creating tailored tools that address the specific need",
-      "stage": "SERIES_A",
-      "last_amount": 13000000.0,
-      "total": 13223844.0,
-      "investors": [
-        "National Research Council Canada / Conseil national de recherches Canada",
-        "Staircase Ventures",
-        "Bluesky Equities",
-        "Alpaca VC"
-      ],
-      "location": "Calgary, Alberta"
-    },
-    {
       "name": "fundcraft",
       "domain": "fundcraft.lu",
       "desc": "The company offers a digital platform that centralizes and automates back-office operations for alternative investment funds, including functions such as transfer agency, accounting, portfolio and risk management, and co",
@@ -415,6 +445,21 @@
         "CCAP Investments & Advisory"
       ],
       "location": "Bertrange"
+    },
+    {
+      "name": "Hello Clever",
+      "domain": "helloclever.co",
+      "desc": "The company offers an AI-powered payments and loyalty platform that integrates real-time payment processing with instant cashback and rewards, leveraging proprietary data and artificial intelligence to enhance transactio",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 4636984.0,
+      "investors": [
+        "CrossFund",
+        "Boson Ventures",
+        "Yolo Investments",
+        "Vectr Ventures"
+      ],
+      "location": "Sydney, New South Wales"
     },
     {
       "name": "Kapital Grupo Financiero",
@@ -445,21 +490,6 @@
         "Character Capital"
       ],
       "location": "Menlo Park, CA"
-    },
-    {
-      "name": "Veridue.",
-      "domain": "veridue.ai",
-      "desc": "The company offers an AI-native due diligence and M&A platform specifically designed for renewable energy and data centers, enabling users to screen a significantly larger number of investment opportunities and complete ",
-      "stage": "PRE_SEED",
-      "last_amount": 4000000.0,
-      "total": 4000000.0,
-      "investors": [
-        "Episode 1 Ventures",
-        "HTGF | High-Tech Gründerfonds",
-        "Pi Labs",
-        "rule30"
-      ],
-      "location": "Amsterdam, North Holland, Netherlands"
     },
     {
       "name": "Actionable",
@@ -521,6 +551,21 @@
       "location": "Dallas, Texas"
     },
     {
+      "name": "Minoa",
+      "domain": "minoa.io",
+      "desc": "Minoa offers an AI-powered platform designed to enhance value selling for B2B go-to-market teams by enabling them to identify, track, and maximize customer impact throughout the sales lifecycle. The technology integrates",
+      "stage": "SEED",
+      "last_amount": 6200000.0,
+      "total": 8900000.0,
+      "investors": [
+        "AirAngels",
+        "FiDi Ventures",
+        "Alumni Ventures",
+        "10X Capital"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
       "name": "Limetax",
       "domain": "limetax.de",
       "desc": "Limetax offers a technology-driven solution designed to redefine accounting and tax consulting for law firms, enabling them to provide transparent and effective advisory services. The platform integrates proprietary tech",
@@ -536,6 +581,21 @@
       "location": "Berlin, BE"
     },
     {
+      "name": "Chift API",
+      "domain": "chift.eu",
+      "desc": "Chift offers a unified API platform that facilitates seamless integration with over 100 financial software tools, including accounting, invoicing, and POS systems, enabling software vendors to connect their products effi",
+      "stage": "SERIES_A",
+      "last_amount": 12121353.0,
+      "total": 15302720.0,
+      "investors": [
+        "Entourage Ventures",
+        "BlackFin Capital Partners",
+        "Seeder Fund",
+        "Wallonie Entreprendre"
+      ],
+      "location": "Brussels"
+    },
+    {
       "name": "Sona8",
       "domain": "sona8.com",
       "desc": "Sona8 provides AI-driven voice interviews that facilitate comprehensive organizational intelligence by engaging every employee in personalized conversations, allowing for the collection of critical insights on operationa",
@@ -546,21 +606,6 @@
         "Y Combinator"
       ],
       "location": "Cambridge, Massachusetts, United States"
-    },
-    {
-      "name": "Minoa",
-      "domain": "minoa.io",
-      "desc": "Minoa offers an AI-powered platform designed to enhance value selling for B2B go-to-market teams by enabling them to identify, track, and maximize customer impact throughout the sales lifecycle. The technology integrates",
-      "stage": "SEED",
-      "last_amount": 6200000.0,
-      "total": 8900000.0,
-      "investors": [
-        "AirAngels",
-        "FiDi Ventures",
-        "Alumni Ventures",
-        "10X Capital"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "herdr",
@@ -591,6 +636,21 @@
         "Copilot Capital"
       ],
       "location": "Madrid, Community of Madrid"
+    },
+    {
+      "name": "Reins",
+      "domain": "myreins.com",
+      "desc": "Reins offers a software platform that facilitates the creation and management of alternative equity incentive programs, including phantom stock and profit-sharing arrangements, designed to align employee performance with",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 7590000.0,
+      "investors": [
+        "The Mint (San Francisco)",
+        "Better Tomorrow Ventures",
+        "ANIMO Ventures",
+        "Torch Capital"
+      ],
+      "location": "Las Vegas, Nevada"
     },
     {
       "name": "Quivly AI",
@@ -674,53 +734,6 @@
         "Joachim Sorba"
       ],
       "location": "Rotkreuz, Zug"
-    },
-    {
-      "name": "Insaio",
-      "domain": "insaio.com",
-      "desc": "Insaio provides an operating system designed for managing client interactions in the insurance and finance sectors, utilizing AI agents to handle calls, follow-ups, and appointment scheduling. The technology enables stru",
-      "stage": "PRE_SEED",
-      "last_amount": 220000.0,
-      "total": 220000.0,
-      "investors": [],
-      "location": "Hamburg, HH"
-    },
-    {
-      "name": "Shiftmate Corp",
-      "domain": "shiftmate.ai",
-      "desc": "The main product is an AI-driven growth and efficiency platform designed for credit unions, which provides real-time insights into member behaviors and automates personalized outreach strategies. It utilizes predictive a",
-      "stage": "SEED",
-      "last_amount": 500000.0,
-      "total": 1800000.0,
-      "investors": [],
-      "location": "Farmington Hills, Michigan"
-    },
-    {
-      "name": "DeepCtrls",
-      "domain": "deepctrls.com",
-      "desc": "The company offers an AI-powered energy efficiency platform that includes specialized software for managing HVAC systems and a control system for compressed air systems, utilizing advanced optimization algorithms and col",
-      "stage": "SERIES_B",
-      "last_amount": 0,
-      "total": 14331575.0,
-      "investors": [
-        "Yuanqi Capital",
-        "Shenzhen Capital Group Co., Ltd",
-        "Aramco Ventures",
-        "Forebright Capital"
-      ],
-      "location": "Singapore"
-    },
-    {
-      "name": "Metacognition",
-      "domain": "metacognitionai.com",
-      "desc": "Metacognition develops advanced AI systems designed to enable intelligent agents and robots to operate effectively in dynamic environments by utilizing technologies such as continual learning, LLM adaptation, and explici",
-      "stage": "PRE_SEED",
-      "last_amount": 10000000.0,
-      "total": 10000000.0,
-      "investors": [
-        "Main Sequence"
-      ],
-      "location": "Adelaide, South Australia"
     }
   ]
 }
