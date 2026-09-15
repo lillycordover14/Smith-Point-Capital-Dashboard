@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-14",
+  "generated": "2026-09-15",
   "window_days": 45,
   "counts": {
     "actionable": 5,
-    "watchlist": 11,
+    "watchlist": 13,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -94,6 +94,23 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "Overroute",
+      "desc": "Logistics & supply chain",
+      "theme": "Precision Applications",
+      "vertical": "Supply Chain",
+      "stage": "Seed",
+      "amount_m": 6,
+      "investors": [],
+      "date": "2026-09-15",
+      "link": "https://overroute.com",
+      "domain": "overroute.com",
+      "tier": "watchlist",
+      "fit_reason": "Seed — early; track for traction",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "fundcraft",
       "desc": "Financial back-office & compliance AI",
@@ -231,19 +248,19 @@
       "connection_status": "no connection surfaced — good to flag"
     },
     {
-      "company": "Magnar",
-      "desc": "Legal AI",
+      "company": "Blee",
+      "desc": "Blee raises USD $27 million to scale compliance software",
       "theme": "Precision Applications",
-      "vertical": "Legal",
-      "stage": "Series A",
-      "amount_m": 8,
+      "vertical": "Compliance",
+      "stage": "Venture",
+      "amount_m": 27,
       "investors": [],
       "date": "2026-09-09",
-      "link": "https://magnar.ai",
-      "domain": "magnard.fr",
+      "link": "https://itbrief.co.nz/story/blee-raises-usd-27-million-to-scale-compliance-software",
+      "domain": "bleedingcool.com",
       "tier": "watchlist",
-      "fit_reason": "Series A ($8M) — track for the next round",
-      "source": "funds",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
@@ -278,6 +295,23 @@
       "tier": "watchlist",
       "fit_reason": "stage unconfirmed — track",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "OmicsBank",
+      "desc": "OmicsBank Raises $2 . 25M to Expand Clinical Data Infrastructure Globally for Healthcare , Life Sciences , and Frontier AI Labs",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-25",
+      "link": "https://www.prnewswire.com/news-releases/omicsbank-raises-2-25m-to-expand-clinical-data-infrastructure-globally-for-healthcare-life-sciences-and-frontier-ai-labs-302859623.html",
+      "domain": "omicsbank.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }
