@@ -3468,5 +3468,40 @@
     "theme": "Agent-native infra",
     "domain": "",
     "clean": "DataRobot"
+  },
+  "caddi": {
+    "theme": "Physical AI & robotics",
+    "domain": "",
+    "clean": "CADDi"
+  },
+  "thatch": {
+    "theme": "Healthcare & bio AI",
+    "domain": "",
+    "clean": "Thatch"
+  },
+  "juicebox": {
+    "theme": "HR & workforce",
+    "domain": "",
+    "clean": "Juicebox"
+  },
+  "pavefinance": {
+    "theme": "Fintech & payments",
+    "domain": "",
+    "clean": "Pave Finance"
+  },
+  "complir": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Complir"
+  },
+  "velocity": {
+    "theme": "Crypto & digital assets",
+    "domain": "",
+    "clean": "Velocity"
+  },
+  "darwinbox": {
+    "theme": "HR & workforce",
+    "domain": "",
+    "clean": "Darwinbox"
   }
 }
