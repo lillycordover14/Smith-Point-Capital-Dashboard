@@ -26,6 +26,13 @@
   },
   "updates": [
     {
+      "date": "2026-09-18",
+      "type": "Thesis",
+      "title": "Robots Don't Need Robots",
+      "link": "https://blog.canonical.cc/p/robots-dont-need-robots",
+      "summary": "One model learned from a glove, another from other robots, a third from video. None of them needed a teleop fleet."
+    },
+    {
       "date": "2026-09-11",
       "type": "Thesis",
       "title": "Who Underwrites the Robots?",

@@ -1,24 +1,150 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 77,
-    "total_cap_m": 15408,
-    "early_cap_m": 2480,
+    "total_cap_m": 15603,
+    "early_cap_m": 2488,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 25,
-      "Series A": 49,
-      "Series B": 22,
+      "Seed": 24,
+      "Series A": 50,
+      "Series B": 21,
       "Series C": 12,
       "Series D": 5,
       "Venture": 72
     }
   },
   "raises": [
+    {
+      "company": "Ridgeline",
+      "amount_m": 250,
+      "date": "2026-09-18",
+      "link": "https://ridgelineapps.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series E"
+    },
+    {
+      "company": "Comp AI",
+      "amount_m": 34,
+      "date": "2026-09-18",
+      "link": "https://trycomp.ai",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Kastle (YC S24)",
+      "amount_m": 24,
+      "date": "2026-09-18",
+      "link": "https://kastle.ai",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Series A"
+    },
+    {
+      "company": "Magentic",
+      "amount_m": 18,
+      "date": "2026-09-18",
+      "link": "https://magentic.com",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Series A"
+    },
+    {
+      "company": "Mainstay",
+      "amount_m": 18,
+      "date": "2026-09-18",
+      "link": "https://mainstay.io",
+      "investors": [],
+      "theme": "Vertical SaaS",
+      "stage": "Series A"
+    },
+    {
+      "company": "Scaffold",
+      "amount_m": 15,
+      "date": "2026-09-18",
+      "link": "https://getscaffold.com",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Seed"
+    },
+    {
+      "company": "Synapse Analytics",
+      "amount_m": 13,
+      "date": "2026-09-18",
+      "link": "https://synapse-analytics.io",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Series A"
+    },
+    {
+      "company": "Overfuel",
+      "amount_m": 6,
+      "date": "2026-09-18",
+      "link": "https://overfuel.com",
+      "investors": [],
+      "theme": "Data infrastructure",
+      "stage": "Seed"
+    },
+    {
+      "company": "Opio",
+      "amount_m": 5,
+      "date": "2026-09-18",
+      "link": "https://opio.fi",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Decimal",
+      "amount_m": 4,
+      "date": "2026-09-18",
+      "link": "https://decimal.app",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "JustSolve",
+      "amount_m": 3,
+      "date": "2026-09-18",
+      "link": "https://just-solve.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Expertise AI",
+      "amount_m": 2,
+      "date": "2026-09-18",
+      "link": "https://expertise.ai",
+      "investors": [],
+      "theme": "Sales & GTM AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Guesty",
+      "amount_m": null,
+      "date": "2026-09-18",
+      "link": "https://guesty.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series F"
+    },
+    {
+      "company": "Native",
+      "amount_m": null,
+      "date": "2026-09-18",
+      "link": "https://native.no",
+      "investors": [],
+      "theme": "Marketing & creative AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Veridion",
       "amount_m": 20,
@@ -38,15 +164,6 @@
       "stage": "Series A"
     },
     {
-      "company": "Gaia Dynamics",
-      "amount_m": 7,
-      "date": "2026-09-17",
-      "link": "https://gaiadynamics.ai",
-      "investors": [],
-      "theme": "Financial back-office & compliance AI",
-      "stage": "Seed"
-    },
-    {
       "company": "boxd",
       "amount_m": 2,
       "date": "2026-09-17",
@@ -63,15 +180,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Venture Unknown"
-    },
-    {
-      "company": "Avante",
-      "amount_m": null,
-      "date": "2026-09-17",
-      "link": "https://avante.ai",
-      "investors": [],
-      "theme": "Insurance / insurtech",
-      "stage": "Seed"
     },
     {
       "company": "Singulr AI",
@@ -110,15 +218,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "StrikeReady",
-      "amount_m": null,
-      "date": "2026-09-17",
-      "link": "https://strikeready.com",
-      "investors": [],
-      "theme": "Cybersecurity",
-      "stage": "Series A"
-    },
-    {
       "company": "Finpilot",
       "amount_m": null,
       "date": "2026-09-17",
@@ -126,6 +225,15 @@
       "investors": [],
       "theme": "Fintech & payments",
       "stage": "Seed"
+    },
+    {
+      "company": "StrikeReady",
+      "amount_m": null,
+      "date": "2026-09-17",
+      "link": "https://strikeready.com",
+      "investors": [],
+      "theme": "Cybersecurity",
+      "stage": "Series A"
     },
     {
       "company": "CADDi",
@@ -245,15 +353,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "DataRobot",
-      "amount_m": null,
-      "date": "2026-09-15",
-      "link": "https://datarobot.com",
-      "investors": [],
-      "theme": "Agent-native infra",
-      "stage": "Venture Unknown"
-    },
-    {
       "company": "Savvy Wealth",
       "amount_m": 100,
       "date": "2026-09-14",
@@ -299,15 +398,6 @@
       "stage": "Series A"
     },
     {
-      "company": "Metacognition",
-      "amount_m": 10,
-      "date": "2026-09-12",
-      "link": "https://metacognitionai.com",
-      "investors": [],
-      "theme": "Physical AI & robotics",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Motive",
       "amount_m": 1300,
       "date": "2026-09-11",
@@ -315,87 +405,6 @@
       "investors": [],
       "theme": "Physical AI & robotics",
       "stage": "Venture Unknown"
-    },
-    {
-      "company": "Xapien",
-      "amount_m": 56,
-      "date": "2026-09-11",
-      "link": "https://xapien.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series B"
-    },
-    {
-      "company": "Graph AI",
-      "amount_m": 13,
-      "date": "2026-09-11",
-      "link": "https://graphsafety.ai",
-      "investors": [],
-      "theme": "Financial back-office & compliance AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Intermezzo",
-      "amount_m": 10,
-      "date": "2026-09-11",
-      "link": "https://intermezzo.ai",
-      "investors": [],
-      "theme": "HR & workforce",
-      "stage": "Seed"
-    },
-    {
-      "company": "Wyre AI",
-      "amount_m": 5,
-      "date": "2026-09-11",
-      "link": "https://wyreai.io",
-      "investors": [],
-      "theme": "Financial back-office & compliance AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "KAVIA AI",
-      "amount_m": null,
-      "date": "2026-09-11",
-      "link": "https://kavia.ai",
-      "investors": [],
-      "theme": "AI dev tooling",
-      "stage": "Seed"
-    },
-    {
-      "company": "Quivly AI",
-      "amount_m": null,
-      "date": "2026-09-11",
-      "link": "https://quivly.ai",
-      "investors": [],
-      "theme": "Sales & GTM AI",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Arlequin AI",
-      "amount_m": 33,
-      "date": "2026-09-10",
-      "link": "https://arlq.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "Luminary",
-      "amount_m": 22,
-      "date": "2026-09-10",
-      "link": "https://withluminary.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Series A"
-    },
-    {
-      "company": "Aqua",
-      "amount_m": 15,
-      "date": "2026-09-10",
-      "link": "https://investwithaqua.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     },
     {
       "company": "Kapital Grupo Financiero",
@@ -2188,32 +2197,19 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Venture"
-    },
-    {
-      "company": "Sekai",
-      "amount_m": 26,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RM05jb0RkbkRTZHM2TUItQ0JRQlM0UGZZQWNwQzdlWExmcWpydFc0dU5PWkVENFl0cDg5MlpmNkh3XzlYc3NycDhLdlR2VUtHNW11R2F1T3NBYTJrWlMyUUdZTzlwcW95cUxhcmZDa00?oc=5",
-      "investors": [
-        "Khosla Ventures",
-        "MVP Ventures",
-        "New Enterprise Associates"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 108,
+      "count": 109,
       "examples": [
-        "Veridion",
-        "boxd",
-        "Hatz AI",
-        "EVERYWHERE Communications",
-        "Temporal Technologies",
-        "Attio"
+        "Ridgeline",
+        "Opio",
+        "Decimal",
+        "JustSolve",
+        "Guesty",
+        "Veridion"
       ]
     },
     {
@@ -2254,26 +2250,38 @@
     },
     {
       "theme": "Physical AI & robotics",
-      "count": 9,
+      "count": 8,
       "examples": [
         "CADDi",
-        "Metacognition",
         "Motive",
         "Monumental",
         "Nous Research",
-        "Dexterous Robotics Benchmark DexVerse"
+        "Dexterous Robotics Benchmark DexVerse",
+        "Humble Robotics"
       ]
     },
     {
       "theme": "Fintech & payments",
-      "count": 8,
+      "count": 7,
       "examples": [
         "Finpilot",
         "Pave Finance",
         "Savvy Wealth",
-        "Luminary",
         "Float",
-        "Fomo"
+        "Fomo",
+        "Crypto trading app Fomo"
+      ]
+    },
+    {
+      "theme": "Applied AI agents",
+      "count": 6,
+      "examples": [
+        "Kastle (YC S24)",
+        "Adaptive",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
       ]
     },
     {
@@ -2288,69 +2296,40 @@
       ]
     },
     {
-      "theme": "HR & workforce",
-      "count": 5,
-      "examples": [
-        "Juicebox",
-        "Darwinbox",
-        "Jack & Jill",
-        "Intermezzo",
-        "Factorial"
-      ]
-    },
-    {
-      "theme": "Applied AI agents",
-      "count": 5,
-      "examples": [
-        "Adaptive",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ]
-    },
-    {
-      "theme": "Financial back-office & compliance AI",
+      "theme": "Vertical SaaS",
       "count": 4,
       "examples": [
-        "Gaia Dynamics",
-        "Complir",
-        "Graph AI",
-        "Wyre AI"
-      ]
-    },
-    {
-      "theme": "Vertical SaaS",
-      "count": 3,
-      "examples": [
+        "Mainstay",
         "Buildots",
         "Agave",
         "Scotch"
       ]
     },
     {
-      "theme": "Agent-native infra",
+      "theme": "HR & workforce",
+      "count": 4,
+      "examples": [
+        "Juicebox",
+        "Darwinbox",
+        "Jack & Jill",
+        "Factorial"
+      ]
+    },
+    {
+      "theme": "Data infrastructure",
       "count": 3,
       "examples": [
-        "DataRobot",
-        "Straiker",
-        "Trase"
+        "Scaffold",
+        "Synapse Analytics",
+        "Overfuel"
       ]
     },
     {
-      "theme": "Insurance / insurtech",
+      "theme": "Financial back-office & compliance AI",
       "count": 2,
       "examples": [
-        "Avante",
-        "Rebuild"
-      ]
-    },
-    {
-      "theme": "AI dev tooling",
-      "count": 2,
-      "examples": [
-        "KAVIA AI",
-        "Fusion Developer Helion"
+        "Comp AI",
+        "Complir"
       ]
     },
     {
@@ -2362,10 +2341,39 @@
       ]
     },
     {
+      "theme": "Agent-native infra",
+      "count": 2,
+      "examples": [
+        "Straiker",
+        "Trase"
+      ]
+    },
+    {
+      "theme": "Logistics & supply chain",
+      "count": 1,
+      "examples": [
+        "Magentic"
+      ]
+    },
+    {
       "theme": "Sales & GTM AI",
       "count": 1,
       "examples": [
-        "Quivly AI"
+        "Expertise AI"
+      ]
+    },
+    {
+      "theme": "Marketing & creative AI",
+      "count": 1,
+      "examples": [
+        "Native"
+      ]
+    },
+    {
+      "theme": "Insurance / insurtech",
+      "count": 1,
+      "examples": [
+        "Rebuild"
       ]
     },
     {
@@ -2381,20 +2389,27 @@
       "examples": [
         "Sandstone"
       ]
+    },
+    {
+      "theme": "AI dev tooling",
+      "count": 1,
+      "examples": [
+        "Fusion Developer Helion"
+      ]
     }
   ],
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 108,
-      "cap_m": 8094,
+      "count": 109,
+      "cap_m": 8226,
       "examples": [
-        "Veridion",
-        "boxd",
-        "Hatz AI",
-        "EVERYWHERE Communications",
-        "Temporal Technologies",
-        "Attio"
+        "Ridgeline",
+        "Opio",
+        "Decimal",
+        "JustSolve",
+        "Guesty",
+        "Veridion"
       ],
       "top_stage": "Venture"
     },
@@ -2442,29 +2457,43 @@
     },
     {
       "theme": "Physical AI & robotics",
-      "count": 9,
-      "cap_m": 1568,
+      "count": 8,
+      "cap_m": 1558,
       "examples": [
         "CADDi",
-        "Metacognition",
         "Motive",
         "Monumental",
         "Nous Research",
-        "Dexterous Robotics Benchmark DexVerse"
+        "Dexterous Robotics Benchmark DexVerse",
+        "Humble Robotics"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Fintech & payments",
-      "count": 8,
-      "cap_m": 385,
+      "count": 7,
+      "cap_m": 363,
       "examples": [
         "Finpilot",
         "Pave Finance",
         "Savvy Wealth",
-        "Luminary",
         "Float",
-        "Fomo"
+        "Fomo",
+        "Crypto trading app Fomo"
+      ],
+      "top_stage": "Venture"
+    },
+    {
+      "theme": "Applied AI agents",
+      "count": 6,
+      "cap_m": 175,
+      "examples": [
+        "Kastle (YC S24)",
+        "Adaptive",
+        "InstaLILY AI",
+        "Pocket",
+        "Sail Research",
+        "Prosper AI"
       ],
       "top_stage": "Series A"
     },
@@ -2482,48 +2511,11 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "HR & workforce",
-      "count": 5,
-      "cap_m": 230,
-      "examples": [
-        "Juicebox",
-        "Darwinbox",
-        "Jack & Jill",
-        "Intermezzo",
-        "Factorial"
-      ],
-      "top_stage": "Series D"
-    },
-    {
-      "theme": "Applied AI agents",
-      "count": 5,
-      "cap_m": 151,
-      "examples": [
-        "Adaptive",
-        "InstaLILY AI",
-        "Pocket",
-        "Sail Research",
-        "Prosper AI"
-      ],
-      "top_stage": "Series B"
-    },
-    {
-      "theme": "Financial back-office & compliance AI",
-      "count": 4,
-      "cap_m": 36,
-      "examples": [
-        "Gaia Dynamics",
-        "Complir",
-        "Graph AI",
-        "Wyre AI"
-      ],
-      "top_stage": "Seed"
-    },
-    {
       "theme": "Vertical SaaS",
-      "count": 3,
-      "cap_m": 165,
+      "count": 4,
+      "cap_m": 183,
       "examples": [
+        "Mainstay",
         "Buildots",
         "Agave",
         "Scotch"
@@ -2531,15 +2523,37 @@
       "top_stage": "Series A"
     },
     {
-      "theme": "Agent-native infra",
-      "count": 3,
-      "cap_m": 171,
+      "theme": "HR & workforce",
+      "count": 4,
+      "cap_m": 220,
       "examples": [
-        "DataRobot",
-        "Straiker",
-        "Trase"
+        "Juicebox",
+        "Darwinbox",
+        "Jack & Jill",
+        "Factorial"
       ],
-      "top_stage": "Venture Unknown"
+      "top_stage": "Series D"
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 3,
+      "cap_m": 34,
+      "examples": [
+        "Scaffold",
+        "Synapse Analytics",
+        "Overfuel"
+      ],
+      "top_stage": "Seed"
+    },
+    {
+      "theme": "Financial back-office & compliance AI",
+      "count": 2,
+      "cap_m": 45,
+      "examples": [
+        "Comp AI",
+        "Complir"
+      ],
+      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3491,32 +3505,27 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-27",
+    "since": "2026-08-28",
     "tw": [
       {
-        "name": "HR & workforce",
+        "name": "Applied / horizontal AI",
         "delta": 3,
+        "now": 109
+      },
+      {
+        "name": "Cybersecurity",
+        "delta": 2,
         "now": 5
       },
       {
+        "name": "Data infrastructure",
+        "delta": 2,
+        "now": 3
+      },
+      {
         "name": "Healthcare & bio AI",
-        "delta": 2,
+        "delta": 1,
         "now": 21
-      },
-      {
-        "name": "Physical AI & robotics",
-        "delta": 2,
-        "now": 9
-      },
-      {
-        "name": "Fintech & payments",
-        "delta": 2,
-        "now": 8
-      },
-      {
-        "name": "Insurance / insurtech",
-        "delta": 2,
-        "now": 2
       },
       {
         "name": "Crypto & digital assets",
@@ -3524,24 +3533,24 @@
         "now": 10
       },
       {
-        "name": "Cybersecurity",
+        "name": "Fintech & payments",
         "delta": 1,
-        "now": 5
+        "now": 7
       },
       {
-        "name": "Financial back-office & compliance AI",
+        "name": "HR & workforce",
         "delta": 1,
         "now": 4
       },
       {
-        "name": "AI dev tooling",
+        "name": "Marketing & creative AI",
         "delta": 1,
-        "now": 2
+        "now": 1
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": 0,
-        "now": 108
+        "name": "Insurance / insurtech",
+        "delta": 1,
+        "now": 1
       },
       {
         "name": "Energy & climate",
@@ -3549,14 +3558,29 @@
         "now": 10
       },
       {
+        "name": "Physical AI & robotics",
+        "delta": 0,
+        "now": 8
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 0,
+        "now": 2
+      },
+      {
         "name": "Defense & national security",
         "delta": 0,
         "now": 1
       },
       {
-        "name": "Agent-native infra",
+        "name": "AI dev tooling",
+        "delta": 0,
+        "now": 1
+      },
+      {
+        "name": "Vertical SaaS",
         "delta": -1,
-        "now": 3
+        "now": 4
       },
       {
         "name": "AI compute & models",
@@ -3571,12 +3595,17 @@
       {
         "name": "Applied AI agents",
         "delta": -2,
-        "now": 5
+        "now": 6
       },
       {
-        "name": "Vertical SaaS",
+        "name": "Agent-native infra",
         "delta": -2,
-        "now": 3
+        "now": 2
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": -2,
+        "now": 1
       },
       {
         "name": "Legal AI",
