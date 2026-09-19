@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18",
+  "generated": "2026-09-19",
   "count": 183,
   "funds": [
     {
@@ -8497,6 +8497,13 @@
         "linkedin": "https://www.linkedin.com/company/ivp"
       },
       "updates": [
+        {
+          "date": "2026-09-18",
+          "type": "New fund",
+          "title": "SEC Form D — IVP XVIII-A, L.P.  (CIK 0002151160)",
+          "link": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=IVP&type=D&count=20",
+          "summary": "New fund / securities offering filed with the SEC — fresh capital to deploy."
+        },
         {
           "date": "2026-07-14",
           "type": "Post",
@@ -26046,6 +26053,48 @@
       },
       "updates": [
         {
+          "date": "2026-09-10",
+          "type": "Thesis",
+          "title": "Rogue Agents: Deciphering Agent Intent",
+          "link": "https://greylock.com/blog/rogue-agents-deciphering-agent-intent/",
+          "summary": "An effective solution for understanding and managing an agent’s intent requires a runtime system that learns normal agent behavior, detects meaningful deviation, and intervenes pre"
+        },
+        {
+          "date": "2026-09-08",
+          "type": "Thesis",
+          "title": "Introducing Antioch: The Simulation Platform for Physical AI",
+          "link": "https://greylock.com/blog/introducing-antioch-the-simulation-platform-for-physical-ai/",
+          "summary": "Enabling teams to develop, test and validate AI systems in high-fidelity simulation. Today, we’re excited to announce that Greylock is leading the Series A in Antioch, a company bu"
+        },
+        {
+          "date": "2026-07-28",
+          "type": "Thesis",
+          "title": "Breaking out of the God Box",
+          "link": "https://greylock.com/blog/breaking-out-of-the-god-box/",
+          "summary": "Every technology this powerful has created new ways for people to play, live and connect. At Greylock, we see two opportunities: the intelligent personal professional, and networks"
+        },
+        {
+          "date": "2026-07-15",
+          "type": "Thesis",
+          "title": "Introducing Oak: The AI-Native Identity Operating System",
+          "link": "https://greylock.com/blog/introducing-oak-the-ai-native-indentity-operating-system/",
+          "summary": "An AI-native platform that governs every identity across an organization. Identity has become the largest unresolved problem in enterprise security. Legacy tooling built to govern "
+        },
+        {
+          "date": "2026-07-14",
+          "type": "Thesis",
+          "title": "Introducing Greylock 18",
+          "link": "https://greylock.com/blog/introducing-greylock-18/",
+          "summary": "Today, we are announcing Greylock 18, a new $1.5 billion early-stage venture fund. A company begins when a founder sees a future others cannot yet see. There is no team, product, o"
+        },
+        {
+          "date": "2026-07-14",
+          "type": "Thesis",
+          "title": "Welcome, Glenn Kelman!",
+          "link": "https://greylock.com/blog/welcome-glenn-kelman/",
+          "summary": "We are thrilled to share that Glenn Kelman has joined Greylock as an Executive in Residence. Glenn is an exceptional operator and company builder with nearly three decades of exper"
+        },
+        {
           "date": "2026-07-14",
           "type": "Investment",
           "title": "Greylock Raises $1.5 Billion For Greylock 18 To Back AI-Native Founders - Pulse 2.0",
@@ -26088,6 +26137,13 @@
           "summary": "Mount Greylock Regional School Committee approves spending $120,000 on math interventionist&nbsp;&nbsp;The Berkshire Eagle"
         },
         {
+          "date": "2026-06-10",
+          "type": "Thesis",
+          "title": "Introducing Niteshift: The Full-Stack Cloud for Coding Agents",
+          "link": "https://greylock.com/blog/introducing-niteshift-the-full-stack-cloud-for-coding-agents/",
+          "summary": "The full-stack cloud for coding agents, pairing frontier agents with your dev environment. The best software engineering teams have invested relentlessly in their internal develope"
+        },
+        {
           "date": "2026-06-05",
           "type": "Investment",
           "title": "Opal Security Raises $23M in New Funding - FinSMEs",
@@ -26109,11 +26165,25 @@
           "summary": "Vori Raises $22M in Series B Funding&nbsp;&nbsp;FinSMEs"
         },
         {
+          "date": "2026-05-05",
+          "type": "Thesis",
+          "title": "Introducing Altara: AI for the Physical Sciences",
+          "link": "https://greylock.com/blog/introducing-altara-ai-for-the-physical-sciences/",
+          "summary": "Accelerating the physical sciences from data to breakthroughs. The physical sciences – semiconductors, batteries, advanced materials, specialty chemicals – underpin the most econom"
+        },
+        {
           "date": "2026-05-03",
           "type": "Investment",
           "title": "Palo Alto founder Nir Zuk raises $45M Seed for next-gen AI cyber startup Cylake - Ynetnews",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95MEIzVHhqbG1GMzM3RFkxVmlRSlRoWmhiamxXTXk0YjlzaFFHUVpEMjNLUWlNX2pPVGVoR3ZuUUJGSXBhQzhHcU8tcUN1ZzdtMkFPbllUOFJiSXRTOXVyTXR3?oc=5",
           "summary": "Palo Alto founder Nir Zuk raises $45M Seed for next-gen AI cyber startup Cylake&nbsp;&nbsp;Ynetnews"
+        },
+        {
+          "date": "2026-04-15",
+          "type": "Thesis",
+          "title": "Welcome, Neiman Mathew!",
+          "link": "https://greylock.com/blog/welcome-neiman-mathew/",
+          "summary": "We are excited to welcome Neiman Mathew as our newest partner on the Greylock investing team. Neiman will focus on partnering with early-stage founders often even before they have "
         }
       ],
       "region": "Americas",
@@ -26473,13 +26543,6 @@
           "title": "VC Returns Revealed: Bessemer India’s Slow-Build Strategy Put to the Test - Newcomer | Substack",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9raTRLVjJZazYtdVNRTDFYMmJhZDdCOVBoVV9OMEt2RnMtS1NnOURNbE84YTMybk11cHlUQ3Y2cW1yWHE0WktTV3NDUlZaallWVmxuR2RHOWpkLTJGN1NTSkNzbm1aZW1qLURjTC13?oc=5",
           "summary": "VC Returns Revealed: Bessemer India’s Slow-Build Strategy Put to the Test&nbsp;&nbsp;Newcomer | Substack"
-        },
-        {
-          "date": "2026-03-22",
-          "type": "Post",
-          "title": "Bessemer National Airport secures $4M in federal funding - The Business Journals",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHdVenJwSFdIbGJhaU9YNndmOEtkMzVIOUJiMURHbEN3SzNudDMxb3pHaExmcG81bzd3UWhXOXVlTG12U3U2Y1kxeWtuSHFLTklpZ0FQWUgya1FoZ1ZLcmFxYVpiTEpCOWM5V19PMmFUTTBLWm5UcExidHBsaEFnU0xFQ19nSFh4MDgxakxiS2dFb1F2M3F3OVJzVERqZThGVm5jamIzSW5hcEVV?oc=5",
-          "summary": "Bessemer National Airport secures $4M in federal funding&nbsp;&nbsp;The Business Journals"
         }
       ],
       "region": "Americas",
@@ -29773,13 +29836,6 @@
           "title": "Calling All Fourth Wing Fans — Monopoly Is Releasing Special Editions of Its Games for You! (Exclusive) - People.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DV2wzckxPUWZfSFM2Vk5HNG9hbmQxU3g5UnE1RmtHS1JzVlk4Nmd6N2Y4T25yT0pYRTZFaUZFNHQ2RlNQV2h3VG9wbXRnVHBMWnBCTENpVWpQUmktejJNaTE3QUw3WEJfVWh1OWFYZw?oc=5",
           "summary": "Calling All Fourth Wing Fans — Monopoly Is Releasing Special Editions of Its Games for You! (Exclusive)&nbsp;&nbsp;People.com"
-        },
-        {
-          "date": "2026-03-22",
-          "type": "Post",
-          "title": "The Billionaire Funding France’s Far Right - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0VMeFE3NUdtN1NQU0c2R3pTSDhMZ0lfRUlkRVBzVVJMaHVBVDFJTnZpb0ZFZ2JiZDdqajk4dUU5V1RWTWh2MXY5dXNUaW1STlZraFlSVzN2TWV3Z0JOcGRFY3pFdnY5ZDRxWXpZSEhpTnVmWFVITUZPeDYyek5oM29TS0hMT2lHTzNxbDNJZXhYTDBuT1E?oc=5",
-          "summary": "The Billionaire Funding France’s Far Right&nbsp;&nbsp;The New York Times"
         }
       ],
       "region": "Americas",

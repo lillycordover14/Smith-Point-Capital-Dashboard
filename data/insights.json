@@ -1,29 +1,74 @@
 {
-  "generated": "2026-09-18",
+  "generated": "2026-09-19",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 77,
-    "total_cap_m": 15603,
-    "early_cap_m": 2488,
+    "early_raises": 79,
+    "total_cap_m": 15412,
+    "early_cap_m": 2472,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 24,
+      "Seed": 26,
       "Series A": 50,
       "Series B": 21,
-      "Series C": 12,
+      "Series C": 10,
       "Series D": 5,
       "Venture": 72
     }
   },
   "raises": [
     {
+      "company": "Aron",
+      "amount_m": 6,
+      "date": "2026-09-19",
+      "link": "https://aronhq.com",
+      "investors": [],
+      "theme": "Logistics & supply chain",
+      "stage": "Seed"
+    },
+    {
+      "company": "Health Force",
+      "amount_m": 5,
+      "date": "2026-09-19",
+      "link": "https://healthforce.ai",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "ReFresh",
+      "amount_m": 2,
+      "date": "2026-09-19",
+      "link": "https://refresh.tech",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Seed"
+    },
+    {
+      "company": "Nearby Computing",
+      "amount_m": 1,
+      "date": "2026-09-19",
+      "link": "https://nearbycomputing.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Invertix",
+      "amount_m": null,
+      "date": "2026-09-19",
+      "link": "https://invertix.ai",
+      "investors": [],
+      "theme": "Energy & climate",
+      "stage": "Pre Seed"
+    },
+    {
       "company": "Ridgeline",
       "amount_m": 250,
       "date": "2026-09-18",
-      "link": "https://ridgelineapps.com",
+      "link": "https://ridgeline.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series E"
@@ -63,15 +108,6 @@
       "investors": [],
       "theme": "Vertical SaaS",
       "stage": "Series A"
-    },
-    {
-      "company": "Scaffold",
-      "amount_m": 15,
-      "date": "2026-09-18",
-      "link": "https://getscaffold.com",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Seed"
     },
     {
       "company": "Synapse Analytics",
@@ -171,15 +207,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
-    },
-    {
-      "company": "Hatz AI",
-      "amount_m": null,
-      "date": "2026-09-17",
-      "link": "https://hatz.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture Unknown"
     },
     {
       "company": "Singulr AI",
@@ -362,15 +389,6 @@
       "stage": "Series C"
     },
     {
-      "company": "Archy",
-      "amount_m": 50,
-      "date": "2026-09-14",
-      "link": "https://archy.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series C"
-    },
-    {
       "company": "Chift API",
       "amount_m": 12,
       "date": "2026-09-14",
@@ -389,15 +407,6 @@
       "stage": "Seed"
     },
     {
-      "company": "UrgentIQ",
-      "amount_m": 15,
-      "date": "2026-09-12",
-      "link": "https://urgentiq.com",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series A"
-    },
-    {
       "company": "Motive",
       "amount_m": 1300,
       "date": "2026-09-11",
@@ -405,15 +414,6 @@
       "investors": [],
       "theme": "Physical AI & robotics",
       "stage": "Venture Unknown"
-    },
-    {
-      "company": "Kapital Grupo Financiero",
-      "amount_m": 125,
-      "date": "2026-09-09",
-      "link": "https://kapital.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series C"
     },
     {
       "company": "Pennylane",
@@ -2202,38 +2202,38 @@
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 109,
+      "count": 108,
       "examples": [
+        "Nearby Computing",
         "Ridgeline",
         "Opio",
         "Decimal",
         "JustSolve",
-        "Guesty",
-        "Veridion"
+        "Guesty"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 21,
+      "count": 20,
       "examples": [
+        "Health Force",
         "Knowtex",
         "Kairos Health",
         "Thatch",
-        "Archy",
-        "UrgentIQ",
-        "Corner Health"
+        "Corner Health",
+        "xCures"
       ]
     },
     {
       "theme": "Energy & climate",
-      "count": 10,
+      "count": 11,
       "examples": [
+        "Invertix",
         "syte",
         "Axle Energy",
         "Vergennes battery project",
         "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
+        "Endurance Energy"
       ]
     },
     {
@@ -2316,20 +2316,28 @@
       ]
     },
     {
-      "theme": "Data infrastructure",
+      "theme": "Financial back-office & compliance AI",
       "count": 3,
       "examples": [
-        "Scaffold",
-        "Synapse Analytics",
-        "Overfuel"
+        "ReFresh",
+        "Comp AI",
+        "Complir"
       ]
     },
     {
-      "theme": "Financial back-office & compliance AI",
+      "theme": "Logistics & supply chain",
       "count": 2,
       "examples": [
-        "Comp AI",
-        "Complir"
+        "Aron",
+        "Magentic"
+      ]
+    },
+    {
+      "theme": "Data infrastructure",
+      "count": 2,
+      "examples": [
+        "Synapse Analytics",
+        "Overfuel"
       ]
     },
     {
@@ -2346,13 +2354,6 @@
       "examples": [
         "Straiker",
         "Trase"
-      ]
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 1,
-      "examples": [
-        "Magentic"
       ]
     },
     {
@@ -2401,43 +2402,43 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 109,
-      "cap_m": 8226,
+      "count": 108,
+      "cap_m": 8102,
       "examples": [
+        "Nearby Computing",
         "Ridgeline",
         "Opio",
         "Decimal",
         "JustSolve",
-        "Guesty",
-        "Veridion"
+        "Guesty"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 21,
-      "cap_m": 1269,
+      "count": 20,
+      "cap_m": 1209,
       "examples": [
+        "Health Force",
         "Knowtex",
         "Kairos Health",
         "Thatch",
-        "Archy",
-        "UrgentIQ",
-        "Corner Health"
+        "Corner Health",
+        "xCures"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Energy & climate",
-      "count": 10,
+      "count": 11,
       "cap_m": 1151,
       "examples": [
+        "Invertix",
         "syte",
         "Axle Energy",
         "Vergennes battery project",
         "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
+        "Endurance Energy"
       ],
       "top_stage": "Venture"
     },
@@ -2535,25 +2536,25 @@
       "top_stage": "Series D"
     },
     {
-      "theme": "Data infrastructure",
+      "theme": "Financial back-office & compliance AI",
       "count": 3,
-      "cap_m": 34,
+      "cap_m": 47,
       "examples": [
-        "Scaffold",
-        "Synapse Analytics",
-        "Overfuel"
+        "ReFresh",
+        "Comp AI",
+        "Complir"
       ],
       "top_stage": "Seed"
     },
     {
-      "theme": "Financial back-office & compliance AI",
+      "theme": "Logistics & supply chain",
       "count": 2,
-      "cap_m": 45,
+      "cap_m": 24,
       "examples": [
-        "Comp AI",
-        "Complir"
+        "Aron",
+        "Magentic"
       ],
-      "top_stage": "Series A"
+      "top_stage": "Seed"
     }
   ],
   "investor_signal": [
@@ -3505,27 +3506,27 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-28",
+    "since": "2026-08-29",
     "tw": [
-      {
-        "name": "Applied / horizontal AI",
-        "delta": 3,
-        "now": 109
-      },
       {
         "name": "Cybersecurity",
         "delta": 2,
         "now": 5
       },
       {
-        "name": "Data infrastructure",
+        "name": "Financial back-office & compliance AI",
         "delta": 2,
         "now": 3
       },
       {
         "name": "Healthcare & bio AI",
         "delta": 1,
-        "now": 21
+        "now": 20
+      },
+      {
+        "name": "Energy & climate",
+        "delta": 1,
+        "now": 11
       },
       {
         "name": "Crypto & digital assets",
@@ -3543,6 +3544,11 @@
         "now": 4
       },
       {
+        "name": "Data infrastructure",
+        "delta": 1,
+        "now": 2
+      },
+      {
         "name": "Marketing & creative AI",
         "delta": 1,
         "now": 1
@@ -3553,19 +3559,9 @@
         "now": 1
       },
       {
-        "name": "Energy & climate",
-        "delta": 0,
-        "now": 10
-      },
-      {
         "name": "Physical AI & robotics",
         "delta": 0,
         "now": 8
-      },
-      {
-        "name": "Financial back-office & compliance AI",
-        "delta": 0,
-        "now": 2
       },
       {
         "name": "Defense & national security",
@@ -3578,9 +3574,24 @@
         "now": 1
       },
       {
+        "name": "Applied / horizontal AI",
+        "delta": -1,
+        "now": 108
+      },
+      {
+        "name": "Applied AI agents",
+        "delta": -1,
+        "now": 6
+      },
+      {
         "name": "Vertical SaaS",
         "delta": -1,
         "now": 4
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": -1,
+        "now": 2
       },
       {
         "name": "AI compute & models",
@@ -3593,19 +3604,9 @@
         "now": 1
       },
       {
-        "name": "Applied AI agents",
-        "delta": -2,
-        "now": 6
-      },
-      {
         "name": "Agent-native infra",
         "delta": -2,
         "now": 2
-      },
-      {
-        "name": "Logistics & supply chain",
-        "delta": -2,
-        "now": 1
       },
       {
         "name": "Legal AI",
