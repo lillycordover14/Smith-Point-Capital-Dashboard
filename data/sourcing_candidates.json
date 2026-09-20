@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19",
+  "generated": "2026-09-20",
   "window_days": 45,
   "counts": {
     "actionable": 4,
@@ -7,6 +7,23 @@
     "excluded_off_thesis": 0
   },
   "actionable": [
+    {
+      "company": "Angle Health",
+      "desc": "Healthcare & bio AI",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Series C",
+      "amount_m": 200,
+      "investors": [],
+      "date": "2026-09-20",
+      "link": "https://anglehealth.com",
+      "domain": "anglehealth.com",
+      "tier": "actionable",
+      "fit_reason": "Series C ($200M) — growth-stage sweet spot",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "Comp AI",
       "desc": "Financial back-office & compliance AI",
@@ -54,23 +71,6 @@
       "domain": "rhymeswithsnitch.com",
       "tier": "actionable",
       "fit_reason": "Series C ($108M) — growth-stage sweet spot",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Savvy Wealth",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Series C",
-      "amount_m": 100,
-      "investors": [],
-      "date": "2026-09-14",
-      "link": "https://savvywealth.com",
-      "domain": "savvywealth.com",
-      "tier": "actionable",
-      "fit_reason": "Series C ($100M) — growth-stage sweet spot",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"

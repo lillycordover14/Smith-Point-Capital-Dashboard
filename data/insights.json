@@ -1,24 +1,42 @@
 {
-  "generated": "2026-09-19",
+  "generated": "2026-09-20",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 79,
-    "total_cap_m": 15412,
-    "early_cap_m": 2472,
+    "early_raises": 80,
+    "total_cap_m": 15513,
+    "early_cap_m": 2525,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 26,
+      "Seed": 27,
       "Series A": 50,
-      "Series B": 21,
+      "Series B": 20,
       "Series C": 10,
       "Series D": 5,
       "Venture": 72
     }
   },
   "raises": [
+    {
+      "company": "Angle Health",
+      "amount_m": 200,
+      "date": "2026-09-20",
+      "link": "https://anglehealth.com",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Series C"
+    },
+    {
+      "company": "Hang Ten Systems",
+      "amount_m": 53,
+      "date": "2026-09-20",
+      "link": "https://hangten.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
+    },
     {
       "company": "Aron",
       "amount_m": 6,
@@ -218,15 +236,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Knowtex",
-      "amount_m": null,
-      "date": "2026-09-17",
-      "link": "https://knowtex.ai",
-      "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Venture Unknown"
-    },
-    {
       "company": "EVERYWHERE Communications",
       "amount_m": null,
       "date": "2026-09-17",
@@ -234,6 +243,15 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
+    },
+    {
+      "company": "Knowtex",
+      "amount_m": null,
+      "date": "2026-09-17",
+      "link": "https://knowtex.ai",
+      "investors": [],
+      "theme": "Healthcare & bio AI",
+      "stage": "Venture Unknown"
     },
     {
       "company": "Kairos Health",
@@ -344,15 +362,6 @@
       "stage": "Series D"
     },
     {
-      "company": "Attio",
-      "amount_m": 52,
-      "date": "2026-09-15",
-      "link": "https://attio.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series B"
-    },
-    {
       "company": "Jack & Jill",
       "amount_m": 40,
       "date": "2026-09-15",
@@ -378,15 +387,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
-    },
-    {
-      "company": "Savvy Wealth",
-      "amount_m": 100,
-      "date": "2026-09-14",
-      "link": "https://savvywealth.com",
-      "investors": [],
-      "theme": "Fintech & payments",
-      "stage": "Series C"
     },
     {
       "company": "Chift API",
@@ -2204,24 +2204,24 @@
       "theme": "Applied / horizontal AI",
       "count": 108,
       "examples": [
+        "Hang Ten Systems",
         "Nearby Computing",
         "Ridgeline",
         "Opio",
         "Decimal",
-        "JustSolve",
-        "Guesty"
+        "JustSolve"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 20,
+      "count": 21,
       "examples": [
+        "Angle Health",
         "Health Force",
         "Knowtex",
         "Kairos Health",
         "Thatch",
-        "Corner Health",
-        "xCures"
+        "Corner Health"
       ]
     },
     {
@@ -2261,18 +2261,6 @@
       ]
     },
     {
-      "theme": "Fintech & payments",
-      "count": 7,
-      "examples": [
-        "Finpilot",
-        "Pave Finance",
-        "Savvy Wealth",
-        "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
-      ]
-    },
-    {
       "theme": "Applied AI agents",
       "count": 6,
       "examples": [
@@ -2282,6 +2270,18 @@
         "Pocket",
         "Sail Research",
         "Prosper AI"
+      ]
+    },
+    {
+      "theme": "Fintech & payments",
+      "count": 6,
+      "examples": [
+        "Finpilot",
+        "Pave Finance",
+        "Float",
+        "Fomo",
+        "Crypto trading app Fomo",
+        "SyntheticFi"
       ]
     },
     {
@@ -2403,28 +2403,28 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 108,
-      "cap_m": 8102,
+      "cap_m": 8103,
       "examples": [
+        "Hang Ten Systems",
         "Nearby Computing",
         "Ridgeline",
         "Opio",
         "Decimal",
-        "JustSolve",
-        "Guesty"
+        "JustSolve"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 20,
-      "cap_m": 1209,
+      "count": 21,
+      "cap_m": 1409,
       "examples": [
+        "Angle Health",
         "Health Force",
         "Knowtex",
         "Kairos Health",
         "Thatch",
-        "Corner Health",
-        "xCures"
+        "Corner Health"
       ],
       "top_stage": "Venture"
     },
@@ -2471,20 +2471,6 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "Fintech & payments",
-      "count": 7,
-      "cap_m": 363,
-      "examples": [
-        "Finpilot",
-        "Pave Finance",
-        "Savvy Wealth",
-        "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
-      ],
-      "top_stage": "Venture"
-    },
-    {
       "theme": "Applied AI agents",
       "count": 6,
       "cap_m": 175,
@@ -2497,6 +2483,20 @@
         "Prosper AI"
       ],
       "top_stage": "Series A"
+    },
+    {
+      "theme": "Fintech & payments",
+      "count": 6,
+      "cap_m": 263,
+      "examples": [
+        "Finpilot",
+        "Pave Finance",
+        "Float",
+        "Fomo",
+        "Crypto trading app Fomo",
+        "SyntheticFi"
+      ],
+      "top_stage": "Venture"
     },
     {
       "theme": "Cybersecurity",
@@ -3298,14 +3298,6 @@
           "date": "2026-04-29",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWJFREtWUXlwU3BGeVpCdFZXcUhISFFVQ0tVR2Y4TGMzZDhwSXE4dTkyRHMyMHFYSUNVUU9lLWtpMXc4My1JMmxpamdLQ3lhbUxZcllBMkJEV1h4SHJMUjJWVU1NVFZxaHdtQlpWR1dLS19xVlpxY0RkN0FVV3Q0Rm05VGVTYlRJeldXc09tTVNMQWtRLTRPOHFSZkwzaFdfeWZ5T1ZhdE1iajh6RkdXVWdjRmZfN2c?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Gimlet Labs",
-          "stage": "Venture",
-          "amount_m": null,
-          "date": "2026-03-23",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObkVDbFBYTW1wR19DeGFLYVNCVHBJOWJkNGg3SXZvS2JQOG8wNm9uSU16c2lqSGRkekV5M1lRaVlSYWpvUmtTR3pybVdsLXFZcUdRNkxpNGhwWWRWSGFLVHhHTkR3ZVc2dThvLXNkZEdMdzJTbkY4X2k3RkpiUGpiRWZWNTN1WUZzUmY0aVNwczJ2RmJSRjZ2dnNR?oc=5",
-          "theme": "AI compute & models"
         }
       ],
       "early": 2
@@ -3506,8 +3498,13 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-29",
+    "since": "2026-08-30",
     "tw": [
+      {
+        "name": "Healthcare & bio AI",
+        "delta": 2,
+        "now": 21
+      },
       {
         "name": "Cybersecurity",
         "delta": 2,
@@ -3519,11 +3516,6 @@
         "now": 3
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 1,
-        "now": 20
-      },
-      {
         "name": "Energy & climate",
         "delta": 1,
         "now": 11
@@ -3532,11 +3524,6 @@
         "name": "Crypto & digital assets",
         "delta": 1,
         "now": 10
-      },
-      {
-        "name": "Fintech & payments",
-        "delta": 1,
-        "now": 7
       },
       {
         "name": "HR & workforce",
@@ -3564,6 +3551,16 @@
         "now": 8
       },
       {
+        "name": "Applied AI agents",
+        "delta": 0,
+        "now": 6
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": 0,
+        "now": 6
+      },
+      {
         "name": "Defense & national security",
         "delta": 0,
         "now": 1
@@ -3579,11 +3576,6 @@
         "now": 108
       },
       {
-        "name": "Applied AI agents",
-        "delta": -1,
-        "now": 6
-      },
-      {
         "name": "Vertical SaaS",
         "delta": -1,
         "now": 4
@@ -3594,14 +3586,14 @@
         "now": 2
       },
       {
-        "name": "AI compute & models",
-        "delta": -1,
-        "now": 2
-      },
-      {
         "name": "Sales & GTM AI",
         "delta": -1,
         "now": 1
+      },
+      {
+        "name": "AI compute & models",
+        "delta": -2,
+        "now": 2
       },
       {
         "name": "Agent-native infra",

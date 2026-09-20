@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19",
+  "generated": "2026-09-20",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -64,21 +64,6 @@
       "location": "Bellevue, WA"
     },
     {
-      "name": "Attio",
-      "domain": "attio.com",
-      "desc": "Attio is a CRM designed to enhance revenue generation by automating pipeline management, deal advancement, and account growth through intelligent systems that operate continuously. It utilizes customer signals to provide",
-      "stage": "SERIES_B",
-      "last_amount": 52000000.0,
-      "total": 168196275.0,
-      "investors": [
-        "GV",
-        "Passion Capital",
-        "Redpoint",
-        "GV (Google Ventures)"
-      ],
-      "location": "London"
-    },
-    {
       "name": "Adaptive",
       "domain": "adaptive.build",
       "desc": "The main product is an AI-native project accounting platform designed for the construction industry, which automates financial operations such as job costing, accounts payable, billing, and work-in-progress reporting. It",
@@ -139,21 +124,6 @@
       "location": "London, England, United Kingdom"
     },
     {
-      "name": "Savvy Wealth",
-      "domain": "savvywealth.com",
-      "desc": "Savvy offers a technology-driven wealth management service that combines personalized financial planning with investment management tailored to individual client goals and risk tolerance. The platform utilizes AI to auto",
-      "stage": "SERIES_C",
-      "last_amount": 100000000.0,
-      "total": 205800000.0,
-      "investors": [
-        "Global Founders Capital",
-        "Index Ventures",
-        "Jordan Park Group",
-        "Vestigo Ventures"
-      ],
-      "location": "New York, New York"
-    },
-    {
       "name": "Complir",
       "domain": "complir.io",
       "desc": "The main product is an AI-driven compliance management platform that automates the tracking and management of product compliance with global regulations, including risk assessments, documentation generation, and real-tim",
@@ -212,6 +182,21 @@
         "Cherry Ventures"
       ],
       "location": "Berlin"
+    },
+    {
+      "name": "Angle Health",
+      "domain": "anglehealth.com",
+      "desc": "Angle Health offers a modern, AI-enabled health insurance platform that integrates the roles of carrier, third-party administrator, and managing general underwriter into a cohesive experience, facilitating quoting, onboa",
+      "stage": "SERIES_C",
+      "last_amount": 200000000.0,
+      "total": 396150000.0,
+      "investors": [
+        "Plug and Play",
+        "Wormhole Capital",
+        "Luca Ventures",
+        "Y Combinator"
+      ],
+      "location": "San Francisco, CA"
     },
     {
       "name": "Comp AI",
@@ -359,21 +344,6 @@
       "location": "Covina, California"
     },
     {
-      "name": "Veridion",
-      "domain": "veridion.com",
-      "desc": "The main product is a continuously updated entity resolution and company enrichment service that consolidates and verifies company data, tracking over 642 million companies globally and providing 461 attributes per entit",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 27500000.0,
-      "investors": [
-        "Hoxton Ventures",
-        "Day One Capital",
-        "Gecad Ventures",
-        "GapMinder VC"
-      ],
-      "location": "Bucharest"
-    },
-    {
       "name": "TesterArmy",
       "domain": "tester.army",
       "desc": "TesterArmy provides an AI-driven testing solution for web and mobile applications that simulates real user interactions by clicking, typing, and verifying workflows in plain language, eliminating the need for brittle tes",
@@ -387,6 +357,21 @@
         "Eight Capital Management"
       ],
       "location": "Wilmington, Delaware"
+    },
+    {
+      "name": "Veridion",
+      "domain": "veridion.com",
+      "desc": "The main product is a continuously updated entity resolution and company enrichment service that consolidates and verifies company data, tracking over 642 million companies globally and providing 461 attributes per entit",
+      "stage": "SERIES_A",
+      "last_amount": 20000000.0,
+      "total": 27500000.0,
+      "investors": [
+        "Hoxton Ventures",
+        "Day One Capital",
+        "Gecad Ventures",
+        "GapMinder VC"
+      ],
+      "location": "Bucharest"
     },
     {
       "name": "CADDi",
@@ -416,6 +401,21 @@
         "Vireo Ventures"
       ],
       "location": "Munich, Bavaria"
+    },
+    {
+      "name": "Hang Ten Systems",
+      "domain": "hangten.ai",
+      "desc": "Hang Ten Systems offers enterprise-grade software development and transformation services, utilizing an AI-Native Enterprise approach to deliver customized solutions that align with specific business operations. Their pl",
+      "stage": "SEED",
+      "last_amount": 53000000.0,
+      "total": 85000000.0,
+      "investors": [
+        "Aramco Ventures",
+        "Xora Innovation",
+        "Mayfield",
+        "Chih-Yuan Yang"
+      ],
+      "location": "550 Allerton Street, Palo Alto, CA, United States"
     },
     {
       "name": "Decimal",
@@ -478,19 +478,19 @@
       "location": "San Mateo, California"
     },
     {
-      "name": "Knowtex",
-      "domain": "knowtex.ai",
-      "desc": "Knowtex provides a voice AI solution that automates clinical workflows by transforming natural conversations into structured documentation and coding suggestions, thereby enhancing accuracy and efficiency in healthcare s",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 2625000.0,
+      "name": "Health Force",
+      "domain": "healthforce.ai",
+      "desc": "Health Force develops AI agents specifically designed to automate administrative tasks in hospitals, such as scheduling, billing, and procurement, thereby enhancing operational efficiency and reducing errors. The technol",
+      "stage": "SEED",
+      "last_amount": 4819829.0,
+      "total": 6239829.0,
       "investors": [
-        "Endless Frontier Labs",
-        "CapitalX",
-        "Y Combinator",
-        "Gaingels"
+        "Target Global",
+        "LUMO Labs",
+        "Calm/Storm",
+        "Step Venture"
       ],
-      "location": "San Francisco , California"
+      "location": "Vienna"
     },
     {
       "name": "EVERYWHERE Communications",
@@ -508,19 +508,19 @@
       "location": "Annapolis, Maryland"
     },
     {
-      "name": "Health Force",
-      "domain": "healthforce.ai",
-      "desc": "Health Force develops AI agents specifically designed to automate administrative tasks in hospitals, such as scheduling, billing, and procurement, thereby enhancing operational efficiency and reducing errors. The technol",
-      "stage": "SEED",
-      "last_amount": 4819829.0,
-      "total": 6239829.0,
+      "name": "Knowtex",
+      "domain": "knowtex.ai",
+      "desc": "Knowtex provides a voice AI solution that automates clinical workflows by transforming natural conversations into structured documentation and coding suggestions, thereby enhancing accuracy and efficiency in healthcare s",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 2625000.0,
       "investors": [
-        "Target Global",
-        "LUMO Labs",
-        "Calm/Storm",
-        "Step Venture"
+        "Endless Frontier Labs",
+        "CapitalX",
+        "Y Combinator",
+        "Gaingels"
       ],
-      "location": "Vienna"
+      "location": "San Francisco , California"
     },
     {
       "name": "Kairos Health",
@@ -533,6 +533,21 @@
         "Y Combinator"
       ],
       "location": "Houston, TX"
+    },
+    {
+      "name": "Mainstay",
+      "domain": "mainstay.io",
+      "desc": "Mainstay offers a comprehensive platform that integrates various data sources and workflows involved in residential real estate transactions, addressing the complexities of buying, owning, and selling homes. The system u",
+      "stage": "SERIES_A",
+      "last_amount": 18000000.0,
+      "total": 42950000.0,
+      "investors": [
+        "Era Ventures",
+        "FJ Labs",
+        "Clocktower Ventures",
+        "Alpaca VC"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "Finpilot",
@@ -565,21 +580,6 @@
       "location": "Dallas, Texas"
     },
     {
-      "name": "Mainstay",
-      "domain": "mainstay.io",
-      "desc": "Mainstay offers a comprehensive platform that integrates various data sources and workflows involved in residential real estate transactions, addressing the complexities of buying, owning, and selling homes. The system u",
-      "stage": "SERIES_A",
-      "last_amount": 18000000.0,
-      "total": 42950000.0,
-      "investors": [
-        "Era Ventures",
-        "FJ Labs",
-        "Clocktower Ventures",
-        "Alpaca VC"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
       "name": "Native",
       "domain": "native.no",
       "desc": "The company offers a platform for automated marketing that generates tailored content across multiple social media channels, utilizing a proprietary artificial intuition model to predict audience responses. This technolo",
@@ -591,21 +591,6 @@
         "6AM"
       ],
       "location": "Oslo"
-    },
-    {
-      "name": "Overfuel",
-      "domain": "overfuel.com",
-      "desc": "Overfuel offers a comprehensive platform designed for automotive, marine, and powersports dealerships, featuring advanced website performance, AI-enhanced inventory management, and rich analytics capabilities. The techno",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 8000000.0,
-      "investors": [
-        "Recurring Capital Partners",
-        "Elevate Ventures",
-        "Start Something Ventures",
-        "Comedor Capital — Growth capital for software & AI-enabled services"
-      ],
-      "location": "Indianapolis, Indiana"
     },
     {
       "name": "Synapse Analytics",
@@ -621,6 +606,21 @@
         "Partech"
       ],
       "location": "Abu Dhabi"
+    },
+    {
+      "name": "Overfuel",
+      "domain": "overfuel.com",
+      "desc": "Overfuel offers a comprehensive platform designed for automotive, marine, and powersports dealerships, featuring advanced website performance, AI-enhanced inventory management, and rich analytics capabilities. The techno",
+      "stage": "SEED",
+      "last_amount": 6000000.0,
+      "total": 8000000.0,
+      "investors": [
+        "Recurring Capital Partners",
+        "Elevate Ventures",
+        "Start Something Ventures",
+        "Comedor Capital — Growth capital for software & AI-enabled services"
+      ],
+      "location": "Indianapolis, Indiana"
     },
     {
       "name": "Opio",
@@ -653,6 +653,21 @@
       "location": "Barcelona, Barcelona"
     },
     {
+      "name": "ReFresh",
+      "domain": "refresh.tech",
+      "desc": "The main product is a psychosocial compliance platform designed to continuously manage and assess psychosocial risks within organizations, utilizing structured methodologies aligned with regulatory standards. It incorpor",
+      "stage": "SEED",
+      "last_amount": 2500000.0,
+      "total": 3967000.0,
+      "investors": [
+        "Archangel Ventures",
+        "Antler",
+        "Black Nova Venture Capital",
+        "Archangel VC"
+      ],
+      "location": "Sydney, New South Wales"
+    },
+    {
       "name": "Ridgeline",
       "domain": "ridgeline.ai",
       "desc": "Ridgeline offers an integrated investment management platform that combines data, workflows, and artificial intelligence to streamline operations and enhance collaboration across investment teams. The platform utilizes a",
@@ -681,19 +696,19 @@
       "location": ""
     },
     {
-      "name": "ReFresh",
-      "domain": "refresh.tech",
-      "desc": "The main product is a psychosocial compliance platform designed to continuously manage and assess psychosocial risks within organizations, utilizing structured methodologies aligned with regulatory standards. It incorpor",
-      "stage": "SEED",
-      "last_amount": 2500000.0,
-      "total": 3967000.0,
+      "name": "JustSolve",
+      "domain": "just-solve.com",
+      "desc": "JustSolve provides a cloud-based platform that automates debt collection across various communication channels, including WhatsApp, email, and SMS, while offering real-time reporting and data-driven insights. The system ",
+      "stage": "PRE_SEED",
+      "last_amount": 3440880.0,
+      "total": 3440880.0,
       "investors": [
-        "Archangel Ventures",
-        "Antler",
-        "Black Nova Venture Capital",
-        "Archangel VC"
+        "Entourage Ventures",
+        "Base10 Partners",
+        "2100 Ventures",
+        "Vento"
       ],
-      "location": "Sydney, New South Wales"
+      "location": "Milan, Lombardy"
     },
     {
       "name": "Expertise AI",
@@ -709,21 +724,6 @@
         "Amino Capital"
       ],
       "location": "Toronto, Ontario"
-    },
-    {
-      "name": "JustSolve",
-      "domain": "just-solve.com",
-      "desc": "JustSolve provides a cloud-based platform that automates debt collection across various communication channels, including WhatsApp, email, and SMS, while offering real-time reporting and data-driven insights. The system ",
-      "stage": "PRE_SEED",
-      "last_amount": 3440880.0,
-      "total": 3440880.0,
-      "investors": [
-        "Entourage Ventures",
-        "Base10 Partners",
-        "2100 Ventures",
-        "Vento"
-      ],
-      "location": "Milan, Lombardy"
     },
     {
       "name": "Tablet Command, Inc.",
