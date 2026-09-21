@@ -1,18 +1,18 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 80,
-    "total_cap_m": 15513,
+    "total_cap_m": 14434,
     "early_cap_m": 2525,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 27,
       "Series A": 50,
-      "Series B": 20,
+      "Series B": 21,
       "Series C": 10,
       "Series D": 5,
       "Venture": 72
@@ -20,8 +20,17 @@
   },
   "raises": [
     {
+      "company": "Buildkite",
+      "amount_m": 21,
+      "date": "2026-09-21",
+      "link": "https://buildkite.com",
+      "investors": [],
+      "theme": "AI compute & models",
+      "stage": "Series B"
+    },
+    {
       "company": "Angle Health",
-      "amount_m": 200,
+      "amount_m": 400,
       "date": "2026-09-20",
       "link": "https://anglehealth.com",
       "investors": [],
@@ -405,15 +414,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Seed"
-    },
-    {
-      "company": "Motive",
-      "amount_m": 1300,
-      "date": "2026-09-11",
-      "link": "https://gomotive.com",
-      "investors": [],
-      "theme": "Physical AI & robotics",
-      "stage": "Venture Unknown"
     },
     {
       "company": "Pennylane",
@@ -2250,14 +2250,14 @@
     },
     {
       "theme": "Physical AI & robotics",
-      "count": 8,
+      "count": 7,
       "examples": [
         "CADDi",
-        "Motive",
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse",
-        "Humble Robotics"
+        "Humble Robotics",
+        "Queue"
       ]
     },
     {
@@ -2316,6 +2316,15 @@
       ]
     },
     {
+      "theme": "AI compute & models",
+      "count": 3,
+      "examples": [
+        "Buildkite",
+        "Oratomic",
+        "Prime Intellect"
+      ]
+    },
+    {
       "theme": "Financial back-office & compliance AI",
       "count": 3,
       "examples": [
@@ -2338,14 +2347,6 @@
       "examples": [
         "Synapse Analytics",
         "Overfuel"
-      ]
-    },
-    {
-      "theme": "AI compute & models",
-      "count": 2,
-      "examples": [
-        "Oratomic",
-        "Prime Intellect"
       ]
     },
     {
@@ -2417,7 +2418,7 @@
     {
       "theme": "Healthcare & bio AI",
       "count": 21,
-      "cap_m": 1409,
+      "cap_m": 1609,
       "examples": [
         "Angle Health",
         "Health Force",
@@ -2458,15 +2459,15 @@
     },
     {
       "theme": "Physical AI & robotics",
-      "count": 8,
-      "cap_m": 1558,
+      "count": 7,
+      "cap_m": 258,
       "examples": [
         "CADDi",
-        "Motive",
         "Monumental",
         "Nous Research",
         "Dexterous Robotics Benchmark DexVerse",
-        "Humble Robotics"
+        "Humble Robotics",
+        "Queue"
       ],
       "top_stage": "Venture"
     },
@@ -2536,6 +2537,17 @@
       "top_stage": "Series D"
     },
     {
+      "theme": "AI compute & models",
+      "count": 3,
+      "cap_m": 451,
+      "examples": [
+        "Buildkite",
+        "Oratomic",
+        "Prime Intellect"
+      ],
+      "top_stage": "Series A"
+    },
+    {
       "theme": "Financial back-office & compliance AI",
       "count": 3,
       "cap_m": 47,
@@ -2543,16 +2555,6 @@
         "ReFresh",
         "Comp AI",
         "Complir"
-      ],
-      "top_stage": "Seed"
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 2,
-      "cap_m": 24,
-      "examples": [
-        "Aron",
-        "Magentic"
       ],
       "top_stage": "Seed"
     }
@@ -2807,14 +2809,6 @@
           "amount_m": 140,
           "date": "2026-05-04",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTF96ZXp6d1dVUXVmcF93SUI1clQ3bkRrM0h0NFQ5STZHM2k3NkExb0NTVWQtR1hzVmZPdDUyc1FCckJJczl5WEdjQnJMT2RITkd0UU04MHNNYTN0TkdCcHBSM1VTV1RSY3JkRXVMWm05c090WjJGOFpxOC1taE1IRFg4UjBfcWx6RnQzanFzTjlnMklVbFhUQUE4SnkwTjZlTGhrTUNVZkpWcUZrUVE?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Halter",
-          "stage": "Series E",
-          "amount_m": 220,
-          "date": "2026-03-24",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeWdueXRzWE90N21sUC1RTWxfSk9PNnhyeEt3cTZ1QUpFRVAwWVJuNXpGT1h3aTBhX2JaU3FsbmhMUC1VR1hQRjVwMFRGOWt1cHpJaEJlazJia2pwZWhkOXRQb2k4MTd4SHExNmM1cmcwZ2pkbGhWWmtGNEkxZnJOVDkwUDJPbEdSQWNVTmstU1ByMXh1NXpXMFFTOHNUUk9OMlJlZHcwNm9TZkRTazdsQ1hOYw?oc=5",
           "theme": "Applied / horizontal AI"
         }
       ],
@@ -3252,14 +3246,6 @@
           "theme": "Marketing & creative AI"
         },
         {
-          "company": "BrainGrid",
-          "stage": "Pre-seed",
-          "amount_m": 1,
-          "date": "2026-03-24",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ2lJSmttVXZQaWdVTF9zWlROZHpTbG40VndfaWNwRk9fQm9iaENtUWVaZzhHOXo1eFdYWkk2T25OaFdseVRzc05VMVpUbjI4LVM3d3hxTVNpV0h6RkNLYUZUSEVHc0RpdDBmV1lJdmZrZkRTN1Y5Qlp3RE12ZDB3bWZWOUcxNkVVY3NpY0VCaFBzYkNWb1FqYS1SMnBTTlJreHpfMTNCRzVJbWRPQ3ZhVmRPYmNxbER0WGE4ZFlBR2Fad0lSU1ptUkFnSjk0Qjd1RXhnRWxZTlp1bTFpUDRGUkhTYXc4Wnc5YUZMUEFBeGozYlVnVktvUQ?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Assort Health",
           "stage": "Venture",
           "amount_m": null,
@@ -3300,7 +3286,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 2
+      "early": 1
     },
     {
       "fund": "Insight",
@@ -3498,7 +3484,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-08-30",
+    "since": "2026-08-31",
     "tw": [
       {
         "name": "Healthcare & bio AI",
@@ -3514,11 +3500,6 @@
         "name": "Financial back-office & compliance AI",
         "delta": 2,
         "now": 3
-      },
-      {
-        "name": "Energy & climate",
-        "delta": 1,
-        "now": 11
       },
       {
         "name": "Crypto & digital assets",
@@ -3546,9 +3527,14 @@
         "now": 1
       },
       {
-        "name": "Physical AI & robotics",
+        "name": "Applied / horizontal AI",
         "delta": 0,
-        "now": 8
+        "now": 108
+      },
+      {
+        "name": "Energy & climate",
+        "delta": 0,
+        "now": 11
       },
       {
         "name": "Applied AI agents",
@@ -3571,14 +3557,19 @@
         "now": 1
       },
       {
-        "name": "Applied / horizontal AI",
+        "name": "Physical AI & robotics",
         "delta": -1,
-        "now": 108
+        "now": 7
       },
       {
         "name": "Vertical SaaS",
         "delta": -1,
         "now": 4
+      },
+      {
+        "name": "AI compute & models",
+        "delta": -1,
+        "now": 3
       },
       {
         "name": "Logistics & supply chain",
@@ -3589,11 +3580,6 @@
         "name": "Sales & GTM AI",
         "delta": -1,
         "now": 1
-      },
-      {
-        "name": "AI compute & models",
-        "delta": -2,
-        "now": 2
       },
       {
         "name": "Agent-native infra",

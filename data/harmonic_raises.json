@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -77,21 +77,6 @@
         "Definition"
       ],
       "location": "New York, NY"
-    },
-    {
-      "name": "Motive",
-      "domain": "gomotive.com",
-      "desc": "The company offers an integrated suite of hardware and software solutions designed for fleet management, driver safety, equipment monitoring, and maintenance, utilizing AI and machine learning technologies to enhance ope",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 1300000000.0,
-      "total": 3377300000.0,
-      "investors": [
-        "BBQ Capital",
-        "G2 Venture Partners",
-        "Insight Partners",
-        "BlackRock"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "Thatch",
@@ -188,7 +173,7 @@
       "domain": "anglehealth.com",
       "desc": "Angle Health offers a modern, AI-enabled health insurance platform that integrates the roles of carrier, third-party administrator, and managing general underwriter into a cohesive experience, facilitating quoting, onboa",
       "stage": "SERIES_C",
-      "last_amount": 200000000.0,
+      "last_amount": 400000000.0,
       "total": 396150000.0,
       "investors": [
         "Plug and Play",
@@ -259,21 +244,6 @@
       "location": "Paris, Île-de-France"
     },
     {
-      "name": "syte",
-      "domain": "syte.ms",
-      "desc": "The product is an AI-driven platform designed for real estate analysis, enabling users to assess development potential, renovation opportunities, and energy requirements, including photovoltaic capabilities. It utilizes ",
-      "stage": "SERIES_A",
-      "last_amount": 10328206.0,
-      "total": 19221618.0,
-      "investors": [
-        "Schwarz Dienstleistungen",
-        "HTGF | High-Tech Gründerfonds",
-        "Vantage Value",
-        "Xdeck Accelerator"
-      ],
-      "location": "Münster, North Rhine-Westphalia"
-    },
-    {
       "name": "Zero",
       "domain": "zero.inc",
       "desc": "Zero offers an AI-powered CRM designed to automate the entire customer lifecycle, integrating lead discovery, engagement, and customer growth into a single platform. The system utilizes a unified customer data layer, ena",
@@ -287,6 +257,21 @@
         "Greens Ventures"
       ],
       "location": "Helsinki"
+    },
+    {
+      "name": "syte",
+      "domain": "syte.ms",
+      "desc": "The product is an AI-driven platform designed for real estate analysis, enabling users to assess development potential, renovation opportunities, and energy requirements, including photovoltaic capabilities. It utilizes ",
+      "stage": "SERIES_A",
+      "last_amount": 10328206.0,
+      "total": 19221618.0,
+      "investors": [
+        "Schwarz Dienstleistungen",
+        "HTGF | High-Tech Gründerfonds",
+        "Vantage Value",
+        "Xdeck Accelerator"
+      ],
+      "location": "Münster, North Rhine-Westphalia"
     },
     {
       "name": "Pave Finance",
@@ -463,6 +448,21 @@
       "location": "Las Vegas, Nevada"
     },
     {
+      "name": "Buildkite",
+      "domain": "buildkite.com",
+      "desc": "Buildkite offers a Scale-Out Delivery Platform designed for efficient software delivery, enabling teams to manage complex workflows with high concurrency and flexible compute options. The platform incorporates features s",
+      "stage": "SERIES_B",
+      "last_amount": 21000000.0,
+      "total": 111377810.0,
+      "investors": [
+        "OpenView",
+        "Airtree",
+        "General Catalyst",
+        "OneVentures"
+      ],
+      "location": "Melbourne, Victoria"
+    },
+    {
       "name": "Darwinbox",
       "domain": "darwinbox.com",
       "desc": "Darwinbox offers a comprehensive human capital management (HCM) suite that automates HR processes and provides analytics for talent management, workforce management, payroll, and employee engagement. The platform leverag",
@@ -627,8 +627,8 @@
       "domain": "opio.fi",
       "desc": "The main product is an AI-driven platform designed for transaction services that analyzes granular accounting data to generate structured financial outputs and insights, facilitating investment decisions. It employs auto",
       "stage": "SEED",
-      "last_amount": 4619310.0,
-      "total": 8689310.0,
+      "last_amount": 4587840.0,
+      "total": 8657840.0,
       "investors": [
         "GFC",
         "Global Founders Capital",
@@ -668,6 +668,19 @@
       "location": "Sydney, New South Wales"
     },
     {
+      "name": "Aron",
+      "domain": "aronhq.com",
+      "desc": "Aron is a procurement solution that automates sourcing, supplier management, and invoice verification by utilizing existing files without requiring integration. It consolidates data across various ERP systems to streamli",
+      "stage": "SEED",
+      "last_amount": 6000000.0,
+      "total": 8000000.0,
+      "investors": [
+        "Storm Ventures",
+        "Menlo Ventures"
+      ],
+      "location": ""
+    },
+    {
       "name": "Ridgeline",
       "domain": "ridgeline.ai",
       "desc": "Ridgeline offers an integrated investment management platform that combines data, workflows, and artificial intelligence to streamline operations and enhance collaboration across investment teams. The platform utilizes a",
@@ -681,19 +694,6 @@
         "Patrick O'Shaughnessy"
       ],
       "location": "Incline Village, Nevada"
-    },
-    {
-      "name": "Aron",
-      "domain": "aronhq.com",
-      "desc": "Aron is a procurement solution that automates sourcing, supplier management, and invoice verification by utilizing existing files without requiring integration. It consolidates data across various ERP systems to streamli",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 8000000.0,
-      "investors": [
-        "Storm Ventures",
-        "Menlo Ventures"
-      ],
-      "location": ""
     },
     {
       "name": "JustSolve",

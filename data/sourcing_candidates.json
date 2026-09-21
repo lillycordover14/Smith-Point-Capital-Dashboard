@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-20",
+  "generated": "2026-09-21",
   "window_days": 45,
   "counts": {
     "actionable": 4,
-    "watchlist": 12,
+    "watchlist": 14,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -13,13 +13,13 @@
       "theme": "Precision Applications",
       "vertical": "Healthcare",
       "stage": "Series C",
-      "amount_m": 200,
+      "amount_m": 400,
       "investors": [],
       "date": "2026-09-20",
       "link": "https://anglehealth.com",
       "domain": "anglehealth.com",
       "tier": "actionable",
-      "fit_reason": "Series C ($200M) — growth-stage sweet spot",
+      "fit_reason": "large Series C ($400M) — likely late; confirm it's not already priced out",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -261,6 +261,40 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Harvey",
+      "desc": "Harvey Closes $550M for Legal AI Model That Keeps Client Documents in Firm Control",
+      "theme": "Precision Applications",
+      "vertical": "Legal",
+      "stage": "Venture",
+      "amount_m": 550,
+      "investors": [],
+      "date": "2026-09-09",
+      "link": "https://www.techtimes.com/articles/327111/20260909/harvey-closes-550m-legal-ai-model-that-keeps-client-documents-firm-control.htm",
+      "domain": "harveynorman.com.au",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Blee",
+      "desc": "Blee raises USD $27 million to scale compliance software",
+      "theme": "Precision Applications",
+      "vertical": "Compliance",
+      "stage": "Venture",
+      "amount_m": 27,
+      "investors": [],
+      "date": "2026-09-09",
+      "link": "https://itbrief.co.nz/story/blee-raises-usd-27-million-to-scale-compliance-software",
+      "domain": "bleedingcool.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     },
