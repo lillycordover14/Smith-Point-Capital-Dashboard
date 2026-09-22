@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21",
+  "generated": "2026-09-22",
   "companies": [
     {
       "name": "Salient",
@@ -83,6 +83,13 @@
       "domain": "netboxlabs.com",
       "slug": "netbox-labs",
       "updates": [
+        {
+          "date": "2026-09-22",
+          "category": "Blog",
+          "title": "Built for Hyperscale: The System of Record for the AI Datacenter",
+          "link": "https://netboxlabs.com/blog/built-for-hyperscale-the-system-of-record-for-the-ai-datacenter/",
+          "source": "Blog"
+        },
         {
           "date": "2026-09-10",
           "category": "Blog",

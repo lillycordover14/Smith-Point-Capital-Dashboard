@@ -3673,5 +3673,50 @@
     "theme": "AI compute & models",
     "domain": "",
     "clean": "Buildkite"
+  },
+  "biolevate": {
+    "theme": "Healthcare & bio AI",
+    "domain": "",
+    "clean": "Biolevate"
+  },
+  "fintechos": {
+    "theme": "Fintech & payments",
+    "domain": "",
+    "clean": "FintechOS"
+  },
+  "mantic": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Mantic"
+  },
+  "spott": {
+    "theme": "HR & workforce",
+    "domain": "",
+    "clean": "Spott"
+  },
+  "zeliq": {
+    "theme": "Sales & GTM AI",
+    "domain": "",
+    "clean": "ZELIQ"
+  },
+  "primo": {
+    "theme": "Cybersecurity",
+    "domain": "",
+    "clean": "Primo"
+  },
+  "productivemachines": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Productive Machines"
+  },
+  "grepai": {
+    "theme": "Applied AI agents",
+    "domain": "",
+    "clean": "Grep AI"
+  },
+  "appliedkinetics": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Applied Kinetics"
   }
 }
