@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-22",
+  "generated": "2026-09-23",
   "mode": "full",
   "count": 50,
   "companies": [
     {
-      "name": "Factory",
-      "domain": "factory.ai",
-      "desc": "Factory develops an AI-driven platform aimed at enhancing autonomy in software engineering through an agent-native development model. The technology focuses on integrating intelligent systems to streamline and optimize t",
-      "stage": "SERIES_C",
-      "last_amount": 200000000.0,
-      "total": 540000000.0,
+      "name": "Simile",
+      "domain": "simile.ai",
+      "desc": "Simile develops an AI-driven simulation platform that models human behavior across diverse populations, utilizing proprietary algorithms and real-time data to create accurate predictive models. The technology incorporate",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 300000000.0,
       "investors": [
-        "BBQ Capital",
-        "Insight Partners",
-        "K5 Global",
-        "Geoffrey Yang"
+        "Index Ventures",
+        "Greenoaks",
+        "A*",
+        "Definition"
       ],
-      "location": "San Francisco, CA, US"
+      "location": "Palo Alto, CA"
     },
     {
       "name": "Adaptive",
@@ -34,21 +34,6 @@
       "location": "New York, NY"
     },
     {
-      "name": "Juicebox",
-      "domain": "juicebox.ai",
-      "desc": "Juicebox offers an AI-driven recruiting platform that utilizes advanced algorithms for talent discovery, sourcing from over 800 million global profiles across more than 30 diverse data sources. The platform integrates se",
-      "stage": "SERIES_B",
-      "last_amount": 30000000.0,
-      "total": 146250000.0,
-      "investors": [
-        "AI Grant",
-        "Y Combinator",
-        "Coatue Management",
-        "BOND"
-      ],
-      "location": "San Francisco, California"
-    },
-    {
       "name": "Magentic",
       "domain": "magentic.com",
       "desc": "Magentic offers AI digital workers that assist global manufacturers in identifying and capitalizing on savings opportunities within procurement, supply chain, and finance functions. The technology utilizes a harmonized d",
@@ -62,21 +47,6 @@
         "AV"
       ],
       "location": "LABS Atrium, London NW1 8AH, England, United Kingdom"
-    },
-    {
-      "name": "Thatch",
-      "domain": "thatch.com",
-      "desc": "Thatch provides a healthcare benefits platform that allows businesses to set a budget for their employees, who can then personalize their healthcare experience by selecting from various health insurance plans and additio",
-      "stage": "SERIES_C",
-      "last_amount": 108000000.0,
-      "total": 322000000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "BrightEdge - American Cancer Society",
-        "Avid Ventures",
-        "Scale Venture Partners"
-      ],
-      "location": "San Francisco, California"
     },
     {
       "name": "Kastle (YC S24)",
@@ -124,19 +94,19 @@
       "location": "København"
     },
     {
-      "name": "Rebuild",
-      "domain": "rebuild.work",
-      "desc": "The main product is an AI-powered estimating tool designed specifically for restoration companies, which significantly reduces the time required to generate accurate estimates from hours to minutes. It utilizes machine l",
-      "stage": "SEED",
-      "last_amount": 13000000.0,
-      "total": 15094999.0,
+      "name": "Confido",
+      "domain": "confidotech.com",
+      "desc": "Confido offers an AI-driven platform designed for consumer packaged goods (CPG) brands, integrating finance, accounting, sales, and operations into a single system to streamline workflows and data management. Key technol",
+      "stage": "SERIES_B",
+      "last_amount": 55000000.0,
+      "total": 75000000.0,
       "investors": [
-        "Asymmetric",
-        "Gutter Capital",
-        "Lightbank",
-        "25madison"
+        "Insight Partners",
+        "The Fintech Fund 🚀",
+        "Y Combinator",
+        "Barrel Ventures"
       ],
-      "location": "New York, NY"
+      "location": "New York, New York"
     },
     {
       "name": "Angle Health",
@@ -154,34 +124,34 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "Velocity",
-      "domain": "velocity.xyz",
-      "desc": "Velocity offers an enterprise platform designed to facilitate the movement and management of capital across various banks, blockchains, and international borders, integrating the programmability of stablecoins with tradi",
-      "stage": "SERIES_A",
-      "last_amount": 10000000.0,
-      "total": 59965014.0,
+      "name": "Rebuild",
+      "domain": "rebuild.work",
+      "desc": "The main product is an AI-powered estimating tool designed specifically for restoration companies, which significantly reduces the time required to generate accurate estimates from hours to minutes. It utilizes machine l",
+      "stage": "SEED",
+      "last_amount": 13000000.0,
+      "total": 15094999.0,
       "investors": [
-        "Haun Ventures",
-        "Visa Ventures",
-        "Digital Space Ventures",
-        "Kraken Ventures"
+        "Asymmetric",
+        "Gutter Capital",
+        "Lightbank",
+        "25madison"
       ],
-      "location": "London, England"
+      "location": "New York, NY"
     },
     {
-      "name": "Comp AI",
-      "domain": "trycomp.ai",
-      "desc": "The main product is an AI-powered compliance software platform that automates evidence collection, policy generation, and continuous monitoring for various regulatory frameworks such as SOC 2, ISO 27001, HIPAA, and GDPR.",
-      "stage": "SERIES_A",
-      "last_amount": 34000000.0,
-      "total": 36600000.0,
+      "name": "Heidi Health",
+      "domain": "heidihealth.com",
+      "desc": "The main product is an AI-powered medical scribe that assists clinicians by transcribing consultation notes and providing evidence-based clinical answers seamlessly within their workflow. It utilizes advanced natural lan",
+      "stage": "SERIES_C",
+      "last_amount": 240000000.0,
+      "total": 833795000.0,
       "investors": [
-        "OSS Capital",
-        "Grand Ventures",
-        "Founders, Inc.",
-        "Roo Capital"
+        "Saniel Ventures",
+        "Wormhole Capital",
+        "Archangel Ventures",
+        "Blackbird"
       ],
-      "location": "San Francisco, California"
+      "location": "Melbourne, Victoria"
     },
     {
       "name": "Opio",
@@ -199,6 +169,21 @@
       "location": "27 rue des Panoyaux, 75020 Paris, France"
     },
     {
+      "name": "Comp AI",
+      "domain": "trycomp.ai",
+      "desc": "The main product is an AI-powered compliance software platform that automates evidence collection, policy generation, and continuous monitoring for various regulatory frameworks such as SOC 2, ISO 27001, HIPAA, and GDPR.",
+      "stage": "SERIES_A",
+      "last_amount": 34000000.0,
+      "total": 36600000.0,
+      "investors": [
+        "OSS Capital",
+        "Grand Ventures",
+        "Founders, Inc.",
+        "Roo Capital"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
       "name": "syte",
       "domain": "syte.ms",
       "desc": "The product is an AI-driven platform designed for real estate analysis, enabling users to assess development potential, renovation opportunities, and energy requirements, including photovoltaic capabilities. It utilizes ",
@@ -212,121 +197,6 @@
         "Xdeck Accelerator"
       ],
       "location": "Münster, North Rhine-Westphalia"
-    },
-    {
-      "name": "Spott",
-      "domain": "spott.io",
-      "desc": "Spott offers an AI-native applicant tracking system (ATS) and customer relationship management (CRM) platform designed specifically for recruitment agencies, integrating AI at its core to enhance workflows and decision-m",
-      "stage": "SERIES_A",
-      "last_amount": 21000000.0,
-      "total": 24700000.0,
-      "investors": [
-        "Y Combinator",
-        "True Equity",
-        "Base10 Partners",
-        "Balderton"
-      ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "Zero",
-      "domain": "zero.inc",
-      "desc": "Zero offers an AI-powered CRM designed to automate the entire customer lifecycle, integrating lead discovery, engagement, and customer growth into a single platform. The system utilizes a unified customer data layer, ena",
-      "stage": "SEED",
-      "last_amount": 10300000.0,
-      "total": 13000000.0,
-      "investors": [
-        "Primary Venture Partners",
-        "Discovery Ventures",
-        "20VC",
-        "Greens Ventures"
-      ],
-      "location": "Helsinki"
-    },
-    {
-      "name": "Pave Finance",
-      "domain": "pavefinance.com",
-      "desc": "Pave Finance offers a software solution that automates portfolio management and trading for registered investment advisers, enabling them to create and manage custom portfolios tailored to client needs. The platform inco",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 29000000.0,
-      "investors": [],
-      "location": "New York, NY"
-    },
-    {
-      "name": "boxd",
-      "domain": "boxd.sh",
-      "desc": "The company offers a cloud deployment platform that automates the provisioning and deployment of production infrastructure, allowing users to deploy applications in minutes without extensive configuration. It utilizes te",
-      "stage": "PRE_SEED",
-      "last_amount": 2000000.0,
-      "total": 2213000.0,
-      "investors": [
-        "BlueYard Capital",
-        "Script Capital",
-        "Antler",
-        "OVNI Capital"
-      ],
-      "location": "Amsterdam"
-    },
-    {
-      "name": "FintechOS",
-      "domain": "fintechos.com",
-      "desc": "FintechOS offers an AI platform designed for financial product operations, enabling institutions like banks and insurers to modernize the development, launch, and management of financial products while integrating with e",
-      "stage": "SERIES_B",
-      "last_amount": 28000000.0,
-      "total": 178887000.0,
-      "investors": [
-        "Earlybird Venture Capital",
-        "BlackRock",
-        "Santander Corporate & Investment Banking",
-        "Cipio Partners"
-      ],
-      "location": "London, England"
-    },
-    {
-      "name": "Singulr AI",
-      "domain": "singulr.ai",
-      "desc": "The main product is an AI governance platform that integrates runtime governance, control, and security to ensure that AI systems operate in alignment with organizational policies. It utilizes a structured framework that",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 15000000.0,
-      "investors": [
-        "Nexus Venture Partners",
-        "Y Combinator",
-        "840 Venture Partners",
-        "ACE Ventures"
-      ],
-      "location": "Palo Alto, CA"
-    },
-    {
-      "name": "Guesty",
-      "domain": "guesty.com",
-      "desc": "Guesty offers an AI-powered platform for managing short-term rental properties, enabling users to automate tasks, synchronize listings across over 60 channels, and optimize revenue through dynamic pricing and AI-driven a",
-      "stage": "SERIES_F",
-      "last_amount": 0,
-      "total": 409250000.0,
-      "investors": [
-        "Apax",
-        "Inovia Capital",
-        "TLV Partners",
-        "Google for Startups"
-      ],
-      "location": "Covina, California"
-    },
-    {
-      "name": "TesterArmy",
-      "domain": "tester.army",
-      "desc": "TesterArmy provides an AI-driven testing solution for web and mobile applications that simulates real user interactions by clicking, typing, and verifying workflows in plain language, eliminating the need for brittle tes",
-      "stage": "PRE_SEED",
-      "last_amount": 1200000.0,
-      "total": 1700000.0,
-      "investors": [
-        "Script Capital",
-        "AIP Seed",
-        "Y Combinator",
-        "Eight Capital Management"
-      ],
-      "location": "Wilmington, Delaware"
     },
     {
       "name": "Veridion",
@@ -344,6 +214,21 @@
       "location": "Bucharest"
     },
     {
+      "name": "FintechOS",
+      "domain": "fintechos.com",
+      "desc": "FintechOS offers an AI platform designed for financial product operations, enabling institutions like banks and insurers to modernize the development, launch, and management of financial products while integrating with e",
+      "stage": "SERIES_B",
+      "last_amount": 0,
+      "total": 178887000.0,
+      "investors": [
+        "Earlybird Venture Capital",
+        "BlackRock",
+        "Santander Corporate & Investment Banking",
+        "Cipio Partners"
+      ],
+      "location": "London, England"
+    },
+    {
       "name": "Mantic",
       "domain": "mantic.com",
       "desc": "Mantic develops advanced AI systems designed to predict global events with high accuracy, focusing on areas such as geopolitics, business, policy, technology, and culture. The technology combines machine learning with ex",
@@ -357,6 +242,36 @@
         "Radical Ventures"
       ],
       "location": "London, England, United Kingdom"
+    },
+    {
+      "name": "Chamelio",
+      "domain": "chamelio.ai",
+      "desc": "Chamelio offers a Legal Intelligence Platform designed for in-house legal teams, transforming contracts, drafts, and decisions into structured legal knowledge through AI-driven workflows. The platform utilizes agentic wo",
+      "stage": "SERIES_A",
+      "last_amount": 26000000.0,
+      "total": 39500000.0,
+      "investors": [
+        "Entrée Capital",
+        "Work-Bench",
+        "Fresh Fund",
+        "Bright Pixel Capital"
+      ],
+      "location": "New York, NY"
+    },
+    {
+      "name": "Guesty",
+      "domain": "guesty.com",
+      "desc": "Guesty offers an AI-powered platform for managing short-term rental properties, enabling users to automate tasks, synchronize listings across over 60 channels, and optimize revenue through dynamic pricing and AI-driven a",
+      "stage": "SERIES_F",
+      "last_amount": 0,
+      "total": 409250000.0,
+      "investors": [
+        "Apax",
+        "Inovia Capital",
+        "TLV Partners",
+        "Google for Startups"
+      ],
+      "location": "Covina, California"
     },
     {
       "name": "Health Force",
@@ -374,19 +289,19 @@
       "location": "Vienna"
     },
     {
-      "name": "CADDi",
-      "domain": "caddi.com",
-      "desc": "CADDi offers an AI data platform designed for the manufacturing sector, which ingests, structures, and analyzes fragmented data across the manufacturing value chain to enhance decision-making and operational execution. U",
-      "stage": "SERIES_D",
-      "last_amount": 114000000.0,
-      "total": 357250800.0,
+      "name": "Buildkite",
+      "domain": "buildkite.com",
+      "desc": "Buildkite offers a continuous integration platform that supports flexible workflow automation through dynamic pipelines, enabling unlimited parallelism for testing, building, and deployment processes. Key technologies in",
+      "stage": "SERIES_B",
+      "last_amount": 21000000.0,
+      "total": 111377810.0,
       "investors": [
-        "Minerva Growth Partners",
-        "Green Co-Invest Investment",
-        "Mitsubishi UFJ Capital Co.,Ltd.",
-        "Global Brain Corporation"
+        "OpenView",
+        "Airtree",
+        "General Catalyst",
+        "OneVentures"
       ],
-      "location": "CHICAGO, Illinois"
+      "location": "Melbourne, Victoria"
     },
     {
       "name": "Invertix",
@@ -401,6 +316,21 @@
         "Vireo Ventures"
       ],
       "location": "Munich, Bavaria"
+    },
+    {
+      "name": "Grep AI",
+      "domain": "grep.ai",
+      "desc": "Turn repetitive knowledge work into custom AI agents that route each step to the best model, so your team gets more done without blowing through its AI budget.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 5500000.0,
+      "investors": [
+        "Amit Agarwal",
+        "Popular",
+        "CapitalX",
+        "Y Combinator"
+      ],
+      "location": ""
     },
     {
       "name": "Hang Ten Systems",
@@ -433,57 +363,42 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Decimal",
-      "domain": "decimal.app",
-      "desc": "Decimal provides a workflow solution designed to streamline the debugging process for engineering teams by consolidating operational knowledge and context from various sources, such as repositories, logs, and configurati",
-      "stage": "SEED",
-      "last_amount": 4000000.0,
-      "total": 4000000.0,
-      "investors": [
-        "Atlassian Ventures",
-        "Weekend Fund",
-        "Kearny Jackson",
-        "Claire Johnson"
-      ],
-      "location": "San Mateo"
-    },
-    {
-      "name": "Grep AI",
-      "domain": "grep.ai",
-      "desc": "Turn repetitive knowledge work into custom AI agents that route each step to the best model, so your team gets more done without blowing through its AI budget.",
+      "name": "Brick AI",
+      "domain": "brick-data.com",
+      "desc": "The main product is an AI-native operating platform designed to optimize energy consumption and manage physical infrastructure by connecting to existing HVAC and building systems. It employs reinforcement learning to cre",
       "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 5500000.0,
+      "last_amount": 3000000.0,
+      "total": 3000000.0,
       "investors": [
-        "Amit Agarwal",
-        "Popular",
-        "CapitalX",
-        "Y Combinator"
+        "Rebellion Ventures",
+        "Boro Capital",
+        "OneValley Ventures",
+        "Forum Ventures"
       ],
-      "location": ""
+      "location": "Wood-Ridge, NJ, United States"
     },
     {
-      "name": "Darwinbox",
-      "domain": "darwinbox.com",
-      "desc": "Darwinbox offers a comprehensive human capital management (HCM) suite that automates HR processes and provides analytics for talent management, workforce management, payroll, and employee engagement. The platform leverag",
-      "stage": "SERIES_D",
-      "last_amount": 0,
-      "total": 290477550.0,
+      "name": "StrikeReady",
+      "domain": "strikeready.com",
+      "desc": "StrikeReady offers a cybersecurity operations platform that integrates various security processes, including threat detection, alert management, and incident response, into a unified solution. Utilizing Composite AI, the",
+      "stage": "SERIES_A",
+      "last_amount": 13300000.0,
+      "total": 28580000.0,
       "investors": [
-        "SBI Life Insurance Co. Ltd.",
-        "StartupXseed Ventures LLP",
-        "500 Global",
-        "Peak XV Partners"
+        "Outliers Venture Capital",
+        "11.2 Capital",
+        "Monta Vista Capital",
+        "33N Ventures"
       ],
-      "location": "San Mateo, California"
+      "location": "Dallas, Texas"
     },
     {
       "name": "Biolevate",
       "domain": "biolevate.com",
       "desc": "Biolevate offers an AI-native knowledge platform designed to enhance workflows in life sciences by automating processes such as literature reviews, clinical study report generation, and regulatory submissions. The platfo",
       "stage": "SERIES_A",
-      "last_amount": 34385917.0,
-      "total": 40663153.0,
+      "last_amount": 34343020.0,
+      "total": 40620256.0,
       "investors": [
         "EQT Group",
         "STATION F",
@@ -493,48 +408,19 @@
       "location": "6 Rue Henri Houpied, 94370 Sucy-en-Brie, France"
     },
     {
-      "name": "Buildkite",
-      "domain": "buildkite.com",
-      "desc": "Buildkite offers a Scale-Out Delivery Platform designed for efficient software delivery, enabling teams to manage complex workflows with high concurrency and flexible compute options. The platform incorporates features s",
-      "stage": "SERIES_B",
-      "last_amount": 21000000.0,
-      "total": 111377810.0,
-      "investors": [
-        "OpenView",
-        "Airtree",
-        "General Catalyst",
-        "OneVentures"
-      ],
-      "location": "Melbourne, Victoria"
-    },
-    {
-      "name": "Knowtex",
-      "domain": "knowtex.ai",
-      "desc": "Knowtex provides a voice AI solution that automates clinical workflows by transforming natural conversations into structured documentation and coding suggestions, thereby enhancing accuracy and efficiency in healthcare s",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 2625000.0,
-      "investors": [
-        "Endless Frontier Labs",
-        "CapitalX",
-        "Y Combinator",
-        "Gaingels"
-      ],
-      "location": "San Francisco , California"
-    },
-    {
-      "name": "ReFresh",
-      "domain": "refresh.tech",
-      "desc": "The main product is a psychosocial compliance platform designed to continuously manage and assess psychosocial risks within organizations, utilizing structured methodologies aligned with regulatory standards. It incorpor",
+      "name": "Spiich Labs",
+      "domain": "spiich.ai",
+      "desc": "The main product is an AI sales assistant designed to enhance productivity by automating CRM data entry, lead generation, and meeting preparation. It utilizes voice recognition technology to allow users to update their C",
       "stage": "SEED",
-      "last_amount": 2500000.0,
-      "total": 3967000.0,
+      "last_amount": 3425400.0,
+      "total": 4120893.0,
       "investors": [
-        "Archangel Ventures",
-        "Antler",
-        "Black Nova Venture Capital"
+        "Wave Ventures",
+        "Index Ventures",
+        "Ampli Ventures",
+        "Alliance VC"
       ],
-      "location": "Sydney, New South Wales"
+      "location": "Stockholm, Stockholm County"
     },
     {
       "name": "Ridgeline",
@@ -552,32 +438,33 @@
       "location": "Incline Village, Nevada"
     },
     {
-      "name": "StrikeReady",
-      "domain": "strikeready.com",
-      "desc": "StrikeReady offers a cybersecurity operations platform that integrates various security processes, including threat detection, alert management, and incident response, into a unified solution. Utilizing Composite AI, the",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 15280000.0,
+      "name": "ReFresh",
+      "domain": "refresh.tech",
+      "desc": "The main product is a psychosocial compliance platform designed to continuously manage and assess psychosocial risks within organizations, utilizing structured methodologies aligned with regulatory standards. It incorpor",
+      "stage": "SEED",
+      "last_amount": 2500000.0,
+      "total": 3967000.0,
       "investors": [
-        "Outliers Venture Capital",
-        "11.2 Capital",
-        "Monta Vista Capital",
-        "33N Ventures"
+        "Archangel Ventures",
+        "Antler",
+        "Black Nova Venture Capital"
       ],
-      "location": "Dallas, Texas"
+      "location": "Sydney, New South Wales"
     },
     {
-      "name": "Native",
-      "domain": "native.no",
-      "desc": "The company offers a platform for automated marketing that generates tailored content across multiple social media channels, utilizing a proprietary artificial intuition model to predict audience responses. This technolo",
+      "name": "JustSolve",
+      "domain": "just-solve.com",
+      "desc": "JustSolve provides a cloud-based platform that automates debt collection across various communication channels, including WhatsApp, email, and SMS, while offering real-time reporting and data-driven insights. The system ",
       "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 1041000.0,
+      "last_amount": 3440880.0,
+      "total": 3440880.0,
       "investors": [
-        "Y Combinator",
-        "6AM"
+        "Entourage Ventures",
+        "Base10 Partners",
+        "2100 Ventures",
+        "Vento"
       ],
-      "location": "Oslo"
+      "location": "Milan, Lombardy"
     },
     {
       "name": "Overfuel",
@@ -593,6 +480,21 @@
         "Comedor Capital — Growth capital for software & AI-enabled services"
       ],
       "location": "Indianapolis, Indiana"
+    },
+    {
+      "name": "mika AI",
+      "domain": "getmika.de",
+      "desc": "mika provides an automated accounting platform that handles bookkeeping, VAT returns, and annual financial statements, utilizing artificial intelligence to streamline these processes while ensuring compliance with data p",
+      "stage": "SEED",
+      "last_amount": 6848613.0,
+      "total": 7735157.0,
+      "investors": [
+        "Earlybird Venture Capital",
+        "Slimmer AI",
+        "Keen Venture Partners",
+        "DFF (Dutch Founders Fund)"
+      ],
+      "location": "Berlin, Berlin"
     },
     {
       "name": "Nearby Computing",
@@ -626,8 +528,8 @@
       "domain": "zeliq.com",
       "desc": "Zeliq offers an AI-powered sales platform that integrates prospect search, data enrichment, and multichannel outreach to streamline the sales process. The technology utilizes over 40 data providers for accurate contact i",
       "stage": "SEED",
-      "last_amount": 8023473.0,
-      "total": 23251090.0,
+      "last_amount": 8013371.0,
+      "total": 23240988.0,
       "investors": [
         "Obratori",
         "+ BAs",
@@ -652,21 +554,6 @@
       "location": "Paris"
     },
     {
-      "name": "JustSolve",
-      "domain": "just-solve.com",
-      "desc": "JustSolve provides a cloud-based platform that automates debt collection across various communication channels, including WhatsApp, email, and SMS, while offering real-time reporting and data-driven insights. The system ",
-      "stage": "PRE_SEED",
-      "last_amount": 3440880.0,
-      "total": 3440880.0,
-      "investors": [
-        "Entourage Ventures",
-        "Base10 Partners",
-        "2100 Ventures",
-        "Vento"
-      ],
-      "location": "Milan, Lombardy"
-    },
-    {
       "name": "Productive Machines",
       "domain": "productivemachines.co.uk",
       "desc": "Productive Machines offers a software solution that utilizes digital twins and simulations to optimize machining processes by determining the best feed rates and spindle speeds, thereby enhancing productivity and tool li",
@@ -682,19 +569,16 @@
       "location": "Rotherham, SOUTH YORKSHIRE"
     },
     {
-      "name": "Expertise AI",
-      "domain": "expertise.ai",
-      "desc": "The company offers a platform that enables businesses to implement and run AI-driven workflows designed by industry experts, allowing for quick installation and integration with existing systems like Salesforce and HubSp",
-      "stage": "SEED",
-      "last_amount": 2298108.0,
-      "total": 2448108.0,
+      "name": "Faraday — Simulation infrastructure for autonomous operations",
+      "domain": "faradaycompute.com",
+      "desc": "Faraday helps teams turn physical-world data into useful AI and helps physical enterprises put agents to work.",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "iSeed Ventures, LLC",
-        "500 Global",
-        "AltaIR Capital",
-        "Amino Capital"
+        "Y Combinator"
       ],
-      "location": "Toronto, Ontario"
+      "location": ""
     },
     {
       "name": "Tablet Command, Inc.",
@@ -710,17 +594,14 @@
       "location": "Walnut Creek, California"
     },
     {
-      "name": "Scaffold",
-      "domain": "getscaffold.com",
-      "desc": "Scaffold provides a universal data platform for residential construction that automates the integration of job data from various disconnected systems, enabling seamless communication between builders, subcontractors, and",
-      "stage": "SEED",
-      "last_amount": 15000000.0,
-      "total": 15000000.0,
+      "name": "Ordo",
+      "domain": "ordolabs.ai",
+      "desc": "Ordo provides an AI-driven workspace designed for regulated laboratories, facilitating compliance with standards such as GMP, GLP, and 21 CFR Part 11 by automating quality control checks and generating audit-ready report",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
       "investors": [
-        "Home Technology Ventures",
-        "PulteGroup",
-        "D.R. Horton",
-        "Stage 2 Capital"
+        "Y Combinator"
       ],
       "location": ""
     },
@@ -738,6 +619,117 @@
         "Patrick O'Shaughnessy"
       ],
       "location": "936 Southwood Boulevard, Incline Village, NV 89451, United States"
+    },
+    {
+      "name": "Noxtua",
+      "domain": "noxtua.com",
+      "desc": "Noxtua offers a legal AI platform that integrates extensive legal knowledge from verified sources across Europe, enabling efficient legal research, document analysis, and drafting. The technology employs generative AI to",
+      "stage": "SERIES_C",
+      "last_amount": 114215182.0,
+      "total": 224678553.0,
+      "investors": [
+        "Earlybird Venture Capital",
+        "Global Brain Corporation",
+        "SpinLab - The HHL Accelerator",
+        "CMS"
+      ],
+      "location": "Berlin, BE"
+    },
+    {
+      "name": "RadiantOps",
+      "domain": "radiantops.com",
+      "desc": "RadiantOps provides a solution that connects AI spending to engineering outputs, enabling organizations to trace their AI investments back to tangible results. The technology integrates data from various systems, such as",
+      "stage": "SEED",
+      "last_amount": 7000000.0,
+      "total": 7000000.0,
+      "investors": [
+        "Foundation Capital",
+        "VELA",
+        "Essence Venture Capital",
+        "Vermilion Cliffs Ventures"
+      ],
+      "location": "Seattle, WA, United States"
+    },
+    {
+      "name": "hlpy",
+      "domain": "hlpy.co",
+      "desc": "The company offers a digital platform for vehicle assistance that integrates roadside assistance, repair, and maintenance services, utilizing advanced technologies such as Artificial Intelligence and Machine Learning to ",
+      "stage": "SERIES_B",
+      "last_amount": 22827132.0,
+      "total": 52453922.0,
+      "investors": [
+        "Bene Assicurazioni",
+        "The Techshop SGR",
+        "Vittoria Assicurazioni S.p.A.",
+        "Alkemia Capital"
+      ],
+      "location": "Milano, Italy"
+    },
+    {
+      "name": "OCTA",
+      "domain": "weareocta.com",
+      "desc": "OCTA provides an AI-driven finance automation platform that streamlines accounts receivable, accounts payable, bank reconciliation, and financial reporting through AI agents that perform preparatory tasks and reconciliat",
+      "stage": "SEED",
+      "last_amount": 3500000.0,
+      "total": 25850000.0,
+      "investors": [
+        "Plus VC (+VC)",
+        "Plug and Play",
+        "500 Global",
+        "Sukna Ventures"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Organizely",
+      "domain": "organizely.io",
+      "desc": "The main product is an inventory management software designed specifically for small e-commerce businesses, enabling users to track and manage stock, components, and purchase orders efficiently. It utilizes technologies ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "Hoboken, New Jersey, United States"
+    },
+    {
+      "name": "F6S",
+      "domain": "f6s.com",
+      "desc": "F6S helps millions of founders and their companies grow. Always free at https://www.f6s.com",
+      "stage": "PRE_SEED",
+      "last_amount": 2000000.0,
+      "total": 5370000.0,
+      "investors": [
+        "Blackbird",
+        "Antler",
+        "ACF Investors",
+        "One Latitude Group"
+      ],
+      "location": "Global"
+    },
+    {
+      "name": "Volaren AI",
+      "domain": "volaren.ai",
+      "desc": "Volaren offers a fully integrated platform that provides consumers with comprehensive financial data, including terminal-level insights, fundamental and quantitative analytics, and trade execution capabilities. The techn",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Joiin",
+      "domain": "joiin.co",
+      "desc": "Joiin offers a cloud-based reporting application designed for financial and operational reporting, enabling users to automate the generation of real-time reports and insights. The software integrates with various account",
+      "stage": "PRE_SEED",
+      "last_amount": 1740000.0,
+      "total": 1950941.0,
+      "investors": [
+        "The FSE Group"
+      ],
+      "location": "Exeter, England"
     }
   ]
 }
