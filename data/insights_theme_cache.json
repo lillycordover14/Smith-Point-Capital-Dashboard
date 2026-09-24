@@ -3798,5 +3798,55 @@
     "theme": "Data infrastructure",
     "domain": "",
     "clean": "Volaren AI"
+  },
+  "bird": {
+    "theme": "Applied AI agents",
+    "domain": "",
+    "clean": "Bird"
+  },
+  "island": {
+    "theme": "Cybersecurity",
+    "domain": "",
+    "clean": "Island"
+  },
+  "numeral": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "Numeral"
+  },
+  "ema": {
+    "theme": "Applied AI agents",
+    "domain": "",
+    "clean": "Ema"
+  },
+  "benford": {
+    "theme": "Financial back-office & compliance AI",
+    "domain": "",
+    "clean": "benford"
+  },
+  "smartbarrel": {
+    "theme": "Energy & climate",
+    "domain": "",
+    "clean": "SmartBarrel"
+  },
+  "sol": {
+    "theme": "Agent-native infra",
+    "domain": "",
+    "clean": "Sol"
+  },
+  "nuvia": {
+    "theme": "Sales & GTM AI",
+    "domain": "",
+    "clean": "Nuvia"
+  },
+  "ande": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "Ande"
+  },
+  "millionways": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "millionways"
   }
 }
