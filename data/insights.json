@@ -1,24 +1,78 @@
 {
-  "generated": "2026-09-25",
+  "generated": "2026-09-26",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 73,
-    "total_cap_m": 13954,
-    "early_cap_m": 2356,
+    "early_raises": 72,
+    "total_cap_m": 13694,
+    "early_cap_m": 2394,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 29,
-      "Series A": 41,
+      "Series A": 40,
       "Series B": 24,
-      "Series C": 14,
+      "Series C": 13,
       "Series D": 2,
-      "Venture": 73
+      "Venture": 72
     }
   },
   "raises": [
+    {
+      "company": "INFINI",
+      "amount_m": 6,
+      "date": "2026-09-26",
+      "link": "https://infini.money",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Seed"
+    },
+    {
+      "company": "TrueMile.AI",
+      "amount_m": null,
+      "date": "2026-09-26",
+      "link": "https://truemile.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Spine",
+      "amount_m": null,
+      "date": "2026-09-26",
+      "link": "https://joinspine.ai",
+      "investors": [],
+      "theme": "Financial back-office & compliance AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Reply Next",
+      "amount_m": null,
+      "date": "2026-09-26",
+      "link": "https://replynext.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "University Startups",
+      "amount_m": null,
+      "date": "2026-09-26",
+      "link": "https://university-startups.com",
+      "investors": [],
+      "theme": "Vertical SaaS",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "YOUnifiedAI",
+      "amount_m": null,
+      "date": "2026-09-26",
+      "link": "https://younifiedai.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "BRAHMA AI",
       "amount_m": 150,
@@ -27,15 +81,6 @@
       "investors": [],
       "theme": "Applied AI agents",
       "stage": "Series C"
-    },
-    {
-      "company": "Vantora",
-      "amount_m": 100,
-      "date": "2026-09-25",
-      "link": "https://vantora.net",
-      "investors": [],
-      "theme": "Marketing & creative AI",
-      "stage": "Venture"
     },
     {
       "company": "Ando",
@@ -110,15 +155,6 @@
       "stage": "Seed"
     },
     {
-      "company": "ekai",
-      "amount_m": 2,
-      "date": "2026-09-25",
-      "link": "https://ekai.ai",
-      "investors": [],
-      "theme": "AI dev tooling",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Gamindo",
       "amount_m": 2,
       "date": "2026-09-25",
@@ -137,6 +173,15 @@
       "stage": "Seed"
     },
     {
+      "company": "ekai",
+      "amount_m": 2,
+      "date": "2026-09-25",
+      "link": "https://ekai.ai",
+      "investors": [],
+      "theme": "AI dev tooling",
+      "stage": "Pre Seed"
+    },
+    {
       "company": "OneClickComply®",
       "amount_m": 1,
       "date": "2026-09-25",
@@ -153,15 +198,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
-    },
-    {
-      "company": "Fatigue Science",
-      "amount_m": null,
-      "date": "2026-09-25",
-      "link": "https://fatiguescience.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     },
     {
       "company": "Shire",
@@ -218,6 +254,15 @@
       "stage": "Series B"
     },
     {
+      "company": "Ande",
+      "amount_m": 52,
+      "date": "2026-09-24",
+      "link": "https://ande.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
+    {
       "company": "benford",
       "amount_m": 6,
       "date": "2026-09-24",
@@ -234,24 +279,6 @@
       "investors": [],
       "theme": "Agent-native infra",
       "stage": "Seed"
-    },
-    {
-      "company": "SmartBarrel",
-      "amount_m": 4,
-      "date": "2026-09-24",
-      "link": "https://smartbarrel.io",
-      "investors": [],
-      "theme": "Energy & climate",
-      "stage": "Seed"
-    },
-    {
-      "company": "Ande",
-      "amount_m": null,
-      "date": "2026-09-24",
-      "link": "https://ande.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Series A"
     },
     {
       "company": "millionways",
@@ -308,15 +335,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Brick AI",
-      "amount_m": 3,
-      "date": "2026-09-23",
-      "link": "https://brick-data.com",
-      "investors": [],
-      "theme": "Energy & climate",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Spiich Labs",
       "amount_m": 3,
       "date": "2026-09-23",
@@ -324,6 +342,15 @@
       "investors": [],
       "theme": "Sales & GTM AI",
       "stage": "Seed"
+    },
+    {
+      "company": "Brick AI",
+      "amount_m": 3,
+      "date": "2026-09-23",
+      "link": "https://brick-data.com",
+      "investors": [],
+      "theme": "Energy & climate",
+      "stage": "Pre Seed"
     },
     {
       "company": "F6S",
@@ -353,24 +380,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Organizely",
-      "amount_m": null,
-      "date": "2026-09-23",
-      "link": "https://organizely.io",
-      "investors": [],
-      "theme": "Logistics & supply chain",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Volaren AI",
-      "amount_m": null,
-      "date": "2026-09-23",
-      "link": "https://volaren.ai",
-      "investors": [],
-      "theme": "Data infrastructure",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Biolevate",
       "amount_m": 34,
       "date": "2026-09-22",
@@ -378,15 +387,6 @@
       "investors": [],
       "theme": "Healthcare & bio AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Mantic",
-      "amount_m": 25,
-      "date": "2026-09-22",
-      "link": "https://mantic.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
     },
     {
       "company": "Primo",
@@ -408,7 +408,7 @@
     },
     {
       "company": "Productive Machines",
-      "amount_m": 2,
+      "amount_m": 1,
       "date": "2026-09-22",
       "link": "https://productivemachines.co.uk",
       "investors": [],
@@ -443,21 +443,12 @@
       "stage": "Series B"
     },
     {
-      "company": "Angle Health",
-      "amount_m": 200,
-      "date": "2026-09-20",
-      "link": "https://anglehealth.com",
+      "company": "Vestbee",
+      "amount_m": 2,
+      "date": "2026-08-26",
+      "link": "https://vestbee.com",
       "investors": [],
-      "theme": "Healthcare & bio AI",
-      "stage": "Series C"
-    },
-    {
-      "company": "Invertix",
-      "amount_m": null,
-      "date": "2026-09-19",
-      "link": "https://invertix.ai",
-      "investors": [],
-      "theme": "Energy & climate",
+      "theme": "AI compute & models",
       "stage": "Pre Seed"
     },
     {
@@ -2193,31 +2184,42 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
+    },
+    {
+      "company": "Plot",
+      "amount_m": 10,
+      "date": "2026-06-02",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZWV4Ymoxb2hPM3lUSGhNUFZGYVJubEtJWFVnV09ueGZWVFRtVEFiWkdnbUJWclVHNjlkTHlnNzRaMVJQZzNRU2UwblFPc3ZmbTFzd09SWVQ1alhqT0U0Tm51MWY5ZlZQUkdCWTFUcTc4bkRmN05r?oc=5",
+      "investors": [
+        "XYZ Venture Capital"
+      ],
+      "theme": "Applied / horizontal AI",
+      "stage": "Seed"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 101,
+      "count": 103,
       "examples": [
+        "TrueMile.AI",
+        "Reply Next",
+        "YOUnifiedAI",
         "Gamindo",
         "Verno",
-        "Fatigue Science",
-        "Outline",
-        "Ande",
-        "millionways"
+        "Outline"
       ]
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
+      "count": 18,
       "examples": [
         "Heidi Health",
         "Biolevate",
-        "Angle Health",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ]
     },
     {
@@ -2234,14 +2236,14 @@
     },
     {
       "theme": "Energy & climate",
-      "count": 12,
+      "count": 10,
       "examples": [
-        "SmartBarrel",
         "Brick AI",
-        "Invertix",
         "Axle Energy",
         "Vergennes battery project",
-        "SolarSquare"
+        "SolarSquare",
+        "Endurance Energy",
+        "Solidion Technology"
       ]
     },
     {
@@ -2258,14 +2260,14 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 6,
+      "count": 7,
       "examples": [
+        "INFINI",
         "Wealthcome",
         "FintechOS",
         "Float",
         "Fomo",
-        "Crypto trading app Fomo",
-        "SyntheticFi"
+        "Crypto trading app Fomo"
       ]
     },
     {
@@ -2281,6 +2283,28 @@
       ]
     },
     {
+      "theme": "Financial back-office & compliance AI",
+      "count": 5,
+      "examples": [
+        "Spine",
+        "OneClickComply®",
+        "Numeral",
+        "benford",
+        "mika AI"
+      ]
+    },
+    {
+      "theme": "Vertical SaaS",
+      "count": 5,
+      "examples": [
+        "University Startups",
+        "Scholar Education",
+        "Shire",
+        "Agave",
+        "Scotch"
+      ]
+    },
+    {
       "theme": "Cybersecurity",
       "count": 5,
       "examples": [
@@ -2292,23 +2316,13 @@
       ]
     },
     {
-      "theme": "Vertical SaaS",
+      "theme": "AI compute & models",
       "count": 4,
       "examples": [
-        "Scholar Education",
-        "Shire",
-        "Agave",
-        "Scotch"
-      ]
-    },
-    {
-      "theme": "Financial back-office & compliance AI",
-      "count": 4,
-      "examples": [
-        "OneClickComply®",
-        "Numeral",
-        "benford",
-        "mika AI"
+        "Buildkite",
+        "Vestbee",
+        "Oratomic",
+        "Prime Intellect"
       ]
     },
     {
@@ -2339,31 +2353,6 @@
       ]
     },
     {
-      "theme": "AI compute & models",
-      "count": 3,
-      "examples": [
-        "Buildkite",
-        "Oratomic",
-        "Prime Intellect"
-      ]
-    },
-    {
-      "theme": "Marketing & creative AI",
-      "count": 2,
-      "examples": [
-        "Vantora",
-        "Euka AI"
-      ]
-    },
-    {
-      "theme": "Logistics & supply chain",
-      "count": 2,
-      "examples": [
-        "Axya",
-        "Organizely"
-      ]
-    },
-    {
       "theme": "HR & workforce",
       "count": 2,
       "examples": [
@@ -2380,10 +2369,17 @@
       ]
     },
     {
-      "theme": "Data infrastructure",
+      "theme": "Logistics & supply chain",
       "count": 1,
       "examples": [
-        "Volaren AI"
+        "Axya"
+      ]
+    },
+    {
+      "theme": "Marketing & creative AI",
+      "count": 1,
+      "examples": [
+        "Euka AI"
       ]
     },
     {
@@ -2397,29 +2393,29 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 101,
-      "cap_m": 6582,
+      "count": 103,
+      "cap_m": 6618,
       "examples": [
+        "TrueMile.AI",
+        "Reply Next",
+        "YOUnifiedAI",
         "Gamindo",
         "Verno",
-        "Fatigue Science",
-        "Outline",
-        "Ande",
-        "millionways"
+        "Outline"
       ],
       "top_stage": "Venture"
     },
     {
       "theme": "Healthcare & bio AI",
-      "count": 19,
-      "cap_m": 1570,
+      "count": 18,
+      "cap_m": 1370,
       "examples": [
         "Heidi Health",
         "Biolevate",
-        "Angle Health",
         "Corner Health",
         "xCures",
-        "Healome Therapeutics"
+        "Healome Therapeutics",
+        "Hera"
       ],
       "top_stage": "Venture"
     },
@@ -2439,15 +2435,15 @@
     },
     {
       "theme": "Energy & climate",
-      "count": 12,
-      "cap_m": 1148,
+      "count": 10,
+      "cap_m": 1144,
       "examples": [
-        "SmartBarrel",
         "Brick AI",
-        "Invertix",
         "Axle Energy",
         "Vergennes battery project",
-        "SolarSquare"
+        "SolarSquare",
+        "Endurance Energy",
+        "Solidion Technology"
       ],
       "top_stage": "Venture"
     },
@@ -2467,15 +2463,15 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 6,
-      "cap_m": 265,
+      "count": 7,
+      "cap_m": 271,
       "examples": [
+        "INFINI",
         "Wealthcome",
         "FintechOS",
         "Float",
         "Fomo",
-        "Crypto trading app Fomo",
-        "SyntheticFi"
+        "Crypto trading app Fomo"
       ],
       "top_stage": "Series B"
     },
@@ -2494,6 +2490,32 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Financial back-office & compliance AI",
+      "count": 5,
+      "cap_m": 114,
+      "examples": [
+        "Spine",
+        "OneClickComply®",
+        "Numeral",
+        "benford",
+        "mika AI"
+      ],
+      "top_stage": "Pre Seed"
+    },
+    {
+      "theme": "Vertical SaaS",
+      "count": 5,
+      "cap_m": 37,
+      "examples": [
+        "University Startups",
+        "Scholar Education",
+        "Shire",
+        "Agave",
+        "Scotch"
+      ],
+      "top_stage": "Pre Seed"
+    },
+    {
       "theme": "Cybersecurity",
       "count": 5,
       "cap_m": 568,
@@ -2507,28 +2529,16 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "Vertical SaaS",
+      "theme": "AI compute & models",
       "count": 4,
-      "cap_m": 37,
+      "cap_m": 453,
       "examples": [
-        "Scholar Education",
-        "Shire",
-        "Agave",
-        "Scotch"
+        "Buildkite",
+        "Vestbee",
+        "Oratomic",
+        "Prime Intellect"
       ],
       "top_stage": "Series A"
-    },
-    {
-      "theme": "Financial back-office & compliance AI",
-      "count": 4,
-      "cap_m": 114,
-      "examples": [
-        "OneClickComply®",
-        "Numeral",
-        "benford",
-        "mika AI"
-      ],
-      "top_stage": "Pre Seed"
     },
     {
       "theme": "Agent-native infra",
@@ -2540,17 +2550,6 @@
         "Trase"
       ],
       "top_stage": "Seed"
-    },
-    {
-      "theme": "Legal AI",
-      "count": 3,
-      "cap_m": 170,
-      "examples": [
-        "Noxtua",
-        "Chamelio",
-        "Sandstone"
-      ],
-      "top_stage": "Series A"
     }
   ],
   "investor_signal": [
@@ -3478,27 +3477,22 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-04",
+    "since": "2026-09-05",
     "tw": [
       {
-        "name": "Applied AI agents",
+        "name": "Financial back-office & compliance AI",
         "delta": 3,
-        "now": 12
-      },
-      {
-        "name": "Energy & climate",
-        "delta": 2,
-        "now": 12
+        "now": 5
       },
       {
         "name": "Vertical SaaS",
-        "delta": 2,
-        "now": 4
+        "delta": 3,
+        "now": 5
       },
       {
-        "name": "Financial back-office & compliance AI",
+        "name": "Applied AI agents",
         "delta": 2,
-        "now": 4
+        "now": 12
       },
       {
         "name": "Legal AI",
@@ -3506,9 +3500,14 @@
         "now": 3
       },
       {
-        "name": "Logistics & supply chain",
+        "name": "Sales & GTM AI",
         "delta": 2,
-        "now": 2
+        "now": 3
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": 1,
+        "now": 7
       },
       {
         "name": "Cybersecurity",
@@ -3516,12 +3515,12 @@
         "now": 5
       },
       {
-        "name": "Agent-native infra",
+        "name": "AI compute & models",
         "delta": 1,
-        "now": 3
+        "now": 4
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "Agent-native infra",
         "delta": 1,
         "now": 3
       },
@@ -3531,19 +3530,19 @@
         "now": 2
       },
       {
+        "name": "Logistics & supply chain",
+        "delta": 1,
+        "now": 1
+      },
+      {
+        "name": "Energy & climate",
+        "delta": 0,
+        "now": 10
+      },
+      {
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
-      },
-      {
-        "name": "Fintech & payments",
-        "delta": 0,
-        "now": 6
-      },
-      {
-        "name": "AI compute & models",
-        "delta": 0,
-        "now": 3
       },
       {
         "name": "Defense & national security",
@@ -3553,12 +3552,7 @@
       {
         "name": "Healthcare & bio AI",
         "delta": -1,
-        "now": 19
-      },
-      {
-        "name": "Marketing & creative AI",
-        "delta": -1,
-        "now": 2
+        "now": 18
       },
       {
         "name": "HR & workforce",
@@ -3566,7 +3560,7 @@
         "now": 2
       },
       {
-        "name": "Data infrastructure",
+        "name": "Marketing & creative AI",
         "delta": -2,
         "now": 1
       },
@@ -3577,8 +3571,8 @@
       },
       {
         "name": "Applied / horizontal AI",
-        "delta": -5,
-        "now": 101
+        "delta": -4,
+        "now": 103
       }
     ]
   }
