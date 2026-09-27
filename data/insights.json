@@ -1,17 +1,17 @@
 {
-  "generated": "2026-09-26",
+  "generated": "2026-09-27",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 72,
-    "total_cap_m": 13694,
-    "early_cap_m": 2394,
+    "early_raises": 73,
+    "total_cap_m": 13699,
+    "early_cap_m": 2399,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 29,
-      "Series A": 40,
+      "Series A": 41,
       "Series B": 24,
       "Series C": 13,
       "Series D": 2,
@@ -19,6 +19,15 @@
     }
   },
   "raises": [
+    {
+      "company": "RentBetter",
+      "amount_m": 5,
+      "date": "2026-09-27",
+      "link": "https://rentbetter.com.au",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series A"
+    },
     {
       "company": "INFINI",
       "amount_m": 6,
@@ -29,21 +38,21 @@
       "stage": "Seed"
     },
     {
-      "company": "TrueMile.AI",
-      "amount_m": null,
-      "date": "2026-09-26",
-      "link": "https://truemile.ai",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Spine",
       "amount_m": null,
       "date": "2026-09-26",
       "link": "https://joinspine.ai",
       "investors": [],
       "theme": "Financial back-office & compliance AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "TrueMile.AI",
+      "amount_m": null,
+      "date": "2026-09-26",
+      "link": "https://truemile.ai",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
       "stage": "Pre Seed"
     },
     {
@@ -155,21 +164,21 @@
       "stage": "Seed"
     },
     {
-      "company": "Gamindo",
-      "amount_m": 2,
-      "date": "2026-09-25",
-      "link": "https://gamindo.com",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
       "company": "Scholar Education",
       "amount_m": 2,
       "date": "2026-09-25",
       "link": "https://joinscholar.com",
       "investors": [],
       "theme": "Vertical SaaS",
+      "stage": "Seed"
+    },
+    {
+      "company": "Gamindo",
+      "amount_m": 2,
+      "date": "2026-09-25",
+      "link": "https://gamindo.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
       "stage": "Seed"
     },
     {
@@ -197,15 +206,6 @@
       "link": "https://verno-ai.com",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "Shire",
-      "amount_m": null,
-      "date": "2026-09-25",
-      "link": "https://shireintelligence.com",
-      "investors": [],
-      "theme": "Vertical SaaS",
       "stage": "Pre Seed"
     },
     {
@@ -2260,14 +2260,14 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
+      "count": 8,
       "examples": [
+        "RentBetter",
         "INFINI",
         "Wealthcome",
         "FintechOS",
         "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
+        "Fomo"
       ]
     },
     {
@@ -2294,17 +2294,6 @@
       ]
     },
     {
-      "theme": "Vertical SaaS",
-      "count": 5,
-      "examples": [
-        "University Startups",
-        "Scholar Education",
-        "Shire",
-        "Agave",
-        "Scotch"
-      ]
-    },
-    {
       "theme": "Cybersecurity",
       "count": 5,
       "examples": [
@@ -2313,6 +2302,16 @@
         "Twenty",
         "A Security",
         "Opal Security"
+      ]
+    },
+    {
+      "theme": "Vertical SaaS",
+      "count": 4,
+      "examples": [
+        "University Startups",
+        "Scholar Education",
+        "Agave",
+        "Scotch"
       ]
     },
     {
@@ -2463,15 +2462,15 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 7,
-      "cap_m": 271,
+      "count": 8,
+      "cap_m": 276,
       "examples": [
+        "RentBetter",
         "INFINI",
         "Wealthcome",
         "FintechOS",
         "Float",
-        "Fomo",
-        "Crypto trading app Fomo"
+        "Fomo"
       ],
       "top_stage": "Series B"
     },
@@ -2503,19 +2502,6 @@
       "top_stage": "Pre Seed"
     },
     {
-      "theme": "Vertical SaaS",
-      "count": 5,
-      "cap_m": 37,
-      "examples": [
-        "University Startups",
-        "Scholar Education",
-        "Shire",
-        "Agave",
-        "Scotch"
-      ],
-      "top_stage": "Pre Seed"
-    },
-    {
       "theme": "Cybersecurity",
       "count": 5,
       "cap_m": 568,
@@ -2527,6 +2513,18 @@
         "Opal Security"
       ],
       "top_stage": "Venture"
+    },
+    {
+      "theme": "Vertical SaaS",
+      "count": 4,
+      "cap_m": 37,
+      "examples": [
+        "University Startups",
+        "Scholar Education",
+        "Agave",
+        "Scotch"
+      ],
+      "top_stage": "Series A"
     },
     {
       "theme": "AI compute & models",
@@ -3477,22 +3475,27 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-05",
+    "since": "2026-09-06",
     "tw": [
+      {
+        "name": "Applied AI agents",
+        "delta": 3,
+        "now": 12
+      },
       {
         "name": "Financial back-office & compliance AI",
         "delta": 3,
         "now": 5
       },
       {
-        "name": "Vertical SaaS",
-        "delta": 3,
-        "now": 5
+        "name": "Fintech & payments",
+        "delta": 2,
+        "now": 8
       },
       {
-        "name": "Applied AI agents",
+        "name": "Vertical SaaS",
         "delta": 2,
-        "now": 12
+        "now": 4
       },
       {
         "name": "Legal AI",
@@ -3503,11 +3506,6 @@
         "name": "Sales & GTM AI",
         "delta": 2,
         "now": 3
-      },
-      {
-        "name": "Fintech & payments",
-        "delta": 1,
-        "now": 7
       },
       {
         "name": "Cybersecurity",
@@ -3530,11 +3528,6 @@
         "now": 2
       },
       {
-        "name": "Logistics & supply chain",
-        "delta": 1,
-        "now": 1
-      },
-      {
         "name": "Energy & climate",
         "delta": 0,
         "now": 10
@@ -3543,6 +3536,11 @@
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": 0,
+        "now": 1
       },
       {
         "name": "Defense & national security",

@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-26",
+  "generated": "2026-09-27",
   "window_days": 45,
   "counts": {
     "actionable": 10,
-    "watchlist": 11,
+    "watchlist": 12,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -179,6 +179,23 @@
     }
   ],
   "watchlist": [
+    {
+      "company": "RentBetter",
+      "desc": "Fintech & payments",
+      "theme": "Precision Applications",
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": 5,
+      "investors": [],
+      "date": "2026-09-27",
+      "link": "https://rentbetter.com.au",
+      "domain": "rentbetter.com.au",
+      "tier": "watchlist",
+      "fit_reason": "Series A ($5M) — track for the next round",
+      "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
     {
       "company": "INFINI",
       "desc": "Fintech & payments",

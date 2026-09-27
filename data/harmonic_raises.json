@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26",
+  "generated": "2026-09-27",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -139,19 +139,19 @@
       "location": "6 Rue Henri Houpied, 94370 Sucy-en-Brie, France"
     },
     {
-      "name": "Bird",
-      "domain": "messagebird.com",
-      "desc": "Bird provides a communications infrastructure that enables AI agents to send and receive messages across various channels, including email, SMS, WhatsApp, and voice, through a unified API. The platform utilizes technolog",
-      "stage": "SERIES_C",
-      "last_amount": 450000000.0,
-      "total": 1310120000.0,
+      "name": "mika AI",
+      "domain": "getmika.de",
+      "desc": "mika provides an automated accounting platform that handles bookkeeping, VAT returns, and annual financial statements, utilizing artificial intelligence to streamline these processes while ensuring compliance with data p",
+      "stage": "SEED",
+      "last_amount": 6828965.0,
+      "total": 7715509.0,
       "investors": [
-        "Flagstar Bank",
-        "Spark Capital",
-        "Lightrock",
-        "Mousse Partners"
+        "Earlybird Venture Capital",
+        "Slimmer AI",
+        "Wecken & Cie.",
+        "Keen Venture Partners"
       ],
-      "location": "Amsterdam, North Holland"
+      "location": "Berlin, Berlin"
     },
     {
       "name": "Spiich Labs",
@@ -169,34 +169,19 @@
       "location": "Stockholm, Stockholm County"
     },
     {
-      "name": "Buildkite",
-      "domain": "buildkite.com",
-      "desc": "Buildkite offers a continuous integration platform that supports flexible workflow automation through dynamic pipelines, enabling unlimited parallelism for testing, building, and deployment processes. Key technologies in",
-      "stage": "SERIES_B",
-      "last_amount": 21000000.0,
-      "total": 111377810.0,
+      "name": "Bird",
+      "domain": "messagebird.com",
+      "desc": "Bird provides a communications infrastructure that enables AI agents to send and receive messages across various channels, including email, SMS, WhatsApp, and voice, through a unified API. The platform utilizes technolog",
+      "stage": "SERIES_C",
+      "last_amount": 450000000.0,
+      "total": 1310120000.0,
       "investors": [
-        "OpenView",
-        "Airtree",
-        "General Catalyst",
-        "OneVentures"
+        "Flagstar Bank",
+        "Spark Capital",
+        "Lightrock",
+        "Mousse Partners"
       ],
-      "location": "Melbourne, Victoria"
-    },
-    {
-      "name": "mika AI",
-      "domain": "getmika.de",
-      "desc": "mika provides an automated accounting platform that handles bookkeeping, VAT returns, and annual financial statements, utilizing artificial intelligence to streamline these processes while ensuring compliance with data p",
-      "stage": "SEED",
-      "last_amount": 6828965.0,
-      "total": 7715509.0,
-      "investors": [
-        "Earlybird Venture Capital",
-        "Slimmer AI",
-        "Wecken & Cie.",
-        "Keen Venture Partners"
-      ],
-      "location": "Berlin, Berlin"
+      "location": "Amsterdam, North Holland"
     },
     {
       "name": "Trebellar",
@@ -214,19 +199,19 @@
       "location": "San Francisco, California"
     },
     {
-      "name": "Primo",
-      "domain": "getprimo.com",
-      "desc": "Primo offers an all-in-one IT management platform that integrates identity management, mobile device management (MDM), endpoint detection and response (EDR), and IT purchasing, utilizing AI and HR data to automate workfl",
-      "stage": "SEED",
-      "last_amount": 8000000.0,
-      "total": 11400000.0,
+      "name": "Buildkite",
+      "domain": "buildkite.com",
+      "desc": "Buildkite offers a continuous integration platform that supports flexible workflow automation through dynamic pipelines, enabling unlimited parallelism for testing, building, and deployment processes. Key technologies in",
+      "stage": "SERIES_B",
+      "last_amount": 21000000.0,
+      "total": 111377810.0,
       "investors": [
-        "Global Founders Capital",
-        "Headline",
-        "Swile",
-        "Deel"
+        "OpenView",
+        "Airtree",
+        "General Catalyst",
+        "OneVentures"
       ],
-      "location": "Paris"
+      "location": "Melbourne, Victoria"
     },
     {
       "name": "Grep AI",
@@ -242,6 +227,21 @@
         "Y Combinator"
       ],
       "location": ""
+    },
+    {
+      "name": "Primo",
+      "domain": "getprimo.com",
+      "desc": "Primo offers an all-in-one IT management platform that integrates identity management, mobile device management (MDM), endpoint detection and response (EDR), and IT purchasing, utilizing AI and HR data to automate workfl",
+      "stage": "SEED",
+      "last_amount": 8000000.0,
+      "total": 11400000.0,
+      "investors": [
+        "Global Founders Capital",
+        "Headline",
+        "Swile",
+        "Deel"
+      ],
+      "location": "Paris"
     },
     {
       "name": "Axya",
@@ -272,6 +272,19 @@
         "firstminute capital"
       ],
       "location": "London, England"
+    },
+    {
+      "name": "Spine",
+      "domain": "joinspine.ai",
+      "desc": "The main product is an AI-powered platform that integrates benefits management, payroll, compliance, and people operations, designed to optimize healthcare plans and reduce costs for employers. It features a 24/7 concier",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 1750000.0,
+      "investors": [
+        "Y Combinator",
+        "Zelda Ventures"
+      ],
+      "location": "San Francisco"
     },
     {
       "name": "Brick AI",
@@ -316,17 +329,19 @@
       "location": "San Francisco, CA"
     },
     {
-      "name": "Spine",
-      "domain": "joinspine.ai",
-      "desc": "The main product is an AI-powered platform that integrates benefits management, payroll, compliance, and people operations, designed to optimize healthcare plans and reduce costs for employers. It features a 24/7 concier",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 1750000.0,
+      "name": "Ande",
+      "domain": "ande.ai",
+      "desc": "Ande is an AI-native platform designed to streamline corporate entertainment by connecting enterprises with a vast network of pre-vetted vendors and venues, facilitating the booking, management, and measurement of entert",
+      "stage": "SERIES_A",
+      "last_amount": 52000000.0,
+      "total": 52000000.0,
       "investors": [
-        "Y Combinator",
-        "Zelda Ventures"
+        "Redpoint",
+        "SIERRA Ventures",
+        "Bain Capital Ventures (BCV)",
+        "Lightspeed Venture Partners"
       ],
-      "location": "San Francisco"
+      "location": ""
     },
     {
       "name": "ZELIQ",
@@ -342,21 +357,6 @@
         "The Moon Venture"
       ],
       "location": "New York"
-    },
-    {
-      "name": "Ande",
-      "domain": "ande.ai",
-      "desc": "Ande is an AI-native platform designed to streamline corporate entertainment by connecting enterprises with a vast network of pre-vetted vendors and venues, facilitating the booking, management, and measurement of entert",
-      "stage": "SERIES_A",
-      "last_amount": 52000000.0,
-      "total": 52000000.0,
-      "investors": [
-        "Redpoint",
-        "SIERRA Ventures",
-        "Bain Capital Ventures (BCV)",
-        "Lightspeed Venture Partners"
-      ],
-      "location": ""
     },
     {
       "name": "Productive Machines",
@@ -416,21 +416,6 @@
       "location": "Berlin, BE"
     },
     {
-      "name": "Gamindo",
-      "domain": "gamindo.com",
-      "desc": "The main product is an AI-driven platform that enables the creation of interactive, gamified learning experiences from various content formats, including documents and presentations, suitable for both self-paced and inst",
-      "stage": "SEED",
-      "last_amount": 1602674.0,
-      "total": 2193199.0,
-      "investors": [
-        "Zanichelli Venture",
-        "Wellness Holding",
-        "Moffu Labs",
-        "Doorway"
-      ],
-      "location": "Treviso, Italia"
-    },
-    {
       "name": "Scholar Education",
       "domain": "joinscholar.com",
       "desc": "Scholar Education offers AI-driven tools designed to enhance the educational experience by providing personalized support for both teachers and students. The product includes PAWfessor Bruce, which assists teachers with ",
@@ -441,21 +426,6 @@
         "OneSixOne Ventures"
       ],
       "location": "Tampa"
-    },
-    {
-      "name": "BRAHMA AI",
-      "domain": "brahma.io",
-      "desc": "Brahma AI offers an enterprise AI content platform that integrates advanced technologies for content creation, management, and distribution, utilizing AI agents like ATMAN for photoreal digital humans and VAANI for multi",
-      "stage": "SERIES_C",
-      "last_amount": 150000000.0,
-      "total": 175000000.0,
-      "investors": [
-        "Multiples Alternate Asset Management",
-        "S32",
-        "United Al Saqer Group",
-        "DNEG"
-      ],
-      "location": "London, England"
     },
     {
       "name": "Wealthcome",
@@ -471,6 +441,49 @@
         "Technostart Gmbh"
       ],
       "location": "Bordeaux"
+    },
+    {
+      "name": "Gamindo",
+      "domain": "gamindo.com",
+      "desc": "The main product is an AI-driven platform that enables the creation of interactive, gamified learning experiences from various content formats, including documents and presentations, suitable for both self-paced and inst",
+      "stage": "SEED",
+      "last_amount": 1602674.0,
+      "total": 2193199.0,
+      "investors": [
+        "Zanichelli Venture",
+        "Wellness Holding",
+        "Moffu Labs",
+        "Doorway"
+      ],
+      "location": "Treviso, Italia"
+    },
+    {
+      "name": "Dextr AI",
+      "domain": "dextr.ai",
+      "desc": "Dextr AI provides an AI workforce solution designed for the hospitality and property management sectors, enabling automation of operations such as guest management, bookings, and staff optimization. The technology is pow",
+      "stage": "SEED",
+      "last_amount": 6700000.0,
+      "total": 6700000.0,
+      "investors": [
+        "Foundation Capital",
+        "Elevation Capital"
+      ],
+      "location": "Palo Alto, California"
+    },
+    {
+      "name": "BRAHMA AI",
+      "domain": "brahma.io",
+      "desc": "Brahma AI offers an enterprise AI content platform that integrates advanced technologies for content creation, management, and distribution, utilizing AI agents like ATMAN for photoreal digital humans and VAANI for multi",
+      "stage": "SERIES_C",
+      "last_amount": 150000000.0,
+      "total": 175000000.0,
+      "investors": [
+        "Multiples Alternate Asset Management",
+        "S32",
+        "United Al Saqer Group",
+        "DNEG"
+      ],
+      "location": "London, England"
     },
     {
       "name": "Vestbee",
@@ -559,19 +572,6 @@
       "location": "Kópavogur"
     },
     {
-      "name": "Dextr AI",
-      "domain": "dextr.ai",
-      "desc": "Dextr AI provides an AI workforce solution designed for the hospitality and property management sectors, enabling automation of operations such as guest management, bookings, and staff optimization. The technology is pow",
-      "stage": "SEED",
-      "last_amount": 6700000.0,
-      "total": 6700000.0,
-      "investors": [
-        "Foundation Capital",
-        "Elevation Capital"
-      ],
-      "location": "Palo Alto, California"
-    },
-    {
       "name": "OneClickComply®",
       "domain": "oneclickcomply.com",
       "desc": "OneClickComply offers a compliance automation platform designed to help businesses efficiently meet regulatory requirements. The platform utilizes advanced technologies to streamline compliance processes, making it easie",
@@ -626,18 +626,6 @@
         "MaRS Investment Accelerator Fund"
       ],
       "location": "Toronto, Ontario"
-    },
-    {
-      "name": "Shire",
-      "domain": "shireintelligence.com",
-      "desc": "Shire provides a system that leverages existing CCTV footage to enhance operational efficiency in hospitality settings by optimizing seating arrangements, coordinating staff movements, and monitoring performance in real ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
     },
     {
       "name": "Euka AI",
@@ -718,6 +706,19 @@
         "Enlight Capital"
       ],
       "location": "Hong Kong"
+    },
+    {
+      "name": "RentBetter",
+      "domain": "rentbetter.com.au",
+      "desc": "RentBetter provides an online platform that allows property owners to manage their rental properties by facilitating tenant matching, lease agreement creation, and tracking of rental payments. The platform incorporates t",
+      "stage": "SERIES_A",
+      "last_amount": 5000000.0,
+      "total": 6900000.0,
+      "investors": [
+        "Ataboy Capital - Merchant Services Online",
+        "EVP"
+      ],
+      "location": "Sydney, New South Wales"
     }
   ]
 }
