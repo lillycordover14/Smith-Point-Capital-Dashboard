@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27",
+  "generated": "2026-09-28",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -214,6 +214,21 @@
       "location": "Melbourne, Victoria"
     },
     {
+      "name": "Primo",
+      "domain": "getprimo.com",
+      "desc": "Primo offers an all-in-one IT management platform that integrates identity management, mobile device management (MDM), endpoint detection and response (EDR), and IT purchasing, utilizing AI and HR data to automate workfl",
+      "stage": "SEED",
+      "last_amount": 8000000.0,
+      "total": 11400000.0,
+      "investors": [
+        "Global Founders Capital",
+        "Headline",
+        "Swile",
+        "Deel"
+      ],
+      "location": "Paris"
+    },
+    {
       "name": "Grep AI",
       "domain": "grep.ai",
       "desc": "Turn repetitive knowledge work into custom AI agents that route each step to the best model, so your team gets more done without blowing through its AI budget.",
@@ -229,19 +244,17 @@
       "location": ""
     },
     {
-      "name": "Primo",
-      "domain": "getprimo.com",
-      "desc": "Primo offers an all-in-one IT management platform that integrates identity management, mobile device management (MDM), endpoint detection and response (EDR), and IT purchasing, utilizing AI and HR data to automate workfl",
-      "stage": "SEED",
-      "last_amount": 8000000.0,
-      "total": 11400000.0,
+      "name": "Spine",
+      "domain": "joinspine.ai",
+      "desc": "The main product is an AI-powered platform that integrates benefits management, payroll, compliance, and people operations, designed to optimize healthcare plans and reduce costs for employers. It features a 24/7 concier",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 1750000.0,
       "investors": [
-        "Global Founders Capital",
-        "Headline",
-        "Swile",
-        "Deel"
+        "Y Combinator",
+        "Zelda Ventures"
       ],
-      "location": "Paris"
+      "location": "San Francisco"
     },
     {
       "name": "Axya",
@@ -259,6 +272,21 @@
       "location": "Montréal, Québec"
     },
     {
+      "name": "Ande",
+      "domain": "ande.ai",
+      "desc": "Ande is an AI-native platform designed to streamline corporate entertainment by connecting enterprises with a vast network of pre-vetted vendors and venues, facilitating the booking, management, and measurement of entert",
+      "stage": "SERIES_A",
+      "last_amount": 52000000.0,
+      "total": 52000000.0,
+      "investors": [
+        "Redpoint",
+        "SIERRA Ventures",
+        "Bain Capital Ventures (BCV)",
+        "Lightspeed Venture Partners"
+      ],
+      "location": ""
+    },
+    {
       "name": "benford",
       "domain": "benford.tech",
       "desc": "The company offers an online statutory audit service that automates the audit process through digital identity verification, seamless integration with accounting systems, and comprehensive transaction testing. Utilizing ",
@@ -272,19 +300,6 @@
         "firstminute capital"
       ],
       "location": "London, England"
-    },
-    {
-      "name": "Spine",
-      "domain": "joinspine.ai",
-      "desc": "The main product is an AI-powered platform that integrates benefits management, payroll, compliance, and people operations, designed to optimize healthcare plans and reduce costs for employers. It features a 24/7 concier",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 1750000.0,
-      "investors": [
-        "Y Combinator",
-        "Zelda Ventures"
-      ],
-      "location": "San Francisco"
     },
     {
       "name": "Brick AI",
@@ -327,21 +342,6 @@
         "Y Combinator"
       ],
       "location": "San Francisco, CA"
-    },
-    {
-      "name": "Ande",
-      "domain": "ande.ai",
-      "desc": "Ande is an AI-native platform designed to streamline corporate entertainment by connecting enterprises with a vast network of pre-vetted vendors and venues, facilitating the booking, management, and measurement of entert",
-      "stage": "SERIES_A",
-      "last_amount": 52000000.0,
-      "total": 52000000.0,
-      "investors": [
-        "Redpoint",
-        "SIERRA Ventures",
-        "Bain Capital Ventures (BCV)",
-        "Lightspeed Venture Partners"
-      ],
-      "location": ""
     },
     {
       "name": "ZELIQ",
@@ -586,6 +586,21 @@
       "location": "Sunderland"
     },
     {
+      "name": "Complaion",
+      "domain": "complaion.com",
+      "desc": "Complaion offers a platform designed to streamline the process of obtaining ISO certifications, automating up to 80% of the necessary tasks, including document management and evidence collection. The system provides real",
+      "stage": "SERIES_A",
+      "last_amount": 15359761.0,
+      "total": 15359761.0,
+      "investors": [
+        "Kfund",
+        "Italian Founders Fund",
+        "Enzo Ventures",
+        "Sella Venture Partners SGR"
+      ],
+      "location": "Milan, Lombardy"
+    },
+    {
       "name": "millionways",
       "domain": "millionways.me",
       "desc": "The main product is a behavioral intelligence system that utilizes a proprietary Large Psychology Model to analyze text and audio, measuring emotional and behavioral signals related to trust, friction, risk, and performa",
@@ -670,6 +685,19 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Klang.ai",
+      "domain": "klang.ai",
+      "desc": "Klang offers a platform that captures, structures, and analyzes conversations to extract valuable insights and signals from meetings, calls, and recordings. The technology is built with a focus on privacy and is hosted i",
+      "stage": "SEED",
+      "last_amount": 1529027.0,
+      "total": 1801559.0,
+      "investors": [
+        "Emil Sjödin",
+        "Joakim Jardenberg"
+      ],
+      "location": "Helsingborg, Skåne County"
+    },
+    {
       "name": "University Startups",
       "domain": "university-startups.com",
       "desc": "University Startups empowers students, regardless of ability, to reach their full potential by equipping them with essential skills to thrive in careers, higher education, and beyond. Through a unique integration of AI-p",
@@ -691,34 +719,6 @@
       "total": 65000.0,
       "investors": [],
       "location": "Coppell, Texas, United States"
-    },
-    {
-      "name": "INFINI",
-      "domain": "infini.money",
-      "desc": "The company offers an AI-powered financial platform designed for cross-border commerce, integrating both fiat and crypto architectures to facilitate multi-region payments, corporate card issuance, and expense management.",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 6000000.0,
-      "investors": [
-        "NextGen Digital Venture",
-        "SNZ Capital",
-        "Reforge",
-        "Enlight Capital"
-      ],
-      "location": "Hong Kong"
-    },
-    {
-      "name": "RentBetter",
-      "domain": "rentbetter.com.au",
-      "desc": "RentBetter provides an online platform that allows property owners to manage their rental properties by facilitating tenant matching, lease agreement creation, and tracking of rental payments. The platform incorporates t",
-      "stage": "SERIES_A",
-      "last_amount": 5000000.0,
-      "total": 6900000.0,
-      "investors": [
-        "Ataboy Capital - Merchant Services Online",
-        "EVP"
-      ],
-      "location": "Sydney, New South Wales"
     }
   ]
 }

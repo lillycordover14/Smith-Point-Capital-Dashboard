@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27",
+  "generated": "2026-09-28",
   "companies": [
     {
       "name": "Bretton",
@@ -31,6 +31,35 @@
       ]
     },
     {
+      "name": "NetBox Labs",
+      "domain": "netboxlabs.com",
+      "stage": "Series B",
+      "months_since": 15,
+      "last_raise_date": "2025-07-14",
+      "last_raise_source": "Harmonic (by domain)",
+      "funding_total": 55000000.0,
+      "cycle": "approaching",
+      "basis": "signal",
+      "status": "Heating up (hiring/press)",
+      "likelihood": "Medium",
+      "rank": 3,
+      "strong_signals": 0,
+      "supporting_signals": 2,
+      "finance_leadership_open": false,
+      "open_roles": 20,
+      "signals": [
+        "15 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
+        "Last round: 2025-07-14 (Harmonic (by domain))",
+        "Hiring ramp: open roles 11→20",
+        "Conference/roadshow presence: the first to hear news and subscribe here . Upcoming events Event Red Hat Summit",
+        "Basis: live signal"
+      ],
+      "url": "https://netboxlabs.com",
+      "links": [
+        "https://netboxlabs.com/events"
+      ]
+    },
+    {
       "name": "Salient",
       "domain": "trysalient.com",
       "stage": "Series A",
@@ -46,44 +75,15 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 11,
+      "open_roles": 15,
       "signals": [
         "14 mo since last round (Series A) · typical Series A cadence ~12 mo · approaching typical raise window",
         "Last round: 2025-07-28 (Harmonic (by domain))",
-        "Hiring ramp: open roles 8→11",
+        "Hiring ramp: open roles 8→15",
         "Basis: live signal"
       ],
       "url": "https://trysalient.com",
       "links": []
-    },
-    {
-      "name": "NetBox Labs",
-      "domain": "netboxlabs.com",
-      "stage": "Series B",
-      "months_since": 14,
-      "last_raise_date": "2025-07-14",
-      "last_raise_source": "Harmonic (by domain)",
-      "funding_total": 55000000.0,
-      "cycle": "approaching",
-      "basis": "signal",
-      "status": "Heating up (hiring/press)",
-      "likelihood": "Medium",
-      "rank": 3,
-      "strong_signals": 0,
-      "supporting_signals": 2,
-      "finance_leadership_open": false,
-      "open_roles": 15,
-      "signals": [
-        "14 mo since last round (Series B) · typical Series B cadence ~15 mo · approaching typical raise window",
-        "Last round: 2025-07-14 (Harmonic (by domain))",
-        "Hiring ramp: open roles 11→15",
-        "Conference/roadshow presence: the first to hear news and subscribe here . Upcoming events Event Red Hat Summit",
-        "Basis: live signal"
-      ],
-      "url": "https://netboxlabs.com",
-      "links": [
-        "https://netboxlabs.com/events"
-      ]
     },
     {
       "name": "Taktile",
@@ -101,7 +101,7 @@
       "strong_signals": 0,
       "supporting_signals": 1,
       "finance_leadership_open": false,
-      "open_roles": 42,
+      "open_roles": 41,
       "signals": [
         "3 mo since last round (Series C) · typical Series C cadence ~19 mo · just raised",
         "Last round: 2026-06-22 (provided)",

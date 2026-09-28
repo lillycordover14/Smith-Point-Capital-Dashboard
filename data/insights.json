@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-27",
+  "generated": "2026-09-28",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
     "early_raises": 73,
-    "total_cap_m": 13699,
-    "early_cap_m": 2399,
+    "total_cap_m": 13705,
+    "early_cap_m": 2405,
     "stage_counts": {
       "Pre-seed": 3,
       "Seed": 29,
@@ -20,21 +20,21 @@
   },
   "raises": [
     {
-      "company": "RentBetter",
-      "amount_m": 5,
-      "date": "2026-09-27",
-      "link": "https://rentbetter.com.au",
+      "company": "Complaion",
+      "amount_m": 15,
+      "date": "2026-09-28",
+      "link": "https://complaion.com",
       "investors": [],
-      "theme": "Fintech & payments",
+      "theme": "Applied / horizontal AI",
       "stage": "Series A"
     },
     {
-      "company": "INFINI",
-      "amount_m": 6,
-      "date": "2026-09-26",
-      "link": "https://infini.money",
+      "company": "Klang.ai",
+      "amount_m": 2,
+      "date": "2026-09-28",
+      "link": "https://klang.ai",
       "investors": [],
-      "theme": "Fintech & payments",
+      "theme": "Applied / horizontal AI",
       "stage": "Seed"
     },
     {
@@ -2200,14 +2200,14 @@
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 103,
+      "count": 105,
       "examples": [
+        "Complaion",
+        "Klang.ai",
         "TrueMile.AI",
         "Reply Next",
         "YOUnifiedAI",
-        "Gamindo",
-        "Verno",
-        "Outline"
+        "Gamindo"
       ]
     },
     {
@@ -2260,14 +2260,14 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 8,
+      "count": 6,
       "examples": [
-        "RentBetter",
-        "INFINI",
         "Wealthcome",
         "FintechOS",
         "Float",
-        "Fomo"
+        "Fomo",
+        "Crypto trading app Fomo",
+        "SyntheticFi"
       ]
     },
     {
@@ -2392,15 +2392,15 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 103,
-      "cap_m": 6618,
+      "count": 105,
+      "cap_m": 6635,
       "examples": [
+        "Complaion",
+        "Klang.ai",
         "TrueMile.AI",
         "Reply Next",
         "YOUnifiedAI",
-        "Gamindo",
-        "Verno",
-        "Outline"
+        "Gamindo"
       ],
       "top_stage": "Venture"
     },
@@ -2462,15 +2462,15 @@
     },
     {
       "theme": "Fintech & payments",
-      "count": 8,
-      "cap_m": 276,
+      "count": 6,
+      "cap_m": 265,
       "examples": [
-        "RentBetter",
-        "INFINI",
         "Wealthcome",
         "FintechOS",
         "Float",
-        "Fomo"
+        "Fomo",
+        "Crypto trading app Fomo",
+        "SyntheticFi"
       ],
       "top_stage": "Series B"
     },
@@ -3353,14 +3353,6 @@
           "date": "2026-04-03",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUNxc1lyeUpQUmplR3FWa3Fidi00aEVuOHRGY1Uxa1J2WUdLYS1tQVUwTlN4OXFlUHA5RmxFZFN5Uy1BZE8yQjJmcVUyeTVDMTdVaEU3TXMxRTZCY24zUEZwTFIyN1hGSjNvcFVhQ29Hd3dvS1pEOFo5MjBKUHdwTWlndEsxLTdGdVhQMUFwNXB2NTh3Wms2N3E0WW5DZml2NEVRenJaZw?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Linx Security",
-          "stage": "Series B",
-          "amount_m": 50,
-          "date": "2026-03-31",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4ejBQMHFBLWhVODFKeW5qWXNsWTkyZ285UFQwanpxNXRaSVdGV2tfY2l4MEpSWmVSeUl2Rmp3Yjh0OTJ6LW15V0cxemNsSFZOdTgzeC11TmZiQ3lINnE1UUlwMGkzS2RySVE?oc=5",
-          "theme": "Cybersecurity"
         }
       ],
       "early": 2
@@ -3475,25 +3467,25 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-06",
+    "since": "2026-09-07",
     "tw": [
-      {
-        "name": "Applied AI agents",
-        "delta": 3,
-        "now": 12
-      },
       {
         "name": "Financial back-office & compliance AI",
         "delta": 3,
         "now": 5
       },
       {
-        "name": "Fintech & payments",
+        "name": "Applied AI agents",
         "delta": 2,
-        "now": 8
+        "now": 12
       },
       {
         "name": "Vertical SaaS",
+        "delta": 2,
+        "now": 4
+      },
+      {
+        "name": "AI compute & models",
         "delta": 2,
         "now": 4
       },
@@ -3513,11 +3505,6 @@
         "now": 5
       },
       {
-        "name": "AI compute & models",
-        "delta": 1,
-        "now": 4
-      },
-      {
         "name": "Agent-native infra",
         "delta": 1,
         "now": 3
@@ -3526,6 +3513,11 @@
         "name": "AI dev tooling",
         "delta": 1,
         "now": 2
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": 1,
+        "now": 1
       },
       {
         "name": "Energy & climate",
@@ -3538,9 +3530,9 @@
         "now": 9
       },
       {
-        "name": "Logistics & supply chain",
+        "name": "Fintech & payments",
         "delta": 0,
-        "now": 1
+        "now": 6
       },
       {
         "name": "Defense & national security",
@@ -3558,9 +3550,9 @@
         "now": 2
       },
       {
-        "name": "Marketing & creative AI",
-        "delta": -2,
-        "now": 1
+        "name": "Applied / horizontal AI",
+        "delta": -3,
+        "now": 105
       },
       {
         "name": "Physical AI & robotics",
@@ -3568,9 +3560,9 @@
         "now": 6
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": -4,
-        "now": 103
+        "name": "Marketing & creative AI",
+        "delta": -3,
+        "now": 1
       }
     ]
   }
