@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -17,21 +17,6 @@
         "Glade Brook Capital Partners LLC"
       ],
       "location": "New York"
-    },
-    {
-      "name": "Island",
-      "domain": "island.io",
-      "desc": "Island offers an enterprise browser solution that integrates IT security and productivity features, enabling organizations to manage access and governance effectively while providing a seamless user experience. The platf",
-      "stage": "SERIES_F",
-      "last_amount": 400000000.0,
-      "total": 1375370000.0,
-      "investors": [
-        "Evolution Equity Partners",
-        "Insight Partners",
-        "Cyberstarts",
-        "Capital One"
-      ],
-      "location": "Dallas, TX, US"
     },
     {
       "name": "Didero",
@@ -64,6 +49,21 @@
       "location": "San Franciso, California"
     },
     {
+      "name": "Flow Engineering",
+      "domain": "flowengineering.com",
+      "desc": "The main product is a requirements management tool designed for hardware development, enabling teams to manage and integrate requirements, design, CAD, and testing within a unified system. It utilizes a living systems gr",
+      "stage": "SERIES_B",
+      "last_amount": 50000000.0,
+      "total": 81500000.0,
+      "investors": [
+        "BACKED VC",
+        "Atreides Management, LP",
+        "EQT Group",
+        "Greycroft"
+      ],
+      "location": "San Francisco"
+    },
+    {
       "name": "Deepgram",
       "domain": "deepgram.com",
       "desc": "Deepgram provides advanced voice AI solutions that include real-time speech-to-text, text-to-speech, and a unified voice agent API, designed to enhance human-machine interactions. The technology leverages end-to-end deep",
@@ -94,21 +94,6 @@
       "location": "Brooklyn, NY"
     },
     {
-      "name": "Ando",
-      "domain": "ando.so",
-      "desc": "Ando is a team messaging platform designed to enhance collaboration by integrating AI agents as active participants in communication, rather than mere tools. The platform emphasizes context retention and proactive engage",
-      "stage": "SEED",
-      "last_amount": 20000000.0,
-      "total": 37600000.0,
-      "investors": [
-        "Index Ventures",
-        "Emergence Capital",
-        "Accel",
-        "Contrary"
-      ],
-      "location": "San Francisco"
-    },
-    {
       "name": "DOSS",
       "domain": "doss.com",
       "desc": "DOSS offers an adaptive ERP and operations cloud platform that enables teams to manage their operations seamlessly from purchase order to point of sale. The platform utilizes automated workflows to streamline processes s",
@@ -120,51 +105,6 @@
         "Premji Invest",
         "XYZ Venture Capital",
         "basecase capital"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "Jeeves",
-      "domain": "tryjeeves.com",
-      "desc": "Jeeves offers a financial management platform that enables users to open multi-currency accounts, issue corporate cards, send cross-border payments, and manage expenses. The platform integrates various financial tools to",
-      "stage": "SERIES_C",
-      "last_amount": 110000000.0,
-      "total": 744310000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Tribe Capital",
-        "17Sigma",
-        "Wollef"
-      ],
-      "location": "Miami , Florida"
-    },
-    {
-      "name": "Flow Engineering",
-      "domain": "flowengineering.com",
-      "desc": "The main product is a requirements management tool designed for hardware development, enabling teams to manage and integrate requirements, design, CAD, and testing within a unified system. It utilizes a living systems gr",
-      "stage": "SERIES_B",
-      "last_amount": 50000000.0,
-      "total": 81500000.0,
-      "investors": [
-        "BACKED VC",
-        "Atreides Management, LP",
-        "EQT Group",
-        "Greycroft"
-      ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "Larridin, Inc.",
-      "domain": "larridin.com",
-      "desc": "Larridin offers an AI Execution Intelligence platform designed to provide organizations with comprehensive visibility into their AI investments, measuring ROI and enhancing productivity across human and agent workforces.",
-      "stage": "SEED",
-      "last_amount": 17000000.0,
-      "total": 34000000.0,
-      "investors": [
-        "Andreessen Horowitz",
-        "Bloomberg Beta",
-        "Plug and Play",
-        "Haystack"
       ],
       "location": "San Francisco, CA"
     },
@@ -184,6 +124,66 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Jeeves",
+      "domain": "tryjeeves.com",
+      "desc": "Jeeves offers a financial management platform that enables users to open multi-currency accounts, issue corporate cards, send cross-border payments, and manage expenses. The platform integrates various financial tools to",
+      "stage": "SERIES_C",
+      "last_amount": 110000000.0,
+      "total": 744310000.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Tribe Capital",
+        "17Sigma",
+        "Wollef"
+      ],
+      "location": "Miami , Florida"
+    },
+    {
+      "name": "Larridin, Inc.",
+      "domain": "larridin.com",
+      "desc": "Larridin offers an AI Execution Intelligence platform designed to provide organizations with comprehensive visibility into their AI investments, measuring ROI and enhancing productivity across human and agent workforces.",
+      "stage": "SEED",
+      "last_amount": 17000000.0,
+      "total": 34000000.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Bloomberg Beta",
+        "Plug and Play",
+        "Haystack"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Moda",
+      "domain": "moda.app",
+      "desc": "Moda offers an AI-driven graphic design platform that enables users to create fully editable visual assets, including slides, one-pagers, and social media posts, on a customizable canvas. The technology focuses on brand ",
+      "stage": "SEED",
+      "last_amount": 500000.0,
+      "total": 8000000.0,
+      "investors": [
+        "Y Combinator",
+        "General Catalyst",
+        "Pear VC",
+        "WndrCo"
+      ],
+      "location": "169 Madison Avenue, Suite 2054, New York, NY 10016, United States"
+    },
+    {
+      "name": "Parakeet Health",
+      "domain": "parakeethealth.com",
+      "desc": "Parakeet Health offers a healthcare-native conversational AI platform that automates inbound and outbound patient access workflows across various communication channels, including voice, SMS, fax, and email. Utilizing la",
+      "stage": "SERIES_A",
+      "last_amount": 10000000.0,
+      "total": 13000000.0,
+      "investors": [
+        "HMC INQ",
+        "StoryHouse Ventures",
+        "CoFound",
+        "Canvas Prime"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
       "name": "Pelico",
       "domain": "pelico.ai",
       "desc": "Pelico offers a manufacturing orchestration platform that integrates and coordinates execution across complex production networks, enabling real-time visibility and alignment among teams in response to operational disrup",
@@ -199,19 +199,49 @@
       "location": "Miami, Florida"
     },
     {
-      "name": "Trebellar",
-      "domain": "trebellar.com",
-      "desc": "Trebellar offers an AI platform specifically designed for corporate real estate, enabling the unification and analysis of fragmented portfolio data to facilitate faster decision-making. The platform employs AI agents tra",
+      "name": "Rayon.design",
+      "domain": "rayon.design",
+      "desc": "Rayon offers an AI-powered CAD software designed for interior designers and architects, enabling rapid drafting with precision and customizable styles. Key features include real-time collaboration, AI-assisted design gen",
       "stage": "SERIES_A",
-      "last_amount": 18000000.0,
-      "total": 21500000.0,
+      "last_amount": 11340563.0,
+      "total": 17542507.0,
       "investors": [
-        "Kfund",
-        "Alt Capital",
-        "Blossom Capital",
-        "1Flourish Capital"
+        "20VC",
+        "Seedcamp",
+        "Partech",
+        "Kima Ventures"
       ],
-      "location": "San Francisco, California"
+      "location": "Paris"
+    },
+    {
+      "name": "enso",
+      "domain": "enso.bot",
+      "desc": "The company offers a suite of AI agents designed to automate various aspects of marketing and growth operations, including SEO, lead generation, community engagement, content distribution, and social media management. Th",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 21000000.0,
+      "investors": [
+        "Shmuel Levy",
+        "NFX",
+        "MoreTech Ventures",
+        "Evening Fund"
+      ],
+      "location": "Tel Aviv-Yafo"
+    },
+    {
+      "name": "Settle Inc",
+      "domain": "settle.com",
+      "desc": "The company provides a comprehensive platform that integrates inventory management, procurement, accounts payable automation, and working capital financing, enabling consumer brands to manage their purchasing and payment",
+      "stage": "SERIES_C",
+      "last_amount": 240000000.0,
+      "total": 905119892.0,
+      "investors": [
+        "Atalaya Capital Management",
+        "Finn Capital Partners",
+        "Upper90",
+        "Silicon Valley Bank"
+      ],
+      "location": "San Francisco, CA"
     },
     {
       "name": "Complaion",
@@ -229,19 +259,18 @@
       "location": "Milan, Lombardy"
     },
     {
-      "name": "Moda",
-      "domain": "moda.app",
-      "desc": "Moda offers an AI-driven graphic design platform that enables users to create fully editable visual assets, including slides, one-pagers, and social media posts, on a customizable canvas. The technology focuses on brand ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 8000000.0,
+      "name": "Quotr.ai",
+      "domain": "flodesigners.com",
+      "desc": "The company's main product leverages AI and advanced technology to drive innovation in project development, focusing on cutting-edge technologies to enhance project efficiency and effectiveness.",
+      "stage": "SEED",
+      "last_amount": 4000000.0,
+      "total": 4200000.0,
       "investors": [
-        "Y Combinator",
-        "General Catalyst",
-        "Pear VC",
-        "WndrCo"
+        "Berkeley SkyDeck",
+        "Llama Ventures",
+        "Sky Arc Capital"
       ],
-      "location": "169 Madison Avenue, Suite 2054, New York, NY 10016, United States"
+      "location": "San francisco, CA"
     },
     {
       "name": "Spine",
@@ -257,88 +286,63 @@
       "location": "San Francisco"
     },
     {
-      "name": "Dextr AI",
-      "domain": "dextr.ai",
-      "desc": "Dextr AI provides an AI workforce solution designed for the hospitality and property management sectors, enabling automation of operations such as guest management, bookings, and staff optimization. The technology is pow",
+      "name": "Kanu AI",
+      "domain": "getkanu.com",
+      "desc": "Kanu offers a platform that integrates various data sources and automates workflows by encoding company-specific models and rules into a cloud environment. Utilizing AI, the platform continuously learns from user data an",
       "stage": "SEED",
-      "last_amount": 6700000.0,
-      "total": 6700000.0,
+      "last_amount": 11700000.0,
+      "total": 12200000.0,
       "investors": [
-        "Foundation Capital",
-        "Elevation Capital"
+        "Berkeley Frontier Fund",
+        "BMW i Ventures",
+        "Accel",
+        "Trilogy Equity Partners"
       ],
-      "location": "Palo Alto, California"
+      "location": "Seattle, Washington, United States"
     },
     {
-      "name": "Axya",
-      "domain": "axya.co",
-      "desc": "Axya offers a cloud-based procurement software designed specifically for manufacturing companies, automating complex procurement operations by structuring supplier responses and integrating them with existing ERP systems",
+      "name": "Daptic (formerly DiploAI)",
+      "domain": "daptic.com",
+      "desc": "Daptic offers an AI-powered regulatory intelligence platform that automates the monitoring and analysis of over 10,000 global sources to ensure compliance with safety and regulatory requirements. Utilizing machine learni",
       "stage": "SERIES_A",
-      "last_amount": 8482604.0,
-      "total": 17227628.0,
+      "last_amount": 15000000.0,
+      "total": 21200000.0,
       "investors": [
-        "Fonds Ecofuel | Ecofuel Fund",
-        "BDC",
-        "Desjardins",
-        "Real Ventures"
+        "8VC",
+        "REFASHIOND Ventures: The Industrial Transformation Fund",
+        "IA Ventures",
+        "Canvas Prime"
       ],
-      "location": "Montréal, Québec"
+      "location": "New York"
     },
     {
-      "name": "Scholar Education",
-      "domain": "joinscholar.com",
-      "desc": "Scholar Education offers AI-driven tools designed to enhance the educational experience by providing personalized support for both teachers and students. The product includes PAWfessor Bruce, which assists teachers with ",
+      "name": "Revnu (P26)",
+      "domain": "revnu.com",
+      "desc": "Revnu offers an AI-driven platform that automates various growth-related tasks for software businesses, including SEO, ad management, outbound outreach, and customer retention strategies. By integrating with existing app",
       "stage": "SEED",
-      "last_amount": 2000000.0,
-      "total": 3500000.0,
+      "last_amount": 2918955.0,
+      "total": 3418955.0,
       "investors": [
-        "OneSixOne Ventures"
+        "Y Combinator",
+        "PXN Group",
+        "InvestorX",
+        "PXN Ventures"
       ],
-      "location": "Tampa"
+      "location": "San Francisco"
     },
     {
-      "name": "Wealthcome",
-      "domain": "wealthcome.fr",
-      "desc": "The company offers a suite of financial technology solutions designed for wealth management professionals, including real-time asset aggregation, regulatory compliance automation, and intelligent client relationship mana",
-      "stage": "SERIES_B",
-      "last_amount": 17061739.0,
-      "total": 25703470.0,
+      "name": "Kahua",
+      "domain": "kahua.com",
+      "desc": "Kahua offers a construction project management platform that enhances efficiency and risk management throughout the project lifecycle, utilizing an asset-centric approach. The platform features a low-code environment for",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 65162722.0,
       "investors": [
-        "BlackFin Capital Partners",
-        "Techno'Start",
-        "Alter Equity",
-        "Technostart Gmbh"
+        "Bain Capital Tech Opportunities",
+        "Collective Capital Ventures",
+        "Bain Capitals Tech Opportunities"
       ],
-      "location": "Bordeaux"
-    },
-    {
-      "name": "Limited, Inc.",
-      "domain": "limitedapp.com",
-      "desc": "The company offers a comprehensive financial toolkit that enables businesses to manage their finances through features such as multi-currency accounts, corporate cards, expense tracking, and international remittance. Key",
-      "stage": "SEED",
-      "last_amount": 18500000.0,
-      "total": 28500000.0,
-      "investors": [
-        "North Island Ventures",
-        "1982 Ventures",
-        "Collab+Currency",
-        "Third Prime"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "Quotr.ai",
-      "domain": "flodesigners.com",
-      "desc": "The company's main product leverages AI and advanced technology to drive innovation in project development, focusing on cutting-edge technologies to enhance project efficiency and effectiveness.",
-      "stage": "SEED",
-      "last_amount": 4000000.0,
-      "total": 4200000.0,
-      "investors": [
-        "Berkeley SkyDeck",
-        "Llama Ventures",
-        "Sky Arc Capital"
-      ],
-      "location": "San francisco, CA"
+      "location": "Alpharetta, Georgia"
     },
     {
       "name": "Spotable",
@@ -371,33 +375,19 @@
       "location": "London"
     },
     {
-      "name": "Rayon.design",
-      "domain": "rayon.design",
-      "desc": "Rayon offers an AI-powered CAD software designed for interior designers and architects, enabling rapid drafting with precision and customizable styles. Key features include real-time collaboration, AI-assisted design gen",
-      "stage": "SERIES_A",
-      "last_amount": 11340563.0,
-      "total": 17542507.0,
+      "name": "Kuro",
+      "domain": "kuro.technology",
+      "desc": "Kuro offers an AI-driven automation platform designed specifically for general contractors, enabling the integration of fragmented project data into actionable insights while streamlining complex construction processes. ",
+      "stage": "PRE_SEED",
+      "last_amount": 11236585.0,
+      "total": 11236585.0,
       "investors": [
-        "20VC",
-        "Seedcamp",
-        "Partech",
-        "Kima Ventures"
+        "helloworld",
+        "UVC Partners",
+        "Foundamental",
+        "Realyze Ventures"
       ],
-      "location": "Paris"
-    },
-    {
-      "name": "Kahua",
-      "domain": "kahua.com",
-      "desc": "Kahua offers a construction project management platform that enhances efficiency and risk management throughout the project lifecycle, utilizing an asset-centric approach. The platform features a low-code environment for",
-      "stage": "SERIES_A",
-      "last_amount": 0,
-      "total": 65162722.0,
-      "investors": [
-        "Bain Capital Tech Opportunities",
-        "Collective Capital Ventures",
-        "Bain Capitals Tech Opportunities"
-      ],
-      "location": "Alpharetta, Georgia"
+      "location": "Berlin, BE"
     },
     {
       "name": "Dodge AI",
@@ -445,34 +435,17 @@
       "location": "Raleigh, North Carolina"
     },
     {
-      "name": "Vestbee",
-      "domain": "vestbee.com",
-      "desc": "Vestbee offers an all-in-one platform designed to connect startups, investors, accelerators, and corporates, providing tools for startup management, deal flow enhancement, and program management. The platform utilizes co",
-      "stage": "PRE_SEED",
-      "last_amount": 1706173.0,
-      "total": 6290852.0,
-      "investors": [
-        "Moonstone Venture Capital",
-        "Cocoa",
-        "Italian Founders Fund",
-        "u.ventures"
-      ],
-      "location": "Warsaw, Mazovian"
-    },
-    {
-      "name": "Kanu AI",
-      "domain": "getkanu.com",
-      "desc": "Kanu offers a platform that integrates various data sources and automates workflows by encoding company-specific models and rules into a cloud environment. Utilizing AI, the platform continuously learns from user data an",
+      "name": "ahron",
+      "domain": "ahron.ai",
+      "desc": "Ahron provides an orchestration layer for HR that integrates existing systems such as ATS, HCM, and payroll, enabling seamless process visibility and control. Utilizing process intelligence and AI agents, the platform au",
       "stage": "SEED",
-      "last_amount": 11700000.0,
-      "total": 12200000.0,
+      "last_amount": 2491929.0,
+      "total": 2491929.0,
       "investors": [
-        "Berkeley Frontier Fund",
-        "BMW i Ventures",
-        "Accel",
-        "Trilogy Equity Partners"
+        "Cusp Capital",
+        "Sabine Kohleisen"
       ],
-      "location": "Seattle, Washington, United States"
+      "location": "Munich, Bavaria"
     },
     {
       "name": "Klang.ai",
@@ -505,19 +478,19 @@
       "location": "Seattle, WA, United States"
     },
     {
-      "name": "50skills",
-      "domain": "50skills.com",
-      "desc": "The company offers an AI-driven HR workflow automation platform designed to streamline various HR processes, including onboarding, leave requests, and expense reimbursements, by transforming repetitive tasks into structu",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 9141085.0,
+      "name": "ITpipes",
+      "domain": "itpipes.com",
+      "desc": "ITpipes provides intelligent pipeline inspection management software that integrates with major CCTV hardware to facilitate detailed data collection and real-time updates for inspection management. Its suite of tools, in",
+      "stage": "",
+      "last_amount": 0,
+      "total": 20000000.0,
       "investors": [
-        "Swiss Post Ventures",
-        "Frumtak Ventures",
-        "DRD Investments, LLC",
-        "Avant"
+        "Miramar Equity Partners",
+        "Trilogy Search Partners",
+        "Luminate Capital",
+        "Luminate Capital Partners"
       ],
-      "location": "Kópavogur"
+      "location": "Seattle, WA"
     },
     {
       "name": "Everphone",
@@ -535,18 +508,19 @@
       "location": "Berlin, Berlin"
     },
     {
-      "name": "Reply Next",
-      "domain": "replynext.com",
-      "desc": "ReplyNext offers a software-as-a-service platform that leverages artificial intelligence to automate the analysis of customer reviews, allowing businesses to efficiently derive insights from feedback. The platform suppor",
-      "stage": "PRE_SEED",
-      "last_amount": 454979.0,
-      "total": 454979.0,
+      "name": "Wassist",
+      "domain": "wassist.app",
+      "desc": "The main product is an AI-driven platform that automates customer engagement on WhatsApp, utilizing natural language understanding and conversation history management to enhance customer support and sales interactions. I",
+      "stage": "SEED",
+      "last_amount": 1100000.0,
+      "total": 2200000.0,
       "investors": [
-        "4Founders Capital",
-        "Juanjo Mostazo",
-        "🤘David Alcobero"
+        "Octopus Ventures",
+        "Playfair",
+        "Balderton",
+        "Dawn Capital"
       ],
-      "location": "Madrid, Madrid"
+      "location": "Basement Flat, 46 Ellington Street, London N7 8PL, England, United Kingdom"
     },
     {
       "name": "bilt.me",
@@ -563,17 +537,32 @@
       "location": "Tallinn, Tallinn"
     },
     {
-      "name": "Sol · Here comes the sun",
-      "domain": "hellosol.app",
-      "desc": "The main product automates task management by identifying open tasks from various communication channels and initiating actions such as drafting documents, scheduling meetings, and generating replies, all pending user ap",
+      "name": "Occam Industries",
+      "domain": "occam.industries",
+      "desc": "Occam Industries specializes in developing tactical autonomy systems that leverage machine vision and scalable operational capabilities, designed to function across various platforms and mission environments. Their techn",
       "stage": "PRE_SEED",
-      "last_amount": 4000000.0,
-      "total": 4000000.0,
+      "last_amount": 4304242.0,
+      "total": 7866934.0,
       "investors": [
-        "Nexus Venture Partners",
-        "General Catalyst",
-        "peercheque",
-        "DeVC"
+        "Presto Ventures",
+        "Antler",
+        "T|Y|R.vc",
+        "Grenadier Holdings"
+      ],
+      "location": "Techspace Antler, 32-38 Leman Street, London E1 8EW, England, United Kingdom"
+    },
+    {
+      "name": "Photon",
+      "domain": "photon.codes",
+      "desc": "The company offers an open-source framework that enables the integration of AI agents with various messaging platforms, including SMS/RCS, iMessage, WhatsApp, Discord, Slack, and Telegram. This framework supports functio",
+      "stage": "SEED",
+      "last_amount": 4500000.0,
+      "total": 4500000.0,
+      "investors": [
+        "A*",
+        "Karman Ventures",
+        "Vercel",
+        "HSG"
       ],
       "location": ""
     },
@@ -590,20 +579,6 @@
         "Notation Capital"
       ],
       "location": "New York, NEW YORK (NY)"
-    },
-    {
-      "name": "ITpipes",
-      "domain": "itpipes.com",
-      "desc": "ITpipes provides intelligent pipeline inspection management software that integrates with major CCTV hardware to facilitate detailed data collection and real-time updates for inspection management. Its suite of tools, in",
-      "stage": "",
-      "last_amount": 0,
-      "total": 20000000.0,
-      "investors": [
-        "Miramar Equity Partners",
-        "Trilogy Search Partners",
-        "Luminate Capital"
-      ],
-      "location": "Seattle, WA"
     },
     {
       "name": "Ample",
@@ -630,36 +605,6 @@
       "location": ""
     },
     {
-      "name": "Occam Industries",
-      "domain": "occam.industries",
-      "desc": "Occam Industries specializes in developing tactical autonomy systems that leverage machine vision and scalable operational capabilities, designed to function across various platforms and mission environments. Their techn",
-      "stage": "PRE_SEED",
-      "last_amount": 4304242.0,
-      "total": 7866934.0,
-      "investors": [
-        "Presto Ventures",
-        "Antler",
-        "T|Y|R.vc",
-        "Grenadier Holdings"
-      ],
-      "location": "Techspace Antler, 32-38 Leman Street, London E1 8EW, England, United Kingdom"
-    },
-    {
-      "name": "Zumma",
-      "domain": "zummafinancial.com",
-      "desc": "Zumma Financial offers a platform that automates the invoicing of corporate expenses through WhatsApp, enabling users to upload receipt images for efficient financial documentation. The service employs artificial intelli",
-      "stage": "PRE_SEED",
-      "last_amount": 1300000.0,
-      "total": 1920000.0,
-      "investors": [
-        "Wollef",
-        "Outside VC",
-        "Techstars",
-        "GG Capital"
-      ],
-      "location": "Ciudad de México"
-    },
-    {
       "name": "HopDrive",
       "domain": "socialautotransport.com",
       "desc": "HopDrive provides a car maintenance service with concierge pick up and delivery, focusing on transparency and limited liability. The service likely leverages logistics automation, tracking systems, and customer communica",
@@ -673,21 +618,6 @@
         "Ally Ventures"
       ],
       "location": "Richmond, Virginia"
-    },
-    {
-      "name": "AIONA Inc.",
-      "domain": "aiona.co.jp",
-      "desc": "AIONA株式会社 offers an AI-driven design automation solution aimed at enhancing the efficiency and quality of manufacturing processes. The technology leverages extensive technical documentation and implicit knowledge to auto",
-      "stage": "SEED",
-      "last_amount": 881545.0,
-      "total": 2032246.0,
-      "investors": [
-        "Link Capital",
-        "株式会社ココナラ",
-        "GxPartners",
-        "みずほキャピタル株式会社"
-      ],
-      "location": "渋谷区, 東京都"
     },
     {
       "name": "Keploy 🐰",
@@ -705,6 +635,36 @@
       "location": "San Franciso, California"
     },
     {
+      "name": "Zumma",
+      "domain": "zummafinancial.com",
+      "desc": "Zumma Financial offers a platform that automates the invoicing of corporate expenses through WhatsApp, enabling users to upload receipt images for efficient financial documentation. The service employs artificial intelli",
+      "stage": "PRE_SEED",
+      "last_amount": 1300000.0,
+      "total": 1920000.0,
+      "investors": [
+        "Wollef",
+        "Outside VC",
+        "Techstars",
+        "GG Capital"
+      ],
+      "location": "Ciudad de México"
+    },
+    {
+      "name": "Deepslate",
+      "domain": "phonebot.io",
+      "desc": "The company offers a speech-to-speech AI solution tailored for European enterprises, facilitating natural conversations in over 27 languages with a response latency of 250ms. The technology emphasizes data privacy throug",
+      "stage": "SEED",
+      "last_amount": 8643627.0,
+      "total": 8643627.0,
+      "investors": [
+        "42CAP",
+        "SIVentures (prev. Smart Infrastructure Ventures)",
+        "Alstin Capital",
+        "Feliks Eyser"
+      ],
+      "location": "Templin, Brandenburg"
+    },
+    {
       "name": "MAVI",
       "domain": "maviwork.com",
       "desc": "MAVI offers an AI-driven finance talent engine that utilizes proprietary intelligence models to match companies with the top 2% of global finance and accounting professionals, ensuring a rigorous vetting process that ass",
@@ -713,7 +673,8 @@
       "total": 8000000.0,
       "investors": [
         "Harlem Capital",
-        "Rethink Capital Partners"
+        "Rethink Capital Partners",
+        "SNR"
       ],
       "location": "San Francisco"
     },
@@ -722,13 +683,53 @@
       "domain": "frankinsurance.ai",
       "desc": "FRANK is an AI assistant designed to automate various tasks for insurance advisors, including generating quotes, managing paperwork, and providing 24/7 client assistance. It integrates with existing ERP and CRM systems v",
       "stage": "SEED",
-      "last_amount": 3273691.0,
-      "total": 3273691.0,
+      "last_amount": 3262195.0,
+      "total": 3262195.0,
       "investors": [
         "Armilar",
         "Start Ventures"
       ],
       "location": ""
+    },
+    {
+      "name": "Voltaback",
+      "domain": "voltaback.com",
+      "desc": "VoltaBack provides a home charging solution for electric vehicles that automates the reimbursement of charging expenses without the need for connected chargers or specific cables. The technology integrates vehicle data a",
+      "stage": "SEED",
+      "last_amount": 3149706.0,
+      "total": 3149706.0,
+      "investors": [
+        "Aurélien de Meaux",
+        "Moove Lab",
+        "Serena",
+        "Agoranov"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Good Tape",
+      "domain": "goodtape.io",
+      "desc": "Good Tape offers an automated transcription service that supports over 100 languages, providing high accuracy in converting speech to text, even in challenging audio conditions. The technology includes features such as r",
+      "stage": "SEED",
+      "last_amount": 600000.0,
+      "total": 600000.0,
+      "investors": [
+        "Nordic Makers",
+        "Lasse Finderup"
+      ],
+      "location": "Copenhagen, Capital Region of Denmark"
+    },
+    {
+      "name": "Terse Inc",
+      "domain": "useterse.ai",
+      "desc": "Terse is a code-first AI workflow platform designed for developers, enabling the creation and deployment of serverless workflows that integrate various tools through a typed SDK. It utilizes TypeScript for job creation, ",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": "New York, NY"
     }
   ]
 }
