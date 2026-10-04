@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-03",
+  "generated": "2026-10-04",
   "window_days": 45,
   "counts": {
     "actionable": 2,
-    "watchlist": 16,
+    "watchlist": 15,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -44,18 +44,18 @@
   ],
   "watchlist": [
     {
-      "company": "Tenoro",
-      "desc": "Logistics & supply chain",
+      "company": "CipherHealth",
+      "desc": "Healthcare & bio AI",
       "theme": "Precision Applications",
-      "vertical": "Supply Chain",
-      "stage": "Seed",
-      "amount_m": 2,
+      "vertical": "Healthcare",
+      "stage": "Venture Unknown",
+      "amount_m": null,
       "investors": [],
-      "date": "2026-10-03",
-      "link": "https://tenoro.io",
-      "domain": "tenorok.ru",
+      "date": "2026-10-04",
+      "link": "https://cipherhealth.com",
+      "domain": "cipherhealth.com",
       "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
+      "fit_reason": "stage unconfirmed — track",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
@@ -275,23 +275,6 @@
       "date": "2026-09-29",
       "link": "https://spotable.com",
       "domain": "spotable.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Spine",
-      "desc": "Financial back-office & compliance AI",
-      "theme": "Precision Applications",
-      "vertical": "Compliance",
-      "stage": "Seed",
-      "amount_m": null,
-      "investors": [],
-      "date": "2026-09-26",
-      "link": "https://joinspine.ai",
-      "domain": "spine-health.com",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",

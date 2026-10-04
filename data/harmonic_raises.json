@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03",
+  "generated": "2026-10-04",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -19,21 +19,6 @@
       "location": "New York"
     },
     {
-      "name": "Outmarket AI",
-      "domain": "outmarket.ai",
-      "desc": "Outmarket offers an AI platform designed specifically for insurance brokerages, streamlining various workflows such as quote comparisons, gap analysis, and policy reviews to significantly reduce manual work and enhance p",
-      "stage": "SERIES_B",
-      "last_amount": 34500000.0,
-      "total": 56200000.0,
-      "investors": [
-        "TTV Capital",
-        "Fika Ventures",
-        "SignalFire",
-        "Dash Fund"
-      ],
-      "location": "San Franciso, California"
-    },
-    {
       "name": "Flow Engineering",
       "domain": "flowengineering.com",
       "desc": "The main product is a requirements management tool designed for hardware development, enabling teams to manage and integrate requirements, design, CAD, and testing within a unified system. It utilizes a living systems gr",
@@ -47,6 +32,21 @@
         "Greycroft"
       ],
       "location": "San Francisco"
+    },
+    {
+      "name": "Outmarket AI",
+      "domain": "outmarket.ai",
+      "desc": "Outmarket offers an AI platform designed specifically for insurance brokerages, streamlining various workflows such as quote comparisons, gap analysis, and policy reviews to significantly reduce manual work and enhance p",
+      "stage": "SERIES_B",
+      "last_amount": 34500000.0,
+      "total": 56200000.0,
+      "investors": [
+        "TTV Capital",
+        "Fika Ventures",
+        "SignalFire",
+        "Dash Fund"
+      ],
+      "location": "San Franciso, California"
     },
     {
       "name": "Miter",
@@ -94,6 +94,21 @@
       "location": "San Francisco, CA"
     },
     {
+      "name": "Parakeet Health",
+      "domain": "parakeethealth.com",
+      "desc": "Parakeet Health offers a healthcare-native conversational AI platform that automates inbound and outbound patient access workflows across various communication channels, including voice, SMS, fax, and email. Utilizing la",
+      "stage": "SERIES_A",
+      "last_amount": 10000000.0,
+      "total": 13000000.0,
+      "investors": [
+        "HMC INQ",
+        "StoryHouse Ventures",
+        "CoFound",
+        "Canvas Prime"
+      ],
+      "location": "San Francisco, CA"
+    },
+    {
       "name": "Quotr.ai",
       "domain": "flodesigners.com",
       "desc": "The company's main product leverages AI and advanced technology to drive innovation in project development, focusing on cutting-edge technologies to enhance project efficiency and effectiveness.",
@@ -123,19 +138,19 @@
       "location": "169 Madison Avenue, Suite 2054, New York, NY 10016, United States"
     },
     {
-      "name": "Parakeet Health",
-      "domain": "parakeethealth.com",
-      "desc": "Parakeet Health offers a healthcare-native conversational AI platform that automates inbound and outbound patient access workflows across various communication channels, including voice, SMS, fax, and email. Utilizing la",
-      "stage": "SERIES_A",
-      "last_amount": 10000000.0,
-      "total": 13000000.0,
+      "name": "Kanu AI",
+      "domain": "getkanu.com",
+      "desc": "Kanu offers a platform that integrates various data sources and automates workflows by encoding company-specific models and rules into a cloud environment. Utilizing AI, the platform continuously learns from user data an",
+      "stage": "SEED",
+      "last_amount": 11700000.0,
+      "total": 12200000.0,
       "investors": [
-        "HMC INQ",
-        "StoryHouse Ventures",
-        "CoFound",
-        "Canvas Prime"
+        "Berkeley Frontier Fund",
+        "BMW i Ventures",
+        "Accel",
+        "Trilogy Equity Partners"
       ],
-      "location": "San Francisco, CA"
+      "location": "Seattle, Washington, United States"
     },
     {
       "name": "Pelico",
@@ -168,21 +183,6 @@
       "location": "Paris"
     },
     {
-      "name": "enso",
-      "domain": "enso.bot",
-      "desc": "The company offers a suite of AI agents designed to automate various aspects of marketing and growth operations, including SEO, lead generation, community engagement, content distribution, and social media management. Th",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 21000000.0,
-      "investors": [
-        "Shmuel Levy",
-        "NFX",
-        "MoreTech Ventures",
-        "Evening Fund"
-      ],
-      "location": "Tel Aviv-Yafo"
-    },
-    {
       "name": "Settle Inc",
       "domain": "settle.com",
       "desc": "The company provides a comprehensive platform that integrates inventory management, procurement, accounts payable automation, and working capital financing, enabling consumer brands to manage their purchasing and payment",
@@ -196,6 +196,21 @@
         "Silicon Valley Bank"
       ],
       "location": "San Francisco, CA"
+    },
+    {
+      "name": "Spotable",
+      "domain": "spotable.com",
+      "desc": "Spotable offers an AI-driven platform that automates the generation of 3D measurements and cost estimates for roofing and façade projects, enabling contractors to create accurate quotes quickly without physical inspectio",
+      "stage": "SEED",
+      "last_amount": 4536225.0,
+      "total": 4691899.0,
+      "investors": [
+        "PMV",
+        "NewSchool.vc",
+        "Vandermarliere Cigar Family",
+        "Tillon"
+      ],
+      "location": "Ghent, Flemish Region"
     },
     {
       "name": "Complaion",
@@ -213,19 +228,19 @@
       "location": "Milan, Lombardy"
     },
     {
-      "name": "Spotable",
-      "domain": "spotable.com",
-      "desc": "Spotable offers an AI-driven platform that automates the generation of 3D measurements and cost estimates for roofing and façade projects, enabling contractors to create accurate quotes quickly without physical inspectio",
-      "stage": "SEED",
-      "last_amount": 4536225.0,
-      "total": 7601899.0,
+      "name": "enso",
+      "domain": "enso.bot",
+      "desc": "The company offers a suite of AI agents designed to automate various aspects of marketing and growth operations, including SEO, lead generation, community engagement, content distribution, and social media management. Th",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 21000000.0,
       "investors": [
-        "PMV",
-        "NewSchool.vc",
-        "Vandermarliere Cigar Family",
-        "Tillon"
+        "Shmuel Levy",
+        "NFX",
+        "MoreTech Ventures",
+        "Evening Fund"
       ],
-      "location": "Ghent, Flemish Region"
+      "location": "Tel Aviv-Yafo"
     },
     {
       "name": "GoodLeap",
@@ -258,15 +273,47 @@
       "location": "Remote"
     },
     {
-      "name": "Spine",
-      "domain": "joinspine.ai",
-      "desc": "The main product is an AI-powered platform that integrates benefits management, payroll, compliance, and people operations, designed to optimize healthcare plans and reduce costs for employers. It features a 24/7 concier",
+      "name": "Kuro",
+      "domain": "kuro.technology",
+      "desc": "Kuro offers an AI-driven automation platform designed specifically for general contractors, enabling the integration of fragmented project data into actionable insights while streamlining complex construction processes. ",
       "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 1750000.0,
+      "last_amount": 11236585.0,
+      "total": 11236585.0,
+      "investors": [
+        "helloworld",
+        "UVC Partners",
+        "Realyze Ventures",
+        "Foundamental"
+      ],
+      "location": "Berlin, BE"
+    },
+    {
+      "name": "Relay",
+      "domain": "relaypro.com",
+      "desc": "Relay offers a cloud-based communication platform designed for frontline teams, enabling seamless connectivity and operational insights through voice interfaces. The technology processes over one billion data points week",
+      "stage": "SERIES_B",
+      "last_amount": 36000000.0,
+      "total": 91060525.0,
+      "investors": [
+        "G2 Venture Partners",
+        "Harmonic Growth Partners",
+        "Cerity Partners",
+        "Square Peg Ventures"
+      ],
+      "location": "Raleigh, North Carolina"
+    },
+    {
+      "name": "Revnu (P26)",
+      "domain": "revnu.com",
+      "desc": "Revnu offers an AI-driven platform that automates various growth-related tasks for software businesses, including SEO, ad management, outbound outreach, and customer retention strategies. By integrating with existing app",
+      "stage": "SEED",
+      "last_amount": 2918955.0,
+      "total": 3418955.0,
       "investors": [
         "Y Combinator",
-        "Zelda Ventures"
+        "PXN Group",
+        "InvestorX",
+        "PXN Ventures"
       ],
       "location": "San Francisco"
     },
@@ -286,36 +333,6 @@
       "location": "India"
     },
     {
-      "name": "Relay",
-      "domain": "relaypro.com",
-      "desc": "Relay offers a cloud-based communication platform designed for frontline teams, enabling seamless connectivity and operational insights through voice interfaces. The technology processes over one billion data points week",
-      "stage": "SERIES_B",
-      "last_amount": 36000000.0,
-      "total": 91060525.0,
-      "investors": [
-        "G2 Venture Partners",
-        "Harmonic Growth Partners",
-        "Cerity Partners",
-        "Square Peg Ventures"
-      ],
-      "location": "Raleigh, North Carolina"
-    },
-    {
-      "name": "Kanu AI",
-      "domain": "getkanu.com",
-      "desc": "Kanu offers a platform that integrates various data sources and automates workflows by encoding company-specific models and rules into a cloud environment. Utilizing AI, the platform continuously learns from user data an",
-      "stage": "SEED",
-      "last_amount": 11700000.0,
-      "total": 12200000.0,
-      "investors": [
-        "Berkeley Frontier Fund",
-        "BMW i Ventures",
-        "Accel",
-        "Trilogy Equity Partners"
-      ],
-      "location": "Seattle, Washington, United States"
-    },
-    {
       "name": "Daptic (formerly DiploAI)",
       "domain": "daptic.com",
       "desc": "Daptic offers an AI-powered regulatory intelligence platform that automates the monitoring and analysis of over 10,000 global sources to ensure compliance with safety and regulatory requirements. Utilizing machine learni",
@@ -331,19 +348,32 @@
       "location": "New York"
     },
     {
-      "name": "Revnu (P26)",
-      "domain": "revnu.com",
-      "desc": "Revnu offers an AI-driven platform that automates various growth-related tasks for software businesses, including SEO, ad management, outbound outreach, and customer retention strategies. By integrating with existing app",
+      "name": "ahron",
+      "domain": "ahron.ai",
+      "desc": "Ahron provides an orchestration layer for HR that integrates existing systems such as ATS, HCM, and payroll, enabling seamless process visibility and control. Utilizing process intelligence and AI agents, the platform au",
       "stage": "SEED",
-      "last_amount": 2918955.0,
-      "total": 3418955.0,
+      "last_amount": 2491929.0,
+      "total": 2491929.0,
       "investors": [
-        "Y Combinator",
-        "PXN Group",
-        "InvestorX",
-        "PXN Ventures"
+        "Cusp Capital",
+        "Sabine Kohleisen"
       ],
-      "location": "San Francisco"
+      "location": "Munich, Bavaria"
+    },
+    {
+      "name": "Autoheal",
+      "domain": "autoheal.ai",
+      "desc": "Autoheal provides a self-improving software factory designed for enterprise software development lifecycle (SDLC) automation, utilizing AI agents that continuously learn and adapt to improve incident response, vulnerabil",
+      "stage": "SEED",
+      "last_amount": 7900000.0,
+      "total": 7900000.0,
+      "investors": [
+        "Param Hansa Values LLC",
+        "Emergent Ventures",
+        "Innovation Endeavors",
+        "Evening Fund"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "Kahua",
@@ -375,34 +405,14 @@
       "location": "London"
     },
     {
-      "name": "Kuro",
-      "domain": "kuro.technology",
-      "desc": "Kuro offers an AI-driven automation platform designed specifically for general contractors, enabling the integration of fragmented project data into actionable insights while streamlining complex construction processes. ",
-      "stage": "PRE_SEED",
-      "last_amount": 11236585.0,
-      "total": 11236585.0,
-      "investors": [
-        "helloworld",
-        "UVC Partners",
-        "Foundamental",
-        "Realyze Ventures"
-      ],
-      "location": "Berlin, BE"
-    },
-    {
-      "name": "Autoheal",
-      "domain": "autoheal.ai",
-      "desc": "Autoheal provides a self-improving software factory designed for enterprise software development lifecycle (SDLC) automation, utilizing AI agents that continuously learn and adapt to improve incident response, vulnerabil",
+      "name": "Lantern",
+      "domain": "lanternpartners.ai",
+      "desc": "LanternBRP™ is an AI-native Business Resource Planning platform that centralizes data from over 150 integrations, providing real-time visibility and automated workflows to enhance operational efficiency across various in",
       "stage": "SEED",
-      "last_amount": 7900000.0,
-      "total": 7900000.0,
-      "investors": [
-        "Param Hansa Values LLC",
-        "Emergent Ventures",
-        "Innovation Endeavors",
-        "Evening Fund"
-      ],
-      "location": "San Francisco, California"
+      "last_amount": 2330000.0,
+      "total": 4655000.0,
+      "investors": [],
+      "location": "New York , New York"
     },
     {
       "name": "Klang.ai",
@@ -420,17 +430,34 @@
       "location": "Helsingborg, Skåne County"
     },
     {
-      "name": "ahron",
-      "domain": "ahron.ai",
-      "desc": "Ahron provides an orchestration layer for HR that integrates existing systems such as ATS, HCM, and payroll, enabling seamless process visibility and control. Utilizing process intelligence and AI agents, the platform au",
-      "stage": "SEED",
-      "last_amount": 2491929.0,
-      "total": 2491929.0,
+      "name": "Ascerta-Corp",
+      "domain": "ascerta.com",
+      "desc": "Ascerta gives enterprise executives the command layer to lead their organizations through the AI era. We surface exactly how your people, processes, and technology are performing across every AI initiative, so you can st",
+      "stage": "SERIES_A",
+      "last_amount": 18000000.0,
+      "total": 22900000.0,
       "investors": [
-        "Cusp Capital",
-        "Sabine Kohleisen"
+        "Wipro Ventures",
+        "BGV",
+        "Hitachi Ventures",
+        "Dell Technologies Capital"
       ],
-      "location": "Munich, Bavaria"
+      "location": ""
+    },
+    {
+      "name": "CipherHealth",
+      "domain": "cipherhealth.com",
+      "desc": "CipherHealth offers an AI-powered care coordination infrastructure designed to enhance patient engagement and streamline workflows across various healthcare settings. The platform utilizes governed conversational AI agen",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 47577029.0,
+      "investors": [
+        "Atalaya Capital Management",
+        "JMI Equity",
+        "Wellington Financial LP",
+        "CIBC Innovation Banking"
+      ],
+      "location": "New York, NY"
     },
     {
       "name": "Meadow AI",
@@ -463,14 +490,43 @@
       "location": "Seattle, WA"
     },
     {
-      "name": "Neomatter",
-      "domain": "neomatter.ai",
-      "desc": "The main product automates legal work for in-house legal teams by integrating with communication platforms like email and chat, processing requests as they arrive, and generating analyses and recommendations based on exi",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
+      "name": "Good Tape",
+      "domain": "goodtape.io",
+      "desc": "Good Tape offers an automated transcription service that supports over 100 languages, providing high accuracy in converting speech to text, even in challenging audio conditions. The technology includes features such as r",
+      "stage": "SEED",
+      "last_amount": 600000.0,
+      "total": 600000.0,
       "investors": [
-        "Y Combinator"
+        "Nordic Makers",
+        "Lasse Finderup"
+      ],
+      "location": "Copenhagen, Capital Region of Denmark"
+    },
+    {
+      "name": "ECFX",
+      "domain": "goecfx.com",
+      "desc": "ECFX Notice is an enterprise notice management system that automates the processing of federal and state electronic court filing notices, significantly reducing the time and effort required for manual processing. The pla",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 0,
+      "total": 10500000.0,
+      "investors": [
+        "Sand Hill Angels",
+        "Cove Fund",
+        "The Bricks",
+        "Traction Fund"
+      ],
+      "location": "Venice, CA"
+    },
+    {
+      "name": "FRANK",
+      "domain": "frankinsurance.ai",
+      "desc": "FRANK is an AI assistant designed to automate various tasks for insurance advisors, including generating quotes, managing paperwork, and providing 24/7 client assistance. It integrates with existing ERP and CRM systems v",
+      "stage": "SEED",
+      "last_amount": 3262195.0,
+      "total": 3262195.0,
+      "investors": [
+        "Armilar",
+        "Start Ventures"
       ],
       "location": ""
     },
@@ -490,6 +546,18 @@
       "location": "Berlin, Berlin"
     },
     {
+      "name": "Neomatter",
+      "domain": "neomatter.ai",
+      "desc": "The main product automates legal work for in-house legal teams by integrating with communication platforms like email and chat, processing requests as they arrive, and generating analyses and recommendations based on exi",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
       "name": "bilt.me",
       "domain": "bilt.me",
       "desc": "Bilt offers a platform that enables users to create native mobile applications quickly by converting app descriptions into functional React Native apps, streamlining the development process. The technology allows for rea",
@@ -504,19 +572,19 @@
       "location": "Tallinn, Tallinn"
     },
     {
-      "name": "Occam Industries",
-      "domain": "occam.industries",
-      "desc": "Occam Industries specializes in developing tactical autonomy systems that leverage machine vision and scalable operational capabilities, designed to function across various platforms and mission environments. Their techn",
-      "stage": "PRE_SEED",
-      "last_amount": 4304242.0,
-      "total": 7866934.0,
+      "name": "Earth Brands",
+      "domain": "earthstore.com",
+      "desc": "The company offers sustainable packaging solutions, including custom hot and cold cups, lids, and containers designed for restaurants, cafés, and various venues, with a focus on reducing single-use waste. Their products ",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 9679664.0,
       "investors": [
-        "Presto Ventures",
-        "Antler",
-        "T|Y|R.vc",
-        "Grenadier Holdings"
+        "East Dune Holdings",
+        "LionTree",
+        "Almaz Capital",
+        "Mark Cuban"
       ],
-      "location": "Techspace Antler, 32-38 Leman Street, London E1 8EW, England, United Kingdom"
+      "location": "New York"
     },
     {
       "name": "Photon",
@@ -534,9 +602,80 @@
       "location": ""
     },
     {
-      "name": "Ample",
+      "name": "humanos",
+      "domain": "humanos.ai",
+      "desc": "The main product is an AI-driven execution operating system designed to help founders and operators manage their daily tasks by reducing decision fatigue and sequencing high-impact work. It utilizes intelligent planning ",
+      "stage": "SEED",
+      "last_amount": 3200000.0,
+      "total": 3200000.0,
+      "investors": [
+        "Springbank",
+        "Anthemis Group",
+        "Critical Ventures",
+        "Start Ventures"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Voltaback",
+      "domain": "voltaback.com",
+      "desc": "VoltaBack provides a home charging solution for electric vehicles that automates the reimbursement of charging expenses without the need for connected chargers or specific cables. The technology integrates vehicle data a",
+      "stage": "SEED",
+      "last_amount": 3149706.0,
+      "total": 3149706.0,
+      "investors": [
+        "Aurélien de Meaux",
+        "Moove Lab",
+        "Serena",
+        "Agoranov"
+      ],
+      "location": ""
+    },
+    {
+      "name": "Ample Computer",
       "domain": "ample.computer",
       "desc": "Ample provides a deployment agent designed for applications built with artificial intelligence, facilitating the planning of infrastructure and project deployment. The technology enables users to receive a live URL for t",
+      "stage": "PRE_SEED",
+      "last_amount": 500000.0,
+      "total": 500000.0,
+      "investors": [
+        "Y Combinator"
+      ],
+      "location": ""
+    },
+    {
+      "name": "MAVI",
+      "domain": "maviwork.com",
+      "desc": "MAVI offers an AI-driven finance talent engine that utilizes proprietary intelligence models to match companies with the top 2% of global finance and accounting professionals, ensuring a rigorous vetting process that ass",
+      "stage": "SEED",
+      "last_amount": 4000000.0,
+      "total": 8000000.0,
+      "investors": [
+        "Harlem Capital",
+        "Rethink Capital Partners",
+        "SNR"
+      ],
+      "location": "San Francisco"
+    },
+    {
+      "name": "Occam Industries",
+      "domain": "occam.industries",
+      "desc": "Occam Industries specializes in developing tactical autonomy systems that leverage machine vision and scalable operational capabilities, designed to function across various platforms and mission environments. Their techn",
+      "stage": "PRE_SEED",
+      "last_amount": 4304242.0,
+      "total": 7866934.0,
+      "investors": [
+        "Presto Ventures",
+        "Antler",
+        "T|Y|R.vc",
+        "Grenadier Holdings"
+      ],
+      "location": "Techspace Antler, 32-38 Leman Street, London E1 8EW, England, United Kingdom"
+    },
+    {
+      "name": "Plover Labs",
+      "domain": "ploverlabs.ai",
+      "desc": "Plover Labs offers a product that generates tailored intelligence for software engineering, focusing on enhancing decision-making and efficiency within development processes. The technology leverages data analytics and m",
       "stage": "PRE_SEED",
       "last_amount": 500000.0,
       "total": 500000.0,
@@ -558,47 +697,6 @@
         "Notation Capital"
       ],
       "location": "New York, NEW YORK (NY)"
-    },
-    {
-      "name": "MAVI",
-      "domain": "maviwork.com",
-      "desc": "MAVI offers an AI-driven finance talent engine that utilizes proprietary intelligence models to match companies with the top 2% of global finance and accounting professionals, ensuring a rigorous vetting process that ass",
-      "stage": "SEED",
-      "last_amount": 4000000.0,
-      "total": 8000000.0,
-      "investors": [
-        "Harlem Capital",
-        "Rethink Capital Partners",
-        "SNR"
-      ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "Plover Labs",
-      "domain": "ploverlabs.ai",
-      "desc": "Plover Labs offers a product that generates tailored intelligence for software engineering, focusing on enhancing decision-making and efficiency within development processes. The technology leverages data analytics and m",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Ascerta-Corp",
-      "domain": "ascerta.com",
-      "desc": "Ascerta gives enterprise executives the command layer to lead their organizations through the AI era. We surface exactly how your people, processes, and technology are performing across every AI initiative, so you can st",
-      "stage": "SERIES_A",
-      "last_amount": 18000000.0,
-      "total": 22900000.0,
-      "investors": [
-        "Wipro Ventures",
-        "BGV",
-        "Hitachi Ventures",
-        "Dell Technologies Capital"
-      ],
-      "location": ""
     },
     {
       "name": "Keploy 🐰",
@@ -629,102 +727,6 @@
         "GG Capital"
       ],
       "location": "Ciudad de México"
-    },
-    {
-      "name": "Deepslate",
-      "domain": "phonebot.io",
-      "desc": "The company offers a speech-to-speech AI solution tailored for European enterprises, facilitating natural conversations in over 27 languages with a response latency of 250ms. The technology emphasizes data privacy throug",
-      "stage": "SEED",
-      "last_amount": 8643627.0,
-      "total": 8643627.0,
-      "investors": [
-        "42CAP",
-        "SIVentures (prev. Smart Infrastructure Ventures)",
-        "Alstin Capital",
-        "Feliks Eyser"
-      ],
-      "location": "Templin, Brandenburg"
-    },
-    {
-      "name": "FRANK",
-      "domain": "frankinsurance.ai",
-      "desc": "FRANK is an AI assistant designed to automate various tasks for insurance advisors, including generating quotes, managing paperwork, and providing 24/7 client assistance. It integrates with existing ERP and CRM systems v",
-      "stage": "SEED",
-      "last_amount": 3262195.0,
-      "total": 3262195.0,
-      "investors": [
-        "Armilar",
-        "Start Ventures"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Voltaback",
-      "domain": "voltaback.com",
-      "desc": "VoltaBack provides a home charging solution for electric vehicles that automates the reimbursement of charging expenses without the need for connected chargers or specific cables. The technology integrates vehicle data a",
-      "stage": "SEED",
-      "last_amount": 3149706.0,
-      "total": 3149706.0,
-      "investors": [
-        "Aurélien de Meaux",
-        "Moove Lab",
-        "Serena",
-        "Agoranov"
-      ],
-      "location": ""
-    },
-    {
-      "name": "Tenoro",
-      "domain": "tenoro.io",
-      "desc": "Tenoro OS is an AI-driven operating system designed to streamline logistics and supply chain operations for mid-sized and large companies, integrating functions such as purchasing, production, warehousing, inventory, ord",
-      "stage": "SEED",
-      "last_amount": 1925582.0,
-      "total": 1925582.0,
-      "investors": [
-        "Soldiers Field Angels",
-        "Bynd Venture Capital",
-        "Plus Partners"
-      ],
-      "location": "AMER"
-    },
-    {
-      "name": "Good Tape",
-      "domain": "goodtape.io",
-      "desc": "Good Tape offers an automated transcription service that supports over 100 languages, providing high accuracy in converting speech to text, even in challenging audio conditions. The technology includes features such as r",
-      "stage": "SEED",
-      "last_amount": 600000.0,
-      "total": 600000.0,
-      "investors": [
-        "Nordic Makers",
-        "Lasse Finderup"
-      ],
-      "location": "Copenhagen, Capital Region of Denmark"
-    },
-    {
-      "name": "Terse Inc",
-      "domain": "useterse.ai",
-      "desc": "Terse is a code-first AI workflow platform designed for developers, enabling the creation and deployment of serverless workflows that integrate various tools through a typed SDK. It utilizes TypeScript for job creation, ",
-      "stage": "PRE_SEED",
-      "last_amount": 500000.0,
-      "total": 500000.0,
-      "investors": [
-        "Y Combinator"
-      ],
-      "location": "New York, NY"
-    },
-    {
-      "name": "Kello",
-      "domain": "kello.ai",
-      "desc": "Kello provides a recruitment solution that leverages advanced AI technologies to analyze over 850 million profiles, enabling deep research into candidates' backgrounds and performance indicators that traditional keyword ",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 3710000.0,
-      "investors": [
-        "Peak XV Partners",
-        "QED Innovation Labs",
-        "Day Zero Ventures"
-      ],
-      "location": "Bangalore"
     }
   ]
 }

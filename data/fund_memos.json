@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-03",
+  "generated": "2026-10-04",
   "memos": {
     "general-catalyst": {
       "name": "General Catalyst",
       "overview": "General Catalyst is a San Francisco venture firm managing $45.5B, among the most active investors we track. Its stated focus: Founded in 2000, General Catalyst is a venture capital firm headquartered in San Francisco.",
-      "six_months": "Over the last six months we tracked 25 investments and 16 posts/theses from General Catalyst, investing at a steady pace.",
-      "thesis": "The money is concentrated in Enterprise software (13 deals), followed by Healthcare & bio (4 deals), Fintech & payments (3 deals). That points to a thesis centered on broad enterprise software and applied AI. There's a genuine second leg in Healthcare & bio (AI and software reengineering clinical, care-delivery and life-science workflows), so this isn't a one-note fund.",
+      "six_months": "Over the last six months we tracked 24 investments and 16 posts/theses from General Catalyst, investing at a steady pace.",
+      "thesis": "The money is concentrated in Enterprise software (13 deals), followed by Healthcare & bio (3 deals), Fintech & payments (3 deals). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "By stage, recent checks skew Series D — backing companies right as they scale.",
       "notable": "Standout recent bets include Prenetics ($1.0B), Together AI ($800M), Musely ($360M), Beacon ($225M), Factorial ($150M). Their largest tracked check went to Prenetics ($1.0B), a read on where their conviction sits right now.",
       "watch": "For Smith Point, the overlap is clearest in Enterprise software, Healthcare & bio, Fintech & payments and they're a fund we can often reach founders through. Worth watching: continued concentration in Enterprise software suggests more of the same ahead, while rising Healthcare & bio activity is the emerging tell.",
@@ -16,7 +16,7 @@
         },
         {
           "name": "Healthcare & bio",
-          "n": 4
+          "n": 3
         },
         {
           "name": "Fintech & payments",
@@ -120,7 +120,7 @@
         },
         {
           "name": "Healthcare & bio",
-          "n": 4,
+          "n": 3,
           "companies": [
             {
               "company": "Cadence",
@@ -131,11 +131,6 @@
               "company": "Commure",
               "amt": "$70M",
               "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaUtEUlZVZ0p5LWFQMGpCT2hQUmwwMHNWX1VJNDRzYng2NXZCUXk4Y1ZaWjkxZ0xHN0Z1SUthcHgyUWUwVFM4TEhsV0JTSHVGSjdreXhPS1FDamk0WFNtaFc3NzhDbVQ2NmVmVDZoLThGNHpsOE04RkZocDVzbHdUb0VCczJCeHF0VHZ6Sm54bkltbEI2d1RLX0tTQ1Z6cFhaZG5MeW1scHM4bU1kNXVVODc5c0VqOWNKWmFpRXNoZVdWTUd3d2NJRE5Nd2NlZVFqYnZPMllUZDRfWl80QjNoMmJlWXQ?oc=5"
-            },
-            {
-              "company": "Yuzu Health",
-              "amt": "$35M",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMEwtQmJBYTdYUHJlLVlXdDdyVjdwQWhGUEl3ejNwXzZBODFzUnB2c1VmUHlEeVBKRjhiSU4xVGktNjFNY0NuTEQwdjBtN192ZzNZNWkwQnphOG16T3QyTmlGQkZvQlQtX2U4bmotd1N4U29UWmtBeldIbjVvV3p4OFc4ZzlxYmkxNU1SdDY1QU9sYkx0MGQ3Tm5kLS1wQQ?oc=5"
             }
           ]
         },
@@ -199,7 +194,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "sequoia": {
       "name": "Sequoia",
@@ -388,7 +383,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "accel": {
       "name": "Accel",
@@ -579,7 +574,7 @@
           "linkedin": "https://www.linkedin.com/in/andrewbraccia/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "lightspeed": {
       "name": "Lightspeed",
@@ -776,12 +771,12 @@
           "linkedin": "https://www.linkedin.com/in/mignano/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "khosla-ventures": {
       "name": "Khosla Ventures",
       "overview": "Khosla Ventures is a Menlo Park venture firm managing $16.0B, among the most active investors we track. Its stated focus: Founded in 2004, Khosla Ventures is a venture capital investment firm based in Menlo Park,.",
-      "six_months": "Over the last six months we tracked 47 investments and 13 posts/theses from Khosla Ventures, investing at a rapid clip.",
+      "six_months": "Over the last six months we tracked 47 investments and 12 posts/theses from Khosla Ventures, investing at a rapid clip.",
       "thesis": "The money is concentrated in Enterprise software (32 deals), followed by Robotics & industrial (3 deals), Legal & compliance (3 deals). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "By stage, recent checks skew Seed — leaning early and taking first-check risk.",
       "notable": "Standout recent bets include Oratomic ($300M), autonomous pod startup just ($170M), Factory ($150M), Exaforce ($125M), Norm AI ($120M). Their largest tracked check went to Oratomic ($300M), a read on where their conviction sits right now.",
@@ -973,7 +968,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "8vc": {
       "name": "8VC",
@@ -1026,7 +1021,7 @@
           "linkedin": "https://www.linkedin.com/in/drew-oetting-52463337"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "menlo": {
       "name": "Menlo",
@@ -1152,7 +1147,7 @@
           "linkedin": "https://www.linkedin.com/in/debarghyadas"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "lux-capital": {
       "name": "Lux Capital",
@@ -1290,7 +1285,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "boxgroup": {
       "name": "BoxGroup",
@@ -1413,7 +1408,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "bain-capital-ventures": {
       "name": "Bain Capital Ventures",
@@ -1622,7 +1617,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "energy-impact-partners": {
       "name": "Energy Impact Partners",
@@ -1698,7 +1693,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "new-enterprise-associates": {
       "name": "New Enterprise Associates",
@@ -1843,7 +1838,7 @@
           "linkedin": "https://www.linkedin.com/in/annbordetsky"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "spark-capital": {
       "name": "Spark Capital",
@@ -2025,7 +2020,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "true-ventures": {
       "name": "True Ventures",
@@ -2152,7 +2147,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "thrive-capital": {
       "name": "Thrive Capital",
@@ -2364,7 +2359,7 @@
           "linkedin": "https://www.linkedin.com/in/milesgrimshaw"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "redpoint": {
       "name": "Redpoint",
@@ -2452,20 +2447,20 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "nfx": {
       "name": "NFX",
       "overview": "NFX is a San Francisco venture firm managing $1.0B. Its stated focus: Founded in 2014, NFX is a venture capital firm based in San Francisco, California. The fir.",
-      "six_months": "Over the last six months we tracked 3 investments and 3 posts/theses from NFX, investing at selectively.",
-      "thesis": "The money is concentrated in Enterprise software (2 deals), followed by AI agents & apps (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
+      "six_months": "Over the last six months we tracked 2 investments and 3 posts/theses from NFX, investing at selectively.",
+      "thesis": "The money is concentrated in Enterprise software (1 deal), followed by AI agents & apps (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "",
       "notable": "Standout recent bets include CopilotKit ($27M), Novel Foods Expert Network. Their largest tracked check went to CopilotKit ($27M), a read on where their conviction sits right now.",
       "watch": "For Smith Point, the overlap is clearest in Enterprise software, AI agents & apps. Worth watching: continued concentration in Enterprise software suggests more of the same ahead, while rising AI agents & apps activity is the emerging tell.",
       "sectors": [
         {
           "name": "Enterprise software",
-          "n": 2
+          "n": 1
         },
         {
           "name": "AI agents & apps",
@@ -2489,7 +2484,7 @@
       "sectors_detail": [
         {
           "name": "Enterprise software",
-          "n": 2,
+          "n": 1,
           "companies": [
             {
               "company": "Novel Foods Expert Network",
@@ -2540,7 +2535,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "craft-ventures": {
       "name": "Craft Ventures",
@@ -2622,7 +2617,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "crv": {
       "name": "CRV",
@@ -2721,7 +2716,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "collaborative-fund": {
       "name": "Collaborative Fund",
@@ -2770,7 +2765,7 @@
           "linkedin": "https://www.linkedin.com/in/morganhousel"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "vivo-capital": {
       "name": "Vivo Capital",
@@ -2850,7 +2845,7 @@
           "linkedin": "https://www.linkedin.com/in/gaurav-aggarwal-3416b682/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "eclipse-capital": {
       "name": "Eclipse Capital",
@@ -2940,7 +2935,7 @@
           "linkedin": "https://www.linkedin.com/in/aidan-madigan-curtis"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "right-side-capital-management": {
       "name": "Right Side Capital Management",
@@ -3002,7 +2997,7 @@
           "linkedin": "https://www.linkedin.com/in/jeff-pomeranz8/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "union-square-ventures": {
       "name": "Union Square Ventures",
@@ -3184,7 +3179,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "mayfield-fund": {
       "name": "Mayfield Fund",
@@ -3253,7 +3248,7 @@
           "linkedin": "https://www.linkedin.com/in/vijayreddy/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "inovia-capital": {
       "name": "Inovia Capital",
@@ -3402,7 +3397,7 @@
           "linkedin": "https://uk.linkedin.com/in/patrick-pichette-22067a26b"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "b-capital-group": {
       "name": "B Capital Group",
@@ -3471,7 +3466,7 @@
           "linkedin": "https://www.linkedin.com/in/rashmigopinath"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "i2bf-global-ventures": {
       "name": "I2BF Global Ventures",
@@ -3528,7 +3523,7 @@
           "linkedin": "https://www.linkedin.com/in/ilya-golubovich-7967353/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "xyz-venture-capital": {
       "name": "XYZ Venture Capital",
@@ -3670,7 +3665,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "goodwater-capital": {
       "name": "Goodwater Capital",
@@ -3734,7 +3729,7 @@
           "linkedin": "https://www.linkedin.com/in/erickim37"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "dcvc": {
       "name": "DCVC",
@@ -3807,7 +3802,7 @@
           "linkedin": "https://www.linkedin.com/in/zackbogue"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "eniac-ventures": {
       "name": "Eniac Ventures",
@@ -3867,7 +3862,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "benchmark-capital-holdings": {
       "name": "Benchmark Capital Holdings",
@@ -3889,7 +3884,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "ivp": {
       "name": "IVP",
@@ -3925,7 +3920,7 @@
           "linkedin": "https://www.linkedin.com/in/someshdash"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "iconiq-growth": {
       "name": "ICONIQ Growth",
@@ -3961,7 +3956,7 @@
           "linkedin": "https://www.linkedin.com/in/dougpepper"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "palm-drive-capital": {
       "name": "Palm Drive Capital",
@@ -3990,7 +3985,7 @@
           "linkedin": "https://www.linkedin.com/in/leehendrick/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "radical-ventures": {
       "name": "Radical Ventures",
@@ -4133,7 +4128,7 @@
           "linkedin": "https://www.linkedin.com/in/tomipoutanen/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "tcg-crossover-management": {
       "name": "TCG Crossover Management",
@@ -4162,7 +4157,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "canaan-partners": {
       "name": "Canaan Partners",
@@ -4294,7 +4289,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "altos-ventures": {
       "name": "Altos Ventures",
@@ -4386,7 +4381,7 @@
           "linkedin": "https://www.linkedin.com/in/anthonyplee"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "greycroft": {
       "name": "Greycroft",
@@ -4419,7 +4414,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "madrona-venture-group": {
       "name": "Madrona Venture Group",
@@ -4455,7 +4450,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "firstmark-capital": {
       "name": "FirstMark Capital",
@@ -4515,7 +4510,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "emergence-equity-management": {
       "name": "Emergence Equity Management",
@@ -4551,7 +4546,7 @@
           "linkedin": "https://www.linkedin.com/in/jakesaper"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "reach-capital": {
       "name": "Reach Capital",
@@ -4580,7 +4575,7 @@
           "linkedin": "https://www.linkedin.com/in/shauntelpoulson/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "oak-hc-ft": {
       "name": "Oak HC/FT",
@@ -4664,7 +4659,7 @@
           "linkedin": "https://www.linkedin.com/in/awadams/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "norte-ventures": {
       "name": "Norte Ventures",
@@ -4693,7 +4688,7 @@
           "linkedin": "https://www.linkedin.com/in/benarros/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "uncork": {
       "name": "Uncork",
@@ -4762,7 +4757,7 @@
           "linkedin": "https://www.linkedin.com/in/susanwliu/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "arch-venture-partners": {
       "name": "ARCH Venture Partners",
@@ -4934,7 +4929,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "initialized-capital": {
       "name": "Initialized Capital",
@@ -5029,7 +5024,7 @@
           "linkedin": "https://www.linkedin.com/in/aldadennis"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "mvp-ventures": {
       "name": "MVP Ventures",
@@ -5143,7 +5138,7 @@
           "linkedin": "https://www.linkedin.com/in/westonmoyer/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "rre-ventures": {
       "name": "RRE Ventures",
@@ -5212,7 +5207,7 @@
           "linkedin": "https://www.linkedin.com/in/rajurishi"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "forerunner-ventures": {
       "name": "Forerunner Ventures",
@@ -5265,7 +5260,7 @@
           "linkedin": "https://www.linkedin.com/in/euriekim"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "2048-ventures": {
       "name": "2048 Ventures",
@@ -5341,7 +5336,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "dcm-ventures": {
       "name": "DCM Ventures",
@@ -5394,7 +5389,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "matrix": {
       "name": "Matrix",
@@ -5482,7 +5477,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "upfront-ventures": {
       "name": "Upfront Ventures",
@@ -5593,7 +5588,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "primary-venture-partners": {
       "name": "Primary Venture Partners",
@@ -5671,7 +5666,7 @@
           "linkedin": "https://www.linkedin.com/in/jasonshuman"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "aix-ventures": {
       "name": "AIX Ventures",
@@ -5749,7 +5744,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "north-island-ventures": {
       "name": "North Island Ventures",
@@ -5908,7 +5903,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "shield-capital": {
       "name": "Shield Capital",
@@ -6002,7 +5997,7 @@
           "linkedin": "https://www.linkedin.com/in/philip-m-bilden-38918320a/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "m13": {
       "name": "M13",
@@ -6038,7 +6033,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "mercury-fund": {
       "name": "Mercury Fund",
@@ -6098,7 +6093,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "town-hall-ventures": {
       "name": "Town Hall Ventures",
@@ -6144,7 +6139,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "imaginary-ventures": {
       "name": "Imaginary Ventures",
@@ -6215,7 +6210,7 @@
           "linkedin": "https://www.linkedin.com/in/nickbrownimaginary/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "pelion-venture-partners": {
       "name": "Pelion Venture Partners",
@@ -6268,7 +6263,7 @@
           "linkedin": "https://www.linkedin.com/in/jeffkearl/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "deviation-capital": {
       "name": "Deviation Capital",
@@ -6315,7 +6310,7 @@
           "linkedin": "https://www.linkedin.com/in/dusan-perovic-7a012a4/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "redmile-group": {
       "name": "Redmile Group",
@@ -6344,7 +6339,7 @@
           "linkedin": "https://www.linkedin.com/in/robfaulkner/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "moderne-ventures": {
       "name": "Moderne Ventures",
@@ -6373,7 +6368,7 @@
           "linkedin": "https://www.linkedin.com/in/liza-benson-a8091828/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "hatteras-venture-partners": {
       "name": "Hatteras Venture Partners",
@@ -6435,7 +6430,7 @@
           "linkedin": "https://www.linkedin.com/in/christy-l-shaffer-5649395/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "seven-seven-six": {
       "name": "Seven Seven Six",
@@ -6492,12 +6487,12 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "greatpoint-ventures": {
       "name": "GreatPoint Ventures",
       "overview": "GreatPoint Ventures is a San Francisco venture firm managing $500M. Its stated focus: Founded in 2015, GreatPoint Ventures is a venture capital firm based in San Francisco, Cal.",
-      "six_months": "Over the last six months we tracked 6 investments and 3 posts/theses from GreatPoint Ventures, investing at selectively.",
+      "six_months": "Over the last six months we tracked 6 investments and 2 posts/theses from GreatPoint Ventures, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (3 deals), followed by AI agents & apps (1 deal), Data infrastructure (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "By stage, recent checks skew Series A — backing companies right as they scale.",
       "notable": "Standout recent bets include Star Catcher Industries ($65M), Integral Privacy Technologies ($25M), Definity ($12M), Integral. Their largest tracked check went to Star Catcher Industries ($65M), a read on where their conviction sits right now.",
@@ -6606,7 +6601,7 @@
           "linkedin": "https://www.linkedin.com/in/dpatil/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "scout-ventures": {
       "name": "Scout Ventures",
@@ -6628,7 +6623,7 @@
           "linkedin": "https://www.linkedin.com/in/bradharrison"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "newview-capital": {
       "name": "NewView Capital",
@@ -6674,7 +6669,7 @@
           "linkedin": "https://www.linkedin.com/in/raviswanathan"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "cervin-ventures": {
       "name": "Cervin Ventures",
@@ -6779,7 +6774,7 @@
           "linkedin": "https://www.linkedin.com/in/neerajgupta123/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "fintop-us": {
       "name": "FINTOP (US)",
@@ -6808,7 +6803,7 @@
           "linkedin": "https://www.linkedin.com/in/philpottjohn/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "riot-ventures": {
       "name": "Riot Ventures",
@@ -6923,7 +6918,7 @@
           "linkedin": "https://www.linkedin.com/in/will-coffield-130b1426/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "armory-square-ventures": {
       "name": "Armory Square Ventures",
@@ -6945,7 +6940,7 @@
           "linkedin": "https://www.linkedin.com/in/somak-chattopadhyay-7662a"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "crosslink-capital": {
       "name": "Crosslink Capital",
@@ -6985,7 +6980,7 @@
           "linkedin": "https://www.linkedin.com/in/bigge"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "notable-capital": {
       "name": "Notable Capital",
@@ -7031,7 +7026,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "foundry-group": {
       "name": "Foundry Group",
@@ -7067,7 +7062,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "meritech-capital-partners": {
       "name": "Meritech Capital Partners",
@@ -7107,7 +7102,7 @@
           "linkedin": "https://www.linkedin.com/in/paulmadera/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "epic-ventures": {
       "name": "EPIC Ventures",
@@ -7169,7 +7164,7 @@
           "linkedin": "https://www.linkedin.com/in/jackboren"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "collab-currency": {
       "name": "Collab+Currency",
@@ -7198,7 +7193,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "actions-capital": {
       "name": "Actions Capital",
@@ -7220,7 +7215,7 @@
           "linkedin": "https://www.linkedin.com/in/ryan-bloomer-b3925a4"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "dfj-growth": {
       "name": "DFJ Growth",
@@ -7260,7 +7255,7 @@
           "linkedin": "https://www.linkedin.com/in/barry-schuler-9440225/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "sant-ventures": {
       "name": "Santé Ventures",
@@ -7313,7 +7308,7 @@
           "linkedin": "https://www.linkedin.com/in/joe-cunningham-4168527/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "vmg-partners": {
       "name": "VMG Partners",
@@ -7439,7 +7434,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "acadian-ventures": {
       "name": "Acadian Ventures",
@@ -7461,7 +7456,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "kingfisher-investment-advisors": {
       "name": "Kingfisher Investment Advisors",
@@ -7483,7 +7478,7 @@
           "linkedin": "https://www.linkedin.com/in/yarivrobinson/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "western-technology-investment": {
       "name": "Western Technology Investment",
@@ -7563,7 +7558,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "u-s-venture-partners": {
       "name": "U.S. Venture Partners",
@@ -7637,7 +7632,7 @@
           "linkedin": "https://www.linkedin.com/in/jacques-benkoski-ab9133/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "atlas-venture": {
       "name": "Atlas Venture",
@@ -7659,7 +7654,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "scale-venture-partners": {
       "name": "Scale Venture Partners",
@@ -7712,7 +7707,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "columbia-capital": {
       "name": "Columbia Capital",
@@ -7758,7 +7753,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "kickstart-us": {
       "name": "Kickstart (US)",
@@ -7787,7 +7782,7 @@
           "linkedin": "https://www.linkedin.com/in/katkennedyvc/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "storm-ventures": {
       "name": "Storm Ventures",
@@ -7863,7 +7858,7 @@
           "linkedin": "https://www.linkedin.com/in/minjoo-kim-777494107/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "run-ventures": {
       "name": "Run Ventures",
@@ -7906,7 +7901,7 @@
           "linkedin": "https://www.linkedin.com/in/porntepp-u-b58551b/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "resolute-ventures": {
       "name": "Resolute Ventures",
@@ -7982,12 +7977,12 @@
           "linkedin": "https://www.linkedin.com/in/monicasblack/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "bullpen-capital": {
       "name": "Bullpen Capital",
       "overview": "Bullpen Capital is a San Francisco venture firm. Its stated focus: Founded in 2010, Bullpen Capital is a venture capital investment firm based in San Francis.",
-      "six_months": "Over the last six months we tracked 7 investments and 7 posts/theses from Bullpen Capital, investing at selectively.",
+      "six_months": "Over the last six months we tracked 7 investments and 6 posts/theses from Bullpen Capital, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (4 deals), followed by Fintech & payments (2 deals), Consumer & marketplace (1 deal). That points to a thesis centered on broad enterprise software and applied AI. There's a genuine second leg in Fintech & payments (modernizing money movement, banking and financial infrastructure), so this isn't a one-note fund.",
       "how": "By stage, recent checks skew Series A — backing companies right as they scale.",
       "notable": "Standout recent bets include EDGE Markets ($29M), BetHog ($10M), SpeedLabs ($6M). Their largest tracked check went to EDGE Markets ($29M), a read on where their conviction sits right now.",
@@ -8090,7 +8085,7 @@
           "linkedin": "https://www.linkedin.com/in/alexandra-fowler-loomes-2975a9101/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "drive-capital": {
       "name": "Drive Capital",
@@ -8144,7 +8139,7 @@
           "linkedin": "https://www.linkedin.com/in/solaro/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "blackhorn-ventures": {
       "name": "Blackhorn Ventures",
@@ -8222,7 +8217,7 @@
           "linkedin": "https://www.linkedin.com/in/stephancizmar/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "griffin-gaming-partners": {
       "name": "Griffin Gaming Partners",
@@ -8298,7 +8293,7 @@
           "linkedin": "https://www.linkedin.com/in/pierreplanche/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "restive-ventures": {
       "name": "Restive Ventures",
@@ -8379,7 +8374,7 @@
           "linkedin": "https://www.linkedin.com/in/cameronpeake/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "airbus-ventures": {
       "name": "Airbus Ventures",
@@ -8446,7 +8441,7 @@
           "linkedin": "https://www.linkedin.com/in/lewispinault/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "align-ventures": {
       "name": "Align Ventures",
@@ -8565,7 +8560,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "canonical-crypto": {
       "name": "Canonical Crypto",
@@ -8594,7 +8589,7 @@
           "linkedin": "https://www.linkedin.com/in/anthonyavedissian/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "panacea-capital-california": {
       "name": "Panacea Capital (California)",
@@ -8623,7 +8618,7 @@
           "linkedin": "https://www.linkedin.com/in/andrewaherrera/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "seax-ventures": {
       "name": "SeaX Ventures",
@@ -8743,7 +8738,7 @@
           "linkedin": "http://linkedin.com/in/staceychang"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "renegade-partners": {
       "name": "Renegade Partners",
@@ -8796,7 +8791,7 @@
           "linkedin": "https://www.linkedin.com/in/roseannewincek/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "caduceus-capital-partners": {
       "name": "Caduceus Capital Partners",
@@ -8902,7 +8897,7 @@
           "linkedin": "https://www.linkedin.com/in/russrudish/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "foundation-capital": {
       "name": "Foundation Capital",
@@ -8991,7 +8986,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "acme-capital": {
       "name": "ACME Capital",
@@ -9078,7 +9073,7 @@
           "linkedin": "https://www.linkedin.com/in/alexfayette/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "sofinnova-investments": {
       "name": "Sofinnova Investments",
@@ -9132,7 +9127,7 @@
           "linkedin": "https://www.linkedin.com/in/jonathanaleff/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "ludlow-ventures": {
       "name": "Ludlow Ventures",
@@ -9168,7 +9163,7 @@
           "linkedin": "https://www.linkedin.com/in/lindsay-daugherty-45a921158"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "paladin-capital-group": {
       "name": "Paladin Capital Group",
@@ -9235,7 +9230,7 @@
           "linkedin": "https://www.linkedin.com/in/kembawalden"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "company-ventures": {
       "name": "Company Ventures",
@@ -9332,7 +9327,7 @@
           "linkedin": "https://www.linkedin.com/in/hunterhillenmeyer/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "glynn-capital": {
       "name": "Glynn Capital",
@@ -9386,7 +9381,7 @@
           "linkedin": "https://www.linkedin.com/pub/scott-jordon/0/527/361"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "ttv-capital": {
       "name": "TTV Capital",
@@ -9453,7 +9448,7 @@
           "linkedin": "https://www.linkedin.com/in/neilkapur/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "ia-ventures": {
       "name": "IA Ventures",
@@ -9531,7 +9526,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "sazze-partners": {
       "name": "Sazze Partners",
@@ -9585,7 +9580,7 @@
           "linkedin": "https://www.linkedin.com/in/douglasguen/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "longitude-capital": {
       "name": "Longitude Capital",
@@ -9628,7 +9623,7 @@
           "linkedin": "https://www.linkedin.com/in/marc-galletti-1315b45/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "boulder-ventures": {
       "name": "Boulder Ventures",
@@ -9671,7 +9666,7 @@
           "linkedin": "https://www.linkedin.com/in/jonathan-perl-1837916"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "tribeca-venture-partners": {
       "name": "Tribeca Venture Partners",
@@ -9758,7 +9753,7 @@
           "linkedin": "https://www.linkedin.com/in/brian-wei-b363b982/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "arboretum-ventures": {
       "name": "Arboretum Ventures",
@@ -9812,7 +9807,7 @@
           "linkedin": "https://www.linkedin.com/in/tim-petersen-12594814/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "liveoak-ventures": {
       "name": "LiveOak Ventures",
@@ -9890,7 +9885,7 @@
           "linkedin": "https://www.linkedin.com/in/mmarcantonio9/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "playground-global": {
       "name": "Playground Global",
@@ -10009,7 +10004,7 @@
           "linkedin": "https://www.linkedin.com/in/patgelsinger/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "decheng-capital": {
       "name": "Decheng Capital",
@@ -10097,7 +10092,7 @@
           "linkedin": "https://www.linkedin.com/in/dayton-misfeldt-0905a847/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "moneta-ventures": {
       "name": "Moneta Ventures",
@@ -10140,7 +10135,7 @@
           "linkedin": "https://www.linkedin.com/in/jeff-olyniec/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "cottonwood-technology-fund": {
       "name": "Cottonwood Technology Fund",
@@ -10169,7 +10164,7 @@
           "linkedin": "https://www.linkedin.com/in/alainleloux"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "hi2-global": {
       "name": "Hi2 Global",
@@ -10236,7 +10231,7 @@
           "linkedin": "https://www.linkedin.com/in/jwang6/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "kittyhawk": {
       "name": "KittyHawk",
@@ -10272,7 +10267,7 @@
           "linkedin": "https://www.linkedin.com/in/alexandrabpeterson/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "underdog-labs": {
       "name": "Underdog Labs",
@@ -10360,7 +10355,7 @@
           "linkedin": "https://www.linkedin.com/in/matthewjlarson/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "las-olas-venture-capital": {
       "name": "Las Olas Venture Capital",
@@ -10403,7 +10398,7 @@
           "linkedin": "https://www.linkedin.com/in/slefkowitz1/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "dcvc-bio": {
       "name": "DCVC Bio",
@@ -10488,7 +10483,7 @@
           "linkedin": "https://www.linkedin.com/in/zackbogue"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "tamarack-global": {
       "name": "Tamarack Global",
@@ -10597,7 +10592,7 @@
           "linkedin": "https://www.linkedin.com/in/rob-eloff-54991b72/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "femhealth-ventures": {
       "name": "FemHealth Ventures",
@@ -10664,7 +10659,7 @@
           "linkedin": "https://www.linkedin.com/in/susanne-seripiero-81a03b70/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "mangusta-capital": {
       "name": "Mangusta Capital",
@@ -10731,7 +10726,7 @@
           "linkedin": "https://www.linkedin.com/in/natoli-farber-b913908a/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "vectors-capital": {
       "name": "Vectors Capital",
@@ -10774,7 +10769,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "polaris-partners": {
       "name": "Polaris Partners",
@@ -10841,7 +10836,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "maveron": {
       "name": "Maveron",
@@ -10908,7 +10903,7 @@
           "linkedin": "https://www.linkedin.com/in/simran-suri-540745147/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "flagship-pioneering": {
       "name": "Flagship Pioneering",
@@ -10951,7 +10946,7 @@
           "linkedin": "https://www.linkedin.com/in/michelle-werner-7b30511/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "ulu-ventures": {
       "name": "Ulu Ventures",
@@ -10994,7 +10989,7 @@
           "linkedin": "https://www.linkedin.com/in/mariasalamanca1/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "5am-ventures": {
       "name": "5AM Ventures",
@@ -11037,7 +11032,7 @@
           "linkedin": "https://www.linkedin.com/in/scott-rocklage-66aa7a12a/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "rally-ventures": {
       "name": "Rally Ventures",
@@ -11109,7 +11104,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "social-leverage": {
       "name": "Social Leverage",
@@ -11164,7 +11159,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "blockchain-capital": {
       "name": "Blockchain Capital",
@@ -11253,7 +11248,7 @@
           "linkedin": "https://www.linkedin.com/in/spencer-bogart-cfa-bba645a/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "founders-co-op": {
       "name": "Founders' Co-op",
@@ -11310,7 +11305,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "origin-ventures-group": {
       "name": "Origin Ventures Group",
@@ -11353,7 +11348,7 @@
           "linkedin": "https://www.linkedin.com/in/steve-miller-220ab62/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "bee-partners": {
       "name": "Bee Partners",
@@ -11420,7 +11415,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "outlander-vc": {
       "name": "Outlander VC",
@@ -11463,7 +11458,7 @@
           "linkedin": "https://www.linkedin.com/in/ajsmithinvests"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "motivate-venture-capital": {
       "name": "Motivate Venture Capital",
@@ -11506,7 +11501,7 @@
           "linkedin": "https://www.linkedin.com/in/jackson-bubala/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "taihill-venture": {
       "name": "Taihill Venture",
@@ -11553,7 +11548,7 @@
           "linkedin": "https://www.linkedin.com/in/jingjingchai/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "emergent-ventures": {
       "name": "Emergent Ventures",
@@ -11596,7 +11591,7 @@
           "linkedin": "https://www.linkedin.com/in/isinghal/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "cortado-ventures": {
       "name": "Cortado Ventures",
@@ -11639,7 +11634,7 @@
           "linkedin": "https://www.linkedin.com/in/susanmoring/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "tusk-venture-partners": {
       "name": "Tusk Venture Partners",
@@ -11661,7 +11656,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "techoperators": {
       "name": "TechOperators",
@@ -11737,7 +11732,7 @@
           "linkedin": "https://www.linkedin.com/in/gmcgonnigle/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "marcypen-capital-partners": {
       "name": "MarcyPen Capital Partners",
@@ -11773,7 +11768,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "equal-ventures-management": {
       "name": "Equal Ventures Management",
@@ -11816,7 +11811,7 @@
           "linkedin": "https://www.linkedin.com/in/adam-chadroff/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "data-tech-fund": {
       "name": "Data Tech Fund",
@@ -11859,7 +11854,7 @@
           "linkedin": "https://www.linkedin.com/in/quandtandreas/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "goalvest-advisory": {
       "name": "GoalVest Advisory",
@@ -11902,7 +11897,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "energy-transition-ventures": {
       "name": "Energy Transition Ventures",
@@ -11924,7 +11919,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "a16z": {
       "name": "a16z",
@@ -12140,7 +12135,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "benchmark": {
       "name": "Benchmark",
@@ -12303,7 +12298,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "greylock": {
       "name": "Greylock",
@@ -12402,12 +12397,12 @@
           "linkedin": "https://www.linkedin.com/in/jerrychenprofile"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "bessemer": {
       "name": "Bessemer",
       "overview": "Bessemer is a venture firm, among the most active investors we track. Its stated focus: Seed → growth; cloud/AI (Atlas + Roadmaps).",
-      "six_months": "Over the last six months we tracked 32 investments and 5 posts/theses from Bessemer, investing at a rapid clip.",
+      "six_months": "Over the last six months we tracked 32 investments and 4 posts/theses from Bessemer, investing at a rapid clip.",
       "thesis": "The money is concentrated in Enterprise software (18 deals), followed by Healthcare & bio (8 deals), Defense, aero & space (3 deals). That points to a thesis centered on broad enterprise software and applied AI. There's a genuine second leg in Healthcare & bio (AI and software reengineering clinical, care-delivery and life-science workflows), so this isn't a one-note fund.",
       "how": "By stage, recent checks skew Series B — concentrating at the growth inflection, after product-market fit.",
       "notable": "Standout recent bets include DriveNets ($410M), Sarvam ($300M), Picogrid ($45M), Vetic ($40M), Mitigata ($15M). Their largest tracked check went to DriveNets ($410M), a read on where their conviction sits right now.",
@@ -12577,7 +12572,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "battery": {
       "name": "Battery",
@@ -12701,12 +12696,12 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "index": {
       "name": "Index",
       "overview": "Index is a venture firm. Its stated focus: Seed → growth.",
-      "six_months": "Over the last six months we tracked 7 investments and 78 posts/theses from Index, investing at selectively.",
+      "six_months": "Over the last six months we tracked 7 investments and 77 posts/theses from Index, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (5 deals), followed by Energy & climate (1 deal), Robotics & industrial (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "",
       "notable": "",
@@ -12773,12 +12768,12 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "insight": {
       "name": "Insight Partners",
       "overview": "Insight Partners is a venture firm. Its stated focus: Growth + scaleup; software.",
-      "six_months": "Over the last six months we tracked 16 investments and 27 posts/theses from Insight Partners, investing at a steady pace.",
+      "six_months": "Over the last six months we tracked 16 investments and 26 posts/theses from Insight Partners, investing at a steady pace.",
       "thesis": "The money is concentrated in Enterprise software (10 deals), followed by Fintech & payments (1 deal), Consumer & marketplace (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "By stage, recent checks skew Series A — backing companies right as they scale.",
       "notable": "Standout recent bets include Ramp ($750M), Factory ($150M), Cloudsmith ($72M), Gradial ($65M), Instabug Egypt ($46M). Their largest tracked check went to Ramp ($750M), a read on where their conviction sits right now.",
@@ -12943,7 +12938,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "boldstart": {
       "name": "Boldstart",
@@ -13012,7 +13007,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "amplify": {
       "name": "Amplify",
@@ -13130,12 +13125,12 @@
           "linkedin": "https://www.linkedin.com/in/lennypruss"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "wing": {
       "name": "Wing",
       "overview": "Wing is a venture firm. Its stated focus: Early-stage enterprise.",
-      "six_months": "Over the last six months we tracked 7 investments and 68 posts/theses from Wing, investing at selectively.",
+      "six_months": "Over the last six months we tracked 7 investments and 67 posts/theses from Wing, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (5 deals), followed by Defense, aero & space (2 deals). That points to a thesis centered on broad enterprise software and applied AI. There's a genuine second leg in Defense, aero & space (national-security, aerospace and space technology), so this isn't a one-note fund.",
       "how": "",
       "notable": "Standout recent bets include “Panicking” CSU, WW2 veteran.",
@@ -13210,15 +13205,15 @@
           "linkedin": "https://www.linkedin.com/in/jacobflomenberg"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "basis-set": {
       "name": "Basis Set",
       "overview": "Basis Set is a venture firm. Its stated focus: AI-native seed/A; autonomous systems, enterprise automation.",
-      "six_months": "Over the last six months we tracked 5 investments and 1 post/theses from Basis Set, investing at selectively.",
+      "six_months": "Over the last six months we tracked 4 investments and 1 post/theses from Basis Set, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (2 deals), followed by Defense, aero & space (1 deal), Healthcare & bio (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "By stage, recent checks skew Seed — leaning early and taking first-check risk.",
-      "notable": "Standout recent bets include Basata ($21M), Daydream ($15M), Synthetic ($10M), Tomo ($5M), Orbital ($5M). Their largest tracked check went to Basata ($21M), a read on where their conviction sits right now.",
+      "notable": "Standout recent bets include Basata ($21M), Synthetic ($10M), Tomo ($5M), Orbital ($5M). Their largest tracked check went to Basata ($21M), a read on where their conviction sits right now.",
       "watch": "For Smith Point, the overlap is clearest in Enterprise software, Defense, aero & space, Healthcare & bio. Worth watching: continued concentration in Enterprise software suggests more of the same ahead, while rising Defense, aero & space activity is the emerging tell.",
       "sectors": [
         {
@@ -13232,10 +13227,6 @@
         {
           "name": "Healthcare & bio",
           "n": 1
-        },
-        {
-          "name": "AI agents & apps",
-          "n": 1
         }
       ],
       "bets": [
@@ -13244,12 +13235,6 @@
           "amt": "$21M",
           "date": "2026-05-08",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2pUME82MG4weV83U1MxellWSDRIcHNwRzR2OVhUcTJIZkpPSWJ4N1Z4REJESEkySUR2T3FtZGJTR1NUejZzdTdXV25pejExWGZGNUdmQlBCZEMxVk9nZTJyVkFPZm1VVUd2LWY3Zk53ZktyWnItakJwTFFpaEZobVlJSEJvZjVzb2xwU2RFNzFDZFR1RFhkd0lXRzNObFI4M3B6eUprc29KM2JRbEcyLU9PVDRHMEJYTXptbEF4OTc2M1BrMTRVOWhGd3d3QTR2U3FMSWdDdWU?oc=5"
-        },
-        {
-          "company": "Daydream",
-          "amt": "$15M",
-          "date": "2026-04-06",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0Q3Yk9ZNkVuQWdJcUtLOUZpM1V5VzVPcHR5dHdQRnhzSEVSZlN5VGw3OVBodTZDellERUs4WmxnWW1RRmtqUTZPU1NVZHdUaWJzNlJ0OGNmeDVJZkFDazhwU01BQlQ2QUowdEY1NHp4cUowMXlfV3ZFdzMtLWVQNDBfbm85M3NlanlBRnh3Mll5TnFkclpn?oc=5"
         },
         {
           "company": "Synthetic",
@@ -13308,17 +13293,6 @@
               "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ2pUME82MG4weV83U1MxellWSDRIcHNwRzR2OVhUcTJIZkpPSWJ4N1Z4REJESEkySUR2T3FtZGJTR1NUejZzdTdXV25pejExWGZGNUdmQlBCZEMxVk9nZTJyVkFPZm1VVUd2LWY3Zk53ZktyWnItakJwTFFpaEZobVlJSEJvZjVzb2xwU2RFNzFDZFR1RFhkd0lXRzNObFI4M3B6eUprc29KM2JRbEcyLU9PVDRHMEJYTXptbEF4OTc2M1BrMTRVOWhGd3d3QTR2U3FMSWdDdWU?oc=5"
             }
           ]
-        },
-        {
-          "name": "AI agents & apps",
-          "n": 1,
-          "companies": [
-            {
-              "company": "Daydream",
-              "amt": "$15M",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0Q3Yk9ZNkVuQWdJcUtLOUZpM1V5VzVPcHR5dHdQRnhzSEVSZlN5VGw3OVBodTZDellERUs4WmxnWW1RRmtqUTZPU1NVZHdUaWJzNlJ0OGNmeDVJZkFDazhwU01BQlQ2QUowdEY1NHp4cUowMXlfV3ZFdzMtLWVQNDBfbm85M3NlanlBRnh3Mll5TnFkclpn?oc=5"
-            }
-          ]
         }
       ],
       "partners": [
@@ -13344,7 +13318,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "conviction": {
       "name": "Conviction",
@@ -13437,7 +13411,7 @@
           "linkedin": "https://www.linkedin.com/in/vernal"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "felicis": {
       "name": "Felicis",
@@ -13497,7 +13471,7 @@
           "linkedin": "https://www.linkedin.com/in/vivianafaga/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "founders-fund": {
       "name": "Founders Fund",
@@ -13643,7 +13617,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "first-round": {
       "name": "First Round",
@@ -13818,7 +13792,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "essence": {
       "name": "Essence",
@@ -13851,7 +13825,7 @@
           "linkedin": "https://www.linkedin.com/in/timchen"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "pear": {
       "name": "Pear",
@@ -13925,12 +13899,12 @@
           "linkedin": "https://www.linkedin.com/in/mar-hershenson-b21395/"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "yc": {
       "name": "Y Combinator",
       "overview": "Y Combinator is a venture firm. Its stated focus: Accelerator / pre-seed.",
-      "six_months": "Over the last six months we tracked 17 investments and 24 posts/theses from Y Combinator, investing at a steady pace.",
+      "six_months": "Over the last six months we tracked 17 investments and 23 posts/theses from Y Combinator, investing at a steady pace.",
       "thesis": "The money is concentrated in Enterprise software (11 deals), followed by Legal & compliance (3 deals), Healthcare & bio (1 deal). That points to a thesis centered on broad enterprise software and applied AI. There's a genuine second leg in Legal & compliance (AI for legal, risk and regulatory work), so this isn't a one-note fund.",
       "how": "By stage, recent checks skew Series A — backing companies right as they scale.",
       "notable": "Standout recent bets include Warp ($60M), AI call receptionist ($22M), Greenboard ($16M), Moritz ($9M), AI robo-advisor Astor ($5M). Their largest tracked check went to Warp ($60M), a read on where their conviction sits right now.",
@@ -14112,7 +14086,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "energize-ventures": {
       "name": "Energize Capital",
@@ -14171,7 +14145,7 @@
         }
       ],
       "partners": [],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "kleiner-perkins": {
       "name": "Kleiner Perkins",
@@ -14382,7 +14356,7 @@
           "linkedin": "https://www.linkedin.com/in/joubin-mirzadegan-66186854"
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     },
     "coatue": {
       "name": "Coatue",
@@ -14451,7 +14425,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-10-03"
+      "generated": "2026-10-04"
     }
   }
 }

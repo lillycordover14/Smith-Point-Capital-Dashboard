@@ -4243,5 +4243,30 @@
     "theme": "HR & workforce",
     "domain": "",
     "clean": "Kello"
+  },
+  "humanos": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "humanos"
+  },
+  "cipherhealth": {
+    "theme": "Healthcare & bio AI",
+    "domain": "",
+    "clean": "CipherHealth"
+  },
+  "ecfx": {
+    "theme": "Applied / horizontal AI",
+    "domain": "",
+    "clean": "ECFX"
+  },
+  "earthbrands": {
+    "theme": "Marketing & creative AI",
+    "domain": "",
+    "clean": "Earth Brands"
+  },
+  "amplecomputer": {
+    "theme": "AI compute & models",
+    "domain": "",
+    "clean": "Ample Computer"
   }
 }
