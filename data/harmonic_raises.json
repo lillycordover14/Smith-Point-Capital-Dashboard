@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -49,19 +49,19 @@
       "location": "Dallas, Texas"
     },
     {
-      "name": "Parakeet Health",
-      "domain": "parakeethealth.com",
-      "desc": "Parakeet Health offers a healthcare-native conversational AI platform that automates inbound and outbound patient access workflows across various communication channels, including voice, SMS, fax, and email. Utilizing la",
-      "stage": "SERIES_A",
-      "last_amount": 10000000.0,
-      "total": 13000000.0,
+      "name": "SafeWorld",
+      "domain": "safeworld.ai",
+      "desc": "SafeWorld offers robot safety testing and simulation software designed to assess the behavior of robots in various scenarios, particularly in dangerous or unexpected situations involving human interaction. The platform u",
+      "stage": "SEED",
+      "last_amount": 12200000.0,
+      "total": 12700000.0,
       "investors": [
-        "HMC INQ",
-        "StoryHouse Ventures",
-        "CoFound",
-        "Canvas Prime"
+        "Shine Capital",
+        "Founders Future",
+        "Alpha Square Group",
+        "Zelda Ventures"
       ],
-      "location": "San Francisco, CA"
+      "location": "Palo Alto, CA"
     },
     {
       "name": "Luminance",
@@ -79,51 +79,6 @@
       "location": "Cambridge"
     },
     {
-      "name": "Daptic (formerly DiploAI)",
-      "domain": "daptic.com",
-      "desc": "Daptic offers an AI-powered regulatory intelligence platform that automates the monitoring and analysis of over 10,000 global sources to ensure compliance with safety and regulatory requirements. Utilizing machine learni",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 21200000.0,
-      "investors": [
-        "8VC",
-        "REFASHIOND Ventures: The Industrial Transformation Fund",
-        "IA Ventures",
-        "Canvas Prime"
-      ],
-      "location": "New York"
-    },
-    {
-      "name": "SafeWorld",
-      "domain": "safeworld.ai",
-      "desc": "SafeWorld offers robot safety testing and simulation software designed to assess the behavior of robots in various scenarios, particularly in dangerous or unexpected situations involving human interaction. The platform u",
-      "stage": "SEED",
-      "last_amount": 12200000.0,
-      "total": 12700000.0,
-      "investors": [
-        "Shine Capital",
-        "Founders Future",
-        "Alpha Square Group",
-        "Zelda Ventures"
-      ],
-      "location": "Palo Alto, CA"
-    },
-    {
-      "name": "Santé",
-      "domain": "santehq.com",
-      "desc": "The main product is a point-of-sale (POS) system designed specifically for liquor stores, featuring AI-driven inventory management, invoice scanning, and smart reordering to enhance operational efficiency. Key technologi",
-      "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 24600000.0,
-      "investors": [
-        "Y Combinator",
-        "Bonfire Ventures",
-        "Allison Allen",
-        "Coughdrop Capital"
-      ],
-      "location": "Flatiron, NYC"
-    },
-    {
       "name": "Vocca",
       "domain": "vocca.com",
       "desc": "Vocca provides an AI-driven solution for healthcare communication, automating patient calls, appointment scheduling, and reminders to enhance operational efficiency. The technology utilizes conversational AI capable of h",
@@ -134,24 +89,9 @@
         "Heal Capital",
         "FJ Labs",
         "Speedinvest",
-        "Kima Ventures"
+        "Datadog"
       ],
       "location": "Paris"
-    },
-    {
-      "name": "Melius",
-      "domain": "melius.com",
-      "desc": "Melius offers an AI-native operating system designed for creative professionals, enabling the generation of diverse media content such as images, videos, and audio through collaborative AI agents. The platform utilizes m",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 25000000.0,
-      "investors": [
-        "Anti Fund",
-        "Vine Ventures",
-        "CRV",
-        "Genius Ventures"
-      ],
-      "location": "New York, New York"
     },
     {
       "name": "Avarra",
@@ -169,19 +109,34 @@
       "location": "San Mateo, California"
     },
     {
-      "name": "enso",
-      "domain": "enso.bot",
-      "desc": "The company offers a suite of AI agents designed to automate various aspects of marketing and growth operations, including SEO, lead generation, community engagement, content distribution, and social media management. Th",
+      "name": "Santé",
+      "domain": "santehq.com",
+      "desc": "The main product is a point-of-sale (POS) system designed specifically for liquor stores, featuring AI-driven inventory management, invoice scanning, and smart reordering to enhance operational efficiency. Key technologi",
       "stage": "SERIES_A",
       "last_amount": 15000000.0,
-      "total": 21000000.0,
+      "total": 24600000.0,
       "investors": [
-        "Shmuel Levy",
-        "NFX",
-        "MoreTech Ventures",
-        "Evening Fund"
+        "Y Combinator",
+        "Bonfire Ventures",
+        "Allison Allen",
+        "Coughdrop Capital"
       ],
-      "location": "Tel Aviv-Yafo"
+      "location": "Flatiron, NYC"
+    },
+    {
+      "name": "Melius",
+      "domain": "melius.com",
+      "desc": "Melius offers an AI-native operating system designed for creative professionals, enabling the generation of diverse media content such as images, videos, and audio through collaborative AI agents. The platform utilizes m",
+      "stage": "SERIES_A",
+      "last_amount": 0,
+      "total": 25000000.0,
+      "investors": [
+        "Anti Fund",
+        "Vine Ventures",
+        "CRV",
+        "Genius Ventures"
+      ],
+      "location": "New York, New York"
     },
     {
       "name": "Flai",
@@ -214,6 +169,21 @@
       "location": "London"
     },
     {
+      "name": "Ampersand",
+      "domain": "withampersand.com",
+      "desc": "Ampersand offers a developer platform designed for creating deep, bi-directional product integrations, enabling seamless connectivity with enterprise-grade CRM and ERP systems. The platform utilizes a declarative framewo",
+      "stage": "SERIES_A",
+      "last_amount": 15000000.0,
+      "total": 19700000.0,
+      "investors": [
+        "basecase capital",
+        "Matrix",
+        "Curate Capital",
+        "Yelp"
+      ],
+      "location": "San Francisco"
+    },
+    {
       "name": "Kuro",
       "domain": "kuro.technology",
       "desc": "Kuro offers an AI-driven automation platform designed specifically for general contractors, enabling the integration of fragmented project data into actionable insights while streamlining complex construction processes. ",
@@ -227,21 +197,6 @@
         "Foundamental"
       ],
       "location": "Berlin, BE"
-    },
-    {
-      "name": "Revnu (P26)",
-      "domain": "revnu.com",
-      "desc": "Revnu offers an AI-driven platform that automates various growth-related tasks for software businesses, including SEO, ad management, outbound outreach, and customer retention strategies. By integrating with existing app",
-      "stage": "SEED",
-      "last_amount": 3000000.0,
-      "total": 3500000.0,
-      "investors": [
-        "Y Combinator",
-        "Praetura Ventures",
-        "PXN Group",
-        "InvestorX"
-      ],
-      "location": "San Francisco"
     },
     {
       "name": "Cleavr",
@@ -259,6 +214,36 @@
       "location": "Paris, Île-de-France"
     },
     {
+      "name": "Vitalize",
+      "domain": "vitalize.tech",
+      "desc": "Vitalize provides a trauma-informed digital wellness platform for healthcare providers, featuring a cognitive behavioral therapy mobile app with evidence-based mindfulness and guided journaling modules, as well as anonym",
+      "stage": "SERIES_A",
+      "last_amount": 31000000.0,
+      "total": 69500000.0,
+      "investors": [
+        "Anorak Ventures",
+        "Oak HC/FT",
+        "MemorialCare",
+        "Y Combinator"
+      ],
+      "location": "San Francisco, California"
+    },
+    {
+      "name": "Vesta",
+      "domain": "vesta.com",
+      "desc": "Vesta offers an AI-native loan origination system that automates and streamlines mortgage operations, significantly reducing processing times and operational costs. The system utilizes AI agents to handle routine tasks a",
+      "stage": "SERIES_B",
+      "last_amount": 30000000.0,
+      "total": 84999994.0,
+      "investors": [
+        "Andreessen Horowitz",
+        "Conversion Capital",
+        "Zigg Capital",
+        "Index Ventures"
+      ],
+      "location": "San Francisco , CA"
+    },
+    {
       "name": "hexafarms",
       "domain": "hexafarms.com",
       "desc": "The company offers AI-powered solutions for greenhouse optimization, focusing on yield forecasting, crop registration, and pest and disease detection, which are designed to enhance operational efficiency for commercial g",
@@ -274,49 +259,19 @@
       "location": "Berlin"
     },
     {
-      "name": "Ampersand",
-      "domain": "withampersand.com",
-      "desc": "Ampersand offers a developer platform designed for creating deep, bi-directional product integrations, enabling seamless connectivity with enterprise-grade CRM and ERP systems. The platform utilizes a declarative framewo",
+      "name": "Procuros",
+      "domain": "procuros.io",
+      "desc": "Procuros offers a B2B integration platform designed to automate and streamline transactions between suppliers and trade partners, eliminating reliance on paper-based processes. The platform utilizes AI for automated orde",
       "stage": "SERIES_A",
-      "last_amount": 15000000.0,
-      "total": 19700000.0,
+      "last_amount": 22433592.0,
+      "total": 32615487.0,
       "investors": [
-        "basecase capital",
-        "Matrix",
-        "Curate Capital",
-        "Yelp"
+        "IFB Innovationsstarter GmbH",
+        "UC LAUNCH Startup Accelerator",
+        "W23 Global",
+        "SquareOne Venture Capital"
       ],
-      "location": "San Francisco"
-    },
-    {
-      "name": "Settle Inc",
-      "domain": "settle.com",
-      "desc": "The company provides a comprehensive platform that integrates inventory management, procurement, accounts payable automation, and working capital financing, enabling consumer brands to manage their purchasing and payment",
-      "stage": "SERIES_C",
-      "last_amount": 240000000.0,
-      "total": 905119892.0,
-      "investors": [
-        "Atalaya Capital Management",
-        "Finn Capital Partners",
-        "Upper90",
-        "Silicon Valley Bank"
-      ],
-      "location": "San Francisco, CA"
-    },
-    {
-      "name": "Vitalize",
-      "domain": "vitalize.tech",
-      "desc": "Vitalize provides a trauma-informed digital wellness platform for healthcare providers, featuring a cognitive behavioral therapy mobile app with evidence-based mindfulness and guided journaling modules, as well as anonym",
-      "stage": "SERIES_A",
-      "last_amount": 31000000.0,
-      "total": 69500000.0,
-      "investors": [
-        "Anorak Ventures",
-        "Oak HC/FT",
-        "MemorialCare",
-        "Y Combinator"
-      ],
-      "location": "San Francisco, California"
+      "location": "Hamburg"
     },
     {
       "name": "GoodLeap",
@@ -349,82 +304,69 @@
       "location": "London, England"
     },
     {
-      "name": "Procuros",
-      "domain": "procuros.io",
-      "desc": "Procuros offers a B2B integration platform designed to automate and streamline transactions between suppliers and trade partners, eliminating reliance on paper-based processes. The platform utilizes AI for automated orde",
-      "stage": "SERIES_A",
-      "last_amount": 22433592.0,
-      "total": 32615487.0,
+      "name": "Hone",
+      "domain": "hone.com",
+      "desc": "Hone develops an AI system that focuses on achieving specified outcomes rather than merely completing tasks, allowing organizations to reorganize workflows around advanced intelligence. The technology employs a declarati",
+      "stage": "SERIES_B",
+      "last_amount": 60000000.0,
+      "total": 60000000.0,
       "investors": [
-        "IFB Innovationsstarter GmbH",
-        "UC LAUNCH Startup Accelerator",
-        "W23 Global",
-        "SquareOne Venture Capital"
+        "Index Ventures",
+        "Definition",
+        "Hanabi Capital",
+        "The Benchmark Company, a subsidiary of StoneX Group Inc."
       ],
-      "location": "Hamburg"
+      "location": "San Francisco"
     },
     {
-      "name": "Photon",
-      "domain": "photon.codes",
-      "desc": "The company offers an open-source framework that enables the integration of AI agents with various messaging platforms, including SMS/RCS, iMessage, WhatsApp, Discord, Slack, and Telegram. This framework supports functio",
+      "name": "GUDEA",
+      "domain": "gudea.ai",
+      "desc": "GUDEA provides a platform for the rapid detection and analysis of emerging narratives across various online ecosystems, utilizing advanced technologies such as artificial intelligence and machine learning to map informat",
       "stage": "SEED",
-      "last_amount": 4500000.0,
-      "total": 4500000.0,
+      "last_amount": 7000000.0,
+      "total": 21980942.0,
       "investors": [
-        "A*",
-        "Karman Ventures",
-        "Vercel",
-        "HSG"
+        "Bread and Butter Ventures",
+        "Techstars",
+        "Service Provider Capital",
+        "Mudita Venture Partners"
       ],
-      "location": ""
+      "location": "7120 Minstral Way, Suite 210, Columbia, MD 21045, United States"
     },
     {
-      "name": "Deepslate",
-      "domain": "phonebot.io",
-      "desc": "The company offers a speech-to-speech AI solution tailored for European enterprises, facilitating natural conversations in over 27 languages with a response latency of 250ms. The technology emphasizes data privacy throug",
+      "name": "fore ai",
+      "domain": "foreai.co",
+      "desc": "The company offers an autonomous software testing solution that utilizes AI agents to generate, execute, and self-heal tests, ensuring continuous quality assurance across all stages of the testing process. Its multi-agen",
       "stage": "SEED",
-      "last_amount": 8643627.0,
-      "total": 8643627.0,
+      "last_amount": 7992470.0,
+      "total": 18592470.0,
       "investors": [
-        "42CAP",
-        "SIVentures (prev. Smart Infrastructure Ventures)",
-        "Alstin Capital",
-        "Feliks Eyser"
+        "Mosaic Ventures",
+        "Agile Partners",
+        "Jürgen Galler",
+        "Angel Invest"
       ],
-      "location": "Templin, Brandenburg"
+      "location": "Zurich"
     },
     {
-      "name": "FRANK",
-      "domain": "frankinsurance.ai",
-      "desc": "FRANK is an AI assistant designed to automate various tasks for insurance advisors, including generating quotes, managing paperwork, and providing 24/7 client assistance. It integrates with existing ERP and CRM systems v",
+      "name": "Hone",
+      "domain": "honehq.com",
+      "desc": "Hone provides a live skills development platform that integrates live virtual classes with expert coaching and advanced program management technology, enabling scalable training solutions for various employee audiences. ",
       "stage": "SEED",
-      "last_amount": 3262195.0,
-      "total": 3262195.0,
+      "last_amount": 60000000.0,
+      "total": 111649988.0,
       "investors": [
-        "Armilar",
-        "Start Ventures"
+        "Looking Glass Capital",
+        "Firework Ventures",
+        "Cowboy Ventures",
+        "Index Ventures"
       ],
-      "location": ""
-    },
-    {
-      "name": "Voltaback",
-      "domain": "voltaback.com",
-      "desc": "VoltaBack provides a home charging solution for electric vehicles that automates the reimbursement of charging expenses without the need for connected chargers or specific cables. The technology integrates vehicle data a",
-      "stage": "SEED",
-      "last_amount": 3149706.0,
-      "total": 3149706.0,
-      "investors": [
-        "Aurélien de Meaux",
-        "Moove Lab",
-        "Serena",
-        "Agoranov"
-      ],
-      "location": ""
+      "location": "Encinitas, California"
     },
     {
       "name": "TextYess",
       "domain": "textyess.com",
-      "desc": "TextYess offers an autonomous CRM designed for eCommerce brands, utilizing AI agents to manage customer interactions across multiple channels, including email and WhatsApp, while personalizing communication based on cust",
+      "desc": "The company offers an autonomous CRM designed specifically for eCommerce brands, utilizing AI agents to automate customer interactions across various channels such as email and WhatsApp. This system analyzes customer dat",
       "stage": "SEED",
       "last_amount": 4486718.0,
       "total": 7768826.0,
@@ -435,6 +377,31 @@
         "Growth Engine"
       ],
       "location": "Milano, Italy"
+    },
+    {
+      "name": "OneByZero",
+      "domain": "onebyzero.ai",
+      "desc": "OBZ provides AI Co-workers that automate enterprise workflows, leveraging a proprietary GenAI Factory to deliver governed and scalable systems tailored for various business functions. These solutions operate natively wit",
+      "stage": "SERIES_A",
+      "last_amount": 20000000.0,
+      "total": 20000000.0,
+      "investors": [
+        "Jungle Ventures"
+      ],
+      "location": "Singapore, Central Region"
+    },
+    {
+      "name": "PlannerPal",
+      "domain": "plannerpal.co.uk",
+      "desc": "PlannerPal is an AI-driven workflow solution designed for financial advisers, streamlining administrative tasks by integrating client meetings, documentation, CRM data, and reporting into a single platform. It automates ",
+      "stage": "VENTURE_UNKNOWN",
+      "last_amount": 6000000.0,
+      "total": 7396000.0,
+      "investors": [
+        "Ada Ventures",
+        "Mercia Ventures"
+      ],
+      "location": "The Core Bath Lane, Newcastle Helix, Newcastle Upon Tyne NE4 5TF, England, United Kingdom"
     },
     {
       "name": "Reactiv",
@@ -452,16 +419,19 @@
       "location": "Toronto"
     },
     {
-      "name": "OneByZero",
-      "domain": "onebyzero.ai",
-      "desc": "OBZ provides AI Co-workers that automate enterprise workflows, leveraging a proprietary GenAI Factory to deliver governed and scalable systems tailored for various business functions. These solutions operate natively wit",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 20000000.0,
+      "name": "Trmeric",
+      "domain": "trmeric.com",
+      "desc": "Trmeric offers an integrated platform designed to streamline enterprise transformation by utilizing AI agents to manage processes from strategy to execution, thereby enhancing collaboration between business and IT. The p",
+      "stage": "SEED",
+      "last_amount": 6500000.0,
+      "total": 6500000.0,
       "investors": [
-        "Jungle Ventures"
+        "Executive Venture Fund",
+        "Hitachi Ventures",
+        "Schema Ventures",
+        "CIVC"
       ],
-      "location": "Singapore, Central Region"
+      "location": "San Ramon, California"
     },
     {
       "name": "Farseer",
@@ -479,47 +449,27 @@
       "location": "Zagreb"
     },
     {
-      "name": "Computis",
-      "domain": "computis.io",
-      "desc": "Computis offers a digital asset tax and accounting software designed to manage the complexities of cryptocurrency transactions, utilizing an advanced data processing engine to convert blockchain data into actionable acco",
-      "stage": "PRE_SEED",
-      "last_amount": 2249790.0,
-      "total": 2399790.0,
-      "investors": [
-        "BlockScience",
-        "Zanichelli Venture",
-        "Alpha Ventures",
-        "Alecla7"
-      ],
-      "location": "Acworth, Georgia"
+      "name": "Besso",
+      "domain": "besso.com",
+      "desc": "Besso offers an AI-powered platform designed to automate trade compliance by continuously analyzing global trade regulations, free trade agreements, and tariff schedules to optimize supply chain operations. The technolog",
+      "stage": "SEED",
+      "last_amount": 4818277.0,
+      "total": 5919829.0,
+      "investors": [],
+      "location": "Bern"
     },
     {
-      "name": "PlannerPal",
-      "domain": "plannerpal.co.uk",
-      "desc": "PlannerPal is an AI-driven workflow solution designed for financial advisers, streamlining administrative tasks by integrating client meetings, documentation, CRM data, and reporting into a single platform. It automates ",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 6000000.0,
-      "total": 7396000.0,
+      "name": "Cofrai",
+      "domain": "cofrai.com",
+      "desc": "Cofrai offers fire protection software designed to automate operations for maintenance service providers, enabling the automatic creation of periodic maintenance jobs and job orders. The platform includes a mobile app fo",
+      "stage": "SEED",
+      "last_amount": 2915321.0,
+      "total": 5276793.0,
       "investors": [
-        "Ada Ventures",
-        "Mercia Ventures"
+        "Swanlaab Venture Factory",
+        "DFF (Dutch Founders Fund)"
       ],
-      "location": "The Core Bath Lane, Newcastle Helix, Newcastle Upon Tyne NE4 5TF, England, United Kingdom"
-    },
-    {
-      "name": "ECFX",
-      "domain": "goecfx.com",
-      "desc": "ECFX Notice is an enterprise notice management system that automates the processing of federal and state electronic court filing notices, significantly reducing the time and effort required for manual processing. The pla",
-      "stage": "VENTURE_UNKNOWN",
-      "last_amount": 0,
-      "total": 10500000.0,
-      "investors": [
-        "Sand Hill Angels",
-        "Cove Fund",
-        "The Bricks",
-        "Traction Fund"
-      ],
-      "location": "Venice, CA"
+      "location": "Calle Maria de Molina 37, S1D Madrid, 28006 Madrid, Spain"
     },
     {
       "name": "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)",
@@ -550,6 +500,36 @@
       "location": "New York"
     },
     {
+      "name": "TODAY",
+      "domain": "usetoday.io",
+      "desc": "The main product is an AI-driven sales assistant designed for financial and insurance advisors, which automates advisory documentation and provides coaching insights to enhance consultation effectiveness. It integrates w",
+      "stage": "SEED",
+      "last_amount": 3139577.0,
+      "total": 4275586.0,
+      "investors": [
+        "HTGF | High-Tech Gründerfonds",
+        "InsurLab Germany",
+        "Trustlations, Inc.",
+        "SEED X Liechtenstein"
+      ],
+      "location": "Copenhagen"
+    },
+    {
+      "name": "Cori Clinical",
+      "domain": "cori-clinical.com",
+      "desc": "Cori Clinical offers an AI-powered platform that automates regulatory and administrative workflows in clinical development, enhancing the efficiency of trial startup processes. The technology includes tools for document ",
+      "stage": "SEED",
+      "last_amount": 0,
+      "total": 4000000.0,
+      "investors": [
+        "Enzo Ventures",
+        "Ventures Together",
+        "BREEGA",
+        "Bynd Venture Capital"
+      ],
+      "location": "London"
+    },
+    {
       "name": "ASAAS",
       "domain": "asaas.com",
       "desc": "The main product is a comprehensive digital account designed for businesses, enabling them to manage various financial processes such as issuing invoices, processing payments through multiple channels (including bank sli",
@@ -563,20 +543,6 @@
         "Endeavor Catalyst"
       ],
       "location": "Joinville, Santa Catarina"
-    },
-    {
-      "name": "Wiremind",
-      "domain": "wiremind.io",
-      "desc": "Wiremind offers AI-powered solutions designed for optimizing revenue, distribution, and capacity across passenger transport, air cargo, and event management. Their technologies include advanced inventory management syste",
-      "stage": "",
-      "last_amount": 39386482.0,
-      "total": 39386482.0,
-      "investors": [
-        "Bpifrance",
-        "Seaya Andromeda",
-        "IronWave"
-      ],
-      "location": "Paris, Île-de-France"
     },
     {
       "name": "Mogul",
@@ -607,48 +573,18 @@
       "location": "Milano"
     },
     {
-      "name": "TODAY",
-      "domain": "usetoday.io",
-      "desc": "The main product is an AI-driven sales assistant designed for financial and insurance advisors, which automates advisory documentation and provides coaching insights to enhance consultation effectiveness. It integrates w",
-      "stage": "SEED",
-      "last_amount": 3133252.0,
-      "total": 4269261.0,
+      "name": "Wiremind",
+      "domain": "wiremind.io",
+      "desc": "Wiremind offers AI-powered solutions designed for optimizing revenue, distribution, and capacity across passenger transport, air cargo, and event management. Their technologies include advanced inventory management syste",
+      "stage": "",
+      "last_amount": 39386482.0,
+      "total": 39386482.0,
       "investors": [
-        "HTGF | High-Tech Gründerfonds",
-        "InsurLab Germany",
-        "Trustlations, Inc.",
-        "SEED X Liechtenstein"
+        "Bpifrance",
+        "Seaya Andromeda",
+        "IronWave"
       ],
-      "location": "Copenhagen"
-    },
-    {
-      "name": "Eventric Master Tour",
-      "domain": "eventric.com",
-      "desc": "Master Tour is a comprehensive software platform designed for the live music and event industry, focusing on streamlining tour logistics, scheduling, and communication. It incorporates features for tour planning, central",
-      "stage": "SEED",
-      "last_amount": 0,
-      "total": 5435998.0,
-      "investors": [
-        "Frontier Growth",
-        "Staircase Ventures",
-        "MicroVentures"
-      ],
-      "location": "Chicago, IL"
-    },
-    {
-      "name": "Trmeric",
-      "domain": "trmeric.com",
-      "desc": "Trmeric offers an integrated platform designed to streamline enterprise transformation by utilizing AI agents to manage processes from strategy to execution, thereby enhancing collaboration between business and IT. The p",
-      "stage": "SEED",
-      "last_amount": 6500000.0,
-      "total": 6500000.0,
-      "investors": [
-        "Executive Venture Fund",
-        "Hitachi Ventures",
-        "Schema Ventures",
-        "CIVC"
-      ],
-      "location": "San Ramon, California"
+      "location": "Paris, Île-de-France"
     },
     {
       "name": "Kontempo",
@@ -733,6 +669,66 @@
         "SFC Capital"
       ],
       "location": "London"
+    },
+    {
+      "name": "Kompanion",
+      "domain": "kompanion.es",
+      "desc": "Kompanion offers a digital platform that automates and optimizes accounting, payroll, and tax management for startups and eCommerce businesses, integrating advanced technologies for real-time reporting and streamlined pr",
+      "stage": "SEED",
+      "last_amount": 897343.0,
+      "total": 897343.0,
+      "investors": [
+        "Acurio Ventures",
+        "JME Ventures",
+        "BStartup Banco Sabadell",
+        "Carles Marcos i Guàrdia"
+      ],
+      "location": "Barcelona"
+    },
+    {
+      "name": "UIN",
+      "domain": "uin.tech",
+      "desc": "The main product is a behavior orchestration system that utilizes real-time data, intelligent triggers, and personalized engagement loops to transform user interactions into habitual behaviors, thereby enhancing user ret",
+      "stage": "SEED",
+      "last_amount": 2000000.0,
+      "total": 2000000.0,
+      "investors": [
+        "EWA Capital",
+        "B Venture Capital (BVC)",
+        "FERTER",
+        "New Ventures"
+      ],
+      "location": "Buenos Aires, Argentina"
+    },
+    {
+      "name": "Autentic AI",
+      "domain": "autentic.ai",
+      "desc": "Autentic AI is an AI-driven market research platform that facilitates rapid consumer insights studies and expert interviews by utilizing conversational AI agents to recruit participants and conduct voice and video interv",
+      "stage": "PRE_SEED",
+      "last_amount": 1683218.0,
+      "total": 3123218.0,
+      "investors": [
+        "Acurio Ventures",
+        "LANAI Partners",
+        "Masia",
+        "Baobab Ventures"
+      ],
+      "location": "Barcelona"
+    },
+    {
+      "name": "株式会社フライル",
+      "domain": "flyle.io",
+      "desc": "The company specializes in communication and collaboration products, leveraging Flyle technology to enable seamless interactions between customers and teams.",
+      "stage": "SERIES_A",
+      "last_amount": 11893616.0,
+      "total": 14853361.0,
+      "investors": [
+        "Mitsubishi UFJ Capital Co.,Ltd.",
+        "Aflac Ventures Japan K.K.",
+        "FIRSTLIGHT Capital",
+        "ALL STAR SAAS FUND"
+      ],
+      "location": "2F, 35th Kowa Building Annex, 1-14-15 Akasaka, Minato-ku, Tokyo, 150-0031, Japan"
     }
   ]
 }
