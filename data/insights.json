@@ -1,24 +1,96 @@
 {
-  "generated": "2026-10-09",
+  "generated": "2026-10-10",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 86,
-    "total_cap_m": 13283,
-    "early_cap_m": 2548,
+    "early_raises": 85,
+    "total_cap_m": 12431,
+    "early_cap_m": 2575,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 32,
+      "Seed": 31,
       "Series A": 51,
       "Series B": 20,
-      "Series C": 11,
+      "Series C": 9,
       "Series D": 2,
-      "Venture": 74
+      "Venture": 73
     }
   },
   "raises": [
+    {
+      "company": "The REUSE Company",
+      "amount_m": 21,
+      "date": "2026-10-10",
+      "link": "https://reusecompany.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Series A"
+    },
+    {
+      "company": "Polygrade",
+      "amount_m": 6,
+      "date": "2026-10-10",
+      "link": "https://polygrade.com",
+      "investors": [],
+      "theme": "Insurance / insurtech",
+      "stage": "Seed"
+    },
+    {
+      "company": "NeoFleet Capital",
+      "amount_m": 4,
+      "date": "2026-10-10",
+      "link": "https://neofleet.com",
+      "investors": [],
+      "theme": "Applied / horizontal AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Insuraviews",
+      "amount_m": 1,
+      "date": "2026-10-10",
+      "link": "https://insuraviews.com",
+      "investors": [],
+      "theme": "Insurance / insurtech",
+      "stage": "Seed"
+    },
+    {
+      "company": "Myca",
+      "amount_m": 1,
+      "date": "2026-10-10",
+      "link": "https://myca.ag",
+      "investors": [],
+      "theme": "Agent-native infra",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Innercrowd",
+      "amount_m": 1,
+      "date": "2026-10-10",
+      "link": "https://innercrowd.io",
+      "investors": [],
+      "theme": "Marketing & creative AI",
+      "stage": "Pre Seed"
+    },
+    {
+      "company": "Azul",
+      "amount_m": null,
+      "date": "2026-10-10",
+      "link": "https://azul.com",
+      "investors": [],
+      "theme": "Cybersecurity",
+      "stage": "Venture Unknown"
+    },
+    {
+      "company": "ChatCash",
+      "amount_m": null,
+      "date": "2026-10-10",
+      "link": "https://chatcash.co.zw",
+      "investors": [],
+      "theme": "Sales & GTM AI",
+      "stage": "Pre Seed"
+    },
     {
       "company": "Hone",
       "amount_m": 60,
@@ -146,15 +218,6 @@
       "stage": "Seed"
     },
     {
-      "company": "Promenaut AI",
-      "amount_m": 9,
-      "date": "2026-10-08",
-      "link": "https://promenaut.ai",
-      "investors": [],
-      "theme": "Financial back-office & compliance AI",
-      "stage": "Seed"
-    },
-    {
       "company": "PlannerPal",
       "amount_m": 6,
       "date": "2026-10-08",
@@ -263,6 +326,15 @@
       "stage": "Series A"
     },
     {
+      "company": "Melius",
+      "amount_m": 20,
+      "date": "2026-10-07",
+      "link": "https://melius.com",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Series A"
+    },
+    {
       "company": "OneByZero",
       "amount_m": 20,
       "date": "2026-10-07",
@@ -297,24 +369,6 @@
       "investors": [],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Melius",
-      "amount_m": null,
-      "date": "2026-10-07",
-      "link": "https://melius.com",
-      "investors": [],
-      "theme": "Applied AI agents",
-      "stage": "Series A"
-    },
-    {
-      "company": "Luminance",
-      "amount_m": 75,
-      "date": "2026-10-06",
-      "link": "https://luminance.com",
-      "investors": [],
-      "theme": "Legal AI",
-      "stage": "Series C"
     },
     {
       "company": "Procuros",
@@ -386,42 +440,6 @@
       "link": "https://textyess.com",
       "investors": [],
       "theme": "Applied AI agents",
-      "stage": "Seed"
-    },
-    {
-      "company": "Earth Brands",
-      "amount_m": null,
-      "date": "2026-10-04",
-      "link": "https://earthstore.com",
-      "investors": [],
-      "theme": "Marketing & creative AI",
-      "stage": "Series A"
-    },
-    {
-      "company": "GoodLeap",
-      "amount_m": 389,
-      "date": "2026-10-03",
-      "link": "https://goodleap.com",
-      "investors": [],
-      "theme": "Energy & climate",
-      "stage": "Series C"
-    },
-    {
-      "company": "Kuro",
-      "amount_m": 11,
-      "date": "2026-10-02",
-      "link": "https://kuro.technology",
-      "investors": [],
-      "theme": "Legal AI",
-      "stage": "Pre Seed"
-    },
-    {
-      "company": "UIN",
-      "amount_m": 2,
-      "date": "2026-09-06",
-      "link": "https://uin.tech",
-      "investors": [],
-      "theme": "Applied / horizontal AI",
       "stage": "Seed"
     },
     {
@@ -2175,41 +2193,19 @@
       ],
       "theme": "Applied / horizontal AI",
       "stage": "Series A"
-    },
-    {
-      "company": "Plot",
-      "amount_m": 10,
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZWV4Ymoxb2hPM3lUSGhNUFZGYVJubEtJWFVnV09ueGZWVFRtVEFiWkdnbUJWclVHNjlkTHlnNzRaMVJQZzNRU2UwblFPc3ZmbTFzd09SWVQ1alhqT0U0Tm51MWY5ZlZQUkdCWTFUcTc4bkRmN05r?oc=5",
-      "investors": [
-        "XYZ Venture Capital"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Seed"
-    },
-    {
-      "company": "DriveNets",
-      "amount_m": 410,
-      "date": "2026-06-01",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZjc0MzZfbXFOTklwWTVEQXdINEp0RzhyaHVPWm84aF9pQl9HYlQ3bFNnYlBkVEZfYjBkVDByWXkzYXBsSU5heEJFV3FlUU4zYXhKVW9odjI3ZUQ0YmdVN2RxMml5UHc?oc=5",
-      "investors": [
-        "Bessemer"
-      ],
-      "theme": "Applied / horizontal AI",
-      "stage": "Venture"
     }
   ],
   "themes": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 107,
+      "count": 106,
       "examples": [
+        "The REUSE Company",
+        "NeoFleet Capital",
         "Hone",
         "GUDEA",
         "Cofrai",
-        "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)",
-        "Mogul",
-        "PlannerPal"
+        "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)"
       ]
     },
     {
@@ -2237,18 +2233,6 @@
       ]
     },
     {
-      "theme": "Energy & climate",
-      "count": 10,
-      "examples": [
-        "GoodLeap",
-        "Axle Energy",
-        "Vergennes battery project",
-        "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
-      ]
-    },
-    {
       "theme": "Crypto & digital assets",
       "count": 9,
       "examples": [
@@ -2258,6 +2242,18 @@
         "Social Crypto App Fomo",
         "Telepatia",
         "Digital Asset"
+      ]
+    },
+    {
+      "theme": "Energy & climate",
+      "count": 9,
+      "examples": [
+        "Axle Energy",
+        "Vergennes battery project",
+        "SolarSquare",
+        "Endurance Energy",
+        "Solidion Technology",
+        "US Energy Company"
       ]
     },
     {
@@ -2273,6 +2269,17 @@
       ]
     },
     {
+      "theme": "Cybersecurity",
+      "count": 5,
+      "examples": [
+        "Azul",
+        "Netsec",
+        "Twenty",
+        "A Security",
+        "Opal Security"
+      ]
+    },
+    {
       "theme": "Fintech & payments",
       "count": 5,
       "examples": [
@@ -2284,33 +2291,40 @@
       ]
     },
     {
-      "theme": "Financial back-office & compliance AI",
+      "theme": "Sales & GTM AI",
       "count": 4,
+      "examples": [
+        "ChatCash",
+        "SimpL",
+        "Scooter",
+        "Avarra"
+      ]
+    },
+    {
+      "theme": "Insurance / insurtech",
+      "count": 3,
+      "examples": [
+        "Polygrade",
+        "Insuraviews",
+        "TODAY"
+      ]
+    },
+    {
+      "theme": "Agent-native infra",
+      "count": 3,
+      "examples": [
+        "Myca",
+        "Straiker",
+        "Trase"
+      ]
+    },
+    {
+      "theme": "Financial back-office & compliance AI",
+      "count": 3,
       "examples": [
         "Besso",
         "Kontempo",
-        "Promenaut AI",
         "nettle"
-      ]
-    },
-    {
-      "theme": "Cybersecurity",
-      "count": 4,
-      "examples": [
-        "Netsec",
-        "Twenty",
-        "A Security",
-        "Opal Security"
-      ]
-    },
-    {
-      "theme": "Legal AI",
-      "count": 4,
-      "examples": [
-        "Luminance",
-        "Genie AI",
-        "Kuro",
-        "Sandstone"
       ]
     },
     {
@@ -2323,12 +2337,11 @@
       ]
     },
     {
-      "theme": "Sales & GTM AI",
-      "count": 3,
+      "theme": "Marketing & creative AI",
+      "count": 2,
       "examples": [
-        "SimpL",
-        "Scooter",
-        "Avarra"
+        "Innercrowd",
+        "Reactiv"
       ]
     },
     {
@@ -2340,19 +2353,19 @@
       ]
     },
     {
-      "theme": "Marketing & creative AI",
-      "count": 2,
-      "examples": [
-        "Reactiv",
-        "Earth Brands"
-      ]
-    },
-    {
       "theme": "AI dev tooling",
       "count": 2,
       "examples": [
         "Ampersand",
         "Fusion Developer Helion"
+      ]
+    },
+    {
+      "theme": "Legal AI",
+      "count": 2,
+      "examples": [
+        "Genie AI",
+        "Sandstone"
       ]
     },
     {
@@ -2372,21 +2385,6 @@
       ]
     },
     {
-      "theme": "Agent-native infra",
-      "count": 2,
-      "examples": [
-        "Straiker",
-        "Trase"
-      ]
-    },
-    {
-      "theme": "Insurance / insurtech",
-      "count": 1,
-      "examples": [
-        "TODAY"
-      ]
-    },
-    {
       "theme": "Defense & national security",
       "count": 1,
       "examples": [
@@ -2397,15 +2395,15 @@
   "emerging": [
     {
       "theme": "Applied / horizontal AI",
-      "count": 107,
-      "cap_m": 7198,
+      "count": 106,
+      "cap_m": 6801,
       "examples": [
+        "The REUSE Company",
+        "NeoFleet Capital",
         "Hone",
         "GUDEA",
         "Cofrai",
-        "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)",
-        "Mogul",
-        "PlannerPal"
+        "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)"
       ],
       "top_stage": "Venture"
     },
@@ -2426,7 +2424,7 @@
     {
       "theme": "Applied AI agents",
       "count": 10,
-      "cap_m": 171,
+      "cap_m": 191,
       "examples": [
         "Vesta",
         "fore ai",
@@ -2436,20 +2434,6 @@
         "TextYess"
       ],
       "top_stage": "Seed"
-    },
-    {
-      "theme": "Energy & climate",
-      "count": 10,
-      "cap_m": 1530,
-      "examples": [
-        "GoodLeap",
-        "Axle Energy",
-        "Vergennes battery project",
-        "SolarSquare",
-        "Endurance Energy",
-        "Solidion Technology"
-      ],
-      "top_stage": "Venture"
     },
     {
       "theme": "Crypto & digital assets",
@@ -2462,6 +2446,20 @@
         "Social Crypto App Fomo",
         "Telepatia",
         "Digital Asset"
+      ],
+      "top_stage": "Venture"
+    },
+    {
+      "theme": "Energy & climate",
+      "count": 9,
+      "cap_m": 1141,
+      "examples": [
+        "Axle Energy",
+        "Vergennes battery project",
+        "SolarSquare",
+        "Endurance Energy",
+        "Solidion Technology",
+        "US Energy Company"
       ],
       "top_stage": "Venture"
     },
@@ -2480,6 +2478,19 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Cybersecurity",
+      "count": 5,
+      "cap_m": 170,
+      "examples": [
+        "Azul",
+        "Netsec",
+        "Twenty",
+        "A Security",
+        "Opal Security"
+      ],
+      "top_stage": "Venture"
+    },
+    {
       "theme": "Fintech & payments",
       "count": 5,
       "cap_m": 300,
@@ -2493,62 +2504,49 @@
       "top_stage": "Venture"
     },
     {
-      "theme": "Financial back-office & compliance AI",
-      "count": 4,
-      "cap_m": 29,
-      "examples": [
-        "Besso",
-        "Kontempo",
-        "Promenaut AI",
-        "nettle"
-      ],
-      "top_stage": "Seed"
-    },
-    {
-      "theme": "Cybersecurity",
-      "count": 4,
-      "cap_m": 170,
-      "examples": [
-        "Netsec",
-        "Twenty",
-        "A Security",
-        "Opal Security"
-      ],
-      "top_stage": "Venture"
-    },
-    {
-      "theme": "Legal AI",
-      "count": 4,
-      "cap_m": 134,
-      "examples": [
-        "Luminance",
-        "Genie AI",
-        "Kuro",
-        "Sandstone"
-      ],
-      "top_stage": "Series A"
-    },
-    {
-      "theme": "HR & workforce",
-      "count": 3,
-      "cap_m": 151,
-      "examples": [
-        "Kompanion",
-        "Nesti",
-        "Factorial"
-      ],
-      "top_stage": "Seed"
-    },
-    {
       "theme": "Sales & GTM AI",
-      "count": 3,
+      "count": 4,
       "cap_m": 18,
       "examples": [
+        "ChatCash",
         "SimpL",
         "Scooter",
         "Avarra"
       ],
       "top_stage": "Pre Seed"
+    },
+    {
+      "theme": "Insurance / insurtech",
+      "count": 3,
+      "cap_m": 10,
+      "examples": [
+        "Polygrade",
+        "Insuraviews",
+        "TODAY"
+      ],
+      "top_stage": "Seed"
+    },
+    {
+      "theme": "Agent-native infra",
+      "count": 3,
+      "cap_m": 172,
+      "examples": [
+        "Myca",
+        "Straiker",
+        "Trase"
+      ],
+      "top_stage": "Pre Seed"
+    },
+    {
+      "theme": "Financial back-office & compliance AI",
+      "count": 3,
+      "cap_m": 20,
+      "examples": [
+        "Besso",
+        "Kontempo",
+        "nettle"
+      ],
+      "top_stage": "Seed"
     }
   ],
   "investor_signal": [
@@ -3420,7 +3418,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-18",
+    "since": "2026-09-19",
     "tw": [
       {
         "name": "Applied AI agents",
@@ -3428,24 +3426,19 @@
         "now": 10
       },
       {
-        "name": "Legal AI",
+        "name": "Sales & GTM AI",
         "delta": 3,
         "now": 4
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": 2,
-        "now": 4
-      },
-      {
-        "name": "Sales & GTM AI",
+        "name": "Insurance / insurtech",
         "delta": 2,
         "now": 3
       },
       {
-        "name": "Logistics & supply chain",
+        "name": "Agent-native infra",
         "delta": 1,
-        "now": 2
+        "now": 3
       },
       {
         "name": "Marketing & creative AI",
@@ -3458,9 +3451,9 @@
         "now": 2
       },
       {
-        "name": "Energy & climate",
-        "delta": 0,
-        "now": 10
+        "name": "Legal AI",
+        "delta": 1,
+        "now": 2
       },
       {
         "name": "Physical AI & robotics",
@@ -3468,19 +3461,24 @@
         "now": 8
       },
       {
+        "name": "Cybersecurity",
+        "delta": 0,
+        "now": 5
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 0,
+        "now": 3
+      },
+      {
+        "name": "Logistics & supply chain",
+        "delta": 0,
+        "now": 2
+      },
+      {
         "name": "AI compute & models",
         "delta": 0,
         "now": 2
-      },
-      {
-        "name": "Agent-native infra",
-        "delta": 0,
-        "now": 2
-      },
-      {
-        "name": "Insurance / insurtech",
-        "delta": 0,
-        "now": 1
       },
       {
         "name": "Defense & national security",
@@ -3488,14 +3486,14 @@
         "now": 1
       },
       {
+        "name": "Healthcare & bio AI",
+        "delta": -1,
+        "now": 19
+      },
+      {
         "name": "Crypto & digital assets",
         "delta": -1,
         "now": 9
-      },
-      {
-        "name": "Cybersecurity",
-        "delta": -1,
-        "now": 4
       },
       {
         "name": "HR & workforce",
@@ -3505,12 +3503,12 @@
       {
         "name": "Applied / horizontal AI",
         "delta": -2,
-        "now": 107
+        "now": 106
       },
       {
-        "name": "Healthcare & bio AI",
+        "name": "Energy & climate",
         "delta": -2,
-        "now": 19
+        "now": 9
       },
       {
         "name": "Fintech & payments",
