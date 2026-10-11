@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-10",
+  "generated": "2026-10-11",
   "window_days": 45,
   "counts": {
     "actionable": 5,
-    "watchlist": 13,
+    "watchlist": 16,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -312,6 +312,57 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Axya",
+      "desc": "Axya Secures $17M In Funding For AI - enabled Procurement In Mfg .",
+      "theme": "Precision Applications",
+      "vertical": "Procurement",
+      "stage": "Venture",
+      "amount_m": 17,
+      "investors": [],
+      "date": "2026-09-24",
+      "link": "https://www.canadianmanufacturing.com/manufacturing/axya-secures-17m-in-funding-for-ai-enabled-procurement-in-mfg-321702/",
+      "domain": "axya.co",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "GenHealth . ai",
+      "desc": "GenHealth . ai Raises $16 . 5 Million Series A to Build AI Agents That Run the Medical Back Office",
+      "theme": "Applied AI",
+      "vertical": "",
+      "stage": "Series A",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-09-08",
+      "link": "http://www.californiatelegraph.com/news/279294056/genhealthai-raises-165-million-series-a-to-build-ai-agents-that-run-the-medical-back-office",
+      "domain": "",
+      "tier": "watchlist",
+      "fit_reason": "Series A — track for the next round",
+      "source": "news",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "OmicsBank",
+      "desc": "OmicsBank Raises $2 . 25M to Expand Clinical Data Infrastructure Globally for Healthcare , Life Sciences , and Frontier AI Labs",
+      "theme": "Precision Applications",
+      "vertical": "Healthcare",
+      "stage": "Venture",
+      "amount_m": null,
+      "investors": [],
+      "date": "2026-08-25",
+      "link": "https://www.prnewswire.com/news-releases/omicsbank-raises-2-25m-to-expand-clinical-data-infrastructure-globally-for-healthcare-life-sciences-and-frontier-ai-labs-302859623.html",
+      "domain": "omicsbank.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }

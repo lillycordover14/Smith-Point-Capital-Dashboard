@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10",
+  "generated": "2026-10-11",
   "mode": "full",
   "count": 50,
   "companies": [
@@ -64,6 +64,21 @@
       "location": "Paris"
     },
     {
+      "name": "Melius",
+      "domain": "melius.com",
+      "desc": "Melius offers an AI-native operating system designed for creative professionals, enabling the generation of diverse media content such as images, videos, and audio through collaborative AI agents. The platform utilizes m",
+      "stage": "SERIES_A",
+      "last_amount": 20000000.0,
+      "total": 25000000.0,
+      "investors": [
+        "Anti Fund",
+        "Vine Ventures",
+        "CRV",
+        "Genius Ventures"
+      ],
+      "location": "New York, New York"
+    },
+    {
       "name": "Avarra",
       "domain": "avarra.ai",
       "desc": "Avarra offers an AI-driven sales training platform that utilizes role-playing simulations to enhance the onboarding process and accelerate the ramp-up time for sales representatives. The technology enables consistent coa",
@@ -92,21 +107,6 @@
         "Coughdrop Capital"
       ],
       "location": "Flatiron, NYC"
-    },
-    {
-      "name": "Melius",
-      "domain": "melius.com",
-      "desc": "Melius offers an AI-native operating system designed for creative professionals, enabling the generation of diverse media content such as images, videos, and audio through collaborative AI agents. The platform utilizes m",
-      "stage": "SERIES_A",
-      "last_amount": 20000000.0,
-      "total": 25000000.0,
-      "investors": [
-        "Anti Fund",
-        "Vine Ventures",
-        "CRV",
-        "Genius Ventures"
-      ],
-      "location": "New York, New York"
     },
     {
       "name": "Flai",
@@ -154,19 +154,19 @@
       "location": "San Francisco"
     },
     {
-      "name": "Vitalize",
-      "domain": "vitalize.tech",
-      "desc": "Vitalize provides a trauma-informed digital wellness platform for healthcare providers, featuring a cognitive behavioral therapy mobile app with evidence-based mindfulness and guided journaling modules, as well as anonym",
-      "stage": "SERIES_A",
-      "last_amount": 31000000.0,
-      "total": 69500000.0,
+      "name": "Vesta",
+      "domain": "vesta.com",
+      "desc": "Vesta offers an AI-native loan origination system that automates and streamlines mortgage operations, significantly reducing processing times and operational costs. The system utilizes AI agents to handle routine tasks a",
+      "stage": "SERIES_B",
+      "last_amount": 30000000.0,
+      "total": 84999994.0,
       "investors": [
-        "Anorak Ventures",
-        "Oak HC/FT",
-        "MemorialCare",
-        "Y Combinator"
+        "Andreessen Horowitz",
+        "Conversion Capital",
+        "Zigg Capital",
+        "Index Ventures"
       ],
-      "location": "San Francisco, California"
+      "location": "San Francisco , CA"
     },
     {
       "name": "Cleavr",
@@ -184,19 +184,19 @@
       "location": "Paris, Île-de-France"
     },
     {
-      "name": "Vesta",
-      "domain": "vesta.com",
-      "desc": "Vesta offers an AI-native loan origination system that automates and streamlines mortgage operations, significantly reducing processing times and operational costs. The system utilizes AI agents to handle routine tasks a",
-      "stage": "SERIES_B",
-      "last_amount": 30000000.0,
-      "total": 84999994.0,
+      "name": "Vitalize",
+      "domain": "vitalize.tech",
+      "desc": "Vitalize provides a trauma-informed digital wellness platform for healthcare providers, featuring a cognitive behavioral therapy mobile app with evidence-based mindfulness and guided journaling modules, as well as anonym",
+      "stage": "SERIES_A",
+      "last_amount": 31000000.0,
+      "total": 69500000.0,
       "investors": [
-        "Andreessen Horowitz",
-        "Conversion Capital",
-        "Zigg Capital",
-        "Index Ventures"
+        "Anorak Ventures",
+        "Oak HC/FT",
+        "MemorialCare",
+        "Y Combinator"
       ],
-      "location": "San Francisco , CA"
+      "location": "San Francisco, California"
     },
     {
       "name": "hexafarms",
@@ -229,6 +229,21 @@
       "location": "Hamburg"
     },
     {
+      "name": "Hone",
+      "domain": "hone.com",
+      "desc": "Hone develops an AI system that focuses on achieving specified outcomes rather than merely completing tasks, allowing organizations to reorganize workflows around advanced intelligence. The technology employs a declarati",
+      "stage": "SERIES_B",
+      "last_amount": 60000000.0,
+      "total": 60000000.0,
+      "investors": [
+        "Index Ventures",
+        "Definition",
+        "Hanabi Capital",
+        "The Benchmark Company, a subsidiary of StoneX Group Inc."
+      ],
+      "location": "San Francisco"
+    },
+    {
       "name": "Genie AI",
       "domain": "genieai.co",
       "desc": "GenieAI offers an AI-driven legal assistant designed to draft, review, and negotiate contracts and documents, leveraging Eidetic Intelligence to manage complex, multi-document deals while ensuring precision and complianc",
@@ -257,21 +272,6 @@
         "Mudita Venture Partners"
       ],
       "location": "7120 Minstral Way, Suite 210, Columbia, MD 21045, United States"
-    },
-    {
-      "name": "Hone",
-      "domain": "hone.com",
-      "desc": "Hone develops an AI system that focuses on achieving specified outcomes rather than merely completing tasks, allowing organizations to reorganize workflows around advanced intelligence. The technology employs a declarati",
-      "stage": "SERIES_B",
-      "last_amount": 60000000.0,
-      "total": 60000000.0,
-      "investors": [
-        "Index Ventures",
-        "Definition",
-        "Hanabi Capital",
-        "The Benchmark Company, a subsidiary of StoneX Group Inc."
-      ],
-      "location": "San Francisco"
     },
     {
       "name": "fore ai",
@@ -316,6 +316,20 @@
       "location": "Singapore, Central Region"
     },
     {
+      "name": "Polygrade",
+      "domain": "polygrade.com",
+      "desc": "Polygrade offers an AI-driven claims management platform specifically designed for the home warranty industry, automating the entire claims process from initial notice of loss to final payout through a multi-agent archit",
+      "stage": "SEED",
+      "last_amount": 6300000.0,
+      "total": 6300000.0,
+      "investors": [
+        "Nine Four Ventures",
+        "Construct Capital",
+        "American Family Ventures"
+      ],
+      "location": "Toronto, Ontario, Canada"
+    },
+    {
       "name": "PlannerPal",
       "domain": "plannerpal.co.uk",
       "desc": "PlannerPal is an AI-driven workflow solution designed for financial advisers, streamlining administrative tasks by integrating client meetings, documentation, CRM data, and reporting into a single platform. It automates ",
@@ -342,20 +356,6 @@
         "Bonfire Ventures"
       ],
       "location": "Toronto"
-    },
-    {
-      "name": "Polygrade",
-      "domain": "polygrade.com",
-      "desc": "Polygrade offers an AI-driven claims management platform specifically designed for the home warranty industry, automating the entire claims process from initial notice of loss to final payout through a multi-agent archit",
-      "stage": "SEED",
-      "last_amount": 6300000.0,
-      "total": 6300000.0,
-      "investors": [
-        "Nine Four Ventures",
-        "Construct Capital",
-        "American Family Ventures"
-      ],
-      "location": "Toronto, Ontario, Canada"
     },
     {
       "name": "Insuraviews",
@@ -401,6 +401,19 @@
       "location": "San Ramon, California"
     },
     {
+      "name": "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)",
+      "domain": "vates.tech",
+      "desc": "The main product is an open-source virtualization management stack that includes a production-grade hypervisor and a web-based management interface, designed to facilitate the management, backup, and automation of virtua",
+      "stage": "SERIES_A",
+      "last_amount": 33759841.0,
+      "total": 34000761.0,
+      "investors": [
+        "IRIS",
+        "Bpifrance"
+      ],
+      "location": "Grenoble, Auvergne-Rhône-Alpes"
+    },
+    {
       "name": "Farseer",
       "domain": "farseer.com",
       "desc": "Farseer offers an enterprise-grade financial planning and performance management platform that utilizes a proprietary in-memory calculation engine for real-time multidimensional financial modeling. The platform incorpora",
@@ -416,19 +429,6 @@
       "location": "Zagreb"
     },
     {
-      "name": "Vates Virtualization Management Stack (XCP-ng / Xen Orchestra)",
-      "domain": "vates.tech",
-      "desc": "The main product is an open-source virtualization management stack that includes a production-grade hypervisor and a web-based management interface, designed to facilitate the management, backup, and automation of virtua",
-      "stage": "SERIES_A",
-      "last_amount": 33759841.0,
-      "total": 34000761.0,
-      "investors": [
-        "IRIS",
-        "Bpifrance"
-      ],
-      "location": "Grenoble, Auvergne-Rhône-Alpes"
-    },
-    {
       "name": "Besso",
       "domain": "besso.com",
       "desc": "Besso offers an AI-powered platform designed to automate trade compliance by continuously analyzing global trade regulations, free trade agreements, and tariff schedules to optimize supply chain operations. The technolog",
@@ -437,6 +437,21 @@
       "total": 5917499.0,
       "investors": [],
       "location": "Bern"
+    },
+    {
+      "name": "Verso",
+      "domain": "askverso.ai",
+      "desc": "The main product is a qualitative research platform that leverages AI to conduct video interviews at scale, enabling real-time adaptation and capturing of emotional nuances. It synthesizes multimodal responses into actio",
+      "stage": "SEED",
+      "last_amount": 6000000.0,
+      "total": 6349000.0,
+      "investors": [
+        "SHARPSTONE",
+        "Kima Ventures",
+        "Angular Ventures",
+        "Hexa"
+      ],
+      "location": "Brussels, Belgium"
     },
     {
       "name": "Cofrai",
@@ -482,6 +497,19 @@
       "location": "Sunnyvale, CA"
     },
     {
+      "name": "SimpL",
+      "domain": "thesimplplatform.io",
+      "desc": "SimpL provides a platform that automates sales prospecting and outreach by leveraging AI to analyze hiring signals, delivering daily leads aligned with specific ideal customer profiles. The technology includes job postin",
+      "stage": "PRE_SEED",
+      "last_amount": 1350393.0,
+      "total": 1350393.0,
+      "investors": [
+        "The Techshop SGR",
+        "Vento"
+      ],
+      "location": "Milano"
+    },
+    {
       "name": "ASAAS",
       "domain": "asaas.com",
       "desc": "The main product is a comprehensive digital account designed for businesses, enabling them to manage various financial processes such as issuing invoices, processing payments through multiple channels (including bank sli",
@@ -495,20 +523,6 @@
         "Endeavor Catalyst"
       ],
       "location": "Joinville, Santa Catarina"
-    },
-    {
-      "name": "Wiremind",
-      "domain": "wiremind.io",
-      "desc": "Wiremind offers AI-powered solutions designed for optimizing revenue, distribution, and capacity across passenger transport, air cargo, and event management. Their technologies include advanced inventory management syste",
-      "stage": "",
-      "last_amount": 39386482.0,
-      "total": 39386482.0,
-      "investors": [
-        "Bpifrance",
-        "Seaya Andromeda",
-        "IronWave"
-      ],
-      "location": "Paris, Île-de-France"
     },
     {
       "name": "Mogul",
@@ -526,17 +540,18 @@
       "location": "Stockholm"
     },
     {
-      "name": "SimpL",
-      "domain": "thesimplplatform.io",
-      "desc": "SimpL provides a platform that automates sales prospecting and outreach by leveraging AI to analyze hiring signals, delivering daily leads aligned with specific ideal customer profiles. The technology includes job postin",
-      "stage": "PRE_SEED",
-      "last_amount": 1350393.0,
-      "total": 1350393.0,
+      "name": "Wiremind",
+      "domain": "wiremind.io",
+      "desc": "Wiremind offers AI-powered solutions designed for optimizing revenue, distribution, and capacity across passenger transport, air cargo, and event management. Their technologies include advanced inventory management syste",
+      "stage": "",
+      "last_amount": 39386482.0,
+      "total": 39386482.0,
       "investors": [
-        "The Techshop SGR",
-        "Vento"
+        "Bpifrance",
+        "Seaya Andromeda",
+        "IronWave"
       ],
-      "location": "Milano"
+      "location": "Paris, Île-de-France"
     },
     {
       "name": "Kontempo",
@@ -552,21 +567,6 @@
         "Rally Cap VC"
       ],
       "location": "Mexico City"
-    },
-    {
-      "name": "Verso",
-      "domain": "askverso.ai",
-      "desc": "The main product is a qualitative research platform that leverages AI to conduct video interviews at scale, enabling real-time adaptation and capturing of emotional nuances. It synthesizes multimodal responses into actio",
-      "stage": "SEED",
-      "last_amount": 6000000.0,
-      "total": 6349000.0,
-      "investors": [
-        "SHARPSTONE",
-        "Kima Ventures",
-        "Angular Ventures",
-        "Hexa"
-      ],
-      "location": "Brussels, Belgium"
     },
     {
       "name": "Netsec",
@@ -656,6 +656,19 @@
       "location": "2F, 35th Kowa Building Annex, 1-14-15 Akasaka, Minato-ku, Tokyo, 150-0031, Japan"
     },
     {
+      "name": "NeoFleet Capital",
+      "domain": "neofleet.com",
+      "desc": "Neofleet provides a software platform designed for fleet and driver management, enabling fleet owners to optimize operations and enhance performance through real-time data insights and streamlined workflows. The company ",
+      "stage": "PRE_SEED",
+      "last_amount": 4000000.0,
+      "total": 4000000.0,
+      "investors": [
+        "Data Mining Technologies",
+        "Mark Loughran"
+      ],
+      "location": "Limassol"
+    },
+    {
       "name": "Myca",
       "domain": "myca.ag",
       "desc": "Myca offers an AI-native operating system designed for agribusinesses, focusing on agentic AI to enhance field team management, market intelligence, and credit scoring. The technology integrates domain-specific AI agents",
@@ -695,19 +708,6 @@
         "At One Ventures"
       ],
       "location": "Leganés, Madrid"
-    },
-    {
-      "name": "NeoFleet Capital",
-      "domain": "neofleet.com",
-      "desc": "Neofleet provides a software platform designed for fleet and driver management, enabling fleet owners to optimize operations and enhance performance through real-time data insights and streamlined workflows. The company ",
-      "stage": "PRE_SEED",
-      "last_amount": 4000000.0,
-      "total": 4000000.0,
-      "investors": [
-        "Data Mining Technologies",
-        "Mark Loughran"
-      ],
-      "location": "Limassol"
     },
     {
       "name": "Innercrowd",
