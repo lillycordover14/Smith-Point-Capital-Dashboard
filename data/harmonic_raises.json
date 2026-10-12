@@ -1,8 +1,23 @@
 {
-  "generated": "2026-10-11",
+  "generated": "2026-10-12",
   "mode": "full",
   "count": 50,
   "companies": [
+    {
+      "name": "Ramp",
+      "domain": "ramp.com",
+      "desc": "Ramp offers an all-in-one financial operations platform that integrates corporate cards, expense management, bill payments, accounting automation, and procurement to streamline finance processes for businesses. The platf",
+      "stage": "SERIES_F",
+      "last_amount": 1850000000.0,
+      "total": 5520419780.0,
+      "investors": [
+        "Sutter Hill Ventures",
+        "Spark Capital",
+        "Conversion Capital",
+        "Alpha Wave Global"
+      ],
+      "location": "New York, New York"
+    },
     {
       "name": "Tasklet",
       "domain": "tasklet.ai",
@@ -169,19 +184,19 @@
       "location": "San Francisco , CA"
     },
     {
-      "name": "Cleavr",
-      "domain": "cleavr.fr",
-      "desc": "The main product is an automated accounts receivable solution that utilizes artificial intelligence to optimize the cash collection process, encompassing proactive outreach, payment processing, and dispute resolution. It",
+      "name": "Hone",
+      "domain": "hone.com",
+      "desc": "Hone develops an AI system that focuses on achieving specified outcomes rather than merely completing tasks, allowing organizations to reorganize workflows around advanced intelligence. The technology employs a declarati",
       "stage": "SEED",
-      "last_amount": 9002624.0,
-      "total": 10157559.0,
+      "last_amount": 60000000.0,
+      "total": 60000000.0,
       "investors": [
-        "Financière Saint James",
-        "Aonia Ventures",
-        "Kerala Ventures",
-        "Better Angle"
+        "Index Ventures",
+        "Definition",
+        "Lux Capital",
+        "SV Angel"
       ],
-      "location": "Paris, Île-de-France"
+      "location": "San Francisco"
     },
     {
       "name": "Vitalize",
@@ -199,6 +214,21 @@
       "location": "San Francisco, California"
     },
     {
+      "name": "Cleavr",
+      "domain": "cleavr.fr",
+      "desc": "The main product is an automated accounts receivable solution that utilizes artificial intelligence to optimize the cash collection process, encompassing proactive outreach, payment processing, and dispute resolution. It",
+      "stage": "SEED",
+      "last_amount": 9002624.0,
+      "total": 10157559.0,
+      "investors": [
+        "Financière Saint James",
+        "Aonia Ventures",
+        "Kerala Ventures",
+        "Better Angle"
+      ],
+      "location": "Paris, Île-de-France"
+    },
+    {
       "name": "hexafarms",
       "domain": "hexafarms.com",
       "desc": "The company offers AI-powered solutions for greenhouse optimization, focusing on yield forecasting, crop registration, and pest and disease detection, which are designed to enhance operational efficiency for commercial g",
@@ -214,6 +244,21 @@
       "location": "Berlin"
     },
     {
+      "name": "fore ai",
+      "domain": "foreai.co",
+      "desc": "The company offers an autonomous software testing solution that utilizes AI agents to generate, execute, and self-heal tests, ensuring continuous quality assurance across all stages of the testing process. Its multi-agen",
+      "stage": "SEED",
+      "last_amount": 7988758.0,
+      "total": 18588758.0,
+      "investors": [
+        "Mosaic Ventures",
+        "Agile Partners",
+        "Jürgen Galler",
+        "Angel Invest"
+      ],
+      "location": "Zurich"
+    },
+    {
       "name": "Procuros",
       "domain": "procuros.io",
       "desc": "Procuros offers a B2B integration platform designed to automate and streamline transactions between suppliers and trade partners, eliminating reliance on paper-based processes. The platform utilizes AI for automated orde",
@@ -227,21 +272,6 @@
         "SquareOne Venture Capital"
       ],
       "location": "Hamburg"
-    },
-    {
-      "name": "Hone",
-      "domain": "hone.com",
-      "desc": "Hone develops an AI system that focuses on achieving specified outcomes rather than merely completing tasks, allowing organizations to reorganize workflows around advanced intelligence. The technology employs a declarati",
-      "stage": "SERIES_B",
-      "last_amount": 60000000.0,
-      "total": 60000000.0,
-      "investors": [
-        "Index Ventures",
-        "Definition",
-        "Hanabi Capital",
-        "The Benchmark Company, a subsidiary of StoneX Group Inc."
-      ],
-      "location": "San Francisco"
     },
     {
       "name": "Genie AI",
@@ -274,19 +304,34 @@
       "location": "7120 Minstral Way, Suite 210, Columbia, MD 21045, United States"
     },
     {
-      "name": "fore ai",
-      "domain": "foreai.co",
-      "desc": "The company offers an autonomous software testing solution that utilizes AI agents to generate, execute, and self-heal tests, ensuring continuous quality assurance across all stages of the testing process. Its multi-agen",
+      "name": "Primitive Labs",
+      "domain": "primitivelabs.ai",
+      "desc": "Our mission is to make human behavior a first-class primitive of software development.",
       "stage": "SEED",
-      "last_amount": 7992470.0,
-      "total": 18592470.0,
+      "last_amount": 0,
+      "total": 785000.0,
       "investors": [
-        "Mosaic Ventures",
-        "Agile Partners",
-        "Jürgen Galler",
-        "Angel Invest"
+        "Andreessen Horowitz",
+        "Olive Tree Capital",
+        "Sony Innovation Fund",
+        "Josh Constine"
       ],
-      "location": "Zurich"
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "TestMu AI",
+      "domain": "testmuai.com",
+      "desc": "TestMu AI offers a comprehensive AI-driven quality engineering platform that utilizes autonomous AI agents to facilitate the planning, authoring, execution, and analysis of software testing across various environments, i",
+      "stage": "SERIES_D",
+      "last_amount": 45000000.0,
+      "total": 153400000.0,
+      "investors": [
+        "Entrée Capital",
+        "Premji Invest",
+        "Peak XV Partners",
+        "Kapil Tyagi"
+      ],
+      "location": "San Francisco, California"
     },
     {
       "name": "TextYess",
@@ -371,6 +416,16 @@
       "location": "Milwaukee, Wisconsin"
     },
     {
+      "name": "Besso",
+      "domain": "besso.com",
+      "desc": "Besso offers an AI-powered platform designed to automate trade compliance by continuously analyzing global trade regulations, free trade agreements, and tariff schedules to optimize supply chain operations. The technolog",
+      "stage": "SEED",
+      "last_amount": 4815947.0,
+      "total": 5917499.0,
+      "investors": [],
+      "location": "Bern"
+    },
+    {
       "name": "TODAY",
       "domain": "usetoday.io",
       "desc": "The main product is an AI-driven sales assistant designed for financial and insurance advisors, which automates advisory documentation and provides coaching insights to enhance consultation effectiveness. It integrates w",
@@ -427,16 +482,6 @@
         "SQ Capital"
       ],
       "location": "Zagreb"
-    },
-    {
-      "name": "Besso",
-      "domain": "besso.com",
-      "desc": "Besso offers an AI-powered platform designed to automate trade compliance by continuously analyzing global trade regulations, free trade agreements, and tariff schedules to optimize supply chain operations. The technolog",
-      "stage": "SEED",
-      "last_amount": 4818277.0,
-      "total": 5917499.0,
-      "investors": [],
-      "location": "Bern"
     },
     {
       "name": "Verso",
@@ -547,6 +592,7 @@
       "last_amount": 39386482.0,
       "total": 39386482.0,
       "investors": [
+        "Seaya",
         "Bpifrance",
         "Seaya Andromeda",
         "IronWave"
@@ -571,7 +617,7 @@
     {
       "name": "Netsec",
       "domain": "netsec.it",
-      "desc": "Netsec provides a comprehensive IT and cybersecurity solution that integrates device management, threat protection, and incident response within a single control plane, facilitating operations in platforms like Slack and",
+      "desc": "Netsec provides a unified IT and cybersecurity solution that integrates device management, threat protection, and incident response within existing communication platforms like Slack and Teams. The technology encompasses",
       "stage": "SEED",
       "last_amount": 10000000.0,
       "total": 10000000.0,
@@ -681,43 +727,6 @@
         "Kriscore Capital"
       ],
       "location": "Bangalore, Karnataka"
-    },
-    {
-      "name": "ChatCash",
-      "domain": "chatcash.co.zw",
-      "desc": "The main product is a conversational AI platform designed to automate business operations and enhance customer engagement through messaging applications like WhatsApp and Instagram. It utilizes AI workflows for sales man",
-      "stage": "PRE_SEED",
-      "last_amount": 40000.0,
-      "total": 50000.0,
-      "investors": [
-        "FINCA International",
-        "Microsoft for Startups",
-        "SMECZ",
-        "U.S. Africa Trade Commission"
-      ],
-      "location": "Kigali"
-    },
-    {
-      "name": "The REUSE Company",
-      "domain": "reusecompany.com",
-      "desc": "The company offers a suite of tools designed to enhance systems engineering through interoperability, quality management, and knowledge reuse, leveraging semantic technologies and artificial intelligence. Key technologie",
-      "stage": "SERIES_A",
-      "last_amount": 21000000.0,
-      "total": 21000000.0,
-      "investors": [
-        "At One Ventures"
-      ],
-      "location": "Leganés, Madrid"
-    },
-    {
-      "name": "Innercrowd",
-      "domain": "innercrowd.io",
-      "desc": "Innercrowd offers a fan engagement platform designed for live events, enabling organizers to connect with their audience through targeted marketing strategies and automated communication tools. The platform integrates cu",
-      "stage": "PRE_SEED",
-      "last_amount": 838747.0,
-      "total": 838747.0,
-      "investors": [],
-      "location": "The Hague, South Holland"
     }
   ]
 }

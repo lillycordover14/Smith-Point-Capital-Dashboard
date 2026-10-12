@@ -1,32 +1,50 @@
 {
-  "generated": "2026-10-11",
+  "generated": "2026-10-12",
   "count": 200,
   "summary": "",
   "kpis": {
     "strongest_theme": "Healthcare & bio AI",
     "total_raises": 200,
-    "early_raises": 85,
-    "total_cap_m": 12431,
-    "early_cap_m": 2575,
+    "early_raises": 86,
+    "total_cap_m": 14304,
+    "early_cap_m": 2614,
     "stage_counts": {
       "Pre-seed": 3,
-      "Seed": 31,
-      "Series A": 51,
-      "Series B": 20,
+      "Seed": 33,
+      "Series A": 50,
+      "Series B": 19,
       "Series C": 9,
-      "Series D": 2,
+      "Series D": 3,
       "Venture": 73
     }
   },
   "raises": [
     {
-      "company": "The REUSE Company",
-      "amount_m": 21,
-      "date": "2026-10-10",
-      "link": "https://reusecompany.com",
+      "company": "Ramp",
+      "amount_m": 1850,
+      "date": "2026-10-12",
+      "link": "https://ramp.com",
+      "investors": [],
+      "theme": "Fintech & payments",
+      "stage": "Series F"
+    },
+    {
+      "company": "TestMu AI",
+      "amount_m": 45,
+      "date": "2026-10-12",
+      "link": "https://testmuai.com",
+      "investors": [],
+      "theme": "Applied AI agents",
+      "stage": "Series D"
+    },
+    {
+      "company": "Primitive Labs",
+      "amount_m": null,
+      "date": "2026-10-12",
+      "link": "https://primitivelabs.ai",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Series A"
+      "stage": "Seed"
     },
     {
       "company": "Polygrade",
@@ -65,15 +83,6 @@
       "stage": "Pre Seed"
     },
     {
-      "company": "Innercrowd",
-      "amount_m": 1,
-      "date": "2026-10-10",
-      "link": "https://innercrowd.io",
-      "investors": [],
-      "theme": "Marketing & creative AI",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Azul",
       "amount_m": null,
       "date": "2026-10-10",
@@ -83,22 +92,13 @@
       "stage": "Venture Unknown"
     },
     {
-      "company": "ChatCash",
-      "amount_m": null,
-      "date": "2026-10-10",
-      "link": "https://chatcash.co.zw",
-      "investors": [],
-      "theme": "Sales & GTM AI",
-      "stage": "Pre Seed"
-    },
-    {
       "company": "Hone",
       "amount_m": 60,
       "date": "2026-10-09",
       "link": "https://hone.com",
       "investors": [],
       "theme": "Applied / horizontal AI",
-      "stage": "Series B"
+      "stage": "Seed"
     },
     {
       "company": "Vesta",
@@ -2200,7 +2200,7 @@
       "theme": "Applied / horizontal AI",
       "count": 106,
       "examples": [
-        "The REUSE Company",
+        "Primitive Labs",
         "NeoFleet Capital",
         "Hone",
         "GUDEA",
@@ -2222,14 +2222,14 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 10,
+      "count": 11,
       "examples": [
+        "TestMu AI",
         "Vesta",
         "fore ai",
         "Autentic AI",
         "Trmeric",
-        "Melius",
-        "TextYess"
+        "Melius"
       ]
     },
     {
@@ -2269,20 +2269,10 @@
       ]
     },
     {
-      "theme": "Cybersecurity",
-      "count": 5,
-      "examples": [
-        "Azul",
-        "Netsec",
-        "Twenty",
-        "A Security",
-        "Opal Security"
-      ]
-    },
-    {
       "theme": "Fintech & payments",
-      "count": 5,
+      "count": 6,
       "examples": [
+        "Ramp",
         "ASAAS",
         "Float",
         "Fomo",
@@ -2291,13 +2281,14 @@
       ]
     },
     {
-      "theme": "Sales & GTM AI",
-      "count": 4,
+      "theme": "Cybersecurity",
+      "count": 5,
       "examples": [
-        "ChatCash",
-        "SimpL",
-        "Scooter",
-        "Avarra"
+        "Azul",
+        "Netsec",
+        "Twenty",
+        "A Security",
+        "Opal Security"
       ]
     },
     {
@@ -2337,11 +2328,12 @@
       ]
     },
     {
-      "theme": "Marketing & creative AI",
-      "count": 2,
+      "theme": "Sales & GTM AI",
+      "count": 3,
       "examples": [
-        "Innercrowd",
-        "Reactiv"
+        "SimpL",
+        "Scooter",
+        "Avarra"
       ]
     },
     {
@@ -2385,6 +2377,13 @@
       ]
     },
     {
+      "theme": "Marketing & creative AI",
+      "count": 1,
+      "examples": [
+        "Reactiv"
+      ]
+    },
+    {
       "theme": "Defense & national security",
       "count": 1,
       "examples": [
@@ -2396,9 +2395,9 @@
     {
       "theme": "Applied / horizontal AI",
       "count": 106,
-      "cap_m": 6801,
+      "cap_m": 6780,
       "examples": [
-        "The REUSE Company",
+        "Primitive Labs",
         "NeoFleet Capital",
         "Hone",
         "GUDEA",
@@ -2423,15 +2422,15 @@
     },
     {
       "theme": "Applied AI agents",
-      "count": 10,
-      "cap_m": 191,
+      "count": 11,
+      "cap_m": 236,
       "examples": [
+        "TestMu AI",
         "Vesta",
         "fore ai",
         "Autentic AI",
         "Trmeric",
-        "Melius",
-        "TextYess"
+        "Melius"
       ],
       "top_stage": "Seed"
     },
@@ -2478,6 +2477,20 @@
       "top_stage": "Venture"
     },
     {
+      "theme": "Fintech & payments",
+      "count": 6,
+      "cap_m": 2150,
+      "examples": [
+        "Ramp",
+        "ASAAS",
+        "Float",
+        "Fomo",
+        "Crypto trading app Fomo",
+        "SyntheticFi"
+      ],
+      "top_stage": "Venture"
+    },
+    {
       "theme": "Cybersecurity",
       "count": 5,
       "cap_m": 170,
@@ -2489,31 +2502,6 @@
         "Opal Security"
       ],
       "top_stage": "Venture"
-    },
-    {
-      "theme": "Fintech & payments",
-      "count": 5,
-      "cap_m": 300,
-      "examples": [
-        "ASAAS",
-        "Float",
-        "Fomo",
-        "Crypto trading app Fomo",
-        "SyntheticFi"
-      ],
-      "top_stage": "Venture"
-    },
-    {
-      "theme": "Sales & GTM AI",
-      "count": 4,
-      "cap_m": 18,
-      "examples": [
-        "ChatCash",
-        "SimpL",
-        "Scooter",
-        "Avarra"
-      ],
-      "top_stage": "Pre Seed"
     },
     {
       "theme": "Insurance / insurtech",
@@ -2545,6 +2533,17 @@
         "Besso",
         "Kontempo",
         "nettle"
+      ],
+      "top_stage": "Seed"
+    },
+    {
+      "theme": "HR & workforce",
+      "count": 3,
+      "cap_m": 151,
+      "examples": [
+        "Kompanion",
+        "Nesti",
+        "Factorial"
       ],
       "top_stage": "Seed"
     }
@@ -2618,23 +2617,23 @@
           "theme": "Applied / horizontal AI"
         },
         {
-          "company": "Pillar",
-          "stage": "Seed",
-          "amount_m": 20,
-          "date": "2026-04-14",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGR5X1I5aEZLMzdfRWthX2c2UDN3NExyNzNDOVJkTVhBYVNPSXFyNnlwRWR2SUk5UlowUjFvaHI0YlBBZzRJYlh6Yl9wWGZ6TS1GeFNCelFVRWRTZExraVRPWlZHWlVYUTJhUlc5N2FsYm1wZzNkbmlodTEycm0zX0tTdVA1WlFTai1JVGJXYnoxcEsxbzZVZmsyREZlVWlieDZTTXJHcFU3cjVhdDAxNy1VRQ?oc=5",
-          "theme": "Financial back-office & compliance AI"
-        },
-        {
           "company": "Morpho",
           "stage": "Venture",
           "amount_m": 175,
           "date": "2026-07-03",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkN3R1p2OTFBY2U1Y0ZRR0hmSjZMT01Kb3ZkN3h3UEM0MjktUFFHb1JadkJOLUZ5a1dFMGFmMWRnYXo2eUpjdXlGRllvMXZEcWZaRDUwN2FZcnloRm9sRHdURXc3SVZUaElwakpBUVVkYmJYVmRpSnJiSU13X0RBRlFQRQ?oc=5",
           "theme": "Crypto & digital assets"
+        },
+        {
+          "company": "Probook",
+          "stage": "Venture",
+          "amount_m": 40,
+          "date": "2026-06-23",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUWM0akdEUTlUYW5SSU9VZmM3RFRtRThFZmxla3NMeEZpcTgtempwZ3A5X0lIa1p0WFRXTXJQM3Y3TGhOekMyT3h4aTZKQTRZb3VGaWZCaklXRGZJUlhUaFdpX1IwMFFtNEkydU1sdGVLNjhPOXZDZkFsLWgzVkdjeEVONjMyR2FxZk5OYkhaVkdfZDh5WXFlWWJiODVHM19wVVNER09kWmhuT2xFVVJ2LVJVcUFOZlNEVDQtT0FVMzdveG9pTXJYOXFwUFgwdF9vbVZpWHVZNUt0UWZXa3JUdV8xTF9JNDhx?oc=5",
+          "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 9
+      "early": 8
     },
     {
       "fund": "Accel",
@@ -3418,17 +3417,12 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-20",
+    "since": "2026-09-21",
     "tw": [
       {
         "name": "Applied AI agents",
-        "delta": 4,
-        "now": 10
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": 3,
-        "now": 4
+        "delta": 5,
+        "now": 11
       },
       {
         "name": "Insurance / insurtech",
@@ -3436,14 +3430,19 @@
         "now": 3
       },
       {
-        "name": "Agent-native infra",
-        "delta": 1,
+        "name": "Sales & GTM AI",
+        "delta": 2,
         "now": 3
       },
       {
-        "name": "Marketing & creative AI",
+        "name": "Physical AI & robotics",
         "delta": 1,
-        "now": 2
+        "now": 8
+      },
+      {
+        "name": "Agent-native infra",
+        "delta": 1,
+        "now": 3
       },
       {
         "name": "AI dev tooling",
@@ -3456,9 +3455,9 @@
         "now": 2
       },
       {
-        "name": "Physical AI & robotics",
+        "name": "Fintech & payments",
         "delta": 0,
-        "now": 8
+        "now": 6
       },
       {
         "name": "Cybersecurity",
@@ -3476,9 +3475,9 @@
         "now": 2
       },
       {
-        "name": "AI compute & models",
+        "name": "Marketing & creative AI",
         "delta": 0,
-        "now": 2
+        "now": 1
       },
       {
         "name": "Defense & national security",
@@ -3491,14 +3490,14 @@
         "now": 9
       },
       {
-        "name": "Fintech & payments",
-        "delta": -1,
-        "now": 5
-      },
-      {
         "name": "HR & workforce",
         "delta": -1,
         "now": 3
+      },
+      {
+        "name": "AI compute & models",
+        "delta": -1,
+        "now": 2
       },
       {
         "name": "Applied / horizontal AI",
