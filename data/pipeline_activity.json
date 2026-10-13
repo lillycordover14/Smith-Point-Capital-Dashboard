@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12",
+  "generated": "2026-10-13",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,41 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-10-13",
+          "category": "Blog",
+          "title": "Announcing new additions to the NetBox Infrastructure Intelligence Platform and partnerships with Nvidia and Grafana Labs, to Help You Scale AI Datacenter and Enterprise ",
+          "link": "https://netboxlabs.com/blog/netbox-evolve-2026-platform-announcements-nvidia-grafana/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-10-13",
+          "category": "Blog",
+          "title": "NVIDIA and NetBox Labs Partner to Accelerate AI Data Center Deployment and Operations",
+          "link": "https://netboxlabs.com/blog/nvidia-netbox-labs-ai-data-center-partnership/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-10-13",
+          "category": "Blog",
+          "title": "Public preview: NetBox Designs cuts the manual entry out of new builds",
+          "link": "https://netboxlabs.com/blog/public-preview-netbox-designs/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-10-13",
+          "category": "Blog",
+          "title": "Announcing our partnership with Grafana Labs to provide Enhanced Network and Datacenter Infrastructure Observability",
+          "link": "https://netboxlabs.com/blog/netbox-labs-grafana-partnership/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-10-13",
+          "category": "Blog",
+          "title": "Act on intent with your agents or ours: Platform MCP is now generally available",
+          "link": "https://netboxlabs.com/blog/platform-mcp-generally-available/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-10-08",
           "category": "Blog",
           "title": "Meet Fred Mercer: Turning Customer Challenges Into Working Demos",
@@ -122,13 +157,6 @@
       "conferences": [
         {
           "date": "",
-          "title": "ar news and subscribe here . Upcoming events Event NetBox Labs Partner Summit 2026 Oc",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
           "title": "ty Meetup Oct 20, 2026 | 11:00 AM ET | 15:00 UTC Event Cisco Connect Canada",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
@@ -143,7 +171,21 @@
         },
         {
           "date": "",
+          "title": "6 Event AutoCon 6 Nov 16, 2026 Recent events Event NetBox Labs Partner Summit 2026 Ev",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
           "title": "webinars. Browse dates, topics, and formats, and register to join live or on d",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "24\",\"width\":24,\"height\":24},\"link\":{\"title\":\"Join us at NetBox",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
