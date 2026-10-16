@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-16",
   "window_days": 45,
   "counts": {
     "actionable": 5,
-    "watchlist": 14,
+    "watchlist": 16,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -329,6 +329,40 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Axya",
+      "desc": "Axya Secures $17M In Funding For AI - enabled Procurement In Mfg .",
+      "theme": "Precision Applications",
+      "vertical": "Procurement",
+      "stage": "Venture",
+      "amount_m": 17,
+      "investors": [],
+      "date": "2026-09-24",
+      "link": "https://www.canadianmanufacturing.com/manufacturing/axya-secures-17m-in-funding-for-ai-enabled-procurement-in-mfg-321702/",
+      "domain": "axya.co",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Blee",
+      "desc": "Blee raises USD $27 million to scale compliance software",
+      "theme": "Precision Applications",
+      "vertical": "Compliance",
+      "stage": "Venture",
+      "amount_m": 27,
+      "investors": [],
+      "date": "2026-09-09",
+      "link": "https://itbrief.co.nz/story/blee-raises-usd-27-million-to-scale-compliance-software",
+      "domain": "bleedingcool.com",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15",
+  "generated": "2026-10-16",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3388,7 +3388,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-24",
+    "since": "2026-09-25",
     "tw": [
       {
         "name": "Physical AI & robotics",
@@ -3396,9 +3396,9 @@
         "now": 9
       },
       {
-        "name": "Fintech & payments",
+        "name": "Applied / horizontal AI",
         "delta": 2,
-        "now": 7
+        "now": 103
       },
       {
         "name": "Consumer & marketplace",
@@ -3406,29 +3406,24 @@
         "now": 2
       },
       {
-        "name": "Applied / horizontal AI",
+        "name": "Fintech & payments",
         "delta": 1,
-        "now": 103
+        "now": 7
       },
       {
-        "name": "Vertical SaaS",
+        "name": "Cybersecurity",
         "delta": 1,
-        "now": 4
+        "now": 6
       },
       {
-        "name": "HR & workforce",
+        "name": "Financial back-office & compliance AI",
+        "delta": 1,
+        "now": 5
+      },
+      {
+        "name": "Data infrastructure",
         "delta": 1,
         "now": 2
-      },
-      {
-        "name": "AI dev tooling",
-        "delta": 1,
-        "now": 2
-      },
-      {
-        "name": "Marketing & creative AI",
-        "delta": 1,
-        "now": 1
       },
       {
         "name": "Insurance / insurtech",
@@ -3436,19 +3431,14 @@
         "now": 1
       },
       {
-        "name": "Applied AI agents",
-        "delta": 0,
-        "now": 10
-      },
-      {
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
       },
       {
-        "name": "Cybersecurity",
+        "name": "Vertical SaaS",
         "delta": 0,
-        "now": 6
+        "now": 4
       },
       {
         "name": "AI compute & models",
@@ -3461,7 +3451,12 @@
         "now": 3
       },
       {
-        "name": "Data infrastructure",
+        "name": "HR & workforce",
+        "delta": 0,
+        "now": 2
+      },
+      {
+        "name": "AI dev tooling",
         "delta": 0,
         "now": 2
       },
@@ -3471,19 +3466,24 @@
         "now": 1
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": -1,
-        "now": 5
-      },
-      {
         "name": "Healthcare & bio AI",
-        "delta": -2,
+        "delta": -1,
         "now": 18
       },
       {
         "name": "Sales & GTM AI",
-        "delta": -2,
+        "delta": -1,
         "now": 2
+      },
+      {
+        "name": "Marketing & creative AI",
+        "delta": -1,
+        "now": 1
+      },
+      {
+        "name": "Applied AI agents",
+        "delta": -2,
+        "now": 10
       },
       {
         "name": "Legal AI",
@@ -3492,7 +3492,7 @@
       },
       {
         "name": "Energy & climate",
-        "delta": -4,
+        "delta": -3,
         "now": 9
       }
     ]
