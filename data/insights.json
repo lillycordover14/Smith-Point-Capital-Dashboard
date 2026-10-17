@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16",
+  "generated": "2026-10-17",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3388,7 +3388,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-25",
+    "since": "2026-09-26",
     "tw": [
       {
         "name": "Physical AI & robotics",
@@ -3396,19 +3396,14 @@
         "now": 9
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": 2,
-        "now": 103
-      },
-      {
         "name": "Consumer & marketplace",
         "delta": 2,
         "now": 2
       },
       {
-        "name": "Fintech & payments",
-        "delta": 1,
-        "now": 7
+        "name": "Data infrastructure",
+        "delta": 2,
+        "now": 2
       },
       {
         "name": "Cybersecurity",
@@ -3416,19 +3411,19 @@
         "now": 6
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 5
-      },
-      {
-        "name": "Data infrastructure",
-        "delta": 1,
-        "now": 2
-      },
-      {
         "name": "Insurance / insurtech",
         "delta": 1,
         "now": 1
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": 0,
+        "now": 103
+      },
+      {
+        "name": "Healthcare & bio AI",
+        "delta": 0,
+        "now": 18
       },
       {
         "name": "Crypto & digital assets",
@@ -3436,14 +3431,14 @@
         "now": 9
       },
       {
-        "name": "Vertical SaaS",
+        "name": "Fintech & payments",
         "delta": 0,
-        "now": 4
+        "now": 7
       },
       {
-        "name": "AI compute & models",
+        "name": "Financial back-office & compliance AI",
         "delta": 0,
-        "now": 3
+        "now": 5
       },
       {
         "name": "Agent-native infra",
@@ -3461,24 +3456,34 @@
         "now": 2
       },
       {
+        "name": "Marketing & creative AI",
+        "delta": 0,
+        "now": 1
+      },
+      {
         "name": "Defense & national security",
         "delta": 0,
         "now": 1
       },
       {
-        "name": "Healthcare & bio AI",
+        "name": "Energy & climate",
         "delta": -1,
-        "now": 18
+        "now": 9
+      },
+      {
+        "name": "Vertical SaaS",
+        "delta": -1,
+        "now": 4
+      },
+      {
+        "name": "AI compute & models",
+        "delta": -1,
+        "now": 3
       },
       {
         "name": "Sales & GTM AI",
         "delta": -1,
         "now": 2
-      },
-      {
-        "name": "Marketing & creative AI",
-        "delta": -1,
-        "now": 1
       },
       {
         "name": "Applied AI agents",
@@ -3489,11 +3494,6 @@
         "name": "Legal AI",
         "delta": -2,
         "now": 1
-      },
-      {
-        "name": "Energy & climate",
-        "delta": -3,
-        "now": 9
       }
     ]
   }
