@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-18",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2926,14 +2926,6 @@
           "date": "2026-06-16",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXZGcm5kTmZOSEZUQ213dWFOalIzaDV4bUlmSVM0bWhoeTZmb2RjdlhmMVEwTzBwcjR5Tl9md2N2b3NHSlc4THJpUWsxeU9QYkxUUFdzRkpacHp4VWZiX1ZqaDdyMkJYQ2lpaXFFci14Z2U1UGtrQmpPN05UZ3RqQk85dWJnekt6UUI0cmF4SHZOYWROZTVqTFhmNzdnbHlNUUt3c2lnZ0VpOUI5c0UwaHhSaw?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Rivan",
-          "stage": "Venture",
-          "amount_m": null,
-          "date": "2026-04-20",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13RkhZcDJJd2xtSVNMSmh6dTZFbTIwSlhuXzFTcTVPd0pHazdGZkhCN01jU1k4MGVpR3NzUzZacF9mc1p5RGRiY3dKRGt6SDhucVI5Vk1jM2drYUJhQWd5S0NQbmItQmJRWUN4Y1R4LTVVeE5IdWJGd2ZlYXpkT3c?oc=5",
-          "theme": "Applied / horizontal AI"
         }
       ],
       "early": 0
@@ -3388,7 +3380,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-26",
+    "since": "2026-09-27",
     "tw": [
       {
         "name": "Physical AI & robotics",
@@ -3431,14 +3423,14 @@
         "now": 9
       },
       {
-        "name": "Fintech & payments",
-        "delta": 0,
-        "now": 7
-      },
-      {
         "name": "Financial back-office & compliance AI",
         "delta": 0,
         "now": 5
+      },
+      {
+        "name": "Vertical SaaS",
+        "delta": 0,
+        "now": 4
       },
       {
         "name": "Agent-native infra",
@@ -3471,9 +3463,9 @@
         "now": 9
       },
       {
-        "name": "Vertical SaaS",
+        "name": "Fintech & payments",
         "delta": -1,
-        "now": 4
+        "now": 7
       },
       {
         "name": "AI compute & models",
