@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18",
+  "generated": "2026-10-19",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3380,7 +3380,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-27",
+    "since": "2026-09-28",
     "tw": [
       {
         "name": "Physical AI & robotics",
@@ -3398,6 +3398,11 @@
         "now": 2
       },
       {
+        "name": "Fintech & payments",
+        "delta": 1,
+        "now": 7
+      },
+      {
         "name": "Cybersecurity",
         "delta": 1,
         "now": 6
@@ -3406,11 +3411,6 @@
         "name": "Insurance / insurtech",
         "delta": 1,
         "now": 1
-      },
-      {
-        "name": "Applied / horizontal AI",
-        "delta": 0,
-        "now": 103
       },
       {
         "name": "Healthcare & bio AI",
@@ -3463,11 +3463,6 @@
         "now": 9
       },
       {
-        "name": "Fintech & payments",
-        "delta": -1,
-        "now": 7
-      },
-      {
         "name": "AI compute & models",
         "delta": -1,
         "now": 3
@@ -3476,6 +3471,11 @@
         "name": "Sales & GTM AI",
         "delta": -1,
         "now": 2
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": -2,
+        "now": 103
       },
       {
         "name": "Applied AI agents",
