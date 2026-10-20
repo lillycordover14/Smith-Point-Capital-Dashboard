@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19",
+  "generated": "2026-10-20",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3380,13 +3380,8 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-28",
+    "since": "2026-09-29",
     "tw": [
-      {
-        "name": "Physical AI & robotics",
-        "delta": 3,
-        "now": 9
-      },
       {
         "name": "Consumer & marketplace",
         "delta": 2,
@@ -3398,9 +3393,14 @@
         "now": 2
       },
       {
-        "name": "Fintech & payments",
+        "name": "Healthcare & bio AI",
         "delta": 1,
-        "now": 7
+        "now": 18
+      },
+      {
+        "name": "Physical AI & robotics",
+        "delta": 1,
+        "now": 9
       },
       {
         "name": "Cybersecurity",
@@ -3408,19 +3408,34 @@
         "now": 6
       },
       {
+        "name": "Marketing & creative AI",
+        "delta": 1,
+        "now": 1
+      },
+      {
         "name": "Insurance / insurtech",
         "delta": 1,
         "now": 1
       },
       {
-        "name": "Healthcare & bio AI",
+        "name": "Applied AI agents",
         "delta": 0,
-        "now": 18
+        "now": 10
       },
       {
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
+      },
+      {
+        "name": "Energy & climate",
+        "delta": 0,
+        "now": 9
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": 0,
+        "now": 7
       },
       {
         "name": "Financial back-office & compliance AI",
@@ -3433,7 +3448,7 @@
         "now": 4
       },
       {
-        "name": "Agent-native infra",
+        "name": "AI compute & models",
         "delta": 0,
         "now": 3
       },
@@ -3448,22 +3463,12 @@
         "now": 2
       },
       {
-        "name": "Marketing & creative AI",
-        "delta": 0,
-        "now": 1
-      },
-      {
         "name": "Defense & national security",
         "delta": 0,
         "now": 1
       },
       {
-        "name": "Energy & climate",
-        "delta": -1,
-        "now": 9
-      },
-      {
-        "name": "AI compute & models",
+        "name": "Agent-native infra",
         "delta": -1,
         "now": 3
       },
@@ -3478,13 +3483,8 @@
         "now": 103
       },
       {
-        "name": "Applied AI agents",
-        "delta": -2,
-        "now": 10
-      },
-      {
         "name": "Legal AI",
-        "delta": -2,
+        "delta": -3,
         "now": 1
       }
     ]
