@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-21",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3258,14 +3258,6 @@
           "date": "2026-04-27",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNC1Ib3c5VWV3eEtEVlVuZzNULW1VeWNyaEhHQTJQUHFqdmxwTjFXYVJCdS1iZ3c2em5wdHNQRWt2Ql9IbWY4RVZFVHhoTEpPdHlUNk1XQ2l2NENDUVdXQTRVM3Ytb3MxN1F1ckU4WVhzZ2gzQTFRMWRaZmRVUTJ4ZUdpUUIzcDM3a2VWSGxQX0U2NkhmQUczVFQ0bFhxbmhMa2ZLUEdfNHBNcHFO?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Cloudsmith",
-          "stage": "Series C",
-          "amount_m": 72,
-          "date": "2026-04-23",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdUEwUF9TWHhadlVZdHRZVlBCUlJ1VEFkMjNSRFBmaGlJMFhRT0phMTI0d0NuTHZrNkJjYU5WXzRTYlhUVE1Td3BJYy1fMllHcmtvVU03SEFibzZQaU5UMjFiWTRwSU5TczBLVG5PQUxDYkFlSF9NNFRtX20taW1yM3BXWWpQZnhaRmp2YnlZd1lHUWRYUFIyYkJkV3lVNUp4QWR0c2c3ZDdZNXptS1IybVJhMlhuclJkYUQ0X3pRSFpyUGtqV1llQUJ1dndmOU5UdVpTd1JLd3dFWEl4dnRDcTg0azZHdlJTRWxLallQNVFNb3BYbmlPSk9CaWtFZTQ3WElIc3ZDTTBEUkJaY0J2S3gyQk9rSElrdS1zUjJNZ3RMUXQ4b2dhQw?oc=5",
-          "theme": "Logistics & supply chain"
         }
       ],
       "early": 1
@@ -3380,8 +3372,13 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-29",
+    "since": "2026-09-30",
     "tw": [
+      {
+        "name": "Cybersecurity",
+        "delta": 2,
+        "now": 6
+      },
       {
         "name": "Consumer & marketplace",
         "delta": 2,
@@ -3398,19 +3395,14 @@
         "now": 18
       },
       {
-        "name": "Physical AI & robotics",
+        "name": "Vertical SaaS",
         "delta": 1,
-        "now": 9
+        "now": 4
       },
       {
-        "name": "Cybersecurity",
+        "name": "Sales & GTM AI",
         "delta": 1,
-        "now": 6
-      },
-      {
-        "name": "Marketing & creative AI",
-        "delta": 1,
-        "now": 1
+        "now": 2
       },
       {
         "name": "Insurance / insurtech",
@@ -3418,9 +3410,9 @@
         "now": 1
       },
       {
-        "name": "Applied AI agents",
+        "name": "Physical AI & robotics",
         "delta": 0,
-        "now": 10
+        "now": 9
       },
       {
         "name": "Crypto & digital assets",
@@ -3438,24 +3430,9 @@
         "now": 7
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": 0,
-        "now": 5
-      },
-      {
-        "name": "Vertical SaaS",
-        "delta": 0,
-        "now": 4
-      },
-      {
         "name": "AI compute & models",
         "delta": 0,
         "now": 3
-      },
-      {
-        "name": "HR & workforce",
-        "delta": 0,
-        "now": 2
       },
       {
         "name": "AI dev tooling",
@@ -3463,9 +3440,24 @@
         "now": 2
       },
       {
+        "name": "Marketing & creative AI",
+        "delta": 0,
+        "now": 1
+      },
+      {
         "name": "Defense & national security",
         "delta": 0,
         "now": 1
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": -1,
+        "now": 103
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": -1,
+        "now": 5
       },
       {
         "name": "Agent-native infra",
@@ -3473,18 +3465,18 @@
         "now": 3
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "HR & workforce",
         "delta": -1,
         "now": 2
       },
       {
-        "name": "Applied / horizontal AI",
+        "name": "Applied AI agents",
         "delta": -2,
-        "now": 103
+        "now": 10
       },
       {
         "name": "Legal AI",
-        "delta": -3,
+        "delta": -2,
         "now": 1
       }
     ]
