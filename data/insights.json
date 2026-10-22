@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21",
+  "generated": "2026-10-22",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3372,7 +3372,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-09-30",
+    "since": "2026-10-01",
     "tw": [
       {
         "name": "Cybersecurity",
@@ -3380,7 +3380,12 @@
         "now": 6
       },
       {
-        "name": "Consumer & marketplace",
+        "name": "Financial back-office & compliance AI",
+        "delta": 2,
+        "now": 5
+      },
+      {
+        "name": "Sales & GTM AI",
         "delta": 2,
         "now": 2
       },
@@ -3400,7 +3405,12 @@
         "now": 4
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "Agent-native infra",
+        "delta": 1,
+        "now": 3
+      },
+      {
+        "name": "Consumer & marketplace",
         "delta": 1,
         "now": 2
       },
@@ -3410,9 +3420,9 @@
         "now": 1
       },
       {
-        "name": "Physical AI & robotics",
+        "name": "Applied AI agents",
         "delta": 0,
-        "now": 9
+        "now": 10
       },
       {
         "name": "Crypto & digital assets",
@@ -3450,34 +3460,24 @@
         "now": 1
       },
       {
-        "name": "Applied / horizontal AI",
+        "name": "Legal AI",
         "delta": -1,
-        "now": 103
+        "now": 1
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": -1,
-        "now": 5
-      },
-      {
-        "name": "Agent-native infra",
-        "delta": -1,
-        "now": 3
+        "name": "Physical AI & robotics",
+        "delta": -2,
+        "now": 9
       },
       {
         "name": "HR & workforce",
-        "delta": -1,
+        "delta": -2,
         "now": 2
       },
       {
-        "name": "Applied AI agents",
-        "delta": -2,
-        "now": 10
-      },
-      {
-        "name": "Legal AI",
-        "delta": -2,
-        "now": 1
+        "name": "Applied / horizontal AI",
+        "delta": -4,
+        "now": 103
       }
     ]
   }

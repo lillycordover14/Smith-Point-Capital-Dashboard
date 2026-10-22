@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-21",
+  "generated": "2026-10-22",
   "window_days": 45,
   "counts": {
     "actionable": 5,
-    "watchlist": 14,
+    "watchlist": 15,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -329,6 +329,23 @@
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
+      "connections": [],
+      "connection_status": "no connection surfaced — good to flag"
+    },
+    {
+      "company": "Axya",
+      "desc": "Axya Secures $17M In Funding For AI - enabled Procurement In Mfg .",
+      "theme": "Precision Applications",
+      "vertical": "Procurement",
+      "stage": "Venture",
+      "amount_m": 17,
+      "investors": [],
+      "date": "2026-09-24",
+      "link": "https://www.canadianmanufacturing.com/manufacturing/axya-secures-17m-in-funding-for-ai-enabled-procurement-in-mfg-321702/",
+      "domain": "axya.co",
+      "tier": "watchlist",
+      "fit_reason": "stage unconfirmed — track",
+      "source": "news",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
     }
