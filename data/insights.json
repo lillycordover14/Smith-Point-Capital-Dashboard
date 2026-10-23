@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22",
+  "generated": "2026-10-23",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3372,22 +3372,17 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-01",
+    "since": "2026-10-02",
     "tw": [
       {
         "name": "Cybersecurity",
-        "delta": 2,
+        "delta": 3,
         "now": 6
       },
       {
-        "name": "Financial back-office & compliance AI",
+        "name": "Vertical SaaS",
         "delta": 2,
-        "now": 5
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": 2,
-        "now": 2
+        "now": 4
       },
       {
         "name": "Data infrastructure",
@@ -3395,17 +3390,22 @@
         "now": 2
       },
       {
-        "name": "Healthcare & bio AI",
+        "name": "Applied AI agents",
         "delta": 1,
-        "now": 18
+        "now": 10
       },
       {
-        "name": "Vertical SaaS",
+        "name": "Fintech & payments",
         "delta": 1,
-        "now": 4
+        "now": 7
       },
       {
-        "name": "Agent-native infra",
+        "name": "Financial back-office & compliance AI",
+        "delta": 1,
+        "now": 5
+      },
+      {
+        "name": "AI compute & models",
         "delta": 1,
         "now": 3
       },
@@ -3420,9 +3420,9 @@
         "now": 1
       },
       {
-        "name": "Applied AI agents",
+        "name": "Healthcare & bio AI",
         "delta": 0,
-        "now": 10
+        "now": 18
       },
       {
         "name": "Crypto & digital assets",
@@ -3435,14 +3435,14 @@
         "now": 9
       },
       {
-        "name": "Fintech & payments",
-        "delta": 0,
-        "now": 7
-      },
-      {
-        "name": "AI compute & models",
+        "name": "Agent-native infra",
         "delta": 0,
         "now": 3
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": 0,
+        "now": 2
       },
       {
         "name": "AI dev tooling",
@@ -3460,9 +3460,9 @@
         "now": 1
       },
       {
-        "name": "Legal AI",
+        "name": "HR & workforce",
         "delta": -1,
-        "now": 1
+        "now": 2
       },
       {
         "name": "Physical AI & robotics",
@@ -3470,13 +3470,13 @@
         "now": 9
       },
       {
-        "name": "HR & workforce",
+        "name": "Legal AI",
         "delta": -2,
-        "now": 2
+        "now": 1
       },
       {
         "name": "Applied / horizontal AI",
-        "delta": -4,
+        "delta": -5,
         "now": 103
       }
     ]
