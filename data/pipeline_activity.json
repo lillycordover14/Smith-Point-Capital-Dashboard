@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23",
+  "generated": "2026-10-24",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-10-23",
+          "category": "Blog",
+          "title": "Security update: PHP2Shell, eMudhra certificates and Node2Shell",
+          "link": "https://netboxlabs.com/blog/security-update/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-10-22",
           "category": "Blog",
           "title": "Meet Kimmie Nguyen: Building What’s Next at NetBox Labs",
@@ -144,13 +151,6 @@
           "category": "Blog",
           "title": "Built for Hyperscale: The System of Record for the AI Datacenter",
           "link": "https://netboxlabs.com/blog/built-for-hyperscale-the-system-of-record-for-the-ai-datacenter/",
-          "source": "Blog"
-        },
-        {
-          "date": "2026-09-10",
-          "category": "Blog",
-          "title": "NetBox Assurance Adds Fleet Management and a New Way to Clear Drift",
-          "link": "https://netboxlabs.com/blog/netbox-assurance-adds-fleet-management-and-a-new-way-to-clear-drift/",
           "source": "Blog"
         }
       ],
