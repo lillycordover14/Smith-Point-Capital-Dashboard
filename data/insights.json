@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24",
+  "generated": "2026-10-25",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3242,22 +3242,6 @@
           "date": "2026-06-18",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkFiZFRUcXk5blR3Vm5VMXd6aGtwQTU2aXZRTnpnVHBjV3U3OW1rQUlRMFpuQUdQQWkzU1pmVXZqSTk4bk5aVFZqMDJFUUtOUGJfZDdjcXk4c3FnUlUtRF9Bc1QzeGk3aEhySm9VV0phcHBKQ3B3RjVzN2xUNC1ZYQ?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Instabug Egypt",
-          "stage": "Series B",
-          "amount_m": 46,
-          "date": "2026-04-27",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBPMHFlWUFTOHRJc1FIejgyTzctMEpwRUdwWVNhNF96WWhKNmhuZVBrdzdQNk9yMDJFOFRJWjk4bw?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Global Insight",
-          "stage": "Venture",
-          "amount_m": null,
-          "date": "2026-04-27",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNC1Ib3c5VWV3eEtEVlVuZzNULW1VeWNyaEhHQTJQUHFqdmxwTjFXYVJCdS1iZ3c2em5wdHNQRWt2Ql9IbWY4RVZFVHhoTEpPdHlUNk1XQ2l2NENDUVdXQTRVM3Ytb3MxN1F1ckU4WVhzZ2gzQTFRMWRaZmRVUTJ4ZUdpUUIzcDM3a2VWSGxQX0U2NkhmQUczVFQ0bFhxbmhMa2ZLUEdfNHBNcHFO?oc=5",
-          "theme": "Applied / horizontal AI"
         }
       ],
       "early": 1
@@ -3372,7 +3356,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-03",
+    "since": "2026-10-04",
     "tw": [
       {
         "name": "Cybersecurity",
@@ -3383,6 +3367,11 @@
         "name": "Applied AI agents",
         "delta": 2,
         "now": 10
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 2,
+        "now": 5
       },
       {
         "name": "Vertical SaaS",
@@ -3400,16 +3389,6 @@
         "now": 7
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 5
-      },
-      {
-        "name": "AI compute & models",
-        "delta": 1,
-        "now": 3
-      },
-      {
         "name": "Sales & GTM AI",
         "delta": 1,
         "now": 2
@@ -3425,14 +3404,14 @@
         "now": 1
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": 0,
-        "now": 18
-      },
-      {
         "name": "Crypto & digital assets",
         "delta": 0,
         "now": 9
+      },
+      {
+        "name": "AI compute & models",
+        "delta": 0,
+        "now": 3
       },
       {
         "name": "Agent-native infra",
@@ -3445,14 +3424,14 @@
         "now": 2
       },
       {
-        "name": "Marketing & creative AI",
+        "name": "Defense & national security",
         "delta": 0,
         "now": 1
       },
       {
-        "name": "Defense & national security",
-        "delta": 0,
-        "now": 1
+        "name": "Healthcare & bio AI",
+        "delta": -1,
+        "now": 18
       },
       {
         "name": "Energy & climate",
@@ -3460,14 +3439,19 @@
         "now": 9
       },
       {
+        "name": "HR & workforce",
+        "delta": -1,
+        "now": 2
+      },
+      {
+        "name": "Marketing & creative AI",
+        "delta": -1,
+        "now": 1
+      },
+      {
         "name": "Physical AI & robotics",
         "delta": -2,
         "now": 9
-      },
-      {
-        "name": "HR & workforce",
-        "delta": -2,
-        "now": 2
       },
       {
         "name": "Legal AI",
