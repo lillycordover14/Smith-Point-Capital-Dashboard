@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26",
+  "generated": "2026-10-27",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2864,14 +2864,6 @@
           "date": "2026-04-30",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU43dUU5Q21XZTNsYk14UFJqNXh5Nk90SzBxWDFXM3ZQSFkwYl9XczJfRG81akRUTUdaRzlHQVpoeW9iekRUNGpWczBCZ1M5NUlCZF9CU2JXUTRNbFM0Um9FNDNnc3paYlpQSlFyQUxOU3FNajdBWDVDclhyUnlWOV8ybTQyaXZ1WDlhNVI3ZGFRN3JCVmIwTUJpUlc1VG5FOTRlUnNwOWl1OHFHR2hnMzdB0gG3AUFVX3lxTE0tMkY3SmRSRHcwNGRDdEdQTFBOYTFTSGp2NjR2aTZTbHE1UlV1dXczbVN5UDdKdmVObkdqQjY0TmlZN0RHSkxrdG00NXFWWWFQcE82ckpFM1NGR095TmJXQ0lzMXlESVVBTUtiR0Fmb3piZXhZMHZUcFVjY25fSDNzTGZRdWlvcDkwZlR3X3E0Q2pqNk1nelp6TEdGVVlxWmJ2c1hPWXNUS3EyLVhCQ2VhUzByZ0kzMA?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Parallel Web Systems",
-          "stage": "Venture",
-          "amount_m": 100,
-          "date": "2026-04-29",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWU0T0RkZUVsNTFMWF8yTWhneDRHYnJYbk9iSnp3RlNlZ3pTeUFEM3hfUnVNQUlhWU14RlVRWGNWTndGVGQ4X1ZkdS1uYmZ6c2J6RXhDZUVOTFc3MGZsdF9DbEo0YnVua3NnLW1DU0EzQUIzZ1k5YjEwSmM2aVJDNTgwMG1uTDRlTk5r?oc=5",
-          "theme": "Applied AI agents"
         }
       ],
       "early": 0
@@ -3212,14 +3204,6 @@
           "date": "2026-05-13",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFlmMEFzR0I5ZkJ4RGs5M3JFQXVPNDI1V3oxRHE2aGlxM2g2VzB5MzBvUnB0clBpc2drYTdCZV9yUHp0UnREUmJXdFFEX3hkb0h6V25IdjRnOVF0c1RTNGNIb3V0N244M0psWllrdkQ3VzVJUmdIM045Q1paMDNrZE1TeDZTcEJMemxXV0dwT2dTVFF2dnpNSDRqc2FMalJrNmxaZEFoSXZkWUwyRXdWXy1LendZcDJUd0Z5ZXBWTnBIcUk1anc?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Menlo Park reluctantly",
-          "stage": "Venture",
-          "amount_m": null,
-          "date": "2026-04-29",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWJFREtWUXlwU3BGeVpCdFZXcUhISFFVQ0tVR2Y4TGMzZDhwSXE4dTkyRHMyMHFYSUNVUU9lLWtpMXc4My1JMmxpamdLQ3lhbUxZcllBMkJEV1h4SHJMUjJWVU1NVFZxaHdtQlpWR1dLS19xVlpxY0RkN0FVV3Q0Rm05VGVTYlRJeldXc09tTVNMQWtRLTRPOHFSZkwzaFdfeWZ5T1ZhdE1iajh6RkdXVWdjRmZfN2c?oc=5",
-          "theme": "Applied / horizontal AI"
         }
       ],
       "early": 1
@@ -3356,7 +3340,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-04",
+    "since": "2026-10-06",
     "tw": [
       {
         "name": "Cybersecurity",
@@ -3364,14 +3348,9 @@
         "now": 6
       },
       {
-        "name": "Applied AI agents",
+        "name": "Fintech & payments",
         "delta": 2,
-        "now": 10
-      },
-      {
-        "name": "Financial back-office & compliance AI",
-        "delta": 2,
-        "now": 5
+        "now": 7
       },
       {
         "name": "Vertical SaaS",
@@ -3379,14 +3358,29 @@
         "now": 4
       },
       {
+        "name": "Consumer & marketplace",
+        "delta": 2,
+        "now": 2
+      },
+      {
         "name": "Data infrastructure",
         "delta": 2,
         "now": 2
       },
       {
-        "name": "Fintech & payments",
+        "name": "Applied AI agents",
         "delta": 1,
-        "now": 7
+        "now": 10
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 1,
+        "now": 5
+      },
+      {
+        "name": "AI compute & models",
+        "delta": 1,
+        "now": 3
       },
       {
         "name": "Sales & GTM AI",
@@ -3394,14 +3388,9 @@
         "now": 2
       },
       {
-        "name": "Consumer & marketplace",
+        "name": "AI dev tooling",
         "delta": 1,
         "now": 2
-      },
-      {
-        "name": "Insurance / insurtech",
-        "delta": 1,
-        "now": 1
       },
       {
         "name": "Crypto & digital assets",
@@ -3409,19 +3398,19 @@
         "now": 9
       },
       {
-        "name": "AI compute & models",
-        "delta": 0,
-        "now": 3
-      },
-      {
         "name": "Agent-native infra",
         "delta": 0,
         "now": 3
       },
       {
-        "name": "AI dev tooling",
+        "name": "HR & workforce",
         "delta": 0,
         "now": 2
+      },
+      {
+        "name": "Insurance / insurtech",
+        "delta": 0,
+        "now": 1
       },
       {
         "name": "Defense & national security",
@@ -3429,9 +3418,9 @@
         "now": 1
       },
       {
-        "name": "Healthcare & bio AI",
+        "name": "Physical AI & robotics",
         "delta": -1,
-        "now": 18
+        "now": 9
       },
       {
         "name": "Energy & climate",
@@ -3439,29 +3428,24 @@
         "now": 9
       },
       {
-        "name": "HR & workforce",
-        "delta": -1,
-        "now": 2
-      },
-      {
         "name": "Marketing & creative AI",
         "delta": -1,
         "now": 1
       },
       {
-        "name": "Physical AI & robotics",
+        "name": "Healthcare & bio AI",
         "delta": -2,
-        "now": 9
-      },
-      {
-        "name": "Legal AI",
-        "delta": -3,
-        "now": 1
+        "now": 18
       },
       {
         "name": "Applied / horizontal AI",
         "delta": -5,
         "now": 103
+      },
+      {
+        "name": "Legal AI",
+        "delta": -5,
+        "now": 1
       }
     ]
   }
