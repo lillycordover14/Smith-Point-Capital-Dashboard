@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27",
+  "generated": "2026-10-28",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2856,14 +2856,6 @@
           "date": "2026-05-05",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3JhaUd3UmtpZ3QtTDRLb1ZaUFIxQm5IVjNjbHR5YWZmZEhUZlFSaTJhUGpRaGlYUmlKWXlkWklGSnhiNVhiUW95VG12YVNqdy01SmVIR0hyci1uTzdXN0tyeUlVYi12QktOOU9nOTZxaW9XMXJlMVJaT1ZQS3ktZFV1eDhGT3hEVHdWS0dvX3Y2TmJWU2VuaEtVend2Z2xHU0Z4UGg2cFhsb2UwQ3lNRkdITzJSZkk?oc=5",
           "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Standard Intelligence",
-          "stage": "Venture",
-          "amount_m": 75,
-          "date": "2026-04-30",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU43dUU5Q21XZTNsYk14UFJqNXh5Nk90SzBxWDFXM3ZQSFkwYl9XczJfRG81akRUTUdaRzlHQVpoeW9iekRUNGpWczBCZ1M5NUlCZF9CU2JXUTRNbFM0Um9FNDNnc3paYlpQSlFyQUxOU3FNajdBWDVDclhyUnlWOV8ybTQyaXZ1WDlhNVI3ZGFRN3JCVmIwTUJpUlc1VG5FOTRlUnNwOWl1OHFHR2hnMzdB0gG3AUFVX3lxTE0tMkY3SmRSRHcwNGRDdEdQTFBOYTFTSGp2NjR2aTZTbHE1UlV1dXczbVN5UDdKdmVObkdqQjY0TmlZN0RHSkxrdG00NXFWWWFQcE82ckpFM1NGR095TmJXQ0lzMXlESVVBTUtiR0Fmb3piZXhZMHZUcFVjY25fSDNzTGZRdWlvcDkwZlR3X3E0Q2pqNk1nelp6TEdGVVlxWmJ2c1hPWXNUS3EyLVhCQ2VhUzByZ0kzMA?oc=5",
-          "theme": "Applied / horizontal AI"
         }
       ],
       "early": 0
@@ -3340,7 +3332,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-06",
+    "since": "2026-10-07",
     "tw": [
       {
         "name": "Cybersecurity",
@@ -3348,9 +3340,19 @@
         "now": 6
       },
       {
+        "name": "Applied AI agents",
+        "delta": 2,
+        "now": 10
+      },
+      {
         "name": "Fintech & payments",
         "delta": 2,
         "now": 7
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 2,
+        "now": 5
       },
       {
         "name": "Vertical SaaS",
@@ -3368,34 +3370,14 @@
         "now": 2
       },
       {
-        "name": "Applied AI agents",
-        "delta": 1,
-        "now": 10
-      },
-      {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 5
-      },
-      {
         "name": "AI compute & models",
         "delta": 1,
         "now": 3
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "Insurance / insurtech",
         "delta": 1,
-        "now": 2
-      },
-      {
-        "name": "AI dev tooling",
-        "delta": 1,
-        "now": 2
-      },
-      {
-        "name": "Crypto & digital assets",
-        "delta": 0,
-        "now": 9
+        "now": 1
       },
       {
         "name": "Agent-native infra",
@@ -3408,7 +3390,17 @@
         "now": 2
       },
       {
-        "name": "Insurance / insurtech",
+        "name": "Sales & GTM AI",
+        "delta": 0,
+        "now": 2
+      },
+      {
+        "name": "AI dev tooling",
+        "delta": 0,
+        "now": 2
+      },
+      {
+        "name": "Marketing & creative AI",
         "delta": 0,
         "now": 1
       },
@@ -3423,29 +3415,29 @@
         "now": 9
       },
       {
+        "name": "Crypto & digital assets",
+        "delta": -1,
+        "now": 9
+      },
+      {
         "name": "Energy & climate",
         "delta": -1,
         "now": 9
       },
       {
-        "name": "Marketing & creative AI",
-        "delta": -1,
-        "now": 1
-      },
-      {
         "name": "Healthcare & bio AI",
-        "delta": -2,
+        "delta": -3,
         "now": 18
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": -5,
-        "now": 103
+        "name": "Legal AI",
+        "delta": -3,
+        "now": 1
       },
       {
-        "name": "Legal AI",
-        "delta": -5,
-        "now": 1
+        "name": "Applied / horizontal AI",
+        "delta": -6,
+        "now": 103
       }
     ]
   }
