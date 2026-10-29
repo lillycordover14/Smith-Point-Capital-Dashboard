@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-10-29",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3332,27 +3332,17 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-07",
+    "since": "2026-10-08",
     "tw": [
-      {
-        "name": "Cybersecurity",
-        "delta": 3,
-        "now": 6
-      },
-      {
-        "name": "Applied AI agents",
-        "delta": 2,
-        "now": 10
-      },
       {
         "name": "Fintech & payments",
         "delta": 2,
         "now": 7
       },
       {
-        "name": "Financial back-office & compliance AI",
+        "name": "Cybersecurity",
         "delta": 2,
-        "now": 5
+        "now": 6
       },
       {
         "name": "Vertical SaaS",
@@ -3370,27 +3360,32 @@
         "now": 2
       },
       {
+        "name": "Physical AI & robotics",
+        "delta": 1,
+        "now": 9
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": 1,
+        "now": 5
+      },
+      {
         "name": "AI compute & models",
         "delta": 1,
         "now": 3
       },
       {
-        "name": "Insurance / insurtech",
-        "delta": 1,
-        "now": 1
-      },
-      {
         "name": "Agent-native infra",
-        "delta": 0,
+        "delta": 1,
         "now": 3
       },
       {
-        "name": "HR & workforce",
+        "name": "Applied AI agents",
         "delta": 0,
-        "now": 2
+        "now": 10
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "HR & workforce",
         "delta": 0,
         "now": 2
       },
@@ -3400,7 +3395,7 @@
         "now": 2
       },
       {
-        "name": "Marketing & creative AI",
+        "name": "Insurance / insurtech",
         "delta": 0,
         "now": 1
       },
@@ -3410,9 +3405,9 @@
         "now": 1
       },
       {
-        "name": "Physical AI & robotics",
+        "name": "Healthcare & bio AI",
         "delta": -1,
-        "now": 9
+        "now": 18
       },
       {
         "name": "Crypto & digital assets",
@@ -3425,19 +3420,24 @@
         "now": 9
       },
       {
-        "name": "Healthcare & bio AI",
-        "delta": -3,
-        "now": 18
+        "name": "Marketing & creative AI",
+        "delta": -1,
+        "now": 1
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": -2,
+        "now": 103
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": -2,
+        "now": 2
       },
       {
         "name": "Legal AI",
         "delta": -3,
         "now": 1
-      },
-      {
-        "name": "Applied / horizontal AI",
-        "delta": -6,
-        "now": 103
       }
     ]
   }

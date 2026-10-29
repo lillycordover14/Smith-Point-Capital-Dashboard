@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-10-29",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-10-29",
+          "category": "Blog",
+          "title": "Common ground: six new integrations for network, cloud, security, and platform teams",
+          "link": "https://netboxlabs.com/blog/new-integrations-network-cloud-security/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-10-23",
           "category": "Blog",
           "title": "Security update: PHP2Shell, eMudhra certificates and Node2Shell",
@@ -144,13 +151,6 @@
           "category": "Blog",
           "title": "Meet Peter Armstrong, the Engineer Who Thrives on Complex Problems",
           "link": "https://netboxlabs.com/blog/meet-peter-armstrong-the-engineer-who-thrives-on-complex-problems/",
-          "source": "Blog"
-        },
-        {
-          "date": "2026-09-22",
-          "category": "Blog",
-          "title": "Built for Hyperscale: The System of Record for the AI Datacenter",
-          "link": "https://netboxlabs.com/blog/built-for-hyperscale-the-system-of-record-for-the-ai-datacenter/",
           "source": "Blog"
         }
       ],
