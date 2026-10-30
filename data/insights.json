@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29",
+  "generated": "2026-10-30",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3332,7 +3332,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-08",
+    "since": "2026-10-09",
     "tw": [
       {
         "name": "Fintech & payments",
@@ -3385,9 +3385,9 @@
         "now": 10
       },
       {
-        "name": "HR & workforce",
+        "name": "Crypto & digital assets",
         "delta": 0,
-        "now": 2
+        "now": 9
       },
       {
         "name": "AI dev tooling",
@@ -3410,14 +3410,19 @@
         "now": 18
       },
       {
-        "name": "Crypto & digital assets",
+        "name": "Energy & climate",
         "delta": -1,
         "now": 9
       },
       {
-        "name": "Energy & climate",
+        "name": "HR & workforce",
         "delta": -1,
-        "now": 9
+        "now": 2
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": -1,
+        "now": 2
       },
       {
         "name": "Marketing & creative AI",
@@ -3425,19 +3430,14 @@
         "now": 1
       },
       {
-        "name": "Applied / horizontal AI",
-        "delta": -2,
-        "now": 103
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": -2,
-        "now": 2
-      },
-      {
         "name": "Legal AI",
         "delta": -3,
         "now": 1
+      },
+      {
+        "name": "Applied / horizontal AI",
+        "delta": -4,
+        "now": 103
       }
     ]
   }
