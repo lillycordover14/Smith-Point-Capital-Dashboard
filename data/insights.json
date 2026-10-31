@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30",
+  "generated": "2026-10-31",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2918,14 +2918,6 @@
       "fund": "Greylock",
       "picks": [
         {
-          "company": "Cylake",
-          "stage": "Seed",
-          "amount_m": 45,
-          "date": "2026-05-03",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95MEIzVHhqbG1GMzM3RFkxVmlRSlRoWmhiamxXTXk0YjlzaFFHUVpEMjNLUWlNX2pPVGVoR3ZuUUJGSXBhQzhHcU8tcUN1ZzdtMkFPbllUOFJiSXRTOXVyTXR3?oc=5",
-          "theme": "Cybersecurity"
-        },
-        {
           "company": "Opal Security",
           "stage": "Venture",
           "amount_m": 23,
@@ -2942,7 +2934,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 1
+      "early": 0
     },
     {
       "fund": "Lightspeed",
@@ -3332,7 +3324,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-09",
+    "since": "2026-10-10",
     "tw": [
       {
         "name": "Fintech & payments",
@@ -3340,9 +3332,9 @@
         "now": 7
       },
       {
-        "name": "Cybersecurity",
+        "name": "Financial back-office & compliance AI",
         "delta": 2,
-        "now": 6
+        "now": 5
       },
       {
         "name": "Vertical SaaS",
@@ -3365,17 +3357,12 @@
         "now": 9
       },
       {
-        "name": "Financial back-office & compliance AI",
+        "name": "Cybersecurity",
         "delta": 1,
-        "now": 5
+        "now": 6
       },
       {
         "name": "AI compute & models",
-        "delta": 1,
-        "now": 3
-      },
-      {
-        "name": "Agent-native infra",
         "delta": 1,
         "now": 3
       },
@@ -3390,14 +3377,19 @@
         "now": 9
       },
       {
+        "name": "Energy & climate",
+        "delta": 0,
+        "now": 9
+      },
+      {
+        "name": "Agent-native infra",
+        "delta": 0,
+        "now": 3
+      },
+      {
         "name": "AI dev tooling",
         "delta": 0,
         "now": 2
-      },
-      {
-        "name": "Insurance / insurtech",
-        "delta": 0,
-        "now": 1
       },
       {
         "name": "Defense & national security",
@@ -3410,17 +3402,7 @@
         "now": 18
       },
       {
-        "name": "Energy & climate",
-        "delta": -1,
-        "now": 9
-      },
-      {
         "name": "HR & workforce",
-        "delta": -1,
-        "now": 2
-      },
-      {
-        "name": "Sales & GTM AI",
         "delta": -1,
         "now": 2
       },
@@ -3431,12 +3413,22 @@
       },
       {
         "name": "Legal AI",
-        "delta": -3,
+        "delta": -1,
+        "now": 1
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": -2,
+        "now": 2
+      },
+      {
+        "name": "Insurance / insurtech",
+        "delta": -2,
         "now": 1
       },
       {
         "name": "Applied / horizontal AI",
-        "delta": -4,
+        "delta": -3,
         "now": 103
       }
     ]
