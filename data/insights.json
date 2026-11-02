@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-01",
+  "generated": "2026-11-02",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2696,14 +2696,6 @@
           "theme": "Applied / horizontal AI"
         },
         {
-          "company": "ZyG",
-          "stage": "Series A",
-          "amount_m": 60,
-          "date": "2026-05-05",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0lDR3gweVd6X0xsWExyZWdla1JOQlp6dzlJS3NYd2xaeU5zamJEWVJOWE9PZmhqVkdaMVpSY3ZLMFdBeTB4VWsyMHlObGJBRTR6b0ZTQmFBMkNJeE9LZnl3VmRHbVhaMFpZVU51YzZULWFWTGpfcDJ0VGNXbTVyV3dPelpSMDRlR1FOcmkyYmJTbEUtSTRPMjlOUmhEQkF6MzdzanppMA?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Open Vision Engineering",
           "stage": "Venture",
           "amount_m": 11,
@@ -2726,9 +2718,17 @@
           "date": "2026-07-13",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWFoaUs5dGhPLXk3ZGNVdnVhRlV0V0xfRERNNFpjWncwODRQRmE4ejdQR1h5YVNCTHo1VUFBY25GZEZibUdWYXVyRWJtdnFZM0FKUFktOXhid1ZFTzBXZmtRTS1neVFwSVptVHVqcGtpNkNtR2p0T1NDRmZ3ZXVIZkZmdkxvU3VSOURyY0VVcHdFc1JFX01vdXk2aHhJZ285U0t4b3N2Y1NEUTRWNjJITnFuWUdfTVlCNDlDNFJRTk5MaFZMbkdXdktnTTdmN2hL?oc=5",
           "theme": "Applied / horizontal AI"
+        },
+        {
+          "company": "Pocket",
+          "stage": "Venture",
+          "amount_m": null,
+          "date": "2026-07-07",
+          "link": "https://www.accel.com/news/portfolio",
+          "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 7
+      "early": 6
     },
     {
       "fund": "Redpoint",
@@ -2839,14 +2839,6 @@
           "amount_m": 40,
           "date": "2026-05-18",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlV2UlJrcTVMOVVJNkNMZnVvVThrWjlpMUlaZ240WmpUOG1hNS1TVFVrSHdhd2hDd2pUM2FYWlJ5dkJuTUVTYndCd2tnc3pXZFhCdU5QaWtQZU9XaUxtSnRtRlByZFRTdldJMlMxQTl6NGJGWlR4NE9oczd3U1JJRUQzU0Jfc3BvWXl4NnRZMzNPeUJOSjVCZTlRWTlXNGRydS10dnhQUEx4ZmJyaGE5ZU9ZamFqUXFHdWRr?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
-          "company": "Astrocade",
-          "stage": "Venture",
-          "amount_m": 56,
-          "date": "2026-05-05",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN3JhaUd3UmtpZ3QtTDRLb1ZaUFIxQm5IVjNjbHR5YWZmZEhUZlFSaTJhUGpRaGlYUmlKWXlkWklGSnhiNVhiUW95VG12YVNqdy01SmVIR0hyci1uTzdXN0tyeUlVYi12QktOOU9nOTZxaW9XMXJlMVJaT1ZQS3ktZFV1eDhGT3hEVHdWS0dvX3Y2TmJWU2VuaEtVend2Z2xHU0Z4UGg2cFhsb2UwQ3lNRkdITzJSZkk?oc=5",
           "theme": "Applied / horizontal AI"
         }
       ],
@@ -3294,35 +3286,14 @@
           "date": "2026-05-12",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTVRGaVRwWFFsYjY5RTVNUVJXUzZ0M3FEckxQOWR1eDRraGtFc1BtdHU2RGNzTEpZTWllWnZjVGlXVzRCWDBQLW0tRHRmMnZjREoxeHFLZjMyXzdFamx1UnBxbzJGWXp3WEx3VXphbzlBSG45U0R6aHU3TmdIenhjNklHc0N4bURrdEFlX0ZHWGgzZnpvNDhxcFZjZllLQXRaRjF3Z1hOV2ZzT2txSVNfTFVVU0s4Z0Ut?oc=5",
           "theme": "Financial back-office & compliance AI"
-        },
-        {
-          "company": "Moritz",
-          "stage": "Venture",
-          "amount_m": 9,
-          "date": "2026-05-05",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTI1TzY3RVd0VzRGcWdRam15WWlmY2dNUEttRElPWUJyR1pqdVJ3MjBwelBVZG92OUdCRG82M1RhQTBRWmV3Qjc2Ykt5SjJsTDdQRUJKWW5udUZCVXpXNWVURktNczEyUTQ2TFVOdGJ1azlPR0xvYmRqRlBmeGhvT19WYmJHNWVGdlp3S29YNDM4UVZyZXJTTWR3ZjJENmxBRVhr0gGoAUFVX3lxTE9kNUJfcDVrSUpJZTQ3djlXMXpPMUdHbGd5YWZQSlBfdHJIaTBkam93eFA5cnp3cmNIeHJBOTNYTlVoV2lZUXVNSG01alpHa05ZOFpGazhzN2xaMlJ2cmt0Ml9Od1FYRzlUNEtaZDBxckluZE0zcVFfU01IbzZYU0FGNDJraTVRVS1jU3ZlMmUzSFY2WnN1ZUY4TXA1UTZKUlo2ZzZKVktwZw?oc=5",
-          "theme": "Legal AI"
-        },
-        {
-          "company": "Y Combinator alum Moritz",
-          "stage": "Venture",
-          "amount_m": 9,
-          "date": "2026-05-05",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Kb2ZoRnBNNVE0aEtZOXYyYVl4eTI1V2hNLVNWXzZFZEFTTktESGNGLURuSFh5YTBJNHNCNUNzaFpJb2tPYUprTnNvQWNsUXhfRXp3NXZxcWkwaFJJVGRPR3dndGZ6b294ZkNkOENn?oc=5",
-          "theme": "Legal AI"
         }
       ],
       "early": 4
     }
   ],
   "momentum": {
-    "since": "2026-10-11",
+    "since": "2026-10-12",
     "tw": [
-      {
-        "name": "Fintech & payments",
-        "delta": 2,
-        "now": 7
-      },
       {
         "name": "Financial back-office & compliance AI",
         "delta": 2,
@@ -3349,6 +3320,11 @@
         "now": 9
       },
       {
+        "name": "Fintech & payments",
+        "delta": 1,
+        "now": 7
+      },
+      {
         "name": "Cybersecurity",
         "delta": 1,
         "now": 6
@@ -3357,11 +3333,6 @@
         "name": "AI compute & models",
         "delta": 1,
         "now": 3
-      },
-      {
-        "name": "Applied AI agents",
-        "delta": 0,
-        "now": 10
       },
       {
         "name": "Crypto & digital assets",
@@ -3384,6 +3355,11 @@
         "now": 2
       },
       {
+        "name": "Marketing & creative AI",
+        "delta": 0,
+        "now": 1
+      },
+      {
         "name": "Defense & national security",
         "delta": 0,
         "now": 1
@@ -3394,24 +3370,24 @@
         "now": 18
       },
       {
+        "name": "Applied AI agents",
+        "delta": -1,
+        "now": 10
+      },
+      {
         "name": "HR & workforce",
         "delta": -1,
         "now": 2
       },
       {
-        "name": "Marketing & creative AI",
+        "name": "Sales & GTM AI",
         "delta": -1,
-        "now": 1
+        "now": 2
       },
       {
         "name": "Legal AI",
         "delta": -1,
         "now": 1
-      },
-      {
-        "name": "Sales & GTM AI",
-        "delta": -2,
-        "now": 2
       },
       {
         "name": "Insurance / insurtech",
