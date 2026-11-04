@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3010,14 +3010,6 @@
           "theme": "Defense & national security"
         },
         {
-          "company": "Illoca",
-          "stage": "Seed",
-          "amount_m": 13,
-          "date": "2026-05-07",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16NG55TTduYzduX1JOOG9mZ1UtX0ZRLUw3bjFWaGYzdDVVM0dFeUJWdlZPc1hpYm1iN096MFJsSmxVdXRGUk43NmxRRkZfMDhSTmg4ZjllbEI5djZENm1SRzRuN3lSeUJwR1VKYjZGTDBTcUJpYVNJOTFn?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "AllHome",
           "stage": "Series B",
           "amount_m": null,
@@ -3058,7 +3050,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 2
+      "early": 1
     },
     {
       "fund": "Battery",
@@ -3232,14 +3224,6 @@
           "theme": "Healthcare & bio AI"
         },
         {
-          "company": "Corgi",
-          "stage": "Series A",
-          "amount_m": 160,
-          "date": "2026-05-07",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV01OM0RZMF9vbjhrNmNPdVVxa25Bb2FDSGNPb2FMaVVKb3Q0S3d6VHRIdFJYUVI1Wm1zSWZZYXJZT1pvLVVFbFZVUG9FWDNmWVlzXzhfWUV1dW13d3RjR09lb2F4STNVbTZib2RETzRhQWxBN0lpZC1RWnNWdFNXYkhtVUI1UHRocXNVNlZsX1FpWEczbnVVa0NUXy1abVp5Ym1lWjZiMEppSTY1aHJsX1NGUTZjckowNW5kb20ydVZmMWo4WXFQTTRIbzUzbUVqR0tZSVpLTQ?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Finto",
           "stage": "Venture",
           "amount_m": 3,
@@ -3272,16 +3256,26 @@
           "theme": "Financial back-office & compliance AI"
         }
       ],
-      "early": 3
+      "early": 2
     }
   ],
   "momentum": {
-    "since": "2026-10-13",
+    "since": "2026-10-14",
     "tw": [
       {
         "name": "Physical AI & robotics",
-        "delta": 3,
+        "delta": 2,
         "now": 9
+      },
+      {
+        "name": "Healthcare & bio AI",
+        "delta": 1,
+        "now": 18
+      },
+      {
+        "name": "Fintech & payments",
+        "delta": 1,
+        "now": 7
       },
       {
         "name": "Cybersecurity",
@@ -3289,34 +3283,24 @@
         "now": 6
       },
       {
-        "name": "Financial back-office & compliance AI",
-        "delta": 1,
-        "now": 5
-      },
-      {
         "name": "AI compute & models",
         "delta": 1,
         "now": 3
       },
       {
+        "name": "HR & workforce",
+        "delta": 1,
+        "now": 2
+      },
+      {
+        "name": "Sales & GTM AI",
+        "delta": 1,
+        "now": 2
+      },
+      {
         "name": "Consumer & marketplace",
         "delta": 1,
         "now": 2
-      },
-      {
-        "name": "Data infrastructure",
-        "delta": 1,
-        "now": 2
-      },
-      {
-        "name": "Healthcare & bio AI",
-        "delta": 0,
-        "now": 18
-      },
-      {
-        "name": "Applied AI agents",
-        "delta": 0,
-        "now": 10
       },
       {
         "name": "Crypto & digital assets",
@@ -3329,22 +3313,12 @@
         "now": 9
       },
       {
-        "name": "Fintech & payments",
-        "delta": 0,
-        "now": 7
-      },
-      {
-        "name": "Vertical SaaS",
-        "delta": 0,
-        "now": 4
-      },
-      {
         "name": "Agent-native infra",
         "delta": 0,
         "now": 3
       },
       {
-        "name": "HR & workforce",
+        "name": "Data infrastructure",
         "delta": 0,
         "now": 2
       },
@@ -3369,9 +3343,19 @@
         "now": 1
       },
       {
-        "name": "Sales & GTM AI",
+        "name": "Applied AI agents",
         "delta": -1,
-        "now": 2
+        "now": 10
+      },
+      {
+        "name": "Financial back-office & compliance AI",
+        "delta": -1,
+        "now": 5
+      },
+      {
+        "name": "Vertical SaaS",
+        "delta": -1,
+        "now": 4
       },
       {
         "name": "Insurance / insurtech",
@@ -3380,7 +3364,7 @@
       },
       {
         "name": "Applied / horizontal AI",
-        "delta": -4,
+        "delta": -5,
         "now": 103
       }
     ]
