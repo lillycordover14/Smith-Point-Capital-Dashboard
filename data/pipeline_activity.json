@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-11-10",
+          "category": "Blog",
+          "title": "NetBox Visual Explorer: See Your Infrastructure in One Place",
+          "link": "https://netboxlabs.com/blog/netbox-visual-explorer-network-visualization/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-11-06",
           "category": "Blog",
           "title": "Meet Andrew Gormley: Designing What’s Next for the NetBox Labs Platform",
@@ -145,33 +152,19 @@
           "title": "Act on intent with your agents or ours: Platform MCP is now generally available",
           "link": "https://netboxlabs.com/blog/platform-mcp-generally-available/",
           "source": "Blog"
-        },
-        {
-          "date": "2026-10-08",
-          "category": "Blog",
-          "title": "Meet Fred Mercer: Turning Customer Challenges Into Working Demos",
-          "link": "https://netboxlabs.com/blog/meet-fred-mercer/",
-          "source": "Blog"
         }
       ],
       "conferences": [
         {
           "date": "",
-          "title": "the first to hear news and subscribe here . Upcoming events Event Cisco Live 2026 Me",
+          "title": "the first to hear news and subscribe here . Upcoming events Event Red Hat Summit: Connec",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
         },
         {
           "date": "",
-          "title": "o Live 2026 Melbourne Nov 9, 2026 Melbourne, Australia Event Cisco Live 2026 Me",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
-          "title": "Event Cisco Live 2026 Melbourne Nov 9, 2026 Event Red Hat Summit: Connec",
+          "title": "v 10, 2026 | 8:00 a.m. - 5:30 p.m. Montreal, CA Event Red Hat Summit: Connec",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
@@ -186,6 +179,13 @@
         {
           "date": "",
           "title": "s Game Nov 18, 2026 | 7:00 p.m. - 10:00 p.m. Event Cisco Connect Columbu",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "n Denver Dec 1, 2026 | 5:30 p.m. - 8:30 p.m. Event Cisco Connect Denver",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
