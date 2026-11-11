@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10",
+  "generated": "2026-11-11",
   "companies": [
     {
       "name": "Salient",
@@ -86,6 +86,13 @@
         {
           "date": "2026-11-10",
           "category": "Blog",
+          "title": "How to Build Change Processes That Minimize Network Outages",
+          "link": "https://netboxlabs.com/blog/how-to-build-change-processes-that-minimize-network-outages/",
+          "source": "Blog"
+        },
+        {
+          "date": "2026-11-10",
+          "category": "Blog",
           "title": "NetBox Visual Explorer: See Your Infrastructure in One Place",
           "link": "https://netboxlabs.com/blog/netbox-visual-explorer-network-visualization/",
           "source": "Blog"
@@ -145,30 +152,9 @@
           "title": "Announcing our partnership with Grafana Labs to provide Enhanced Network and Datacenter Infrastructure Observability",
           "link": "https://netboxlabs.com/blog/netbox-labs-grafana-partnership/",
           "source": "Blog"
-        },
-        {
-          "date": "2026-10-13",
-          "category": "Blog",
-          "title": "Act on intent with your agents or ours: Platform MCP is now generally available",
-          "link": "https://netboxlabs.com/blog/platform-mcp-generally-available/",
-          "source": "Blog"
         }
       ],
       "conferences": [
-        {
-          "date": "",
-          "title": "the first to hear news and subscribe here . Upcoming events Event Red Hat Summit: Connec",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
-          "title": "v 10, 2026 | 8:00 a.m. - 5:30 p.m. Montreal, CA Event Red Hat Summit: Connec",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
         {
           "date": "",
           "title": "26 Nov 15, 2026 Event AutoCon 6 Nov 16, 2026 Event Cisco Connect Los Ang",
@@ -186,6 +172,20 @@
         {
           "date": "",
           "title": "n Denver Dec 1, 2026 | 5:30 p.m. - 8:30 p.m. Event Cisco Connect Denver",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "Cloud Strategies Conference 2026 Dec 8, 2026 Event Cisco Connect Seattle",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "lass in Boston Area Dec 15, 2026 | 2:00 p.m. Event Cisco Live 2027 Lo",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
