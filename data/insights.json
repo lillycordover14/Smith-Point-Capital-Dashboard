@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11",
+  "generated": "2026-11-12",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2672,14 +2672,6 @@
           "theme": "Applied AI agents"
         },
         {
-          "company": "Sprouts.ai",
-          "stage": "Series A",
-          "amount_m": 9,
-          "date": "2026-05-15",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR3hYZS1wWXA1MmE2NWl3NUtxOFFtLUxHdklIVzBYdXdQNFNoUXdwTEtYSDhkUWYwcnNuN0YwVGF5U1JseWtuN1F6NEpUX2ZGckZWU2NMclFrVjI0Rmk0NEVBaUJLWE40MFpvNm1lUU95Ulo4bzI3NTdVLXdmWUVRdlUtUXNaVFVUR2d1LVlORHM5cG8?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Open Vision Engineering",
           "stage": "Venture",
           "amount_m": 11,
@@ -2726,9 +2718,17 @@
           "date": "2026-06-18",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWxjeENoWFphcmFYTzBrM0FQU2FhZUtZc1hDdGt6ZEg4VC0yYXNMdG9aSldIOWp1bXVSbHlzZE8wUENZbkJhQnFNSElDRzBLS0stOWpWOXlVOVlfc2RPT0U4dUcxS2tKLXdfaVdhcEZsbjBDTEowai1oMm5ocm1VX001elRqMmdyVmxhSEwwc21vcEFTbjhNQ0RRc1pDUk1YSGtiN3M0OWFBaGlnd2F2U3JmYWs3UdIBuwFBVV95cUxNcVBpYUVwUk5BSWdsUmtUSjRhbkswWEh6Rmx5eldvYWxTLWhQZFozaHFQZEhBaUN3R0l1WGY1UlZIbk5vS0xPNTJVU19MY0QzSGg2UXhqaXVYLWs5dVVsM1NNZGtUTGtpcDlCVFl3b0w5QklBLUtIS2ZBcFl4RWpsNV9nbXR1NlBxQ2szOXdmbXpLU21uOXFucVlqcGVCXzNhamJXSFpYM0VvX3h4VDNRS1E0Y3cwYWhkZmRz?oc=5",
           "theme": "Cybersecurity"
+        },
+        {
+          "company": "PointFive",
+          "stage": "Series B",
+          "amount_m": 60,
+          "date": "2026-06-08",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXRUWmNjaldmLTVSanpRNEpqM1JQeGpHVHFOOFhmSkNaM2hsX1NUZlhfbTdueXU4bUNuTlhMeWE1VUFJNUJWUWUxRERVSmZxWXNPTXVkM28zanBjY2VuY2xLNlBaR20zajk5dE9ac0dSc1lyeVJqcE9RUXBLYzJSWG0tbw?oc=5",
+          "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 4
+      "early": 3
     },
     {
       "fund": "Redpoint",
@@ -3140,14 +3140,6 @@
       "fund": "Insight",
       "picks": [
         {
-          "company": "GovWell",
-          "stage": "Series A",
-          "amount_m": 25,
-          "date": "2026-05-15",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWpfeUU3bWw0Ti1oTHpEOThlN2FaVXQwOU01djhra3dVODE5c3JPdWVnWXlRNlBGSURMU3czWDh6YkpjQXAxVnJoRkZrNm9Ra0xzZjRkZzlhellLWGhzVzZNOXVwSHZTSUwtMkg0dTZQamlmZGYta0hUUy1iaHFUMNIBgAFBVV95cUxQRWpfeUU3bWw0Ti1oTHpEOThlN2FaVXQwOU01djhra3dVODE5c3JPdWVnWXlRNlBGSURMU3czWDh6YkpjQXAxVnJoRkZrNm9Ra0xzZjRkZzlhellLWGhzVzZNOXVwSHZTSUwtMkg0dTZQamlmZGYta0hUUy1iaHFUMA?oc=5",
-          "theme": "Applied / horizontal AI"
-        },
-        {
           "company": "Gradial",
           "stage": "Series C",
           "amount_m": 65,
@@ -3156,7 +3148,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 1
+      "early": 0
     },
     {
       "fund": "Pear",
@@ -3220,7 +3212,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-21",
+    "since": "2026-10-22",
     "tw": [
       {
         "name": "Applied / horizontal AI",
