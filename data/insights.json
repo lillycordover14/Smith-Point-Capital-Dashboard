@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -3110,14 +3110,6 @@
       "fund": "Menlo",
       "picks": [
         {
-          "company": "Nectar Social",
-          "stage": "Series A",
-          "amount_m": 30,
-          "date": "2026-05-16",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3NRR3daUnJ1VVhwUlRpbjN6Zjd1N0UtRTJyZ2FEcENLRzhDOWJDX1FvaC1QcS0xSHctMFU4dEZpaUJBQjJ0VGNYV3hkNnNDX09URjNFVmM4bUZ4cTlublJvbkp3WF9ZaU1QY0MwQTB6bFphUGQ1ejRIcUxHOUJzazFjNjQyYllZZzNFb1NhNHFsaW5Hb3JibkJmaE9TQUxtUmpXUWxEaE5HemQtcVRZZ1QyLWs5OFZ2?oc=5",
-          "theme": "Marketing & creative AI"
-        },
-        {
           "company": "Assort Health",
           "stage": "Venture",
           "amount_m": null,
@@ -3134,7 +3126,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 1
+      "early": 0
     },
     {
       "fund": "Insight",
@@ -3212,7 +3204,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-10-22",
+    "since": "2026-10-23",
     "tw": [
       {
         "name": "Applied / horizontal AI",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-11-12",
+          "category": "Blog",
+          "title": "After the October Surprise: Why Automated Patching for Infrastructure Starts with a System of Record",
+          "link": "https://netboxlabs.com/blog/automated-infrastructure-patching-system-of-record/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-11-10",
           "category": "Blog",
           "title": "How to Build Change Processes That Minimize Network Outages",
@@ -145,13 +152,6 @@
           "title": "Public preview: NetBox Designs cuts the manual entry out of new builds",
           "link": "https://netboxlabs.com/blog/public-preview-netbox-designs/",
           "source": "Blog"
-        },
-        {
-          "date": "2026-10-13",
-          "category": "Blog",
-          "title": "Announcing our partnership with Grafana Labs to provide Enhanced Network and Datacenter Infrastructure Observability",
-          "link": "https://netboxlabs.com/blog/netbox-labs-grafana-partnership/",
-          "source": "Blog"
         }
       ],
       "conferences": [
@@ -185,7 +185,7 @@
         },
         {
           "date": "",
-          "title": "lass in Boston Area Dec 15, 2026 | 2:00 p.m. Event Cisco Live 2027 Lo",
+          "title": "ty Meetup Dec 15, 2026 | 11:00 AM ET | 15:00 UTC Event Cisco Live 2027 Lo",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
@@ -231,14 +231,7 @@
         },
         {
           "date": "",
-          "title": "tems found. Upcoming Events Event Type Hub / Marquee Conference Month J",
-          "link": "https://bretton.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
-          "title": "ething went wrong while submitting the form. Conference Nov 18",
+          "title": "See Details Upcoming Events Event Type Hub / Marquee Conference Month J",
           "link": "https://bretton.com/events",
           "when": "upcoming",
           "source": "Events page"
@@ -246,6 +239,13 @@
         {
           "date": "",
           "title": "r See Details No results found Try adjusting your filters Past Events Conference Oct 29",
+          "link": "https://bretton.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "08054 ACAMS Greater Philadelphia Annual One-Day Symposium See Details Conference Oct 20",
           "link": "https://bretton.com/events",
           "when": "upcoming",
           "source": "Events page"
