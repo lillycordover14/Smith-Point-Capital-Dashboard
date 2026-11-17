@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-11-17",
+          "category": "Blog",
+          "title": "NetBox Designs: Create an Infrastructure Design Once and Reuse It Repeatedly",
+          "link": "https://netboxlabs.com/blog/netbox-designs-ga/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-11-12",
           "category": "Blog",
           "title": "After the October Surprise: Why Automated Patching for Infrastructure Starts with a System of Record",
@@ -145,19 +152,19 @@
           "title": "NVIDIA and NetBox Labs Partner to Accelerate AI Data Center Deployment and Operations",
           "link": "https://netboxlabs.com/blog/nvidia-netbox-labs-ai-data-center-partnership/",
           "source": "Blog"
-        },
-        {
-          "date": "2026-10-13",
-          "category": "Blog",
-          "title": "Public preview: NetBox Designs cuts the manual entry out of new builds",
-          "link": "https://netboxlabs.com/blog/public-preview-netbox-designs/",
-          "source": "Blog"
         }
       ],
       "conferences": [
         {
           "date": "",
-          "title": "Tuscon, Arizona Event AutoCon 6 Nov 16, 2026 Event Cisco Connect Los Ang",
+          "title": "the first to hear news and subscribe here . Upcoming events Event Cisco Connect Los Ang",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "Nov 17, 2026 | 8:00am - 4:30pm Los Angeles, California Event Cisco Connect Los Ang",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
@@ -179,13 +186,6 @@
         {
           "date": "",
           "title": "Cloud Strategies Conference 2026 Dec 8, 2026 Event Cisco Connect Seattle",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
-          "title": "ty Meetup Dec 15, 2026 | 11:00 AM ET | 15:00 UTC Event Cisco Live 2027 Lo",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
