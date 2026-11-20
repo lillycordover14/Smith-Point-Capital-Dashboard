@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "companies": [
     {
       "name": "Salient",
@@ -84,6 +84,13 @@
       "slug": "netbox-labs",
       "updates": [
         {
+          "date": "2026-11-19",
+          "category": "Blog",
+          "title": "NetBox Analytics: Get Insight from Your System of Record without Manual Effort",
+          "link": "https://netboxlabs.com/blog/netbox-analytics-ga/",
+          "source": "Blog"
+        },
+        {
           "date": "2026-11-17",
           "category": "Blog",
           "title": "NetBox Designs: Create an Infrastructure Design Once and Reuse It Repeatedly",
@@ -145,30 +152,9 @@
           "title": "Announcing new additions to the NetBox Infrastructure Intelligence platform and partnerships with NVIDIA and Grafana Labs, to help you scale AI datacenter and enterprise ",
           "link": "https://netboxlabs.com/blog/netbox-evolve-2026-platform-announcements-nvidia-grafana/",
           "source": "Blog"
-        },
-        {
-          "date": "2026-10-13",
-          "category": "Blog",
-          "title": "NVIDIA and NetBox Labs Partner to Accelerate AI Data Center Deployment and Operations",
-          "link": "https://netboxlabs.com/blog/nvidia-netbox-labs-ai-data-center-partnership/",
-          "source": "Blog"
         }
       ],
       "conferences": [
-        {
-          "date": "",
-          "title": "the first to hear news and subscribe here . Upcoming events Event Cisco Connect Columbu",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
-        {
-          "date": "",
-          "title": "bus Nov 19, 2026 | 8:00am - 4:30pm Columbus, Ohio Event Cisco Connect Columbu",
-          "link": "https://netboxlabs.com/events",
-          "when": "upcoming",
-          "source": "Events page"
-        },
         {
           "date": "",
           "title": "n Denver Dec 1, 2026 | 5:30 p.m. - 8:30 p.m. Event Cisco Connect Denver",
@@ -186,6 +172,20 @@
         {
           "date": "",
           "title": "ty Meetup Dec 15, 2026 | 11:00 AM ET | 15:00 UTC Event Cisco Live 2027 Lo",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "UTC Event Cisco Live 2027 London Feb 8, 2027 Recent events Event Cisco Connect Columbu",
+          "link": "https://netboxlabs.com/events",
+          "when": "upcoming",
+          "source": "Events page"
+        },
+        {
+          "date": "",
+          "title": "ent Open Source Monitoring Conference (OSMC) Event Cisco Connect Los Ang",
           "link": "https://netboxlabs.com/events",
           "when": "upcoming",
           "source": "Events page"
@@ -238,14 +238,14 @@
         },
         {
           "date": "",
-          "title": "r See Details No results found Try adjusting your filters Past Events Conference Nov 18",
+          "title": "erence Nov 18 - Nov 20 San Diego, CA Fintech NerdCon 2026 See Details Conference Oct 29",
           "link": "https://bretton.com/events",
           "when": "upcoming",
           "source": "Events page"
         },
         {
           "date": "",
-          "title": "erence Nov 18 - Nov 20 San Diego, CA Fintech NerdCon 2026 See Details Conference Oct 29",
+          "title": "54 ACAMS Greater Philadelphia Annual One-Day Symposium See Det",
           "link": "https://bretton.com/events",
           "when": "upcoming",
           "source": "Events page"
