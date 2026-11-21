@@ -1,22 +1,18 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "memos": {
     "general-catalyst": {
       "name": "General Catalyst",
       "overview": "General Catalyst is a San Francisco venture firm managing $45.5B, among the most active investors we track. Its stated focus: Founded in 2000, General Catalyst is a venture capital firm headquartered in San Francisco.",
-      "six_months": "Over the last six months we tracked 18 investments and 9 posts/theses from General Catalyst, investing at a steady pace.",
-      "thesis": "The money is concentrated in Enterprise software (9 deals), followed by Fintech & payments (3 deals), Sales & GTM (2 deals). That points to a thesis centered on broad enterprise software and applied AI. There's a genuine second leg in Fintech & payments (modernizing money movement, banking and financial infrastructure), so this isn't a one-note fund.",
+      "six_months": "Over the last six months we tracked 17 investments and 9 posts/theses from General Catalyst, investing at a steady pace.",
+      "thesis": "The money is concentrated in Enterprise software (9 deals), followed by Sales & GTM (2 deals), Crypto & web3 (2 deals). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "By stage, recent checks skew Series D — backing companies right as they scale.",
       "notable": "Standout recent bets include Prenetics ($1.0B), Together AI ($800M), Beacon ($225M), Factorial ($150M), Cadence ($100M). Their largest tracked check went to Prenetics ($1.0B), a read on where their conviction sits right now.",
-      "watch": "For Smith Point, the overlap is clearest in Enterprise software, Fintech & payments, Sales & GTM and they're a fund we can often reach founders through. Worth watching: continued concentration in Enterprise software suggests more of the same ahead, while rising Fintech & payments activity is the emerging tell.",
+      "watch": "For Smith Point, the overlap is clearest in Enterprise software, Sales & GTM, Fintech & payments and they're a fund we can often reach founders through. Worth watching: continued concentration in Enterprise software suggests more of the same ahead, while rising Sales & GTM activity is the emerging tell.",
       "sectors": [
         {
           "name": "Enterprise software",
           "n": 9
-        },
-        {
-          "name": "Fintech & payments",
-          "n": 3
         },
         {
           "name": "Sales & GTM",
@@ -24,6 +20,10 @@
         },
         {
           "name": "Crypto & web3",
+          "n": 2
+        },
+        {
+          "name": "Fintech & payments",
           "n": 2
         },
         {
@@ -109,17 +109,6 @@
           ]
         },
         {
-          "name": "Fintech & payments",
-          "n": 3,
-          "companies": [
-            {
-              "company": "Scapia",
-              "amt": "$63M",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTVCd29VRXZnVEZRVHhOeUFkai1UQ1Y0S2tJeENab29qbzZaUEhYRnoySmNuUjRHUHJnWU1sbVZNbUxfQzJ2UnhzeHpoQWdqT0xZNTVGOHNIUjhlSGpCcGEtaGNfemxEdDdsRTA5Mm81b19mZ0RzZDJDQ3Z2OFV6WFFhNXJjcVFUMUE?oc=5"
-            }
-          ]
-        },
-        {
           "name": "Sales & GTM",
           "n": 2,
           "companies": [
@@ -143,6 +132,17 @@
               "company": "Engram",
               "amt": "$98M",
               "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hdUNHWXNHblRpY09JVlA1VzlSdUNTYU9pYTZtQmkzdExvOU1WckJHS1NUMmpCUmpzSXBCVHFfUnN1SVY3UF9ZY0R6ZGwyUTBIaDZuV0hKNWtPX2k1RFpZd2MwSmhlc0FjczV6bFlFQ1liV28?oc=5"
+            }
+          ]
+        },
+        {
+          "name": "Fintech & payments",
+          "n": 2,
+          "companies": [
+            {
+              "company": "Scapia",
+              "amt": "$63M",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQTVCd29VRXZnVEZRVHhOeUFkai1UQ1Y0S2tJeENab29qbzZaUEhYRnoySmNuUjRHUHJnWU1sbVZNbUxfQzJ2UnhzeHpoQWdqT0xZNTVGOHNIUjhlSGpCcGEtaGNfemxEdDdsRTA5Mm81b19mZ0RzZDJDQ3Z2OFV6WFFhNXJjcVFUMUE?oc=5"
             }
           ]
         },
@@ -179,7 +179,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "sequoia": {
       "name": "Sequoia",
@@ -287,7 +287,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "accel": {
       "name": "Accel",
@@ -468,7 +468,7 @@
           "linkedin": "https://www.linkedin.com/in/andrewbraccia/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "lightspeed": {
       "name": "Lightspeed",
@@ -638,7 +638,7 @@
           "linkedin": "https://www.linkedin.com/in/mignano/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "khosla-ventures": {
       "name": "Khosla Ventures",
@@ -819,7 +819,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "8vc": {
       "name": "8VC",
@@ -872,12 +872,12 @@
           "linkedin": "https://www.linkedin.com/in/drew-oetting-52463337"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "menlo": {
       "name": "Menlo",
       "overview": "Menlo is a San Francisco venture firm managing $6.8B. Its stated focus: Early → growth; enterprise + AI.",
-      "six_months": "Over the last six months we tracked 7 investments and 7 posts/theses from Menlo, investing at selectively.",
+      "six_months": "Over the last six months we tracked 7 investments and 6 posts/theses from Menlo, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (5 deals), followed by Healthcare & bio (1 deal), Legal & compliance (1 deal). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "",
       "notable": "",
@@ -944,7 +944,7 @@
           "linkedin": "https://www.linkedin.com/in/debarghyadas"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "lux-capital": {
       "name": "Lux Capital",
@@ -1082,7 +1082,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "boxgroup": {
       "name": "BoxGroup",
@@ -1165,7 +1165,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "bain-capital-ventures": {
       "name": "Bain Capital Ventures",
@@ -1348,7 +1348,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "energy-impact-partners": {
       "name": "Energy Impact Partners",
@@ -1381,7 +1381,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "new-enterprise-associates": {
       "name": "New Enterprise Associates",
@@ -1484,7 +1484,7 @@
           "linkedin": "https://www.linkedin.com/in/annbordetsky"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "spark-capital": {
       "name": "Spark Capital",
@@ -1637,7 +1637,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "true-ventures": {
       "name": "True Ventures",
@@ -1723,7 +1723,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "thrive-capital": {
       "name": "Thrive Capital",
@@ -1883,7 +1883,7 @@
           "linkedin": "https://www.linkedin.com/in/milesgrimshaw"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "redpoint": {
       "name": "Redpoint",
@@ -1971,7 +1971,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "nfx": {
       "name": "NFX",
@@ -2038,7 +2038,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "craft-ventures": {
       "name": "Craft Ventures",
@@ -2100,7 +2100,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "crv": {
       "name": "CRV",
@@ -2169,7 +2169,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "collaborative-fund": {
       "name": "Collaborative Fund",
@@ -2218,7 +2218,7 @@
           "linkedin": "https://www.linkedin.com/in/morganhousel"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "vivo-capital": {
       "name": "Vivo Capital",
@@ -2287,7 +2287,7 @@
           "linkedin": "https://www.linkedin.com/in/gaurav-aggarwal-3416b682/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "eclipse-capital": {
       "name": "Eclipse Capital",
@@ -2356,7 +2356,7 @@
           "linkedin": "https://www.linkedin.com/in/aidan-madigan-curtis"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "right-side-capital-management": {
       "name": "Right Side Capital Management",
@@ -2385,7 +2385,7 @@
           "linkedin": "https://www.linkedin.com/in/jeff-pomeranz8/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "union-square-ventures": {
       "name": "Union Square Ventures",
@@ -2567,7 +2567,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "mayfield-fund": {
       "name": "Mayfield Fund",
@@ -2603,7 +2603,7 @@
           "linkedin": "https://www.linkedin.com/in/vijayreddy/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "inovia-capital": {
       "name": "Inovia Capital",
@@ -2698,7 +2698,7 @@
           "linkedin": "https://uk.linkedin.com/in/patrick-pichette-22067a26b"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "b-capital-group": {
       "name": "B Capital Group",
@@ -2767,7 +2767,7 @@
           "linkedin": "https://www.linkedin.com/in/rashmigopinath"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "i2bf-global-ventures": {
       "name": "I2BF Global Ventures",
@@ -2813,7 +2813,7 @@
           "linkedin": "https://www.linkedin.com/in/ilya-golubovich-7967353/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "xyz-venture-capital": {
       "name": "XYZ Venture Capital",
@@ -2882,7 +2882,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "goodwater-capital": {
       "name": "Goodwater Capital",
@@ -2935,7 +2935,7 @@
           "linkedin": "https://www.linkedin.com/in/erickim37"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "dcvc": {
       "name": "DCVC",
@@ -2964,7 +2964,7 @@
           "linkedin": "https://www.linkedin.com/in/zackbogue"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "eniac-ventures": {
       "name": "Eniac Ventures",
@@ -3000,7 +3000,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "benchmark-capital-holdings": {
       "name": "Benchmark Capital Holdings",
@@ -3022,7 +3022,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "ivp": {
       "name": "IVP",
@@ -3058,7 +3058,7 @@
           "linkedin": "https://www.linkedin.com/in/someshdash"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "iconiq-growth": {
       "name": "ICONIQ Growth",
@@ -3094,7 +3094,7 @@
           "linkedin": "https://www.linkedin.com/in/dougpepper"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "palm-drive-capital": {
       "name": "Palm Drive Capital",
@@ -3123,7 +3123,7 @@
           "linkedin": "https://www.linkedin.com/in/leehendrick/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "radical-ventures": {
       "name": "Radical Ventures",
@@ -3235,7 +3235,7 @@
           "linkedin": "https://www.linkedin.com/in/tomipoutanen/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "tcg-crossover-management": {
       "name": "TCG Crossover Management",
@@ -3264,7 +3264,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "canaan-partners": {
       "name": "Canaan Partners",
@@ -3324,7 +3324,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "altos-ventures": {
       "name": "Altos Ventures",
@@ -3384,7 +3384,7 @@
           "linkedin": "https://www.linkedin.com/in/anthonyplee"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "greycroft": {
       "name": "Greycroft",
@@ -3406,7 +3406,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "madrona-venture-group": {
       "name": "Madrona Venture Group",
@@ -3442,7 +3442,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "firstmark-capital": {
       "name": "FirstMark Capital",
@@ -3502,7 +3502,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "emergence-equity-management": {
       "name": "Emergence Equity Management",
@@ -3538,7 +3538,7 @@
           "linkedin": "https://www.linkedin.com/in/jakesaper"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "reach-capital": {
       "name": "Reach Capital",
@@ -3567,7 +3567,7 @@
           "linkedin": "https://www.linkedin.com/in/shauntelpoulson/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "oak-hc-ft": {
       "name": "Oak HC/FT",
@@ -3640,7 +3640,7 @@
           "linkedin": "https://www.linkedin.com/in/awadams/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "norte-ventures": {
       "name": "Norte Ventures",
@@ -3669,7 +3669,7 @@
           "linkedin": "https://www.linkedin.com/in/benarros/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "uncork": {
       "name": "Uncork",
@@ -3705,7 +3705,7 @@
           "linkedin": "https://www.linkedin.com/in/susanwliu/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "arch-venture-partners": {
       "name": "ARCH Venture Partners",
@@ -3839,7 +3839,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "initialized-capital": {
       "name": "Initialized Capital",
@@ -3892,7 +3892,7 @@
           "linkedin": "https://www.linkedin.com/in/aldadennis"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "mvp-ventures": {
       "name": "MVP Ventures",
@@ -3963,7 +3963,7 @@
           "linkedin": "https://www.linkedin.com/in/westonmoyer/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "rre-ventures": {
       "name": "RRE Ventures",
@@ -3999,7 +3999,7 @@
           "linkedin": "https://www.linkedin.com/in/rajurishi"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "forerunner-ventures": {
       "name": "Forerunner Ventures",
@@ -4052,7 +4052,7 @@
           "linkedin": "https://www.linkedin.com/in/euriekim"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "2048-ventures": {
       "name": "2048 Ventures",
@@ -4074,7 +4074,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "dcm-ventures": {
       "name": "DCM Ventures",
@@ -4127,7 +4127,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "matrix": {
       "name": "Matrix",
@@ -4194,7 +4194,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "upfront-ventures": {
       "name": "Upfront Ventures",
@@ -4296,7 +4296,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "primary-venture-partners": {
       "name": "Primary Venture Partners",
@@ -4374,7 +4374,7 @@
           "linkedin": "https://www.linkedin.com/in/jasonshuman"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "aix-ventures": {
       "name": "AIX Ventures",
@@ -4417,7 +4417,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "north-island-ventures": {
       "name": "North Island Ventures",
@@ -4545,7 +4545,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "shield-capital": {
       "name": "Shield Capital",
@@ -4574,7 +4574,7 @@
           "linkedin": "https://www.linkedin.com/in/philip-m-bilden-38918320a/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "m13": {
       "name": "M13",
@@ -4610,7 +4610,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "mercury-fund": {
       "name": "Mercury Fund",
@@ -4646,7 +4646,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "town-hall-ventures": {
       "name": "Town Hall Ventures",
@@ -4668,7 +4668,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "imaginary-ventures": {
       "name": "Imaginary Ventures",
@@ -4697,7 +4697,7 @@
           "linkedin": "https://www.linkedin.com/in/nickbrownimaginary/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "pelion-venture-partners": {
       "name": "Pelion Venture Partners",
@@ -4750,7 +4750,7 @@
           "linkedin": "https://www.linkedin.com/in/jeffkearl/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "deviation-capital": {
       "name": "Deviation Capital",
@@ -4786,7 +4786,7 @@
           "linkedin": "https://www.linkedin.com/in/dusan-perovic-7a012a4/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "redmile-group": {
       "name": "Redmile Group",
@@ -4815,7 +4815,7 @@
           "linkedin": "https://www.linkedin.com/in/robfaulkner/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "moderne-ventures": {
       "name": "Moderne Ventures",
@@ -4844,7 +4844,7 @@
           "linkedin": "https://www.linkedin.com/in/liza-benson-a8091828/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "hatteras-venture-partners": {
       "name": "Hatteras Venture Partners",
@@ -4897,7 +4897,7 @@
           "linkedin": "https://www.linkedin.com/in/christy-l-shaffer-5649395/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "seven-seven-six": {
       "name": "Seven Seven Six",
@@ -4954,7 +4954,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "greatpoint-ventures": {
       "name": "GreatPoint Ventures",
@@ -5018,7 +5018,7 @@
           "linkedin": "https://www.linkedin.com/in/dpatil/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "scout-ventures": {
       "name": "Scout Ventures",
@@ -5040,7 +5040,7 @@
           "linkedin": "https://www.linkedin.com/in/bradharrison"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "newview-capital": {
       "name": "NewView Capital",
@@ -5062,7 +5062,7 @@
           "linkedin": "https://www.linkedin.com/in/raviswanathan"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "cervin-ventures": {
       "name": "Cervin Ventures",
@@ -5146,7 +5146,7 @@
           "linkedin": "https://www.linkedin.com/in/neerajgupta123/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "fintop-us": {
       "name": "FINTOP (US)",
@@ -5175,7 +5175,7 @@
           "linkedin": "https://www.linkedin.com/in/philpottjohn/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "riot-ventures": {
       "name": "Riot Ventures",
@@ -5270,7 +5270,7 @@
           "linkedin": "https://www.linkedin.com/in/will-coffield-130b1426/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "armory-square-ventures": {
       "name": "Armory Square Ventures",
@@ -5292,7 +5292,7 @@
           "linkedin": "https://www.linkedin.com/in/somak-chattopadhyay-7662a"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "crosslink-capital": {
       "name": "Crosslink Capital",
@@ -5321,7 +5321,7 @@
           "linkedin": "https://www.linkedin.com/in/bigge"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "notable-capital": {
       "name": "Notable Capital",
@@ -5343,7 +5343,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "foundry-group": {
       "name": "Foundry Group",
@@ -5379,7 +5379,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "meritech-capital-partners": {
       "name": "Meritech Capital Partners",
@@ -5408,7 +5408,7 @@
           "linkedin": "https://www.linkedin.com/in/paulmadera/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "epic-ventures": {
       "name": "EPIC Ventures",
@@ -5437,7 +5437,7 @@
           "linkedin": "https://www.linkedin.com/in/jackboren"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "collab-currency": {
       "name": "Collab+Currency",
@@ -5466,7 +5466,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "actions-capital": {
       "name": "Actions Capital",
@@ -5488,7 +5488,7 @@
           "linkedin": "https://www.linkedin.com/in/ryan-bloomer-b3925a4"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "dfj-growth": {
       "name": "DFJ Growth",
@@ -5528,7 +5528,7 @@
           "linkedin": "https://www.linkedin.com/in/barry-schuler-9440225/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "sant-ventures": {
       "name": "Santé Ventures",
@@ -5557,7 +5557,7 @@
           "linkedin": "https://www.linkedin.com/in/joe-cunningham-4168527/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "vmg-partners": {
       "name": "VMG Partners",
@@ -5631,7 +5631,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "acadian-ventures": {
       "name": "Acadian Ventures",
@@ -5664,7 +5664,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "kingfisher-investment-advisors": {
       "name": "Kingfisher Investment Advisors",
@@ -5686,7 +5686,7 @@
           "linkedin": "https://www.linkedin.com/in/yarivrobinson/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "western-technology-investment": {
       "name": "Western Technology Investment",
@@ -5766,7 +5766,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "u-s-venture-partners": {
       "name": "U.S. Venture Partners",
@@ -5819,7 +5819,7 @@
           "linkedin": "https://www.linkedin.com/in/jacques-benkoski-ab9133/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "atlas-venture": {
       "name": "Atlas Venture",
@@ -5841,7 +5841,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "scale-venture-partners": {
       "name": "Scale Venture Partners",
@@ -5894,7 +5894,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "columbia-capital": {
       "name": "Columbia Capital",
@@ -5927,7 +5927,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "kickstart-us": {
       "name": "Kickstart (US)",
@@ -5956,7 +5956,7 @@
           "linkedin": "https://www.linkedin.com/in/katkennedyvc/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "storm-ventures": {
       "name": "Storm Ventures",
@@ -6010,7 +6010,7 @@
           "linkedin": "https://www.linkedin.com/in/minjoo-kim-777494107/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "run-ventures": {
       "name": "Run Ventures",
@@ -6053,7 +6053,7 @@
           "linkedin": "https://www.linkedin.com/in/porntepp-u-b58551b/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "resolute-ventures": {
       "name": "Resolute Ventures",
@@ -6096,7 +6096,7 @@
           "linkedin": "https://www.linkedin.com/in/monicasblack/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "bullpen-capital": {
       "name": "Bullpen Capital",
@@ -6183,7 +6183,7 @@
           "linkedin": "https://www.linkedin.com/in/alexandra-fowler-loomes-2975a9101/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "drive-capital": {
       "name": "Drive Capital",
@@ -6237,7 +6237,7 @@
           "linkedin": "https://www.linkedin.com/in/solaro/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "blackhorn-ventures": {
       "name": "Blackhorn Ventures",
@@ -6315,7 +6315,7 @@
           "linkedin": "https://www.linkedin.com/in/stephancizmar/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "griffin-gaming-partners": {
       "name": "Griffin Gaming Partners",
@@ -6369,7 +6369,7 @@
           "linkedin": "https://www.linkedin.com/in/pierreplanche/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "restive-ventures": {
       "name": "Restive Ventures",
@@ -6405,7 +6405,7 @@
           "linkedin": "https://www.linkedin.com/in/cameronpeake/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "airbus-ventures": {
       "name": "Airbus Ventures",
@@ -6448,7 +6448,7 @@
           "linkedin": "https://www.linkedin.com/in/lewispinault/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "align-ventures": {
       "name": "Align Ventures",
@@ -6515,7 +6515,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "canonical-crypto": {
       "name": "Canonical Crypto",
@@ -6544,7 +6544,7 @@
           "linkedin": "https://www.linkedin.com/in/anthonyavedissian/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "panacea-capital-california": {
       "name": "Panacea Capital (California)",
@@ -6573,7 +6573,7 @@
           "linkedin": "https://www.linkedin.com/in/andrewaherrera/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "seax-ventures": {
       "name": "SeaX Ventures",
@@ -6640,7 +6640,7 @@
           "linkedin": "http://linkedin.com/in/staceychang"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "renegade-partners": {
       "name": "Renegade Partners",
@@ -6669,7 +6669,7 @@
           "linkedin": "https://www.linkedin.com/in/roseannewincek/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "caduceus-capital-partners": {
       "name": "Caduceus Capital Partners",
@@ -6745,7 +6745,7 @@
           "linkedin": "https://www.linkedin.com/in/russrudish/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "foundation-capital": {
       "name": "Foundation Capital",
@@ -6791,7 +6791,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "acme-capital": {
       "name": "ACME Capital",
@@ -6834,7 +6834,7 @@
           "linkedin": "https://www.linkedin.com/in/alexfayette/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "sofinnova-investments": {
       "name": "Sofinnova Investments",
@@ -6888,7 +6888,7 @@
           "linkedin": "https://www.linkedin.com/in/jonathanaleff/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "ludlow-ventures": {
       "name": "Ludlow Ventures",
@@ -6924,7 +6924,7 @@
           "linkedin": "https://www.linkedin.com/in/lindsay-daugherty-45a921158"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "paladin-capital-group": {
       "name": "Paladin Capital Group",
@@ -6991,7 +6991,7 @@
           "linkedin": "https://www.linkedin.com/in/kembawalden"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "company-ventures": {
       "name": "Company Ventures",
@@ -7088,7 +7088,7 @@
           "linkedin": "https://www.linkedin.com/in/hunterhillenmeyer/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "glynn-capital": {
       "name": "Glynn Capital",
@@ -7142,7 +7142,7 @@
           "linkedin": "https://www.linkedin.com/pub/scott-jordon/0/527/361"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "ttv-capital": {
       "name": "TTV Capital",
@@ -7209,7 +7209,7 @@
           "linkedin": "https://www.linkedin.com/in/neilkapur/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "ia-ventures": {
       "name": "IA Ventures",
@@ -7276,7 +7276,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "sazze-partners": {
       "name": "Sazze Partners",
@@ -7319,7 +7319,7 @@
           "linkedin": "https://www.linkedin.com/in/douglasguen/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "longitude-capital": {
       "name": "Longitude Capital",
@@ -7362,7 +7362,7 @@
           "linkedin": "https://www.linkedin.com/in/marc-galletti-1315b45/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "boulder-ventures": {
       "name": "Boulder Ventures",
@@ -7405,7 +7405,7 @@
           "linkedin": "https://www.linkedin.com/in/jonathan-perl-1837916"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "tribeca-venture-partners": {
       "name": "Tribeca Venture Partners",
@@ -7492,7 +7492,7 @@
           "linkedin": "https://www.linkedin.com/in/brian-wei-b363b982/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "arboretum-ventures": {
       "name": "Arboretum Ventures",
@@ -7535,7 +7535,7 @@
           "linkedin": "https://www.linkedin.com/in/tim-petersen-12594814/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "liveoak-ventures": {
       "name": "LiveOak Ventures",
@@ -7613,7 +7613,7 @@
           "linkedin": "https://www.linkedin.com/in/mmarcantonio9/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "playground-global": {
       "name": "Playground Global",
@@ -7676,7 +7676,7 @@
           "linkedin": "https://www.linkedin.com/in/patgelsinger/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "decheng-capital": {
       "name": "Decheng Capital",
@@ -7719,7 +7719,7 @@
           "linkedin": "https://www.linkedin.com/in/dayton-misfeldt-0905a847/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "moneta-ventures": {
       "name": "Moneta Ventures",
@@ -7762,7 +7762,7 @@
           "linkedin": "https://www.linkedin.com/in/jeff-olyniec/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "cottonwood-technology-fund": {
       "name": "Cottonwood Technology Fund",
@@ -7791,7 +7791,7 @@
           "linkedin": "https://www.linkedin.com/in/alainleloux"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "hi2-global": {
       "name": "Hi2 Global",
@@ -7858,7 +7858,7 @@
           "linkedin": "https://www.linkedin.com/in/jwang6/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "kittyhawk": {
       "name": "KittyHawk",
@@ -7894,7 +7894,7 @@
           "linkedin": "https://www.linkedin.com/in/alexandrabpeterson/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "underdog-labs": {
       "name": "Underdog Labs",
@@ -7961,7 +7961,7 @@
           "linkedin": "https://www.linkedin.com/in/matthewjlarson/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "las-olas-venture-capital": {
       "name": "Las Olas Venture Capital",
@@ -8004,7 +8004,7 @@
           "linkedin": "https://www.linkedin.com/in/slefkowitz1/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "dcvc-bio": {
       "name": "DCVC Bio",
@@ -8080,7 +8080,7 @@
           "linkedin": "https://www.linkedin.com/in/zackbogue"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "tamarack-global": {
       "name": "Tamarack Global",
@@ -8123,7 +8123,7 @@
           "linkedin": "https://www.linkedin.com/in/rob-eloff-54991b72/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "femhealth-ventures": {
       "name": "FemHealth Ventures",
@@ -8166,7 +8166,7 @@
           "linkedin": "https://www.linkedin.com/in/susanne-seripiero-81a03b70/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "mangusta-capital": {
       "name": "Mangusta Capital",
@@ -8233,7 +8233,7 @@
           "linkedin": "https://www.linkedin.com/in/natoli-farber-b913908a/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "vectors-capital": {
       "name": "Vectors Capital",
@@ -8276,7 +8276,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "polaris-partners": {
       "name": "Polaris Partners",
@@ -8343,7 +8343,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "maveron": {
       "name": "Maveron",
@@ -8386,7 +8386,7 @@
           "linkedin": "https://www.linkedin.com/in/simran-suri-540745147/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "flagship-pioneering": {
       "name": "Flagship Pioneering",
@@ -8429,7 +8429,7 @@
           "linkedin": "https://www.linkedin.com/in/michelle-werner-7b30511/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "ulu-ventures": {
       "name": "Ulu Ventures",
@@ -8472,7 +8472,7 @@
           "linkedin": "https://www.linkedin.com/in/mariasalamanca1/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "5am-ventures": {
       "name": "5AM Ventures",
@@ -8515,7 +8515,7 @@
           "linkedin": "https://www.linkedin.com/in/scott-rocklage-66aa7a12a/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "rally-ventures": {
       "name": "Rally Ventures",
@@ -8587,7 +8587,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "social-leverage": {
       "name": "Social Leverage",
@@ -8642,7 +8642,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "blockchain-capital": {
       "name": "Blockchain Capital",
@@ -8709,7 +8709,7 @@
           "linkedin": "https://www.linkedin.com/in/spencer-bogart-cfa-bba645a/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "founders-co-op": {
       "name": "Founders' Co-op",
@@ -8731,7 +8731,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "origin-ventures-group": {
       "name": "Origin Ventures Group",
@@ -8774,7 +8774,7 @@
           "linkedin": "https://www.linkedin.com/in/steve-miller-220ab62/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "bee-partners": {
       "name": "Bee Partners",
@@ -8817,7 +8817,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "outlander-vc": {
       "name": "Outlander VC",
@@ -8860,7 +8860,7 @@
           "linkedin": "https://www.linkedin.com/in/ajsmithinvests"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "motivate-venture-capital": {
       "name": "Motivate Venture Capital",
@@ -8903,7 +8903,7 @@
           "linkedin": "https://www.linkedin.com/in/jackson-bubala/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "taihill-venture": {
       "name": "Taihill Venture",
@@ -8939,7 +8939,7 @@
           "linkedin": "https://www.linkedin.com/in/jingjingchai/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "emergent-ventures": {
       "name": "Emergent Ventures",
@@ -8982,7 +8982,7 @@
           "linkedin": "https://www.linkedin.com/in/isinghal/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "cortado-ventures": {
       "name": "Cortado Ventures",
@@ -9025,7 +9025,7 @@
           "linkedin": "https://www.linkedin.com/in/susanmoring/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "tusk-venture-partners": {
       "name": "Tusk Venture Partners",
@@ -9047,7 +9047,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "techoperators": {
       "name": "TechOperators",
@@ -9090,7 +9090,7 @@
           "linkedin": "https://www.linkedin.com/in/gmcgonnigle/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "marcypen-capital-partners": {
       "name": "MarcyPen Capital Partners",
@@ -9126,7 +9126,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "equal-ventures-management": {
       "name": "Equal Ventures Management",
@@ -9169,7 +9169,7 @@
           "linkedin": "https://www.linkedin.com/in/adam-chadroff/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "data-tech-fund": {
       "name": "Data Tech Fund",
@@ -9212,7 +9212,7 @@
           "linkedin": "https://www.linkedin.com/in/quandtandreas/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "goalvest-advisory": {
       "name": "GoalVest Advisory",
@@ -9255,7 +9255,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "energy-transition-ventures": {
       "name": "Energy Transition Ventures",
@@ -9277,7 +9277,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "a16z": {
       "name": "a16z",
@@ -9483,7 +9483,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "benchmark": {
       "name": "Benchmark",
@@ -9624,7 +9624,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "greylock": {
       "name": "Greylock",
@@ -9702,7 +9702,7 @@
           "linkedin": "https://www.linkedin.com/in/jerrychenprofile"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "bessemer": {
       "name": "Bessemer",
@@ -9855,7 +9855,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "battery": {
       "name": "Battery",
@@ -9957,7 +9957,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "index": {
       "name": "Index",
@@ -10029,7 +10029,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "insight": {
       "name": "Insight Partners",
@@ -10121,7 +10121,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "boldstart": {
       "name": "Boldstart",
@@ -10190,7 +10190,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "amplify": {
       "name": "Amplify",
@@ -10278,12 +10278,12 @@
           "linkedin": "https://www.linkedin.com/in/lennypruss"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "wing": {
       "name": "Wing",
       "overview": "Wing is a venture firm. Its stated focus: Early-stage enterprise.",
-      "six_months": "Over the last six months we tracked 5 investments and 21 posts/theses from Wing, investing at selectively.",
+      "six_months": "Over the last six months we tracked 5 investments and 20 posts/theses from Wing, investing at selectively.",
       "thesis": "The money is concentrated in Enterprise software (5 deals). That points to a thesis centered on broad enterprise software and applied AI.",
       "how": "",
       "notable": "Standout recent bets include “Panicking” CSU, WW2 veteran.",
@@ -10349,7 +10349,7 @@
           "linkedin": "https://www.linkedin.com/in/jacobflomenberg"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "basis-set": {
       "name": "Basis Set",
@@ -10430,7 +10430,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "conviction": {
       "name": "Conviction",
@@ -10501,7 +10501,7 @@
           "linkedin": "https://www.linkedin.com/in/vernal"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "felicis": {
       "name": "Felicis",
@@ -10537,7 +10537,7 @@
           "linkedin": "https://www.linkedin.com/in/vivianafaga/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "founders-fund": {
       "name": "Founders Fund",
@@ -10661,7 +10661,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "first-round": {
       "name": "First Round",
@@ -10784,7 +10784,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "essence": {
       "name": "Essence",
@@ -10817,7 +10817,7 @@
           "linkedin": "https://www.linkedin.com/in/timchen"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "pear": {
       "name": "Pear",
@@ -10846,7 +10846,7 @@
           "linkedin": "https://www.linkedin.com/in/mar-hershenson-b21395/"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "yc": {
       "name": "Y Combinator",
@@ -10945,7 +10945,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "energize-ventures": {
       "name": "Energize Capital",
@@ -11004,7 +11004,7 @@
         }
       ],
       "partners": [],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "kleiner-perkins": {
       "name": "Kleiner Perkins",
@@ -11195,7 +11195,7 @@
           "linkedin": "https://www.linkedin.com/in/joubin-mirzadegan-66186854"
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     },
     "coatue": {
       "name": "Coatue",
@@ -11231,7 +11231,7 @@
           "linkedin": ""
         }
       ],
-      "generated": "2026-11-20"
+      "generated": "2026-11-21"
     }
   }
 }
