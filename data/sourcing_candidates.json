@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "window_days": 45,
   "counts": {
     "actionable": 5,
-    "watchlist": 14,
+    "watchlist": 13,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -309,23 +309,6 @@
       "date": "2026-10-09",
       "link": "https://cori-clinical.com",
       "domain": "coriclinical.com",
-      "tier": "watchlist",
-      "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "TODAY",
-      "desc": "Insurance / insurtech",
-      "theme": "Precision Applications",
-      "vertical": "Insurance",
-      "stage": "Seed",
-      "amount_m": 3,
-      "investors": [],
-      "date": "2026-10-08",
-      "link": "https://usetoday.io",
-      "domain": "today.com",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
       "source": "funds",
