@@ -24,7 +24,15 @@
     "x": "https://x.com/Maveron",
     "linkedin": "https://www.linkedin.com/company/maveron"
   },
-  "updates": [],
+  "updates": [
+    {
+      "date": "2026-11-16",
+      "type": "Investment",
+      "title": "A look back on the state of consumer in 2026",
+      "link": "https://maveronvc.substack.com/p/a-look-back-on-the-state-of-consumer",
+      "summary": "The second edition of our consumer report, covering sentiment, adoption and usage trends on AI across 6 key consumer personas."
+    }
+  ],
   "podcasts": [
     {
       "person": "",
