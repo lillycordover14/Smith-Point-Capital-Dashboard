@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "count": 200,
   "summary": "",
   "kpis": {
@@ -2930,14 +2930,6 @@
       "fund": "Bessemer",
       "picks": [
         {
-          "company": "Picogrid",
-          "stage": "Series A",
-          "amount_m": 45,
-          "date": "2026-05-29",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVnFfcDZvZWlqSWJzejN0QldLUnBZdXh6N0dMWlpyNXdvRlpSRW9rcGlxcnYwaDlzM2N1OEZkU1duVWozb0FKVnRfWk44S3BkVkhMb2t2RThKb3YteGV0TXF5amJsTUFEUnEwdXpSckpSMUVqLUw1VGxYZ0ZRampQNVdZRl9CLW5uMHBycUlFb2tOdnFwQjdIY3Y3UVdsWUk5SkhyYWU3RW5fTU54aVFmU0tFVEdaQXVIYm83RWRYa2RyNUM3OEEzVDBrY19iTFVvdzYtM05ZcTQ1eU9QaVAtdnBRSlFHUXBJSWow?oc=5",
-          "theme": "Defense & national security"
-        },
-        {
           "company": "AllHome",
           "stage": "Series B",
           "amount_m": null,
@@ -2978,7 +2970,7 @@
           "theme": "Applied / horizontal AI"
         }
       ],
-      "early": 1
+      "early": 0
     },
     {
       "fund": "Battery",
@@ -3086,7 +3078,7 @@
     }
   ],
   "momentum": {
-    "since": "2026-11-04",
+    "since": "2026-11-05",
     "tw": [
       {
         "name": "Applied / horizontal AI",
