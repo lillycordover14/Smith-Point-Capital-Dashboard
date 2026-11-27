@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "window_days": 45,
   "counts": {
     "actionable": 4,
-    "watchlist": 10,
+    "watchlist": 8,
     "excluded_off_thesis": 0
   },
   "actionable": [
@@ -209,40 +209,6 @@
       "domain": "loopwork.co",
       "tier": "watchlist",
       "fit_reason": "Seed — early; track for traction",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "Ramp",
-      "desc": "Fintech & payments",
-      "theme": "Precision Applications",
-      "vertical": "",
-      "stage": "Series F",
-      "amount_m": 1850,
-      "investors": [],
-      "date": "2026-10-12",
-      "link": "https://ramp.com",
-      "domain": "ramp.com",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
-      "source": "funds",
-      "connections": [],
-      "connection_status": "no connection surfaced — good to flag"
-    },
-    {
-      "company": "TestMu AI",
-      "desc": "Applied AI agents",
-      "theme": "Applied AI",
-      "vertical": "",
-      "stage": "Series D",
-      "amount_m": 45,
-      "investors": [],
-      "date": "2026-10-12",
-      "link": "https://testmuai.com",
-      "domain": "testmu.ai",
-      "tier": "watchlist",
-      "fit_reason": "stage unconfirmed — track",
       "source": "funds",
       "connections": [],
       "connection_status": "no connection surfaced — good to flag"
